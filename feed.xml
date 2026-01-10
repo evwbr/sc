@@ -1,39 +1,161 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-<title>Evo Web News - SC (NSC Total)</title>
+<title>Evo Web News - SC (SCC10)</title>
+<atom:link href="https://evwbr.github.io/sc/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/sc/</link>
 <description>Notícias de Santa Catarina (últimas 24h) reescritas com IA - Evo Web News</description>
-<lastBuildDate>Sat, 10 Jan 2026 18:18:35 +0000</lastBuildDate>
+<lastBuildDate>Sat, 10 Jan 2026 18:37:29 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Colisão entre scooter e carro deixa dois feridos e tinta espalhada em Blumenau]]></title>
-<link>https://www.nsctotal.com.br/noticias/colisao-deixa-dois-feridos-em-sc-e-pinta-rua-de-branco-apos-lata-de-tinta-romper</link>
-<guid isPermaLink="true">https://www.nsctotal.com.br/noticias/colisao-deixa-dois-feridos-em-sc-e-pinta-rua-de-branco-apos-lata-de-tinta-romper</guid>
-<pubDate>Sat, 10 Jan 2026 18:12:56 +0000</pubDate>
+<title><![CDATA[Ieda Maria Vargas, primeira brasileira a vencer o Miss Universo, morre aos 80 anos]]></title>
+<link>https://scc10.com.br/cotidiano/entretenimento/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Sat, 10 Jan 2026 14:56:57 GMT</pubDate>
 <category><![CDATA[Santa Catarina]]></category>
-<description><![CDATA[
-<p>Um acidente envolvendo uma scooter e um Honda Civic na manhã deste sábado em Blumenau resultou em dois feridos e tinta espalhada pela rua após uma lata de tinta romper-se no local.</p>
-<p>A colisão ocorreu quando a scooter elétrica transitava pela ciclofaixa e foi atingida por um carro que saía de um estabelecimento comercial. O condutor da scooter teve o pé direito preso entre a roda e o paralama do veículo, necessitando de equipamentos para o desencarceramento do membro. Ele estava consciente e apresentava suspeita de ruptura no osso da coxa direita.</p>
-<p>A passageira da scooter, esposa do condutor, sofreu escoriações leves no joelho direito e no tornozelo esquerdo, mas optou por não ser encaminhada ao hospital. O motorista do Honda Civic não se feriu.</p>
-<p>Durante a colisão, uma lata de tinta de 18 litros, transportada pelo condutor da scooter, se rompeu e espalhou tinta pela via. A equipe de resgate realizou a limpeza do local para garantir a segurança no trânsito.</p>
-<p>O atendimento ao acidente foi realizado pela equipe de resgate local, que também cuidou da limpeza da área afetada pela tinta.</p>
-]]></description>
+<guid isPermaLink="false"><![CDATA[scscc10:b7356ad5a4d7bf4df88ce4cb9ed1d7505304ed08]]></guid>
+<description><![CDATA[Ieda Maria Vargas, que marcou a história do Brasil ao conquistar o título de Miss Universo em 1963, faleceu aos 80 anos.]]></description>
+<content:encoded><![CDATA[
+<p>Ieda Maria Vargas, que marcou a história do Brasil ao conquistar o título de Miss Universo em 1963, faleceu aos 80 anos. Ieda Maria Vargas foi a primeira brasileira a vencer o concurso Miss Universo, um marco importante para o país no cenário internacional da beleza.</p>
+<p>Sua trajetória permanece como referência e inspiração para muitas gerações que acompanham concursos de beleza e valorizam a representatividade brasileira. O legado de Ieda Maria Vargas segue vivo na memória do público e no reconhecimento de sua contribuição para a cultura brasileira.</p>
+]]></content:encoded>
 </item>
 <item>
-<title><![CDATA[Serra do Rio do Rastro cartão-postal de Santa Catarina com 284 curvas]]></title>
-<link>https://www.nsctotal.com.br/noticias/serra-do-rio-do-rastro-tem-paisagens-de-tirar-o-folego-e-e-cartao-postal-de-sc-tudo-que-voce-precisa-saber</link>
-<guid isPermaLink="true">https://www.nsctotal.com.br/noticias/serra-do-rio-do-rastro-tem-paisagens-de-tirar-o-folego-e-e-cartao-postal-de-sc-tudo-que-voce-precisa-saber</guid>
-<pubDate>Sat, 10 Jan 2026 17:00:00 +0000</pubDate>
+<title><![CDATA[Reality universitário Desafio Show estreia no SCC SBT]]></title>
+<link>https://scc10.com.br/scc-sbt/reality-show/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Sat, 10 Jan 2026 14:56:57 GMT</pubDate>
 <category><![CDATA[Santa Catarina]]></category>
-<description><![CDATA[
-<p>A Serra do Rio do Rastro, na rodovia SC-390, é uma das estradas mais espetaculares do Sul do Brasil, ligando o planalto serrano ao litoral com 284 curvas sinuosas e altitude de 1.421 metros.</p>
-<p>O trajeto entre Bom Jardim da Serra, no topo, e Lauro Müller, no pé da serra, oferece uma experiência visual única e um desafio para motoristas, motociclistas e ciclistas. A subida ou descida principal dura entre 20 e 40 minutos, dependendo do tráfego e das paradas, mas o passeio completo pode levar mais tempo.</p>
-<p>A região é conhecida pela instabilidade climática e neblina densa que pode surgir rapidamente, prejudicando a visibilidade. A melhor época para visitar é o inverno, quando há maior chance de céu limpo, apesar do frio intenso e possibilidade de neve. O verão é mais ameno, porém com maior incidência de chuvas. O ideal é percorrer a estrada entre 10h e 14h para melhor visibilidade.</p>
-<p>A estrada é feita de concreto para maior aderência, mas é estreita, exigindo atenção redobrada, especialmente nas curvas fechadas onde caminhões e ônibus podem invadir a pista contrária. É importante usar o freio motor na descida, evitar frenagens constantes e dar preferência a veículos que sobem nas curvas mais fechadas. Em caso de neblina densa, recomenda-se ligar os faróis de neblina e seguir em velocidade reduzida até local seguro.</p>
-<p>Entre as atrações imperdíveis estão o Mirante da Serra do Rio do Rastro, no topo, com vista panorâmica das curvas, estacionamento, lojas e banheiros; o Monumento aos Tropeiros, que homenageia a história da estrada; e o Cânion da Ronda, próximo ao mirante, com vista lateral da serra e dos parques eólicos. À noite, a iluminação das curvas cria um efeito visual conhecido como 'fio de luz'.</p>
-<p>A Serra do Rio do Rastro é um destino que exige planejamento, atenção e respeito às condições da estrada, proporcionando uma experiência única em Santa Catarina para quem aprecia paisagens naturais e desafios na condução.</p>
-]]></description>
+<guid isPermaLink="false"><![CDATA[scscc10:a1906ca9588c7883fd10cf84bae071539f65515c]]></guid>
+<description><![CDATA[O primeiro reality universitário do Brasil, Desafio Show, terá sua estreia no SCC SBT, com inscrições abertas até o dia 20 de julho.]]></description>
+<content:encoded><![CDATA[
+<p>O primeiro reality universitário do Brasil, Desafio Show, terá sua estreia no SCC SBT, com inscrições abertas até o dia 20 de julho. O Desafio Show é um reality universitário que será exibido no SCC SBT. As inscrições para participar do programa estão abertas e foram prorrogadas até o dia 20 de julho.</p>
+<p>Além do Desafio Show, o SCC SBT também exibe o reality culinário Desejos de Mãe, que está em sua 5ª temporada e traz histórias comoventes, desafios e receitas apresentadas por Nadja Haddad.</p>
+<p>Os interessados em participar do Desafio Show devem se inscrever até o prazo estabelecido para garantir sua participação no primeiro reality universitário do Brasil.</p>
+]]></content:encoded>
 </item>
-</channel>
-</rss>
+<item>
+<title><![CDATA[Serra Catarinense registra primeira geada de 2026 em janeiro]]></title>
+<link>https://scc10.com.br/scc-sbt/reality-show/desafio-show/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Sat, 10 Jan 2026 14:56:57 GMT</pubDate>
+<category><![CDATA[Santa Catarina]]></category>
+<guid isPermaLink="false"><![CDATA[scscc10:c5992ff31556f9dc35fa64e6985430e4ce93b040]]></guid>
+<description><![CDATA[São Joaquim, na Serra Catarinense, registrou a primeira geada do ano de 2026, com temperaturas chegando a 2,2 graus Celsius.]]></description>
+<content:encoded><![CDATA[
+<p>São Joaquim, na Serra Catarinense, registrou a primeira geada do ano de 2026, com temperaturas chegando a 2,2 graus Celsius. A região da Serra Catarinense enfrentou uma queda significativa nas temperaturas, marcando o início do inverno com a primeira geada do ano. O fenômeno foi registrado em São Joaquim, onde os termômetros indicaram 2,2 graus Celsius.</p>
+<p>A geada é um evento comum na região durante o inverno, mas sua ocorrência em janeiro chama atenção por acontecer em pleno verão, indicando variações climáticas que impactam a região.</p>
+<p>Moradores e agricultores da Serra Catarinense devem se preparar para as condições climáticas que podem afetar a produção agrícola e o cotidiano na região.</p>
+]]></content:encoded>
+</item>
+<item>
+<title><![CDATA[Estreia o primeiro reality universitário do Brasil no SCC SBT]]></title>
+<link>https://scc10.com.br/scc-sbt/reality-show/desafio-show/assista-ao-vivo-a-estreia-do-desafio-show-no-scc-sbt/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Sat, 10 Jan 2026 14:56:57 GMT</pubDate>
+<category><![CDATA[Santa Catarina]]></category>
+<guid isPermaLink="false"><![CDATA[scscc10:81de231d0be4d8872e61c6bafe34c0c17d6a2e3b]]></guid>
+<description><![CDATA[O Desafio Show reúne 20 estudantes da UniSul em competições ao vivo com prêmio de R$ 50 mil.]]></description>
+<content:encoded><![CDATA[
+<p>O Desafio Show reúne 20 estudantes da UniSul em competições ao vivo com prêmio de R$ 50 mil. O Desafio Show, primeiro reality universitário do Brasil, estreia neste sábado ao meio-dia e meia no SCC SBT. O programa é uma produção do SCC SBT em parceria com a UniSul e será exibido ao vivo semanalmente durante nove episódios.</p>
+<p>Vinte estudantes da UniSul, de diferentes cursos e idades entre 20 e 44 anos, participam de provas que envolvem criatividade, lógica, dinâmicas culturais e trabalho em equipe. As atividades estimulam preparo emocional, intelectual, protagonismo, inovação e superação.</p>
+<p>A apresentação fica por conta da jornalista Júlia Mattos e do ator e apresentador Sérgio Marone. O programa foi gravado nas unidades da UniSul em Tubarão e Palhoça e oferece ao vencedor um prêmio de R$ 50 mil.</p>
+<p>O Desafio Show aposta na combinação de educação, entretenimento e talento para revelar novos protagonistas universitários de Santa Catarina.</p>
+]]></content:encoded>
+</item>
+<item>
+<title><![CDATA[Relatório do IMA aponta 35% das praias de Santa Catarina impróprias para banho]]></title>
+<link>https://scc10.com.br/cotidiano/meio-ambiente/sc-tem-35-das-praias-improprias/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Sat, 10 Jan 2026 14:27:53 GMT</pubDate>
+<category><![CDATA[Santa Catarina]]></category>
+<guid isPermaLink="false"><![CDATA[scscc10:b28aaa4255e5876453511ba5788129f70301a05f]]></guid>
+<description><![CDATA[Instituto do Meio Ambiente de Santa Catarina divulgou o nono relatório da temporada 2025/2026, indicando que 65% dos pontos monitorados no litoral estão próprios para banho.]]></description>
+<content:encoded><![CDATA[
+<p>Instituto do Meio Ambiente de Santa Catarina divulgou o nono relatório da temporada 2025/2026, indicando que 65% dos pontos monitorados no litoral estão próprios para banho. O relatório do IMA registrou 169 pontos próprios e 91 impróprios para banho, totalizando 260 locais avaliados entre os dias 5 e 7 de janeiro. As amostragens abrangeram municípios do litoral sul ao norte, incluindo Florianópolis, São José, Palhoça, Itajaí, Balneário Camboriú, Itapema, Bombinhas, Laguna, Joinville e São Francisco do Sul.</p>
+<p>Foi incluído um novo ponto de monitoramento na foz do Rio Capivari, em Florianópolis, onde a coleta é realizada no rio e o local foi classificado como impróprio devido ao risco de contaminação. Próximo a esse ponto, a água do mar está própria para banho. O relatório também registrou a ausência de coleta no ponto 03 de Itapoá por falta de acesso.</p>
+<p>O IMA recomenda evitar o banho nas primeiras 24 a 48 horas após chuvas intensas e próximo a canais, rios e galerias de drenagem, pois a enxurrada pode aumentar riscos à saúde. A classificação dos pontos segue critérios baseados na concentração da bactéria Escherichia coli.</p>
+<p>Além disso, o relatório alerta para sinais de florações de algas, como mudança na cor da água, odor forte e presença de macroalgas, orientando banhistas a evitar contato e comunicar a Vigilância Sanitária em caso de suspeita.</p>
+<p>O Instituto do Meio Ambiente reforça a importância da atenção contínua à balneabilidade para garantir a segurança dos banhistas no litoral catarinense.</p>
+]]></content:encoded>
+</item>
+<item>
+<title><![CDATA[Acidente entre carro e caminhão deixa cinco feridos na BR-470 em Ilhota]]></title>
+<link>https://scc10.com.br/cotidiano/transito/acidente-entre-carro-e-caminhao-deixa-cinco-feridos-na-br-470/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Sat, 10 Jan 2026 02:00:17 GMT</pubDate>
+<category><![CDATA[Santa Catarina]]></category>
+<guid isPermaLink="false"><![CDATA[scscc10:cc4b16bc2843d163e31ca623e9e02a63eb130986]]></guid>
+<description><![CDATA[Colisão na BR-470, em Ilhota, envolvendo um carro e um caminhão, resultou em cinco pessoas feridas, incluindo duas crianças.]]></description>
+<content:encoded><![CDATA[
+<p>Colisão na BR-470, em Ilhota, envolvendo um carro e um caminhão, resultou em cinco pessoas feridas, incluindo duas crianças. O acidente ocorreu na região da Pedra do Amolar, em Ilhota, no Vale do Itajaí, e foi atendido pelos Bombeiros Voluntários de Ilhota com apoio de outras equipes de emergência. Inicialmente, três vítimas estavam presas às ferragens, mas o total de feridos chegou a cinco.</p>
+<p>O motorista do carro, de 36 anos, teve ferimentos leves e recusou atendimento médico. Uma passageira de 25 anos ficou presa no veículo com rebaixamento do nível de consciência e foi atendida para liberação das vias aéreas e prevenção de hipotermia antes de ser levada ao hospital.</p>
+<p>Duas crianças também estavam no carro: uma de 10 anos, com abrasão no tórax, e um bebê de 2 anos, que apresentava ferimentos no crânio. Ambas foram encaminhadas ao Hospital Pequeno Anjo, em Itajaí.</p>
+<p>O motorista do caminhão sofreu ferimentos graves, incluindo amputação em um dos pés, e foi levado ao Hospital Marieta Konder Bornhausen, em Itajaí, após estabilização no local. No atendimento ao acidente atuaram equipes dos Bombeiros Voluntários de Ilhota, Corpo de Bombeiros Militar de Navegantes, Samu, Polícia Rodoviária Federal e DEAP.</p>
+]]></content:encoded>
+</item>
+<item>
+<title><![CDATA[Soldado acusado de matar cabo do Exército a facadas será julgado pela Justiça comum]]></title>
+<link>https://scc10.com.br/cotidiano/seguranca/soldado-acusado-de-matar-cabo-do-exercito-a-facadas-sera-julgado-pela-justica-comum/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Sat, 10 Jan 2026 01:27:03 GMT</pubDate>
+<category><![CDATA[Santa Catarina]]></category>
+<guid isPermaLink="false"><![CDATA[scscc10:81677b88bef5297f3fe08223855d6657ff9094de]]></guid>
+<description><![CDATA[O Tribunal do Júri de Brasília aceitou a denúncia contra um soldado acusado de matar a facadas uma cabo do Exército, crime ocorrido dentro de uma unidade militar na capital federal.]]></description>
+<content:encoded><![CDATA[
+<p>O Tribunal do Júri de Brasília aceitou a denúncia contra um soldado acusado de matar a facadas uma cabo do Exército, crime ocorrido dentro de uma unidade militar na capital federal.</p>
+<p>O crime aconteceu em 5 de dezembro de 2025, no 1º Regimento de Cavalaria de Guardas, unidade de elite do Exército em Brasília. A vítima foi atingida por uma facada no pescoço e, em seguida, o acusado ateou fogo nas dependências da banda de música do quartel, onde a cabo era lotada. O corpo da jovem foi carbonizado, configurando o crime de destruição de cadáver.</p>
+<p>O soldado responderá por feminicídio e destruição de cadáver. A Justiça do Distrito Federal decidiu que o julgamento será realizado pela Justiça comum, pois o crime não teve relação com a atividade militar. A Justiça Militar continuará responsável por apurar eventuais crimes conexos de natureza militar.</p>
+<p>Uma semana após o crime, o soldado foi expulso do Exército e transferido para o sistema prisional. O Ministério Público destacou que o assassinato foi praticado de forma cruel e sem possibilidade de defesa da vítima, além de caracterizar menosprezo e discriminação à condição de mulher.</p>
+<p>O julgamento pelo Tribunal do Júri garantirá a participação da sociedade no processo,.</p>
+]]></content:encoded>
+</item>
+<item>
+<title><![CDATA[Homem é preso após tentar matar o próprio pai com motosserra em Santa Catarina]]></title>
+<link>https://scc10.com.br/cotidiano/seguranca/homem-e-preso-apos-tentar-matar-o-proprio-pai-com-motosserra-em-sc/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Sat, 10 Jan 2026 00:19:55 GMT</pubDate>
+<category><![CDATA[Santa Catarina]]></category>
+<guid isPermaLink="false"><![CDATA[scscc10:c98776f5b358a26afbc1e62888296c0461630952]]></guid>
+<description><![CDATA[Um homem de 74 anos foi preso em flagrante após tentar matar o pai de 94 anos com uma motosserra em Palmitos, Oeste de Santa Catarina.]]></description>
+<content:encoded><![CDATA[
+<p>Um homem de 74 anos foi preso em flagrante após tentar matar o pai de 94 anos com uma motosserra em Palmitos, Oeste de Santa Catarina. O crime ocorreu após uma discussão familiar sobre o uso de herbicida na propriedade rural onde ambos residem. O suspeito não concordava com a decisão do pai de proibir a aplicação do veneno agrícola no local.</p>
+<p>Durante o desentendimento, o homem abasteceu uma motosserra, foi até a varanda onde o idoso estava sentado, ligou o equipamento e avançou contra ele, fazendo ameaças de morte. A agressão foi interrompida por outros familiares que intervieram para proteger a vítima.</p>
+<p>O idoso sofreu cortes na mão e no antebraço esquerdo, além de escoriações. A Polícia Civil foi acionada, localizou o suspeito em sua residência com a motosserra e efetuou a prisão em flagrante. O homem permanece à disposição da Justiça.</p>
+<p>O caso segue sob investigação e medidas legais estão sendo tomadas para garantir a segurança da vítima.</p>
+]]></content:encoded>
+</item>
+<item>
+<title><![CDATA[Criança de 11 anos sofre AVC após meningite meningocócica não diagnosticada]]></title>
+<link>https://scc10.com.br/cotidiano/saude/familia-nao-reconhece-sintomas-de-meningite-e-crianca-de-11-anos-sofre-avc/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Fri, 09 Jan 2026 23:32:18 GMT</pubDate>
+<category><![CDATA[Santa Catarina]]></category>
+<guid isPermaLink="false"><![CDATA[scscc10:e8e44f0fcdb71569e3e724899f90de8a4c55c4fb]]></guid>
+<description><![CDATA[Menino teve sintomas iniciais confundidos com outra infecção e ficou em coma durante parte da internação.]]></description>
+<content:encoded><![CDATA[
+<p>Menino teve sintomas iniciais confundidos com outra infecção e ficou em coma durante parte da internação. Franki Purdy, de 11 anos, sofreu um acidente vascular cerebral (AVC) em março de 2024 após desenvolver meningite meningocócica. Os primeiros sinais da doença, como perda de apetite e cansaço excessivo, foram confundidos com sintomas de uma infecção pulmonar que ele já tratava, o que atrasou o diagnóstico.</p>
+<p>A situação piorou rapidamente, com dores na perna, febre alta e convulsões. Durante a noite, Franki sofreu o AVC, sendo encontrado pela mãe em estado grave na manhã seguinte. No hospital, foi constatado que o pulmão direito do menino havia colapsado e a meningite estava em estágio avançado.</p>
+<p>Franki permaneceu internado por cerca de 30 dias, metade desse período em coma. Além do tratamento da infecção, iniciou terapias para recuperar a mobilidade. Atualmente, ele ainda depende de ajuda para atividades básicas, mas apresenta melhora gradual na autonomia.</p>
+<p>A meningite meningocócica é uma doença grave, com alta letalidade e risco de sequelas neurológicas, o que reforça a importância do diagnóstico precoce diante dos sintomas iniciais, que podem ser confundidos com outras infecções.</p>
+]]></content:encoded>
+</item>
+<item>
+<title><![CDATA[Ciclone extratropical deixa Santa Catarina em alerta para temporais com vento e granizo]]></title>
+<link>https://scc10.com.br/cotidiano/tempo/temporal-vento-e-granizo-ciclone-extratropical-deixa-cinco-estados-em-alerta/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Fri, 09 Jan 2026 22:52:00 GMT</pubDate>
+<category><![CDATA[Santa Catarina]]></category>
+<guid isPermaLink="false"><![CDATA[scscc10:10735e40b4f51d6b356cc05e93eef7c63f853cf8]]></guid>
+<description><![CDATA[A formação de um ciclone extratropical entre sexta e sábado provoca temporais em Santa Catarina, com risco de ventos fortes, granizo e chuva intensa.]]></description>
+<content:encoded><![CDATA[
+<p>A formação de um ciclone extratropical entre sexta e sábado provoca temporais em Santa Catarina, com risco de ventos fortes, granizo e chuva intensa. O ciclone extratropical que se forma entre Argentina e Uruguai deve causar instabilidade em Santa Catarina durante o fim de semana. A Defesa Civil do estado alerta para temporais generalizados, com risco moderado a alto de ventos fortes, queda de granizo e chuvas intensas que podem provocar destelhamentos, queda de árvores e danos na rede elétrica.</p>
+<p>No sábado, as tempestades devem ocorrer em todas as regiões do estado, com maior intensidade à noite no litoral. No domingo, os temporais ganham força no litoral e áreas próximas, enquanto o Grande Oeste terá instabilidades mais isoladas e a entrada gradual de ar seco. As temperaturas variam entre 9 °C no Planalto Sul e 35 °C no litoral durante o período.</p>
+<p>A partir de segunda-feira, o ciclone se afasta para o oceano, e o tempo tende a ficar mais firme e seco, com calor e sol predominando. A semana seguirá com características típicas do verão, incluindo chance de pancadas de chuva à tarde e à noite.</p>
+<p>A população deve manter atenção às condições do tempo e seguir orientações das autoridades para evitar riscos durante o período de instabilidade.</p>
+]]></content:encoded>
+</item>
+</channel></rss>
