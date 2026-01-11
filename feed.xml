@@ -4,74 +4,41 @@
  xmlns:dc="http://purl.org/dc/elements/1.1/"
  xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-<title>Evo Web News - SC (Multi Fontes)</title>
+<title>Evo Web News - SC (Multi-fontes)</title>
 <atom:link href="https://evwbr.github.io/sc/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/sc/</link>
 <description>Notícias de Santa Catarina (últimas 24h) reescritas com IA - Evo Web News</description>
-<lastBuildDate>Sun, 11 Jan 2026 12:15:31 GMT</lastBuildDate>
+<lastBuildDate>Sun, 11 Jan 2026 12:42:35 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Motociclista morre após acidente com caminhão na rodovia Jorge Lacerda em Itajaí]]></title>
-<link>https://visornoticias.com.br/motociclista-morre-apos-acidente-com-caminhao-na-rodovia-jorge-lacerda-em-itajai/</link>
+<title><![CDATA[Grave acidente entre carro e moto mata motociclista em Penha]]></title>
+<link>https://jornalrazao.com/seguranca/motociclista-morre-colisao-carro-moto-avenida-eugenio-krause-penha/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Sun, 11 Jan 2026 11:49:59 GMT</pubDate>
+<pubDate>Sun, 11 Jan 2026 12:16:20 GMT</pubDate>
 <category><![CDATA[Santa Catarina]]></category>
-<guid isPermaLink="false"><![CDATA[scvisor:4d27a1e674109e07fad84464d37f26af390537c3]]></guid>
-<description><![CDATA[Um motociclista de 49 anos morreu após uma colisão com um caminhão na rodovia Jorge Lacerda, em Itajaí, na madrugada de domingo.]]></description>
+<guid isPermaLink="false"><![CDATA[scmulti:698a2ab138cba1ff8a2d80de76d32d2a72f01006]]></guid>
+<description><![CDATA[Um acidente na Avenida Eugênio Krause, em Penha, resultou na morte de um motociclista após colisão com um carro.]]></description>
 <content:encoded><![CDATA[
-<p>Um motociclista de 49 anos morreu após uma colisão com um caminhão na rodovia Jorge Lacerda, em Itajaí, na madrugada de domingo. O acidente ocorreu por volta das 2h50 no km 4,2 da SC-412, no bairro Santa Regina. A motocicleta trafegava em sentido contrário ao caminhão quando cruzou a pista, provocando uma colisão transversal.</p>
-<p>O motociclista foi encontrado em parada cardiorrespiratória e morreu no local. Equipes de saúde confirmaram o óbito durante o atendimento. O caminhão teve danos na parte dianteira, e a motocicleta sofreu danos generalizados.</p>
-<p>A Polícia Militar Rodoviária, a Polícia Científica e o Instituto Médico Legal estiveram no local para os procedimentos necessários. O motorista do caminhão realizou teste do bafômetro, que deu negativo para álcool.</p>
-<p>A rodovia, que é de pista simples, em perímetro urbano, sem iluminação pública e com velocidade máxima de 60 km/h, ficou parcialmente interditada durante o atendimento, mas foi liberada ainda na madrugada.</p>
-<p>Não houve registro de outras vítimas no acidente.</p>
+<p>Um acidente na Avenida Eugênio Krause, em Penha, resultou na morte de um motociclista após colisão com um carro. O motociclista, de 43 anos, morador de Balneário Piçarras e vigilante, seguia pela avenida quando um carro cortou sua frente, provocando a colisão. Ele sofreu ferimentos graves com o impacto.</p>
+<p>Equipes dos Bombeiros Voluntários de Penha prestaram os primeiros atendimentos no local e encaminharam a vítima ao Pronto Atendimento de Penha. Apesar do atendimento médico, o motociclista não resistiu aos ferimentos e faleceu após dar entrada na unidade de saúde.</p>
+<p>O condutor do carro não estava no local quando os bombeiros chegaram para socorrer a vítima. As circunstâncias do acidente serão investigadas pelas autoridades competentes. O caso segue sob investigação para esclarecer as causas do acidente.</p>
 ]]></content:encoded>
 </item>
 <item>
-<title><![CDATA[Tempo instável com risco de temporais e granizo em Santa Catarina neste domingo]]></title>
-<link>https://visornoticias.com.br/tempo-segue-instavel-em-sc-com-risco-de-temporais-e-granizo-neste-domingo/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Sun, 11 Jan 2026 11:20:58 GMT</pubDate>
-<category><![CDATA[Santa Catarina]]></category>
-<guid isPermaLink="false"><![CDATA[scvisor:4a2ff44165d9921482eded7973a820075d6b4d09]]></guid>
-<description><![CDATA[Santa Catarina enfrenta instabilidade no tempo com possibilidade de temporais, granizo e chuva intensa, especialmente entre a Grande Florianópolis e o Norte do estado.]]></description>
-<content:encoded><![CDATA[
-<p>Santa Catarina enfrenta instabilidade no tempo com possibilidade de temporais, granizo e chuva intensa, especialmente entre a Grande Florianópolis e o Norte do estado. O domingo em Santa Catarina será marcado por tempo instável em todas as regiões, com chuvas possíveis a qualquer momento do dia. A Defesa Civil alerta para risco elevado de temporais com raios, rajadas de vento, chuva forte e queda de granizo entre a Grande Florianópolis e o Norte do estado.</p>
-<p>Nessas áreas, podem ocorrer alagamentos, enxurradas, danos na rede elétrica, queda de galhos e árvores, além de destelhamentos. Nas demais regiões, o risco para transtornos causados pelo tempo é considerado baixo a moderado.</p>
-<p>As pancadas de chuva devem se intensificar entre a tarde e a noite, acompanhadas de trovoadas e temporais localizados. As temperaturas permanecem elevadas, com máximas entre 30°C e 33°C na maior parte do estado, podendo chegar a 33°C no Litoral Sul.</p>
-<p>Nos Planaltos e no Alto Vale do Itajaí, os termômetros variam entre 20°C e 30°C, enquanto no Grande Oeste ficam entre 20°C e 27°C. Os ventos sopram de nordeste a noroeste, com intensidade fraca a moderada, podendo apresentar rajadas mais fortes associadas às trovoadas.</p>
-<p>A população deve manter atenção às condições do tempo e seguir as orientações da Defesa Civil para evitar riscos durante o período de instabilidade.</p>
-]]></content:encoded>
-</item>
-<item>
-<title><![CDATA[Espécie invasora ameaça Florianópolis e biólogos entram em ação para recuperação ambiental]]></title>
+<title><![CDATA[Espécie invasora ameaça Florianópolis e biólogos entram em ação ‘fim da praga’]]></title>
 <link>https://jornalrazao.com/meioambiente/especie-invasora-ameaca-florianopolis-e-biologos-entram-em-acao-fim-da-praga/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
 <pubDate>Sun, 11 Jan 2026 00:21:01 GMT</pubDate>
 <category><![CDATA[Santa Catarina]]></category>
-<guid isPermaLink="false"><![CDATA[scrazao:0f1b914a94b56f536c03c4767d16c3a1be712911]]></guid>
-<description><![CDATA[O avanço do Pinus, espécie exótica, compromete áreas sensíveis no norte da Ilha de Santa Catarina, afetando a biodiversidade e o território do Quilombo Vidal Martins.]]></description>
+<guid isPermaLink="false"><![CDATA[scmulti:0f1b914a94b56f536c03c4767d16c3a1be712911]]></guid>
+<description><![CDATA[O avanço do Pinus no norte da Ilha de Santa Catarina ameaça a biodiversidade local e impacta a comunidade quilombola Vidal Martins, que enfrenta os efeitos de uma herança ambiental imposta sem consulta.]]></description>
 <content:encoded><![CDATA[
-<p>O avanço do Pinus, espécie exótica, compromete áreas sensíveis no norte da Ilha de Santa Catarina, afetando a biodiversidade e o território do Quilombo Vidal Martins. O Pinus, originário do Hemisfério Norte, está dominando lentamente a região, substituindo a restinga nativa por uma floresta homogênea que prejudica o solo e a fauna local. A sombra densa e as camadas de acículas da árvore impedem a regeneração das espécies nativas, causando o colapso do ecossistema.</p>
-<p>No Quilombo Vidal Martins, a situação é agravada por um passivo ambiental herdado da década de 1960, quando a Estação Florestal do Rio Vermelho introduziu espécies exóticas para experimentação. A comunidade, que não participou dessas decisões, convive com os impactos e luta para recuperar a área.</p>
-<p>A Associação Quilombola Vidal Martins (ARQVIMA) lidera um projeto de recuperação ambiental com a erradicação progressiva do Pinus e restauração das restingas nativas em cinco anos, seguindo normas técnicas ambientais. O processo é complexo, caro e envolve devolver ao ecossistema sua capacidade natural de funcionamento.</p>
-<p>Além do desafio ambiental, a presidente da ARQVIMA destaca que a questão é também política e social, pois comunidades quilombolas não podem ser responsáveis sozinhas por problemas causados pelo Estado. A Justiça Federal determinou ações para conter a expansão da espécie invasora.</p>
-<p>A recuperação ambiental do território do Quilombo Vidal Martins representa uma luta pela sobrevivência da biodiversidade local e pelo direito da comunidade de viver em equilíbrio com a terra.</p>
-]]></content:encoded>
-</item>
-<item>
-<title><![CDATA[Criminoso com histórico de mais de dez anos morre em confronto com a PM em Tijucas]]></title>
-<link>https://jornalrazao.com/seguranca/confronto-policial-tijucas-criminoso-morre-acao-tatico-2026/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Sat, 10 Jan 2026 22:36:40 GMT</pubDate>
-<category><![CDATA[Santa Catarina]]></category>
-<guid isPermaLink="false"><![CDATA[scrazao:2bc5e354173b0397bd21e196e283c3bfecf940ea]]></guid>
-<description><![CDATA[Um homem com extensa ficha criminal foi morto durante uma ação do Pelotão de Patrulhamento Tático do 31º Batalhão da Polícia Militar em Tijucas.]]></description>
-<content:encoded><![CDATA[
-<p>Um homem com extensa ficha criminal foi morto durante uma ação do Pelotão de Patrulhamento Tático do 31º Batalhão da Polícia Militar em Tijucas. O confronto ocorreu na Rua Antônio Apolônio Vargas, conhecida como 'Rua do Tide Casqueiro'. O suspeito, de 37 anos, reagiu violentamente à abordagem policial e estava armado com uma pistola semiautomática. A Polícia Militar agiu O Serviço de Atendimento Móvel de Urgência foi acionado, mas o óbito foi constatado ainda na cena. Nenhum policial ficou ferido.</p>
-<p>O homem, apelidado de 'Sapo', possuía uma extensa ficha criminal, incluindo crimes como roubo à mão armada, disparo de arma de fogo, posse ilegal de arma, furto e tráfico de drogas. Ele estava em livramento condicional e denúncias recentes indicavam que teria retornado ao comércio de entorpecentes na região.</p>
-<p>Há mais de uma década, 'Sapo' esteve envolvido em um episódio violento no Litoral Norte de Santa Catarina, quando um jovem foi baleado durante uma tentativa de assalto em Porto Belo. Após deixar o sistema prisional, ele chegou a conseguir emprego, mas desapareceu poucos dias depois e voltou a se envolver com o crime.</p>
-<p>O confronto deste sábado é o primeiro caso de óbito de criminoso em confronto com a Polícia Militar em Tijucas em 2026. A polícia reforça que ações violentas contra as forças de segurança não serão toleradas e destaca a trajetória marcada por escolhas criminosas do suspeito, mesmo após oportunidades para mudança.</p>
-<p>A Polícia Científica foi acionada para realizar a perícia, e o caso segue em investigação.</p>
+<p>O avanço do Pinus no norte da Ilha de Santa Catarina ameaça a biodiversidade local e impacta a comunidade quilombola Vidal Martins, que enfrenta os efeitos de uma herança ambiental imposta sem consulta.</p>
+<p>O Pinus, espécie exótica originária do Hemisfério Norte, avança lentamente sobre áreas sensíveis do norte da Ilha de Santa Catarina, transformando restingas vivas em monoculturas que secam o solo e abafam a vegetação nativa. Essa invasão causa o colapso do ecossistema, prejudicando a fauna e eliminando a diversidade biológica local.</p>
+<p>No Quilombo Vidal Martins, a introdução do Pinus ocorreu na década de 1960 com a instalação da Estação Florestal do Rio Vermelho, que utilizou a região para experimentação com espécies exóticas. A comunidade, que não participou dessas decisões, convive hoje com os impactos ambientais e sociais dessa ação, enfrentando discriminação e dificuldades para garantir a titulação de seu território.</p>
+<p>A Associação Quilombola Vidal Martins (ARQVIMA) lidera um projeto de recuperação ambiental que visa erradicar progressivamente o Pinus e restaurar as restingas nativas em um prazo de cinco anos, seguindo normas técnicas de órgãos ambientais. O processo é complexo, caro e envolve devolver ao ecossistema sua capacidade natural de funcionamento.</p>
+<p>Além do desafio ambiental, a situação representa uma questão de justiça social, pois a comunidade quilombola não pode ser a única responsável por um problema criado pelo Estado. A Justiça Federal determinou a implementação de um Plano de Recuperação de Área Degradada para conter a expansão do Pinus e proteger o território tradicional.</p>
+<p>Cada muda de Pinus removida simboliza resistência e cada área restaurada representa a sobrevivência da comunidade quilombola Vidal Martins e da biodiversidade local.</p>
 ]]></content:encoded>
 </item>
 <item>
@@ -80,91 +47,87 @@
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
 <pubDate>Sat, 10 Jan 2026 21:34:07 GMT</pubDate>
 <category><![CDATA[Santa Catarina]]></category>
-<guid isPermaLink="false"><![CDATA[scrazao:b7140ffcedfe51632434fe39c631ea1d901f5ff3]]></guid>
-<description><![CDATA[Um confronto entre a Polícia Militar e um indivíduo terminou com a morte do suspeito na Rua do Tide Casqueiro, em Tijucas.]]></description>
+<guid isPermaLink="false"><![CDATA[scmulti:b7140ffcedfe51632434fe39c631ea1d901f5ff3]]></guid>
+<description><![CDATA[Confronto com a Polícia Militar terminou com óbito na Rua do Tide Casqueiro, em Tijucas.]]></description>
 <content:encoded><![CDATA[
-<p>Um confronto entre a Polícia Militar e um indivíduo terminou com a morte do suspeito na Rua do Tide Casqueiro, em Tijucas. Na tarde de sábado, uma guarnição do Pelotão de Patrulhamento Tático do 31º Batalhão da Polícia Militar de Santa Catarina abordou um homem na Rua Antônio Apolônio Vargas, conhecida como Rua do Tide Casqueiro. Durante a ação, o indivíduo reagiu de forma violenta, caracterizando agressão injusta contra os policiais.</p>
-<p>A polícia reagiu dentro dos protocolos operacionais e neutralizou o suspeito no local. Equipes do SAMU foram acionadas, mas o óbito foi confirmado ainda na cena do confronto. Nenhum policial ficou ferido durante a ocorrência.</p>
-<p>Este foi o primeiro óbito de criminoso em confronto com a Polícia Militar em Tijucas em 2026. A Polícia Científica realizou a perícia no local e o caso segue em apuração, sem divulgação oficial da identidade do indivíduo ou outros detalhes.</p>
-<p>A ação reforça a postura da Polícia Militar de não tolerar agressões violentas contra as forças de segurança.</p>
+<p>Confronto com a Polícia Militar terminou com óbito na Rua do Tide Casqueiro, em Tijucas. Uma ocorrência policial movimentou a Rua Antônio Apolônio Vargas, conhecida como Rua do Tide Casqueiro, em Tijucas, neste sábado. Um indivíduo entrou em confronto direto com uma guarnição do Pelotão de Patrulhamento Tático do 31º Batalhão da Polícia Militar de Santa Catarina durante uma abordagem.</p>
+<p>O homem reagiu de forma violenta, caracterizando injusta agressão, o que levou a guarnição a reagir dentro dos protocolos operacionais. O criminoso foi neutralizado no local e equipes do SAMU foram acionadas, mas o óbito foi constatado ainda na cena. Nenhum policial ficou ferido.</p>
+<p>A Polícia Científica foi acionada para a perícia e o caso segue em apuração. A ocorrência é tratada como um recado direto ao crime, reforçando que ações violentas contra as forças de segurança não serão toleradas.</p>
+<p>Este é o primeiro óbito de criminoso em confronto com a Polícia Militar em Tijucas em 2026.</p>
 ]]></content:encoded>
 </item>
 <item>
-<title><![CDATA[Grave acidente na BR-470 em Apiúna deixa uma pessoa morta e vários feridos]]></title>
+<title><![CDATA[Grave acidente na BR-470 em Apiúna deixa um morto e vários feridos]]></title>
 <link>https://jornalrazao.com/seguranca/acidente-br-470-apiuna-morte-curva-beija-flor/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
 <pubDate>Sat, 10 Jan 2026 20:58:13 GMT</pubDate>
 <category><![CDATA[Santa Catarina]]></category>
-<guid isPermaLink="false"><![CDATA[scrazao:e4c93f374bc5df2b9e4b591cd54a75ec08bbb560]]></guid>
-<description><![CDATA[Uma colisão envolvendo três carros e um caminhão na BR-470, em Apiúna, resultou na morte de um motorista e deixou diversos feridos, incluindo crianças.]]></description>
+<guid isPermaLink="false"><![CDATA[scmulti:e4c93f374bc5df2b9e4b591cd54a75ec08bbb560]]></guid>
+<description><![CDATA[Colisão envolvendo três carros e um caminhão na curva do Beija-Flor resultou na morte de um motorista e ferimentos em outras pessoas.]]></description>
 <content:encoded><![CDATA[
-<p>Uma colisão envolvendo três carros e um caminhão na BR-470, em Apiúna, resultou na morte de um motorista e deixou diversos feridos, incluindo crianças. O acidente ocorreu no bairro Ribeirão Basílio, na curva do Beija-Flor, envolvendo três veículos de passeio e um caminhão. Dez pessoas estavam nos veículos no momento da colisão.</p>
-<p>O motorista de um dos carros morreu no local. A passageira, em estado grave, foi levada de helicóptero ao Hospital Santa Isabel após receber atendimento avançado e transfusão de sangue durante o resgate.</p>
-<p>Uma família de quatro pessoas, incluindo duas crianças, foi encaminhada ao Hospital de Ibirama. No terceiro carro, os três ocupantes não se feriram. O motorista do caminhão teve escoriações leves e não precisou de atendimento hospitalar.</p>
-<p>O atendimento contou com a participação dos Bombeiros Voluntários de Ibirama, Ascurra e Indaial, equipes do SAMU de Ascurra e a Polícia Militar. As causas do acidente estão sob investigação.</p>
-<p>As autoridades continuam apurando as circunstâncias que levaram à colisão na BR-470.</p>
+<p>Colisão envolvendo três carros e um caminhão na curva do Beija-Flor resultou na morte de um motorista e ferimentos em outras pessoas. Um acidente de grandes proporções ocorreu na tarde de sábado na BR-470, no bairro Ribeirão Basílio, em Apiúna, envolvendo três veículos de passeio e um caminhão. Dez pessoas estavam nos veículos no momento da colisão.</p>
+<p>O motorista de um dos carros morreu no local, enquanto a passageira, em estado grave, foi levada de helicóptero ao Hospital Santa Isabel. Uma família de quatro pessoas, incluindo duas crianças, foi encaminhada ao Hospital de Ibirama para avaliação médica. No terceiro carro, os três ocupantes não se feriram, e o motorista do caminhão sofreu apenas escoriações leves.</p>
+<p>O atendimento contou com a participação dos Bombeiros Voluntários de Ibirama, Ascurra e Indaial, equipes do SAMU de Ascurra e a Polícia Militar. As causas do acidente serão investigadas pelas autoridades.</p>
+<p>O resgate das vítimas contou com o apoio do helicóptero Arcanjo-03 do Corpo de Bombeiros Militar de Santa Catarina.</p>
 ]]></content:encoded>
 </item>
 <item>
-<title><![CDATA[Menina de 7 anos com síndrome de Down compra pão de queijo sozinha em Penha]]></title>
-<link>https://jornalrazao.com/especiais/menina-7-anos-sindrome-de-down-compra-sozinha-penha/</link>
+<title><![CDATA[Ciclone e alerta de temporal cancelam esquenta de Carnaval em Florianópolis]]></title>
+<link>https://cbntotal.com.br/cotidiano/ciclone-e-alerta-de-temporal-cancelam-tradicional-esquenta-de-carnaval-em-florianopolis/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Sat, 10 Jan 2026 20:14:50 GMT</pubDate>
+<pubDate>Sat, 10 Jan 2026 18:05:21 GMT</pubDate>
 <category><![CDATA[Santa Catarina]]></category>
-<guid isPermaLink="false"><![CDATA[scrazao:9ae0445962690906900a3526db65f9f61c7c0132]]></guid>
-<description><![CDATA[Pietra, de 7 anos, mostrou autonomia ao comprar pão de queijo sozinha em uma conveniência de posto de combustível no Litoral Norte de Santa Catarina.]]></description>
+<guid isPermaLink="false"><![CDATA[scmulti:564c6cedc1a20ace04aab35ecb4b26c515112acd]]></guid>
+<description><![CDATA[Evento tradicional Volta à Praça XV tem apresentação adiada devido ao alerta de temporal na cidade.]]></description>
 <content:encoded><![CDATA[
-<p>Pietra, de 7 anos, mostrou autonomia ao comprar pão de queijo sozinha em uma conveniência de posto de combustível no Litoral Norte de Santa Catarina. No vídeo que viralizou nas redes sociais, a mãe de Pietra entrega o cartão bancário para a filha e pede que compre dois pães de queijo. A menina entra sozinha no estabelecimento, aguarda na fila, faz o pedido, realiza o pagamento e retorna ao carro para entregar a compra à mãe.</p>
-<p>A mãe destaca que a autonomia de Pietra vai além das tarefas diárias em casa, buscando prepará-la para enfrentar o mundo com confiança e coragem, permitindo que a filha viva experiências com aprendizado e sem ordens diretas.</p>
-<p>Além do vídeo, Pietra também é conhecida por ser a primeira criança com síndrome de Down a lançar uma marca própria de cosméticos, reforçando sua trajetória de superação e valorização da independência.</p>
-<p>O gesto de Pietra é um exemplo de inclusão, confiança e autonomia, emocionando e inspirando muitas pessoas em Santa Catarina e além.</p>
+<p>Evento tradicional Volta à Praça XV tem apresentação adiada devido ao alerta de temporal na cidade. O Carnaval em Florianópolis iniciou com a festa Volta à Praça XV desde o dia 8 de janeiro. Contudo, o evento previsto para a noite de sábado, dia 10, foi cancelado em função do alerta de temporal emitido pela Defesa Civil.</p>
+<p>As escolas que desfilariam no sábado foram remanejadas para quinta-feira, 15 de janeiro, com alterações nos horários das apresentações. Jardim das Palmeiras se apresentará às 20h e Império Vermelho e Branco às 22h.</p>
+<p>A formação de um ciclone extratropical provoca chuvas intensas na Grande Florianópolis até domingo, dia 11. No sábado, o tempo será instável com temporais isolados e de forte intensidade, elevando o risco de alagamentos, destelhamentos, quedas de galhos e árvores, além de danos na rede elétrica.</p>
+<p>A população deve permanecer atenta às condições climáticas e seguir as orientações das autoridades locais.</p>
 ]]></content:encoded>
 </item>
 <item>
-<title><![CDATA[Praias de Bombinhas apresentam níveis alarmantes de coliformes fecais durante o verão]]></title>
-<link>https://jornalrazao.com/geral/esgoto-no-mar-bombinhas-coliformes-fecais-praias-improprias/</link>
+<title><![CDATA[Homem é encontrado com hemorragia na cabeça dentro de rio em Santa Catarina]]></title>
+<link>https://jornalrazao.com/seguranca/homem-encontrado-hemorragia-cabeca-dentro-rio-sc/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Sat, 10 Jan 2026 20:07:06 GMT</pubDate>
+<pubDate>Sat, 10 Jan 2026 17:05:08 GMT</pubDate>
 <category><![CDATA[Santa Catarina]]></category>
-<guid isPermaLink="false"><![CDATA[scrazao:6e5d5f5f2df086129b3e68ce69837a0ffb28ca2e]]></guid>
-<description><![CDATA[Água com aspecto de esgoto e alta concentração de coliformes fecais preocupam moradores e turistas em Bombinhas, com várias praias consideradas impróprias para banho.]]></description>
+<guid isPermaLink="false"><![CDATA[scmulti:d71f956b11b3cdc1be5e9bc5773472976b54b726]]></guid>
+<description><![CDATA[Um homem foi encontrado gravemente ferido às margens do rio Piçarras, entre Penha e Balneário Piçarras, no Litoral Norte de Santa Catarina.]]></description>
 <content:encoded><![CDATA[
-<p>Água com aspecto de esgoto e alta concentração de coliformes fecais preocupam moradores e turistas em Bombinhas, com várias praias consideradas impróprias para banho. Imagens registradas por moradores mostram água escura e com odor semelhante a esgoto correndo diretamente para o mar em pontos da cidade, especialmente na Praia de Quatro Ilhas. Relatórios do Instituto do Meio Ambiente de Santa Catarina indicam que a concentração de coliformes fecais ultrapassa amplamente o limite seguro estabelecido pela legislação.</p>
-<p>Em algumas amostras recentes, foram registrados níveis que chegam a mais de 24 mil coliformes fecais por 100 mililitros, muito acima do limite de 800 Escherichia coli, indicando contaminação por fezes humanas ou animais. Diversos trechos das praias de Bombas, Bombinhas, Morrinhos, Zimbros e Canto Grande Mar de Fora foram classificados como impróprios para banho.</p>
-<p>O relatório técnico divulgado em 9 de janeiro aponta que a contaminação pode estar relacionada a drenagem pluvial contaminada, extravasamento de redes de esgoto ou conexões irregulares, agravadas por chuvas e falhas em estações elevatórias. O problema afeta diretamente quem frequenta as praias, com risco sanitário evidente.</p>
-<p>Apesar da cobrança da Taxa de Preservação Ambiental, a situação persiste sem solução estrutural ou fiscalização eficaz, comprometendo a imagem da cidade, conhecida pelas praias limpas e natureza preservada.</p>
-<p>Enquanto a contaminação não for resolvida, o risco para moradores e turistas que frequentam as praias de Bombinhas permanece elevado.</p>
+<p>Um homem foi encontrado gravemente ferido às margens do rio Piçarras, entre Penha e Balneário Piçarras, no Litoral Norte de Santa Catarina. O homem apresentava um ferimento grave na cabeça, com intensa hemorragia, e estava dentro do rio no momento em que foi localizado.</p>
+<p>O Corpo de Bombeiros Militar realizou o resgate e prestou os primeiros atendimentos no local, enquanto avaliavam a gravidade do quadro clínico. A Polícia Militar e a Polícia Civil foram acionadas para atender a ocorrência e apurar as circunstâncias do caso.</p>
+<p>As autoridades seguem investigando o ocorrido para esclarecer os detalhes da situação.</p>
 ]]></content:encoded>
 </item>
 <item>
-<title><![CDATA[Árvore cai sobre casa em São José e causa destruição parcial da residência]]></title>
-<link>https://scc10.com.br/cotidiano/seguranca/arvore-cai-sobre-casa-em-sao-jose-e-causa-destruicao-parcial-da-residencia/</link>
+<title><![CDATA[Quatro homens são presos por tráfico de drogas em Canasvieiras, Florianópolis]]></title>
+<link>https://cbntotal.com.br/cotidiano/quatro-homens-sao-presos-por-trafico-de-drogas-em-bairro-turistico-de-florianopolis/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Sat, 10 Jan 2026 19:44:24 GMT</pubDate>
+<pubDate>Sat, 10 Jan 2026 14:09:19 GMT</pubDate>
 <category><![CDATA[Santa Catarina]]></category>
-<guid isPermaLink="false"><![CDATA[scscc10:f91587b9d6fcd63605fb01d0f47185944157ba7a]]></guid>
-<description><![CDATA[Uma árvore de grande porte caiu sobre uma residência no bairro Forquilhinhas, em São José, após ventos fortes e chuva, causando danos severos na estrutura do imóvel.]]></description>
+<guid isPermaLink="false"><![CDATA[scmulti:555ecf37e6b7a16b42f2bb6f660e648d96a6f10f]]></guid>
+<description><![CDATA[Quatro homens foram detidos durante uma operação policial contra o tráfico de drogas em Canasvieiras, bairro turístico no norte da Ilha de Florianópolis.]]></description>
 <content:encoded><![CDATA[
-<p>Uma árvore de grande porte caiu sobre uma residência no bairro Forquilhinhas, em São José, após ventos fortes e chuva, causando danos severos na estrutura do imóvel. O Corpo de Bombeiros Militar de Santa Catarina foi acionado na manhã de sábado para atender a ocorrência. A equipe chegou ao local por volta das 8h e encontrou a árvore ainda suspensa sobre a casa, gerando risco de novos desabamentos.</p>
-<p>Apesar dos danos ao telhado e à destruição de dois cômodos, nenhum morador ficou ferido. Os bombeiros orientaram os ocupantes durante todo o processo de remoção da árvore, que durou aproximadamente quatro horas.</p>
-<p>O trabalho de retirada exigiu paciência e precisão, com cortes iniciados pela copa da árvore para evitar mais prejuízos à residência. A operação foi concluída no início da tarde. As autoridades reforçam o alerta para que a população mantenha atenção redobrada em períodos de condições climáticas adversas, pois o solo encharcado e as rajadas de vento aumentam o risco de quedas de árvores e acidentes estruturais.</p>
-<p>O Corpo de Bombeiros segue monitorando a situação e orienta a população a observar as condições das vegetações próximas às residências para evitar novos incidentes.</p>
+<p>Quatro homens foram detidos durante uma operação policial contra o tráfico de drogas em Canasvieiras, bairro turístico no norte da Ilha de Florianópolis. Três dos suspeitos foram abordados enquanto vendiam entorpecentes na areia da praia. Um deles possuía um mandado de prisão em aberto por homicídio. O quarto homem foi identificado horas depois, durante a noite.</p>
+<p>Com os detidos, a polícia apreendeu uma quantidade significativa de drogas e outros materiais que indicam a prática do crime. Todos foram encaminhados à Delegacia de Polícia Civil.</p>
+<p>Levantamento da Secretaria de Segurança Pública de Santa Catarina mostra que os bairros turísticos de Florianópolis, como Canasvieiras, apresentam altos índices de criminalidade. Canasvieiras registrou 597 ocorrências em 2025, ficando entre os bairros com maiores índices na cidade.</p>
+<p>A ação reforça o combate ao tráfico de drogas em áreas turísticas de Florianópolis, buscando garantir mais segurança para moradores e visitantes.</p>
 ]]></content:encoded>
 </item>
 <item>
-<title><![CDATA[Defesa Civil monitora possível tromba d’água em São Francisco do Sul]]></title>
-<link>https://jornalrazao.com/meioambiente/possivel-tromba-dagua-assusta-sao-francisco-do-sul/</link>
+<title><![CDATA[Cemitério clandestino é descoberto em São José, na Grande Florianópolis]]></title>
+<link>https://cbntotal.com.br/cotidiano/cemiterio-clandestino-e-descoberto-na-grande-florianopolis-o-que-se-sabe-e-o-que-falta-saber/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Sat, 10 Jan 2026 18:00:49 GMT</pubDate>
+<pubDate>Sat, 10 Jan 2026 13:06:39 GMT</pubDate>
 <category><![CDATA[Santa Catarina]]></category>
-<guid isPermaLink="false"><![CDATA[scrazao:c7744fbc6e734a3a58c0db68fa5a0cd62103d3b5]]></guid>
-<description><![CDATA[Fenômeno atmosférico foi registrado durante chuva na manhã de sábado, com alerta para temporais em Santa Catarina.]]></description>
+<guid isPermaLink="false"><![CDATA[scmulti:38a1674b2e9526899829a9a500ebfec94081ed67]]></guid>
+<description><![CDATA[Três corpos foram encontrados enterrados em um cemitério clandestino no Morro da Boa Vista, em São José, uma semana após a descoberta de outros quatro corpos na região.]]></description>
 <content:encoded><![CDATA[
-<p>Fenômeno atmosférico foi registrado durante chuva na manhã de sábado, com alerta para temporais em Santa Catarina. Na manhã de sábado, moradores e banhistas de São Francisco do Sul observaram uma formação em rotação no céu durante chuva, visível de diferentes pontos do município, inclusive na orla. A Defesa Civil de Santa Catarina identificou o fenômeno como uma possível tromba d’água, embora não haja registros oficiais até o momento.</p>
-<p>A tromba d’água ocorre quando um vórtice de ar em rotação se forma sobre superfícies de água, conectando a base de uma nuvem à superfície. Pode ser tornádica, associada a tempestades severas, ou não tornádica, ligada a nuvens convectivas menos organizadas. A orientação é manter distância e evitar áreas abertas próximas ao mar durante o fenômeno.</p>
-<p>A Defesa Civil alerta para risco alto em todo o estado de alagamentos e enxurradas entre a tarde de sábado e a madrugada de domingo, além de risco moderado a alto para destelhamentos, danos na rede elétrica e quedas de galhos e árvores. No domingo, a instabilidade continua, com temporais ganhando força à tarde entre o Meio-Oeste e o Litoral, mantendo risco moderado a alto para transtornos pontuais. No Oeste catarinense, o risco é baixo.</p>
-<p>O cenário é provocado pela atuação de áreas de baixa pressão em diferentes níveis da atmosfera e pela formação e deslocamento de um ciclone extratropical afastado de Santa Catarina, entre o Uruguai e o Rio Grande do Sul, que intensifica as chuvas no estado.</p>
-<p>A Defesa Civil recomenda atenção e cuidados durante o período de instabilidade para evitar riscos à população.</p>
+<p>Três corpos foram encontrados enterrados em um cemitério clandestino no Morro da Boa Vista, em São José, uma semana após a descoberta de outros quatro corpos na região. O local foi isolado para preservar vestígios enquanto as Polícias Civil e Científica realizam perícia, recolhimento dos corpos e investigação. As vítimas estavam enterradas entre um metro e um metro e meio de profundidade, mas ainda não há confirmação sobre sua identificação ou sexo.</p>
+<p>A descoberta ocorreu após denúncias e contou com a participação do Batalhão de Operações Especiais, Batalhão de Choque e canil da Polícia Militar. A ação também revelou uma relação com o sequestro de um trio no Morro do Mocotó, em Florianópolis, no início do ano.</p>
+<p>Durante as buscas, um homem foi preso em uma casa próxima ao local com drogas, carregadores de pistola, munições e uma balança de precisão. Ele é suspeito de envolvimento no sequestro, no qual as vítimas foram mantidas em cárcere por três dias e liberadas antes da chegada do Bope. Outros dois suspeitos já foram presos.</p>
+<p>O caso dos corpos encontrados em São José ocorre uma semana após a localização de quatro jovens de Minas Gerais desaparecidos, cujos corpos foram encontrados em Biguaçu. As investigações continuam para esclarecer as circunstâncias dos sepultamentos clandestinos e a conexão entre os casos na Grande Florianópolis.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
