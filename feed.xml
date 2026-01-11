@@ -4,75 +4,105 @@
  xmlns:dc="http://purl.org/dc/elements/1.1/"
  xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-<title>Evo Web News - SC (Jornal Razão)</title>
+<title>Evo Web News - SC (Multi Fontes)</title>
 <atom:link href="https://evwbr.github.io/sc/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/sc/</link>
 <description>Notícias de Santa Catarina (últimas 24h) reescritas com IA - Evo Web News</description>
-<lastBuildDate>Sun, 11 Jan 2026 12:01:59 GMT</lastBuildDate>
+<lastBuildDate>Sun, 11 Jan 2026 12:15:31 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Espécie invasora ameaça restinga no norte da Ilha de Santa Catarina e biólogos]]></title>
+<title><![CDATA[Motociclista morre após acidente com caminhão na rodovia Jorge Lacerda em Itajaí]]></title>
+<link>https://visornoticias.com.br/motociclista-morre-apos-acidente-com-caminhao-na-rodovia-jorge-lacerda-em-itajai/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Sun, 11 Jan 2026 11:49:59 GMT</pubDate>
+<category><![CDATA[Santa Catarina]]></category>
+<guid isPermaLink="false"><![CDATA[scvisor:4d27a1e674109e07fad84464d37f26af390537c3]]></guid>
+<description><![CDATA[Um motociclista de 49 anos morreu após uma colisão com um caminhão na rodovia Jorge Lacerda, em Itajaí, na madrugada de domingo.]]></description>
+<content:encoded><![CDATA[
+<p>Um motociclista de 49 anos morreu após uma colisão com um caminhão na rodovia Jorge Lacerda, em Itajaí, na madrugada de domingo. O acidente ocorreu por volta das 2h50 no km 4,2 da SC-412, no bairro Santa Regina. A motocicleta trafegava em sentido contrário ao caminhão quando cruzou a pista, provocando uma colisão transversal.</p>
+<p>O motociclista foi encontrado em parada cardiorrespiratória e morreu no local. Equipes de saúde confirmaram o óbito durante o atendimento. O caminhão teve danos na parte dianteira, e a motocicleta sofreu danos generalizados.</p>
+<p>A Polícia Militar Rodoviária, a Polícia Científica e o Instituto Médico Legal estiveram no local para os procedimentos necessários. O motorista do caminhão realizou teste do bafômetro, que deu negativo para álcool.</p>
+<p>A rodovia, que é de pista simples, em perímetro urbano, sem iluminação pública e com velocidade máxima de 60 km/h, ficou parcialmente interditada durante o atendimento, mas foi liberada ainda na madrugada.</p>
+<p>Não houve registro de outras vítimas no acidente.</p>
+]]></content:encoded>
+</item>
+<item>
+<title><![CDATA[Tempo instável com risco de temporais e granizo em Santa Catarina neste domingo]]></title>
+<link>https://visornoticias.com.br/tempo-segue-instavel-em-sc-com-risco-de-temporais-e-granizo-neste-domingo/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Sun, 11 Jan 2026 11:20:58 GMT</pubDate>
+<category><![CDATA[Santa Catarina]]></category>
+<guid isPermaLink="false"><![CDATA[scvisor:4a2ff44165d9921482eded7973a820075d6b4d09]]></guid>
+<description><![CDATA[Santa Catarina enfrenta instabilidade no tempo com possibilidade de temporais, granizo e chuva intensa, especialmente entre a Grande Florianópolis e o Norte do estado.]]></description>
+<content:encoded><![CDATA[
+<p>Santa Catarina enfrenta instabilidade no tempo com possibilidade de temporais, granizo e chuva intensa, especialmente entre a Grande Florianópolis e o Norte do estado. O domingo em Santa Catarina será marcado por tempo instável em todas as regiões, com chuvas possíveis a qualquer momento do dia. A Defesa Civil alerta para risco elevado de temporais com raios, rajadas de vento, chuva forte e queda de granizo entre a Grande Florianópolis e o Norte do estado.</p>
+<p>Nessas áreas, podem ocorrer alagamentos, enxurradas, danos na rede elétrica, queda de galhos e árvores, além de destelhamentos. Nas demais regiões, o risco para transtornos causados pelo tempo é considerado baixo a moderado.</p>
+<p>As pancadas de chuva devem se intensificar entre a tarde e a noite, acompanhadas de trovoadas e temporais localizados. As temperaturas permanecem elevadas, com máximas entre 30°C e 33°C na maior parte do estado, podendo chegar a 33°C no Litoral Sul.</p>
+<p>Nos Planaltos e no Alto Vale do Itajaí, os termômetros variam entre 20°C e 30°C, enquanto no Grande Oeste ficam entre 20°C e 27°C. Os ventos sopram de nordeste a noroeste, com intensidade fraca a moderada, podendo apresentar rajadas mais fortes associadas às trovoadas.</p>
+<p>A população deve manter atenção às condições do tempo e seguir as orientações da Defesa Civil para evitar riscos durante o período de instabilidade.</p>
+]]></content:encoded>
+</item>
+<item>
+<title><![CDATA[Espécie invasora ameaça Florianópolis e biólogos entram em ação para recuperação ambiental]]></title>
 <link>https://jornalrazao.com/meioambiente/especie-invasora-ameaca-florianopolis-e-biologos-entram-em-acao-fim-da-praga/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
 <pubDate>Sun, 11 Jan 2026 00:21:01 GMT</pubDate>
 <category><![CDATA[Santa Catarina]]></category>
 <guid isPermaLink="false"><![CDATA[scrazao:0f1b914a94b56f536c03c4767d16c3a1be712911]]></guid>
-<description><![CDATA[O avanço do Pinus, espécie exótica, compromete a biodiversidade e o solo no Quilombo Vidal Martins, onde um projeto de recuperação ambiental foi iniciado para erradicar a árvore invasora e restaurar as restingas nativas.]]></description>
+<description><![CDATA[O avanço do Pinus, espécie exótica, compromete áreas sensíveis no norte da Ilha de Santa Catarina, afetando a biodiversidade e o território do Quilombo Vidal Martins.]]></description>
 <content:encoded><![CDATA[
-<p>O avanço do Pinus, espécie exótica, compromete a biodiversidade e o solo no Quilombo Vidal Martins, onde um projeto de recuperação ambiental foi iniciado para erradicar a árvore invasora e restaurar as restingas nativas.</p>
-<p>O Pinus, originário do Hemisfério Norte, avança lentamente sobre áreas sensíveis do norte da Ilha de Santa Catarina, transformando a restinga viva e diversa em uma floresta homogênea e artificial que prejudica o solo e a biodiversidade local. Essa espécie exótica consome água em excesso, impede a regeneração da vegetação nativa e causa o colapso do ecossistema, afetando também a fauna da região.</p>
-<p>No Quilombo Vidal Martins, a situação é agravada pelo fato de a comunidade não ter criado o problema. A instalação da Estação Florestal do Rio Vermelho na década de 1960 levou à experimentação com espécies exóticas, que escaparam dos plantios e invadiram territórios tradicionais. A comunidade enfrenta desafios sociais e ambientais, já que convive com a degradação do território sem ter sido consultada.</p>
-<p>A associação ARQVIMA conduz um projeto de recuperação ambiental que prevê a erradicação progressiva do Pinus e a restauração das restingas nativas em cinco anos, seguindo normas técnicas de órgãos ambientais. O processo é longo, caro e complexo, mas essencial para devolver ao ecossistema sua capacidade natural de funcionar, produzindo água, abrigo e biodiversidade.</p>
-<p>Além do desafio ambiental, a recuperação representa uma luta política e social para garantir que a comunidade quilombola não seja a única responsável por um problema criado pelo Estado. Cada muda de Pinus removida é vista como resistência e cada área restaurada como sobrevivência, reafirmando o direito da comunidade de coexistir em equilíbrio com a terra.</p>
-<p>A Justiça Federal determinou a ação de recuperação, e biólogos iniciaram o Plano de Recuperação de Área Degradada para conter a expansão do Pinus e proteger o território do Quilombo Vidal Martins.</p>
+<p>O avanço do Pinus, espécie exótica, compromete áreas sensíveis no norte da Ilha de Santa Catarina, afetando a biodiversidade e o território do Quilombo Vidal Martins. O Pinus, originário do Hemisfério Norte, está dominando lentamente a região, substituindo a restinga nativa por uma floresta homogênea que prejudica o solo e a fauna local. A sombra densa e as camadas de acículas da árvore impedem a regeneração das espécies nativas, causando o colapso do ecossistema.</p>
+<p>No Quilombo Vidal Martins, a situação é agravada por um passivo ambiental herdado da década de 1960, quando a Estação Florestal do Rio Vermelho introduziu espécies exóticas para experimentação. A comunidade, que não participou dessas decisões, convive com os impactos e luta para recuperar a área.</p>
+<p>A Associação Quilombola Vidal Martins (ARQVIMA) lidera um projeto de recuperação ambiental com a erradicação progressiva do Pinus e restauração das restingas nativas em cinco anos, seguindo normas técnicas ambientais. O processo é complexo, caro e envolve devolver ao ecossistema sua capacidade natural de funcionamento.</p>
+<p>Além do desafio ambiental, a presidente da ARQVIMA destaca que a questão é também política e social, pois comunidades quilombolas não podem ser responsáveis sozinhas por problemas causados pelo Estado. A Justiça Federal determinou ações para conter a expansão da espécie invasora.</p>
+<p>A recuperação ambiental do território do Quilombo Vidal Martins representa uma luta pela sobrevivência da biodiversidade local e pelo direito da comunidade de viver em equilíbrio com a terra.</p>
 ]]></content:encoded>
 </item>
 <item>
-<title><![CDATA[Criminoso com mais de dez anos de histórico policial morre em confronto com a]]></title>
+<title><![CDATA[Criminoso com histórico de mais de dez anos morre em confronto com a PM em Tijucas]]></title>
 <link>https://jornalrazao.com/seguranca/confronto-policial-tijucas-criminoso-morre-acao-tatico-2026/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
 <pubDate>Sat, 10 Jan 2026 22:36:40 GMT</pubDate>
 <category><![CDATA[Santa Catarina]]></category>
 <guid isPermaLink="false"><![CDATA[scrazao:2bc5e354173b0397bd21e196e283c3bfecf940ea]]></guid>
-<description><![CDATA[Um confronto entre a Polícia Militar e um criminoso conhecido como 'Sapo' resultou na morte do suspeito em Tijucas, encerrando uma trajetória marcada por crimes e passagens pelo sistema prisional.]]></description>
+<description><![CDATA[Um homem com extensa ficha criminal foi morto durante uma ação do Pelotão de Patrulhamento Tático do 31º Batalhão da Polícia Militar em Tijucas.]]></description>
 <content:encoded><![CDATA[
-<p>Um confronto entre a Polícia Militar e um criminoso conhecido como 'Sapo' resultou na morte do suspeito em Tijucas, encerrando uma trajetória marcada por crimes e passagens pelo sistema prisional.</p>
-<p>O confronto ocorreu na Rua Antônio Apolônio Vargas durante uma ação do Pelotão de Patrulhamento Tático do 31º Batalhão da Polícia Militar. O homem, de 37 anos, reagiu violentamente à abordagem e portava uma pistola semiautomática. Ele foi neutralizado no local e o óbito foi confirmado pela equipe do SAMU.</p>
-<p>Conhecido pelo apelido de 'Sapo', o criminoso possuía uma extensa ficha criminal, incluindo roubo à mão armada, disparo de arma de fogo, posse ilegal de arma, furto e tráfico de drogas. Ele estava em livramento condicional há poucos meses e denúncias recentes indicavam seu retorno ao comércio de entorpecentes na região.</p>
-<p>Há mais de dez anos, o mesmo indivíduo havia tentado assaltar um jovem em Porto Belo, que foi baleado durante a ação. Naquela ocasião, ele foi preso após cerco da Polícia Militar. Apesar de ter recebido oportunidades para recomeçar a vida, o criminoso retornou ao crime.</p>
-<p>Este é o primeiro óbito de criminoso em confronto com a Polícia Militar em Tijucas em 2026. A polícia reforça que ações violentas contra as forças de segurança não serão toleradas.</p>
-<p>A ocorrência segue em apuração com a Polícia Científica realizando a perícia no local.</p>
+<p>Um homem com extensa ficha criminal foi morto durante uma ação do Pelotão de Patrulhamento Tático do 31º Batalhão da Polícia Militar em Tijucas. O confronto ocorreu na Rua Antônio Apolônio Vargas, conhecida como 'Rua do Tide Casqueiro'. O suspeito, de 37 anos, reagiu violentamente à abordagem policial e estava armado com uma pistola semiautomática. A Polícia Militar agiu O Serviço de Atendimento Móvel de Urgência foi acionado, mas o óbito foi constatado ainda na cena. Nenhum policial ficou ferido.</p>
+<p>O homem, apelidado de 'Sapo', possuía uma extensa ficha criminal, incluindo crimes como roubo à mão armada, disparo de arma de fogo, posse ilegal de arma, furto e tráfico de drogas. Ele estava em livramento condicional e denúncias recentes indicavam que teria retornado ao comércio de entorpecentes na região.</p>
+<p>Há mais de uma década, 'Sapo' esteve envolvido em um episódio violento no Litoral Norte de Santa Catarina, quando um jovem foi baleado durante uma tentativa de assalto em Porto Belo. Após deixar o sistema prisional, ele chegou a conseguir emprego, mas desapareceu poucos dias depois e voltou a se envolver com o crime.</p>
+<p>O confronto deste sábado é o primeiro caso de óbito de criminoso em confronto com a Polícia Militar em Tijucas em 2026. A polícia reforça que ações violentas contra as forças de segurança não serão toleradas e destaca a trajetória marcada por escolhas criminosas do suspeito, mesmo após oportunidades para mudança.</p>
+<p>A Polícia Científica foi acionada para realizar a perícia, e o caso segue em investigação.</p>
 ]]></content:encoded>
 </item>
 <item>
-<title><![CDATA[PMSC neutraliza traficante em confronto na Rua do Tide Casqueiro, em Tijucas]]></title>
+<title><![CDATA[PMSC neutraliza traficante em Tijucas após confronto e manda recado ao crime]]></title>
 <link>https://jornalrazao.com/seguranca/confronto-policia-ppt-termina-com-morte-em-tijucas-2026/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
 <pubDate>Sat, 10 Jan 2026 21:34:07 GMT</pubDate>
 <category><![CDATA[Santa Catarina]]></category>
 <guid isPermaLink="false"><![CDATA[scrazao:b7140ffcedfe51632434fe39c631ea1d901f5ff3]]></guid>
-<description><![CDATA[Um confronto entre a Polícia Militar e um indivíduo resultou em óbito na Rua Antônio Apolônio Vargas, conhecida como Rua do Tide Casqueiro, em Tijucas.]]></description>
+<description><![CDATA[Um confronto entre a Polícia Militar e um indivíduo terminou com a morte do suspeito na Rua do Tide Casqueiro, em Tijucas.]]></description>
 <content:encoded><![CDATA[
-<p>Um confronto entre a Polícia Militar e um indivíduo resultou em óbito na Rua Antônio Apolônio Vargas, conhecida como Rua do Tide Casqueiro, em Tijucas. Durante uma abordagem, um homem reagiu de forma violenta contra uma guarnição do Pelotão de Patrulhamento Tático do 31º Batalhão da Polícia Militar de Santa Catarina, caracterizando agressão injusta. A guarnição reagiu.</p>
-<p>Equipes do SAMU foram acionadas, mas o óbito foi constatado ainda na cena. Nenhum policial ficou ferido durante a ocorrência, que é o primeiro confronto com óbito em Tijucas em 2026.</p>
-<p>A Polícia Científica realizou a perícia no local e o caso segue em apuração. A ação é considerada um recado direto ao crime, reforçando que atos violentos contra as forças de segurança não serão tolerados.</p>
-<p>A identidade do indivíduo e outros detalhes ainda não foram divulgados oficialmente.</p>
+<p>Um confronto entre a Polícia Militar e um indivíduo terminou com a morte do suspeito na Rua do Tide Casqueiro, em Tijucas. Na tarde de sábado, uma guarnição do Pelotão de Patrulhamento Tático do 31º Batalhão da Polícia Militar de Santa Catarina abordou um homem na Rua Antônio Apolônio Vargas, conhecida como Rua do Tide Casqueiro. Durante a ação, o indivíduo reagiu de forma violenta, caracterizando agressão injusta contra os policiais.</p>
+<p>A polícia reagiu dentro dos protocolos operacionais e neutralizou o suspeito no local. Equipes do SAMU foram acionadas, mas o óbito foi confirmado ainda na cena do confronto. Nenhum policial ficou ferido durante a ocorrência.</p>
+<p>Este foi o primeiro óbito de criminoso em confronto com a Polícia Militar em Tijucas em 2026. A Polícia Científica realizou a perícia no local e o caso segue em apuração, sem divulgação oficial da identidade do indivíduo ou outros detalhes.</p>
+<p>A ação reforça a postura da Polícia Militar de não tolerar agressões violentas contra as forças de segurança.</p>
 ]]></content:encoded>
 </item>
 <item>
-<title><![CDATA[Grave acidente na BR-470 em Apiúna deixa um morto e feridos]]></title>
+<title><![CDATA[Grave acidente na BR-470 em Apiúna deixa uma pessoa morta e vários feridos]]></title>
 <link>https://jornalrazao.com/seguranca/acidente-br-470-apiuna-morte-curva-beija-flor/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
 <pubDate>Sat, 10 Jan 2026 20:58:13 GMT</pubDate>
 <category><![CDATA[Santa Catarina]]></category>
 <guid isPermaLink="false"><![CDATA[scrazao:e4c93f374bc5df2b9e4b591cd54a75ec08bbb560]]></guid>
-<description><![CDATA[Colisão envolvendo três carros e um caminhão na BR-470, em Apiúna, resultou em uma morte e várias pessoas feridas.]]></description>
+<description><![CDATA[Uma colisão envolvendo três carros e um caminhão na BR-470, em Apiúna, resultou na morte de um motorista e deixou diversos feridos, incluindo crianças.]]></description>
 <content:encoded><![CDATA[
-<p>Colisão envolvendo três carros e um caminhão na BR-470, em Apiúna, resultou em uma morte e várias pessoas feridas. O acidente ocorreu na tarde de um sábado no bairro Ribeirão Basílio, em um local conhecido como &quot;curva do Beija-Flor&quot;. Dez pessoas estavam nos veículos envolvidos, entre elas um casal, uma família com duas crianças e um grupo de três ocupantes.</p>
-<p>O motorista de um dos carros morreu no local. A passageira, em estado grave, foi levada de helicóptero ao Hospital Santa Isabel, onde recebeu atendimento especializado. Durante o resgate, foi necessária transfusão de sangue.</p>
-<p>Quatro pessoas da mesma família foram encaminhadas ao Hospital de Ibirama para avaliação médica, enquanto os ocupantes do terceiro carro não se feriram. O motorista do caminhão sofreu escoriações leves e não precisou de hospitalização.</p>
-<p>O atendimento contou com a participação dos Bombeiros Voluntários de Ibirama, Ascurra e Indaial, equipes do SAMU de Ascurra e a Polícia Militar. As causas do acidente serão investigadas pelas autoridades.</p>
-<p>O helicóptero Arcanjo-03 do Corpo de Bombeiros Militar de Santa Catarina foi acionado para apoio no atendimento das vítimas devido à gravidade da situação.</p>
+<p>Uma colisão envolvendo três carros e um caminhão na BR-470, em Apiúna, resultou na morte de um motorista e deixou diversos feridos, incluindo crianças. O acidente ocorreu no bairro Ribeirão Basílio, na curva do Beija-Flor, envolvendo três veículos de passeio e um caminhão. Dez pessoas estavam nos veículos no momento da colisão.</p>
+<p>O motorista de um dos carros morreu no local. A passageira, em estado grave, foi levada de helicóptero ao Hospital Santa Isabel após receber atendimento avançado e transfusão de sangue durante o resgate.</p>
+<p>Uma família de quatro pessoas, incluindo duas crianças, foi encaminhada ao Hospital de Ibirama. No terceiro carro, os três ocupantes não se feriram. O motorista do caminhão teve escoriações leves e não precisou de atendimento hospitalar.</p>
+<p>O atendimento contou com a participação dos Bombeiros Voluntários de Ibirama, Ascurra e Indaial, equipes do SAMU de Ascurra e a Polícia Militar. As causas do acidente estão sob investigação.</p>
+<p>As autoridades continuam apurando as circunstâncias que levaram à colisão na BR-470.</p>
 ]]></content:encoded>
 </item>
 <item>
@@ -82,28 +112,43 @@
 <pubDate>Sat, 10 Jan 2026 20:14:50 GMT</pubDate>
 <category><![CDATA[Santa Catarina]]></category>
 <guid isPermaLink="false"><![CDATA[scrazao:9ae0445962690906900a3526db65f9f61c7c0132]]></guid>
-<description><![CDATA[Pietra, de 7 anos, demonstra autonomia ao realizar compra sozinha em conveniência, emocionando a mãe e viralizando nas redes sociais.]]></description>
+<description><![CDATA[Pietra, de 7 anos, mostrou autonomia ao comprar pão de queijo sozinha em uma conveniência de posto de combustível no Litoral Norte de Santa Catarina.]]></description>
 <content:encoded><![CDATA[
-<p>Pietra, de 7 anos, demonstra autonomia ao realizar compra sozinha em conveniência, emocionando a mãe e viralizando nas redes sociais. Pietra mora com os pais em Penha, no Litoral Norte de Santa Catarina. Em vídeo que viralizou, a mãe entrega o cartão bancário para a filha e pede que compre dois pães de queijo. A menina entra sozinha na conveniência de um posto de combustível, aguarda na fila, faz o pedido, paga com o cartão e retorna ao carro para entregar a compra.</p>
-<p>A mãe questiona se a compra foi feita no crédito ou débito, e Pietra responde prontamente que foi no crédito. O momento foi interpretado como um exemplo de confiança, autonomia e inclusão. Para a mãe, o gesto representa mais do que tarefas básicas, sendo parte do preparo para que a filha enfrente o mundo com coragem e independência.</p>
-<p>Além desse episódio, Pietra também é conhecida por ter lançado a própria marca de cosméticos, sendo a primeira criança com síndrome de Down a realizar essa conquista, reforçando sua trajetória de superação e valorização da autonomia.</p>
-<p>A história de Pietra inspira pela quebra de barreiras e mostra a importância de ensinar confiança e independência desde cedo.</p>
+<p>Pietra, de 7 anos, mostrou autonomia ao comprar pão de queijo sozinha em uma conveniência de posto de combustível no Litoral Norte de Santa Catarina. No vídeo que viralizou nas redes sociais, a mãe de Pietra entrega o cartão bancário para a filha e pede que compre dois pães de queijo. A menina entra sozinha no estabelecimento, aguarda na fila, faz o pedido, realiza o pagamento e retorna ao carro para entregar a compra à mãe.</p>
+<p>A mãe destaca que a autonomia de Pietra vai além das tarefas diárias em casa, buscando prepará-la para enfrentar o mundo com confiança e coragem, permitindo que a filha viva experiências com aprendizado e sem ordens diretas.</p>
+<p>Além do vídeo, Pietra também é conhecida por ser a primeira criança com síndrome de Down a lançar uma marca própria de cosméticos, reforçando sua trajetória de superação e valorização da independência.</p>
+<p>O gesto de Pietra é um exemplo de inclusão, confiança e autonomia, emocionando e inspirando muitas pessoas em Santa Catarina e além.</p>
 ]]></content:encoded>
 </item>
 <item>
-<title><![CDATA[Bombinhas enfrenta praias com esgoto e altos níveis de coliformes fecais no verão]]></title>
+<title><![CDATA[Praias de Bombinhas apresentam níveis alarmantes de coliformes fecais durante o verão]]></title>
 <link>https://jornalrazao.com/geral/esgoto-no-mar-bombinhas-coliformes-fecais-praias-improprias/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
 <pubDate>Sat, 10 Jan 2026 20:07:06 GMT</pubDate>
 <category><![CDATA[Santa Catarina]]></category>
 <guid isPermaLink="false"><![CDATA[scrazao:6e5d5f5f2df086129b3e68ce69837a0ffb28ca2e]]></guid>
-<description><![CDATA[Água escura com aspecto de esgoto e concentrações elevadas de coliformes fecais tornam várias praias de Bombinhas impróprias para banho durante a temporada.]]></description>
+<description><![CDATA[Água com aspecto de esgoto e alta concentração de coliformes fecais preocupam moradores e turistas em Bombinhas, com várias praias consideradas impróprias para banho.]]></description>
 <content:encoded><![CDATA[
-<p>Água escura com aspecto de esgoto e concentrações elevadas de coliformes fecais tornam várias praias de Bombinhas impróprias para banho durante a temporada. Imagens registradas por moradores mostram água escura e com odor de esgoto escorrendo diretamente para o mar em pontos da cidade, especialmente na Praia de Quatro Ilhas. Relatórios técnicos indicam que as concentrações de coliformes fecais ultrapassam em muito o limite considerado seguro pela legislação, que é de 800 Escherichia coli por 100 mililitros. Em algumas amostras recentes, os níveis chegaram a mais de 24 mil coliformes fecais.</p>
-<p>O último relatório oficial da temporada 2025/2026 aponta que diversos trechos, incluindo praias como Bombas, Bombinhas, Morrinhos, Zimbros e Canto Grande Mar de Fora, estão classificados como impróprios para banho. Em alguns locais, a contaminação aumentou rapidamente em relação às semanas anteriores.</p>
-<p>Especialistas associam o escoamento visível de água escura à drenagem pluvial contaminada, extravasamento de redes de esgoto e ligações clandestinas. O relatório do Instituto do Meio Ambiente de Santa Catarina destaca que chuvas, falhas em estações elevatórias e conexões irregulares podem levar esgoto diretamente ao mar.</p>
-<p>O problema afeta turistas e moradores que frequentam as praias, onde o cheiro e a aparência da água denunciam a contaminação antes mesmo da sinalização oficial. A situação contrasta com a imagem da cidade, que cobra uma Taxa de Preservação Ambiental para visitantes, mas enfrenta um problema estrutural antigo e sem solução imediata.</p>
-<p>Enquanto não houver medidas estruturais e fiscalização eficaz, a contaminação das praias de Bombinhas deve continuar, colocando em risco a saúde de quem frequenta o mar na alta temporada.</p>
+<p>Água com aspecto de esgoto e alta concentração de coliformes fecais preocupam moradores e turistas em Bombinhas, com várias praias consideradas impróprias para banho. Imagens registradas por moradores mostram água escura e com odor semelhante a esgoto correndo diretamente para o mar em pontos da cidade, especialmente na Praia de Quatro Ilhas. Relatórios do Instituto do Meio Ambiente de Santa Catarina indicam que a concentração de coliformes fecais ultrapassa amplamente o limite seguro estabelecido pela legislação.</p>
+<p>Em algumas amostras recentes, foram registrados níveis que chegam a mais de 24 mil coliformes fecais por 100 mililitros, muito acima do limite de 800 Escherichia coli, indicando contaminação por fezes humanas ou animais. Diversos trechos das praias de Bombas, Bombinhas, Morrinhos, Zimbros e Canto Grande Mar de Fora foram classificados como impróprios para banho.</p>
+<p>O relatório técnico divulgado em 9 de janeiro aponta que a contaminação pode estar relacionada a drenagem pluvial contaminada, extravasamento de redes de esgoto ou conexões irregulares, agravadas por chuvas e falhas em estações elevatórias. O problema afeta diretamente quem frequenta as praias, com risco sanitário evidente.</p>
+<p>Apesar da cobrança da Taxa de Preservação Ambiental, a situação persiste sem solução estrutural ou fiscalização eficaz, comprometendo a imagem da cidade, conhecida pelas praias limpas e natureza preservada.</p>
+<p>Enquanto a contaminação não for resolvida, o risco para moradores e turistas que frequentam as praias de Bombinhas permanece elevado.</p>
+]]></content:encoded>
+</item>
+<item>
+<title><![CDATA[Árvore cai sobre casa em São José e causa destruição parcial da residência]]></title>
+<link>https://scc10.com.br/cotidiano/seguranca/arvore-cai-sobre-casa-em-sao-jose-e-causa-destruicao-parcial-da-residencia/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Sat, 10 Jan 2026 19:44:24 GMT</pubDate>
+<category><![CDATA[Santa Catarina]]></category>
+<guid isPermaLink="false"><![CDATA[scscc10:f91587b9d6fcd63605fb01d0f47185944157ba7a]]></guid>
+<description><![CDATA[Uma árvore de grande porte caiu sobre uma residência no bairro Forquilhinhas, em São José, após ventos fortes e chuva, causando danos severos na estrutura do imóvel.]]></description>
+<content:encoded><![CDATA[
+<p>Uma árvore de grande porte caiu sobre uma residência no bairro Forquilhinhas, em São José, após ventos fortes e chuva, causando danos severos na estrutura do imóvel. O Corpo de Bombeiros Militar de Santa Catarina foi acionado na manhã de sábado para atender a ocorrência. A equipe chegou ao local por volta das 8h e encontrou a árvore ainda suspensa sobre a casa, gerando risco de novos desabamentos.</p>
+<p>Apesar dos danos ao telhado e à destruição de dois cômodos, nenhum morador ficou ferido. Os bombeiros orientaram os ocupantes durante todo o processo de remoção da árvore, que durou aproximadamente quatro horas.</p>
+<p>O trabalho de retirada exigiu paciência e precisão, com cortes iniciados pela copa da árvore para evitar mais prejuízos à residência. A operação foi concluída no início da tarde. As autoridades reforçam o alerta para que a população mantenha atenção redobrada em períodos de condições climáticas adversas, pois o solo encharcado e as rajadas de vento aumentam o risco de quedas de árvores e acidentes estruturais.</p>
+<p>O Corpo de Bombeiros segue monitorando a situação e orienta a população a observar as condições das vegetações próximas às residências para evitar novos incidentes.</p>
 ]]></content:encoded>
 </item>
 <item>
@@ -113,59 +158,13 @@
 <pubDate>Sat, 10 Jan 2026 18:00:49 GMT</pubDate>
 <category><![CDATA[Santa Catarina]]></category>
 <guid isPermaLink="false"><![CDATA[scrazao:c7744fbc6e734a3a58c0db68fa5a0cd62103d3b5]]></guid>
-<description><![CDATA[Fenômeno atmosférico foi observado durante chuva na manhã deste sábado, com alerta para risco de temporais em Santa Catarina.]]></description>
+<description><![CDATA[Fenômeno atmosférico foi registrado durante chuva na manhã de sábado, com alerta para temporais em Santa Catarina.]]></description>
 <content:encoded><![CDATA[
-<p>Fenômeno atmosférico foi observado durante chuva na manhã deste sábado, com alerta para risco de temporais em Santa Catarina. Na manhã deste sábado, moradores e banhistas de São Francisco do Sul viram uma formação em rotação no céu durante chuva, visível de vários pontos do município, inclusive na orla. A Defesa Civil de Santa Catarina classificou o fenômeno como uma possível tromba d’água, embora não haja registros oficiais até o momento.</p>
-<p>A tromba d’água ocorre quando um vórtice de ar em rotação se forma sobre superfícies de água, conectando a base de uma nuvem à superfície. Existem dois tipos: a tornádica, ligada a tempestades severas, e a não tornádica, que se desenvolve a partir de nuvens convectivas menos organizadas. A recomendação é manter distância e evitar áreas abertas próximas ao mar durante o fenômeno.</p>
-<p>A Defesa Civil alerta para risco alto em todo o estado entre a tarde de sábado e a madrugada de domingo para alagamentos e enxurradas, além de risco moderado a alto para destelhamentos, danos na rede elétrica e quedas de galhos e árvores. No domingo, a instabilidade continua, com temporais mais fortes à tarde, especialmente entre o Meio-Oeste e o Litoral. No Oeste catarinense, o risco é considerado baixo.</p>
+<p>Fenômeno atmosférico foi registrado durante chuva na manhã de sábado, com alerta para temporais em Santa Catarina. Na manhã de sábado, moradores e banhistas de São Francisco do Sul observaram uma formação em rotação no céu durante chuva, visível de diferentes pontos do município, inclusive na orla. A Defesa Civil de Santa Catarina identificou o fenômeno como uma possível tromba d’água, embora não haja registros oficiais até o momento.</p>
+<p>A tromba d’água ocorre quando um vórtice de ar em rotação se forma sobre superfícies de água, conectando a base de uma nuvem à superfície. Pode ser tornádica, associada a tempestades severas, ou não tornádica, ligada a nuvens convectivas menos organizadas. A orientação é manter distância e evitar áreas abertas próximas ao mar durante o fenômeno.</p>
+<p>A Defesa Civil alerta para risco alto em todo o estado de alagamentos e enxurradas entre a tarde de sábado e a madrugada de domingo, além de risco moderado a alto para destelhamentos, danos na rede elétrica e quedas de galhos e árvores. No domingo, a instabilidade continua, com temporais ganhando força à tarde entre o Meio-Oeste e o Litoral, mantendo risco moderado a alto para transtornos pontuais. No Oeste catarinense, o risco é baixo.</p>
 <p>O cenário é provocado pela atuação de áreas de baixa pressão em diferentes níveis da atmosfera e pela formação e deslocamento de um ciclone extratropical afastado de Santa Catarina, entre o Uruguai e o Rio Grande do Sul, que intensifica as chuvas no estado.</p>
-<p>A Defesa Civil reforça a importância de atenção às condições climáticas e recomenda evitar áreas de risco durante os temporais.</p>
-]]></content:encoded>
-</item>
-<item>
-<title><![CDATA[Homem é encontrado com hemorragia na cabeça dentro de rio em Santa Catarina]]></title>
-<link>https://jornalrazao.com/seguranca/homem-encontrado-hemorragia-cabeca-dentro-rio-sc/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Sat, 10 Jan 2026 17:05:08 GMT</pubDate>
-<category><![CDATA[Santa Catarina]]></category>
-<guid isPermaLink="false"><![CDATA[scrazao:d71f956b11b3cdc1be5e9bc5773472976b54b726]]></guid>
-<description><![CDATA[Um homem foi resgatado com ferimento grave na cabeça às margens do rio Piçarras, entre Penha e Balneário Piçarras.]]></description>
-<content:encoded><![CDATA[
-<p>Um homem foi resgatado com ferimento grave na cabeça às margens do rio Piçarras, entre Penha e Balneário Piçarras. O homem foi localizado no início da tarde às margens do rio Piçarras, embaixo da ponte que liga os municípios de Penha e Balneário Piçarras, no Litoral Norte de Santa Catarina. Ele apresentava um ferimento grave na cabeça com intensa hemorragia e estava dentro da água no momento do resgate.</p>
-<p>O Corpo de Bombeiros Militar foi acionado para retirar a vítima da água e prestou os primeiros atendimentos no local. Após o resgate, o homem recebeu cuidados emergenciais enquanto as equipes avaliavam a gravidade do seu quadro clínico.</p>
-<p>A Polícia Militar e a Polícia Civil também foram acionadas para atender a ocorrência e investigar as circunstâncias do caso. As autoridades seguem apurando o ocorrido para esclarecer as causas do ferimento e as condições em que o homem foi encontrado.</p>
-]]></content:encoded>
-</item>
-<item>
-<title><![CDATA[Menina de 2 anos sofre choque elétrico e perde movimentos da mão em Balneário Piçarras]]></title>
-<link>https://jornalrazao.com/geral/familia-pede-ajuda-menina-2-anos-choque-eletrico-sc/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Sat, 10 Jan 2026 15:54:12 GMT</pubDate>
-<category><![CDATA[Santa Catarina]]></category>
-<guid isPermaLink="false"><![CDATA[scrazao:00457fbe8064f3736cce6050d7e73d048401ad6f]]></guid>
-<description><![CDATA[Antonella, de dois anos, está internada em hospital de referência em Santa Catarina após sofrer queimaduras graves por descarga elétrica em acidente doméstico.]]></description>
-<content:encoded><![CDATA[
-<p>Antonella, de dois anos, está internada em hospital de referência em Santa Catarina após sofrer queimaduras graves por descarga elétrica em acidente doméstico. A criança sofreu o acidente ao tentar pegar uma bolinha que caiu sob uma máquina de lavar roupas ligada a um transformador. Ela puxou um fio energizado e recebeu a descarga elétrica, resultando em queimaduras de terceiro grau na mão esquerda e perda dos movimentos da mão.</p>
-<p>Após receber os primeiros socorros de vizinhos, Antonella foi levada ao Pronto Atendimento, depois transferida para hospitais especializados em Florianópolis. Ela aguarda cirurgias de enxerto e reconstrução, além de fisioterapia, sem previsão de alta hospitalar.</p>
-<p>A família enfrenta dificuldades financeiras e pede ajuda da comunidade para custear os cuidados necessários. A mãe precisou se afastar do trabalho para acompanhar a filha, enquanto cuidam também de outro filho de sete anos.</p>
-<p>Qualquer contribuição é importante para auxiliar a família neste momento delicado.</p>
-]]></content:encoded>
-</item>
-<item>
-<title><![CDATA[Meia Praia em Itapema está 100% imprópria para banho devido à contaminação por esgoto]]></title>
-<link>https://jornalrazao.com/meioambiente/conasa-caga-na-cabeca-do-povo-em-itapema-e-deixa-meia-praia-100-impropria-para-banho/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Sat, 10 Jan 2026 14:30:22 GMT</pubDate>
-<category><![CDATA[Santa Catarina]]></category>
-<guid isPermaLink="false"><![CDATA[scrazao:99db2dd38e317e1f943786a194a76f7b137c97bd]]></guid>
-<description><![CDATA[Relatório do Instituto do Meio Ambiente de Santa Catarina aponta que todos os pontos monitorados na Meia Praia foram classificados como impróprios para banho, gerando reclamações de moradores, turistas e comerciantes.]]></description>
-<content:encoded><![CDATA[
-<p>Relatório do Instituto do Meio Ambiente de Santa Catarina aponta que todos os pontos monitorados na Meia Praia foram classificados como impróprios para banho, gerando reclamações de moradores, turistas e comerciantes.</p>
-<p>A temporada de verão em Meia Praia, Itapema, está marcada por um forte odor de esgoto e pela contaminação da água, que foi classificada como imprópria para banho em toda a extensão analisada da praia. O relatório do Instituto do Meio Ambiente de Santa Catarina indica que os trechos contaminados abrangem as proximidades das ruas 319, 261, 227 e 205, além de um ponto no Canto da Praia.</p>
-<p>Moradores relatam água escura saindo de galerias pluviais e uma sensação de abandono. Nas redes sociais, banhistas e comerciantes expressam revolta, destacando que turistas questionam a segurança para entrar no mar e muitos desistem de frequentar a praia. Alguns que entram no mar acabam precisando de atendimento hospitalar por viroses.</p>
-<p>A concessionária Conasa, responsável pelo sistema de água e esgoto do município, mantém obras em diversos pontos da cidade, mas o esgoto continua chegando ao mar devido a ligações irregulares, falhas na rede e extravasamentos. A situação tem causado transtornos como ruas abertas, remendos mal feitos e novos episódios de contaminação e interdição para banho.</p>
-<p>A prefeitura informa que fiscaliza, notifica e cobra providências, enquanto a Conasa sustenta que as obras são necessárias para resolver problemas históricos do saneamento. Entretanto, a população enfrenta a realidade de uma praia imprópria, com prejuízos ambientais, econômicos, turísticos e sociais, afetando o comércio local e a imagem da cidade.</p>
-<p>A contaminação da Meia Praia reflete uma crise de confiança da população, que deseja apenas poder usufruir da praia com segurança e qualidade, sem o risco de contaminação e os impactos negativos que afetam a cidade durante a temporada.</p>
+<p>A Defesa Civil recomenda atenção e cuidados durante o período de instabilidade para evitar riscos à população.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
