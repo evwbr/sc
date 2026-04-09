@@ -8,20 +8,35 @@
 <atom:link href="https://evwbr.github.io/sc/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/sc/</link>
 <description>Notícias de Santa Catarina (últimas 24h) reescritas com IA - Evo Web News</description>
-<lastBuildDate>Thu, 09 Apr 2026 02:13:13 GMT</lastBuildDate>
+<lastBuildDate>Thu, 09 Apr 2026 09:10:32 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Corpo de pescador é encontrado após dias de buscas em Santa Catarina]]></title>
-<link>https://evwbr.github.io/sc/p/scmulti_0c1bfa40b2b23f7005db9b55705db1efab96c511/</link>
+<title><![CDATA[Frio avança e ventos intensos atingem Santa Catarina com ciclone em alto-mar]]></title>
+<link>https://evwbr.github.io/sc/p/scmulti_21abd76553eed661e17386491b62cf24d7846198/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Thu, 09 Apr 2026 01:30:01 GMT</pubDate>
+<pubDate>Thu, 09 Apr 2026 08:57:23 GMT</pubDate>
 <category><![CDATA[Santa Catarina]]></category>
-<guid isPermaLink="false"><![CDATA[scmulti:0c1bfa40b2b23f7005db9b55705db1efab96c511]]></guid>
-<description><![CDATA[Após dois dias de buscas, o corpo de um homem de 31 anos foi localizado no Planalto Norte de Santa Catarina, confirmando sua morte por afogamento.]]></description>
+<guid isPermaLink="false"><![CDATA[scmulti:21abd76553eed661e17386491b62cf24d7846198]]></guid>
+<description><![CDATA[Santa Catarina enfrenta queda nas temperaturas e ventos fortes nesta quinta-feira, com rajadas que podem chegar a 100 km/h em áreas elevadas e no litoral.]]></description>
 <content:encoded><![CDATA[
-<p>Após dois dias de buscas, o corpo de um homem de 31 anos foi localizado no Planalto Norte de Santa Catarina, confirmando sua morte por afogamento. O desaparecimento ocorreu na localidade de Santa Leocádia, no interior de Canoinhas, mobilizando o Corpo de Bombeiros Militar ainda na tarde de terça-feira, após o registro de um possível afogamento.</p>
-<p>As buscas seguiram ao longo do dia seguinte e foram concluídas na quarta-feira, quando o corpo foi encontrado pelos socorristas. A vítima, natural de Santa Terezinha, morava atualmente em Canoinhas e era conhecida por frequentar a região do rio Iguaçu, onde costumava pescar.</p>
-<p>O velório está previsto para ocorrer na localidade de Craveiro, em Santa Terezinha. Até o momento, as circunstâncias do afogamento não foram detalhadas pelas autoridades. A ocorrência reforça a importância da atenção e cuidado nas atividades de pesca e lazer em rios da região.</p>
+<p>Santa Catarina enfrenta queda nas temperaturas e ventos fortes nesta quinta-feira, com rajadas que podem chegar a 100 km/h em áreas elevadas e no litoral. Uma massa de ar frio provoca a redução das temperaturas no estado após o afastamento da frente fria que atuou durante a semana. Nas regiões mais altas do Meio-Oeste e do Planalto Sul, as temperaturas podem ficar abaixo de 10°C nas primeiras horas da manhã.</p>
+<p>A formação de um ciclone em alto-mar, entre o Uruguai e o Rio Grande do Sul, intensifica os ventos em Santa Catarina. As velocidades médias variam entre 40 e 50 km/h, com rajadas entre 60 e 80 km/h, podendo chegar a 100 km/h em áreas elevadas e pontos do litoral. O risco para destelhamentos, danos na rede elétrica e queda de galhos é moderado até a tarde.</p>
+<p>Apesar do frio pela manhã, as temperaturas sobem ao longo do dia. No litoral, os termômetros começam próximos de 18°C, enquanto nas demais regiões variam entre 10°C e 15°C. Durante a tarde, as máximas ficam entre 20°C e 26°C no Grande Oeste e no Planalto Sul, e entre 27°C e 29°C no Litoral, Planalto Norte e Vale do Itajaí.</p>
+<p>A agitação marítima também é intensa, com ondas de até 3 metros entre a Grande Florianópolis e o Litoral Sul, e entre 2 e 2,5 metros no Litoral Norte. O risco para ocorrências relacionadas à agitação marítima é moderado a alto.</p>
+<p>A população deve permanecer atenta às condições do tempo e aos riscos associados aos ventos fortes e à agitação no mar durante esta quinta-feira.</p>
+]]></content:encoded>
+</item>
+<item>
+<title><![CDATA[Rompimento de adutora afeta abastecimento em Porto Belo]]></title>
+<link>https://evwbr.github.io/sc/p/scmulti_6c065483aa1c8e1d17e09c705c34972973c09d29/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Thu, 09 Apr 2026 08:40:02 GMT</pubDate>
+<category><![CDATA[Santa Catarina]]></category>
+<guid isPermaLink="false"><![CDATA[scmulti:6c065483aa1c8e1d17e09c705c34972973c09d29]]></guid>
+<description><![CDATA[Uma adutora se rompeu durante a noite na Rua dos Samagaias, no bairro Vila Nova, causando baixa pressão no fornecimento de água em Porto Belo.]]></description>
+<content:encoded><![CDATA[
+<p>Uma adutora se rompeu durante a noite na Rua dos Samagaias, no bairro Vila Nova, causando baixa pressão no fornecimento de água em Porto Belo. Equipes técnicas foram mobilizadas para realizar os reparos necessários na rede, o que exigiu a interrupção temporária do funcionamento da adutora. Durante a manutenção, alguns pontos do bairro Vila Nova podem apresentar baixa pressão no abastecimento de água.</p>
+<p>A normalização do fornecimento será gradual após a conclusão dos reparos. Em casos de emergência, os moradores podem entrar em contato pelo telefone 0800 123 0477. O trabalho das equipes segue para restabelecer o abastecimento o mais rápido possível e minimizar os impactos na região.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
