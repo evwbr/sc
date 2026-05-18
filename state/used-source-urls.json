@@ -70,5 +70,29 @@
     "pageUrl": "https://evwbr.github.io/sc/p/scmulti_b671efe13ff23cf8d1ec3d182ba9fd53a896a92e/",
     "usedAt": 1779094022744,
     "usedAtIso": "2026-05-18T08:47:02.744Z"
+  },
+  "source:15e4c10eacc040c20ea3d6d97dec2af5e2969d5e": {
+    "url": "https://visornoticias.com.br/frente-fria-muda-o-tempo-e-provoca-queda-brusca-nas-temperaturas-em-sc",
+    "title": "Santa Catarina terá ventos fortes, mar agitado e queda nas temperaturas nos próximos dias",
+    "guid": "scmulti:de9949e145bede48c4870c0e5d37d0230f51cb31",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_de9949e145bede48c4870c0e5d37d0230f51cb31/",
+    "usedAt": 1779097622895,
+    "usedAtIso": "2026-05-18T09:47:02.895Z"
+  },
+  "source:11e9106051a1e717af69862c69d7b56b3f79f5a5": {
+    "url": "https://visornoticias.com.br/desavenca-entre-vizinhos-por-terreno-termina-em-tentativa-de-homicidio-em-itajai",
+    "title": "Conflito entre vizinhos em Itajaí termina com tiros e prisão de dois homens",
+    "guid": "scmulti:961c46dc255806447c7a7a2bcd2cd5ea2135bc0d",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_961c46dc255806447c7a7a2bcd2cd5ea2135bc0d/",
+    "usedAt": 1779097622895,
+    "usedAtIso": "2026-05-18T09:47:02.895Z"
+  },
+  "source:098f68fc15447ce31bfac66fc45e1654a1a030e6": {
+    "url": "https://visornoticias.com.br/denuncia-por-som-alto-termina-com-homem-morto-pela-pm-no-vale-do-itajai",
+    "title": "Homem morre após confronto com a Polícia Militar em Santa Catarina durante atendimento por som alto",
+    "guid": "scmulti:afe33cd7a3ccb0f5aea11758a83a3f27a98a7e94",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_afe33cd7a3ccb0f5aea11758a83a3f27a98a7e94/",
+    "usedAt": 1779097622895,
+    "usedAtIso": "2026-05-18T09:47:02.895Z"
   }
 }
