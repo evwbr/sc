@@ -526,5 +526,29 @@
     "pageUrl": "https://evwbr.github.io/sc/p/scmulti_0ff2dd0ba22e7d13d1fe5b58ec389974f5162d33/",
     "usedAt": 1779302824342,
     "usedAtIso": "2026-05-20T18:47:04.342Z"
+  },
+  "source:1e36c8b48662aa555d286157d34fff6e8225ec11": {
+    "url": "https://visornoticias.com.br/procon-sao-jose-apreende-itens-improprios",
+    "title": "Procon de São José apreende 50 itens impróprios em fiscalização a supermercados",
+    "guid": "scmulti:e0cbc8cc3b84ef202f01a6e9838d5fe6a5abaa9a",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_e0cbc8cc3b84ef202f01a6e9838d5fe6a5abaa9a/",
+    "usedAt": 1779306422812,
+    "usedAtIso": "2026-05-20T19:47:02.812Z"
+  },
+  "source:3f3ddfd060b9f8fbfcc5cd7179c8d99e6d07c770": {
+    "url": "https://visornoticias.com.br/caminhao-carregado-tomba-proximo-ao-viaduto-do-carijos-na-br-470-em-indaial",
+    "title": "Acidente com tombamento de caminhão interdita saída da marginal na rodovia próximo ao viaduto do Carijós",
+    "guid": "scmulti:ecc8a95598cc69d7ee2194fd782ff8a7d6fa3425",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_ecc8a95598cc69d7ee2194fd782ff8a7d6fa3425/",
+    "usedAt": 1779306422812,
+    "usedAtIso": "2026-05-20T19:47:02.812Z"
+  },
+  "source:d828e3961aab12a6a98593db9596effb52dd82fd": {
+    "url": "https://cbntotal.com.br/cotidiano/defesa-civil-alerta-para-alagamentos-e-define-horarios-de-mare-alta-em-florianopolis",
+    "title": "Ciclone extratropical provoca ondas altas e risco de alagamentos em Florianópolis",
+    "guid": "scmulti:e1c0e374fdd9b0b52fc80c0642e4c3cad9260e3f",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_e1c0e374fdd9b0b52fc80c0642e4c3cad9260e3f/",
+    "usedAt": 1779306422812,
+    "usedAtIso": "2026-05-20T19:47:02.812Z"
   }
 }
