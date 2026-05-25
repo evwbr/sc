@@ -1230,5 +1230,29 @@
     "pageUrl": "https://evwbr.github.io/sc/p/scmulti_644e82a41ee268b58e83741d6f6a4e40bd865dc6/",
     "usedAt": 1779659224831,
     "usedAtIso": "2026-05-24T21:47:04.831Z"
+  },
+  "source:657a970f2a6481dabd323959bcb4d452093ecf55": {
+    "url": "https://visornoticias.com.br/previsao-indica-sequencia-de-temporais-e-queda-de-temperatura-em-sc",
+    "title": "Santa Catarina enfrenta chuva e ventos fortes com risco de alagamentos e destelhamentos",
+    "guid": "scmulti:7213c6ae23fc5043d02bb3ac04882c0934dff204",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_7213c6ae23fc5043d02bb3ac04882c0934dff204/",
+    "usedAt": 1779702423147,
+    "usedAtIso": "2026-05-25T09:47:03.147Z"
+  },
+  "source:f2a6fc9a389c6cd18cfead9dbb5ca281ecd38c42": {
+    "url": "https://visornoticias.com.br/homem-morre-carbonizado-apos-casa-ser-destruida-por-incendio-em-sc",
+    "title": "Incêndio destrói casa em Curitibanos e deixa uma vítima fatal",
+    "guid": "scmulti:bdd4309322b7990ed3ad7d9520d7307ddf702536",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_bdd4309322b7990ed3ad7d9520d7307ddf702536/",
+    "usedAt": 1779702423147,
+    "usedAtIso": "2026-05-25T09:47:03.147Z"
+  },
+  "source:aafa0c2c4431922ece1bed4f35c4cbba66606691": {
+    "url": "https://visornoticias.com.br/acidente-com-dois-carros-deixa-crianca-ferida-e-gravida-vai-parar-no-hospital-me-sc",
+    "title": "Acidente entre Fiat Mobi e GM Blazer em Lages deixa grávida hospitalizada e motorista detido por embriaguez",
+    "guid": "scmulti:65c423aecb48a53c4a5d128c2e92b6d95595e7a1",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_65c423aecb48a53c4a5d128c2e92b6d95595e7a1/",
+    "usedAt": 1779702423147,
+    "usedAtIso": "2026-05-25T09:47:03.147Z"
   }
 }
