@@ -1630,5 +1630,29 @@
     "pageUrl": "https://evwbr.github.io/sc/p/scmulti_ec885a92b427f9a526683bcc79fc1e78615bd1ef/",
     "usedAt": 1779875222026,
     "usedAtIso": "2026-05-27T09:47:02.026Z"
+  },
+  "source:d06bcfc1693bf93916741ee1c8f51c532f2291f7": {
+    "url": "https://visornoticias.com.br/ruth-cardoso-passa-por-reestruturacao-e-amplia-servicos-em-balneario-camboriu",
+    "title": "Hospital Ruth Cardoso em Balneário Camboriú amplia serviços e recebe investimentos após estadualização",
+    "guid": "scmulti:79aae583cefbd8f23edb9dda7e8ba18682de3a5d",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_79aae583cefbd8f23edb9dda7e8ba18682de3a5d/",
+    "usedAt": 1779878822400,
+    "usedAtIso": "2026-05-27T10:47:02.400Z"
+  },
+  "source:7e900178929466e17342b247b47cb242bf980046": {
+    "url": "https://visornoticias.com.br/caminhonete-perde-controle-apos-atingir-carreta-e-bate-contra-poste-na-br-470-em-sc",
+    "title": "Acidente entre caminhonete e carreta deixa vítima em estado grave na rodovia Km 102",
+    "guid": "scmulti:fbc3e04ff8c553d839e9ce6ac4604c1eefd7cf8e",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_fbc3e04ff8c553d839e9ce6ac4604c1eefd7cf8e/",
+    "usedAt": 1779878822400,
+    "usedAtIso": "2026-05-27T10:47:02.400Z"
+  },
+  "source:9004a37593ad44ece5ae1ff8dd647b78d094d35e": {
+    "url": "https://visornoticias.com.br/fundo-falso-em-carro-escondia-quase-30-quilos-de-cocaina-na-br-101-em-sc",
+    "title": "Polícia apreende quase 30 quilos de cocaína em fundo falso de carro na BR-101 em Balneário Camboriú",
+    "guid": "scmulti:1eabb967017609a5778727320360712d11ff1689",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_1eabb967017609a5778727320360712d11ff1689/",
+    "usedAt": 1779878822400,
+    "usedAtIso": "2026-05-27T10:47:02.400Z"
   }
 }
