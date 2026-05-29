@@ -1982,5 +1982,29 @@
     "pageUrl": "https://evwbr.github.io/sc/p/scmulti_46fd0ed1b6f7d5ef0813fe4f0123a9f2dc9c881f/",
     "usedAt": 1780048023031,
     "usedAtIso": "2026-05-29T09:47:03.031Z"
+  },
+  "source:8a3ab1154307d86299295662dc3c619af10c78ff": {
+    "url": "https://visornoticias.com.br/operacao-contra-furto-de-r-90-mil-em-loterica-prende-tres-suspeitos-na-grande-florianopolis",
+    "title": "Polícia apreende motocicleta furtada e simulacros em operação que resulta em três prisões em Santa Catarina",
+    "guid": "scmulti:f4dcbec029aafa90ebc82efe4feef538edd557de",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_f4dcbec029aafa90ebc82efe4feef538edd557de/",
+    "usedAt": 1780051622046,
+    "usedAtIso": "2026-05-29T10:47:02.046Z"
+  },
+  "source:e5114fd22102cb8e51ef261f6c467cad2499ed96": {
+    "url": "https://visornoticias.com.br/acidente-com-tres-carros-mata-uma-pessoa-e-deixa-um-ferido-na-br-282-em-sc",
+    "title": "Acidente na BR-282 em Santa Catarina deixa uma pessoa morta e outra ferida",
+    "guid": "scmulti:e9b1713c69237c9f46562748df755ea227759daa",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_e9b1713c69237c9f46562748df755ea227759daa/",
+    "usedAt": 1780051622046,
+    "usedAtIso": "2026-05-29T10:47:02.046Z"
+  },
+  "source:541cee8a90a10ba19c1492e42ed0446b2e2ea9e4": {
+    "url": "https://visornoticias.com.br/carro-e-consumido-pelas-chamas-em-frente-a-posto-de-combustiveis-na-serra-catarinense",
+    "title": "Carro é consumido pelo fogo em Balneário Camboriú; motorista não se feriu",
+    "guid": "scmulti:dd88435d095d49b03161f77683c69e78f0bb5f6e",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_dd88435d095d49b03161f77683c69e78f0bb5f6e/",
+    "usedAt": 1780051622046,
+    "usedAtIso": "2026-05-29T10:47:02.046Z"
   }
 }
