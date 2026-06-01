@@ -2366,5 +2366,29 @@
     "pageUrl": "https://evwbr.github.io/sc/p/scmulti_a90d822d60c3ee05853dfeba4a2fb64aa789c12c/",
     "usedAt": 1780307222182,
     "usedAtIso": "2026-06-01T09:47:02.182Z"
+  },
+  "source:47fb4110c7cb2c94b356cdbe546092e893fe3661": {
+    "url": "https://visornoticias.com.br/piloto-perde-controle-e-bate-contra-muro-durante-prova-de-arrancada-em-balneario-camboriu",
+    "title": "Piloto sofre acidente durante etapa da A Lista Área 48 em Santa Catarina, mas escapa sem ferimentos graves",
+    "guid": "scmulti:ca74fdd7cc70bf4eab8e8a31fa683b39ad1cc4aa",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_ca74fdd7cc70bf4eab8e8a31fa683b39ad1cc4aa/",
+    "usedAt": 1780310822010,
+    "usedAtIso": "2026-06-01T10:47:02.010Z"
+  },
+  "source:eedd9d1618c3ccb1d3235a0bf2215b564e221536": {
+    "url": "https://visornoticias.com.br/motorista-perde-controle-apos-ser-fechada-e-invade-restaurantes-em-balneario-camboriu",
+    "title": "Carro causa danos em área movimentada de Balneário Camboriú, mas não deixa feridos graves",
+    "guid": "scmulti:aae4a7b3b44c5bdeecc04de74cb0c82f4b1ba86e",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_aae4a7b3b44c5bdeecc04de74cb0c82f4b1ba86e/",
+    "usedAt": 1780310822010,
+    "usedAtIso": "2026-06-01T10:47:02.010Z"
+  },
+  "source:241472450a72d65dc87c9333c3f00fefeef3a538": {
+    "url": "https://visornoticias.com.br/frio-continua-nas-manhas-e-temperaturas-sobem-durante-a-tarde-em-sc",
+    "title": "Massa de ar frio mantém temperaturas baixas e provoca chuva fraca no Litoral de Santa Catarina",
+    "guid": "scmulti:929945b0f93c0963ce1b8f3ae4d2fcc6b15a74f4",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_929945b0f93c0963ce1b8f3ae4d2fcc6b15a74f4/",
+    "usedAt": 1780310822010,
+    "usedAtIso": "2026-06-01T10:47:02.010Z"
   }
 }
