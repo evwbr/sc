@@ -2406,5 +2406,37 @@
     "pageUrl": "https://evwbr.github.io/sc/p/scmulti_0802316235d26993f3c3109b83a6a3b6a53f16dc/",
     "usedAt": 1780318022977,
     "usedAtIso": "2026-06-01T12:47:02.977Z"
+  },
+  "source:86c2b7bce4cedc5a685d2136727c8d2417113a45": {
+    "url": "https://visornoticias.com.br/vacinacao-em-chapeco-2",
+    "title": "Vacinação itinerante aplica 1.289 doses em Chapecó durante o fim de semana",
+    "guid": "scmulti:07f4c7a40c572f7a80bd9d0c4aea73cb39496f40",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_07f4c7a40c572f7a80bd9d0c4aea73cb39496f40/",
+    "usedAt": 1780321622164,
+    "usedAtIso": "2026-06-01T13:47:02.164Z"
+  },
+  "source:ae5af82ea44cb9e59d6cd049f1b2e09ae1881319": {
+    "url": "https://visornoticias.com.br/sapecada-da-cancao",
+    "title": "Milonga Três Léguas de Solidão vence 32ª Sapecada da Canção em Lages",
+    "guid": "scmulti:17d058407b1aeea681d652576b4349610f5c31c5",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_17d058407b1aeea681d652576b4349610f5c31c5/",
+    "usedAt": 1780321622164,
+    "usedAtIso": "2026-06-01T13:47:02.164Z"
+  },
+  "source:63a7c71ad28a649a422d670e6e8294cafe1fd753": {
+    "url": "https://visornoticias.com.br/passageira-e-atropelada-por-carro-apos-discussao-com-motorista-de-aplicativo-em-florianopolis",
+    "title": "Passageira é atropelada por motorista após tentativa de pagamento em Canajurê",
+    "guid": "scmulti:fd0ef69a11e38fb230c2c8cc5a01df1f2449ab5f",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_fd0ef69a11e38fb230c2c8cc5a01df1f2449ab5f/",
+    "usedAt": 1780321622164,
+    "usedAtIso": "2026-06-01T13:47:02.164Z"
+  },
+  "source:de4a48137965d283a5b551b9a08827dc7d132a5d": {
+    "url": "https://cbntotal.com.br/cotidiano/florianopolis-amanhece-travada-com-acidente-na-via-expressa",
+    "title": "Acidente com motociclista causa bloqueio parcial na Via Expressa em Florianópolis",
+    "guid": "scmulti:b57ab7e61da5e1532b65ee77f1bbdb27a790f149",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_b57ab7e61da5e1532b65ee77f1bbdb27a790f149/",
+    "usedAt": 1780321622164,
+    "usedAtIso": "2026-06-01T13:47:02.164Z"
   }
 }
