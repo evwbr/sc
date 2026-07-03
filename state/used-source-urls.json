@@ -2726,5 +2726,29 @@
     "pageUrl": "https://evwbr.github.io/sc/p/scmulti_eb676c33f135d8c2a0982604984bea551b0d900a/",
     "usedAt": 1783082822483,
     "usedAtIso": "2026-07-03T12:47:02.483Z"
+  },
+  "source:027f372254370c304c05bbda84afd29f9ed91677": {
+    "url": "https://visornoticias.com.br/hospital-sao-jose",
+    "title": "Câmara de Criciúma cria Frente Parlamentar para defender Hospital São José",
+    "guid": "scmulti:eec136daac437eb84c05618e6471d291a2913b41",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_eec136daac437eb84c05618e6471d291a2913b41/",
+    "usedAt": 1783086422905,
+    "usedAtIso": "2026-07-03T13:47:02.905Z"
+  },
+  "source:230a043df4f3eb6b3ae4d4d209bdfa2f39d456ea": {
+    "url": "https://visornoticias.com.br/parque-tematico-militar-estreia-em-sc-com-blindados-aerobarco-e-acervo-historico",
+    "title": "Bravura Park estreia em Santa Catarina com atrações militares e acervo histórico",
+    "guid": "scmulti:625590369f4904462aeb224dc403c0123c982563",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_625590369f4904462aeb224dc403c0123c982563/",
+    "usedAt": 1783086422905,
+    "usedAtIso": "2026-07-03T13:47:02.905Z"
+  },
+  "source:e081812e433fb43e06e470310b746f29238a57ee": {
+    "url": "https://visornoticias.com.br/coletor-de-lixo-morre-apos-ser-atropelado-por-caminhonete-em-sc",
+    "title": "Coletor de lixo morre após acidente no Centro de Içara",
+    "guid": "scmulti:dda2cfe65c0fcdca9a841ffcf424f007d20bbc5a",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_dda2cfe65c0fcdca9a841ffcf424f007d20bbc5a/",
+    "usedAt": 1783086422905,
+    "usedAtIso": "2026-07-03T13:47:02.905Z"
   }
 }
