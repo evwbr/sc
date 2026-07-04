@@ -2910,5 +2910,21 @@
     "pageUrl": "https://evwbr.github.io/sc/p/scmulti_828ee98a9b20c0650b1d537321867db5a3294a29/",
     "usedAt": 1783176422773,
     "usedAtIso": "2026-07-04T14:47:02.773Z"
+  },
+  "source:986691c7eb559d3c2bcc01f9b450b8431001f101": {
+    "url": "https://visornoticias.com.br/foragido-por-quatro-homicidios-tenta-usar-nome-falso-e-acaba-preso-em-itapema",
+    "title": "Homem foragido por quatro homicídios é preso em posto de combustíveis na BR-101",
+    "guid": "scmulti:23ccaff9cde991bacb8f5f8510e32997c211ca06",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_23ccaff9cde991bacb8f5f8510e32997c211ca06/",
+    "usedAt": 1783190822460,
+    "usedAtIso": "2026-07-04T18:47:02.460Z"
+  },
+  "source:3bce5c144f0948f7647fcf2939567655e361a2b8": {
+    "url": "https://visornoticias.com.br/defesa-civil-monitora-risco-de-alagamentos-entre-mare-alta-e-cheia-do-rio-em-itajai",
+    "title": "Maré alta e chuvas elevam risco de alagamentos em Itajaí neste fim de semana",
+    "guid": "scmulti:c07aaf6b39c2c608b935785b40a4371fec6b2bda",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_c07aaf6b39c2c608b935785b40a4371fec6b2bda/",
+    "usedAt": 1783190822460,
+    "usedAtIso": "2026-07-04T18:47:02.460Z"
   }
 }
