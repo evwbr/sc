@@ -2854,5 +2854,29 @@
     "pageUrl": "https://evwbr.github.io/sc/p/scmulti_e7d85f4ada6e7abbe862c659dcbb35ba27544904/",
     "usedAt": 1783129622228,
     "usedAtIso": "2026-07-04T01:47:02.228Z"
+  },
+  "source:1ed5c16f650990668e42b31c6acb45921410eec8": {
+    "url": "https://visornoticias.com.br/acidente-com-dois-carros-trava-a-br-101-no-sentido-itapema-e-provoca-4-km-de-fila",
+    "title": "Restrição no tráfego causa lentidão de cerca de 4 km em trecho da rodovia",
+    "guid": "scmulti:b4f56d2fae020fecbbc321d6e6e223de0e8314e2",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_b4f56d2fae020fecbbc321d6e6e223de0e8314e2/",
+    "usedAt": 1783169223169,
+    "usedAtIso": "2026-07-04T12:47:03.169Z"
+  },
+  "source:cad1322fa7cb57910d7c653d85416527d8596e6a": {
+    "url": "https://visornoticias.com.br/defesa-civil-alerta-para-geada-frio-abaixo-de-zero-e-mar-agitado-em-sc",
+    "title": "Santa Catarina enfrenta frio intenso com possibilidade de geada e mar agitado no litoral",
+    "guid": "scmulti:5aa67c06e35f5f303eac16dbe3dc5407203d24d9",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_5aa67c06e35f5f303eac16dbe3dc5407203d24d9/",
+    "usedAt": 1783169223169,
+    "usedAtIso": "2026-07-04T12:47:03.169Z"
+  },
+  "source:192eba34b26ceecac0f5d26ab72c55f52e13a46a": {
+    "url": "https://visornoticias.com.br/gato-de-energia-leva-policia-a-laboratorio-com-200-pes-de-maconha-no-vale-do-itajai",
+    "title": "Polícia Civil apreende cerca de 200 pés de maconha em cultivo indoor em Santa Catarina",
+    "guid": "scmulti:41d90155588f60d2b6a576f559d97b8a7731442b",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_41d90155588f60d2b6a576f559d97b8a7731442b/",
+    "usedAt": 1783169223169,
+    "usedAtIso": "2026-07-04T12:47:03.169Z"
   }
 }
