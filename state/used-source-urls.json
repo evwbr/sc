@@ -3590,5 +3590,37 @@
     "pageUrl": "https://evwbr.github.io/sc/p/scmulti_82b791dacdaef9bac4e6e821e808e3f1d16dda21/",
     "usedAt": 1783633622255,
     "usedAtIso": "2026-07-09T21:47:02.255Z"
+  },
+  "source:2fab59f715cbdbcf47080656fa6ae30beaf636d1": {
+    "url": "https://visornoticias.com.br/frente-fria-traz-risco-de-temporais-para-santa-catarina-nesta-sexta",
+    "title": "Santa Catarina enfrenta temporais com raios, vento forte e granizo a partir da tarde",
+    "guid": "scmulti:60b02836239ba8bfb12374eb2a868d9f45b87954",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_60b02836239ba8bfb12374eb2a868d9f45b87954/",
+    "usedAt": 1783640823131,
+    "usedAtIso": "2026-07-09T23:47:03.131Z"
+  },
+  "source:e87701653b9069591b5b5b71f2e680caaace2d52": {
+    "url": "https://visornoticias.com.br/dengue-itajai",
+    "title": "Itajaí registra queda superior a 90% nos casos prováveis de dengue no primeiro semestre de 2026",
+    "guid": "scmulti:37becce73bb507bf9d2aa13bb8862cacc5d9b9b7",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_37becce73bb507bf9d2aa13bb8862cacc5d9b9b7/",
+    "usedAt": 1783640823131,
+    "usedAtIso": "2026-07-09T23:47:03.131Z"
+  },
+  "source:7ff7a8bb18ef2c7921243460be56aec6fc3e4eae": {
+    "url": "https://visornoticias.com.br/complexo-esportivo-itajai",
+    "title": "Itajaí finaliza revitalização da Praça Pedro de Lima com novo complexo esportivo no Cidade Nova",
+    "guid": "scmulti:33bcd823a94454baa89105c1c301f15420ae4cb4",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_33bcd823a94454baa89105c1c301f15420ae4cb4/",
+    "usedAt": 1783640823131,
+    "usedAtIso": "2026-07-09T23:47:03.131Z"
+  },
+  "source:257c75c41de56c3e4d4466efda8b7b8724272e13": {
+    "url": "https://visornoticias.com.br/fisu-america-games-chapeco-representantes",
+    "title": "Chapecó terá representantes em três modalidades nos IV FISU America Games em Lima",
+    "guid": "scmulti:26093344fdf5e42aae7a72f8bdc8bbeb894210ea",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_26093344fdf5e42aae7a72f8bdc8bbeb894210ea/",
+    "usedAt": 1783640823131,
+    "usedAtIso": "2026-07-09T23:47:03.131Z"
   }
 }
