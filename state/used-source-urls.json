@@ -4094,5 +4094,29 @@
     "pageUrl": "https://evwbr.github.io/sc/p/scmulti_25529007d43abe2c05923f1998436c39d22ec03e/",
     "usedAt": 1784238422828,
     "usedAtIso": "2026-07-16T21:47:02.828Z"
+  },
+  "source:9a1bde3c4d223f02c08dc6cac158f13b0073fb54": {
+    "url": "https://visornoticias.com.br/acidente-no-morro-do-boi-envolve-caminhoes-com-carga-inflamavel",
+    "title": "Acidente com caminhões de carga inflamável causa bloqueio e fila de 17 km na BR-101 em Santa Catarina",
+    "guid": "scmulti:655c36a179f98fc50f5c207ddbfe759ea3aa4d10",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_655c36a179f98fc50f5c207ddbfe759ea3aa4d10/",
+    "usedAt": 1784245622723,
+    "usedAtIso": "2026-07-16T23:47:02.723Z"
+  },
+  "source:5d1663db74213f83473aff2b4d1e79f3976d2cf3": {
+    "url": "https://visornoticias.com.br/engavetamento-com-quatro-caminhoes-no-tunel-do-morro-do-boi-deixa-17-km-de-fila-na-br-101",
+    "title": "Acidente no Morro do Boi causa fila de 17 km na BR-101 em Santa Catarina",
+    "guid": "scmulti:0c06f27a0b47f1d76be27295c75fca245eb6bf9f",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_0c06f27a0b47f1d76be27295c75fca245eb6bf9f/",
+    "usedAt": 1784245622723,
+    "usedAtIso": "2026-07-16T23:47:02.723Z"
+  },
+  "source:8886902eac7f4d72c673df03444ce68835bba33b": {
+    "url": "https://visornoticias.com.br/acidente-entre-carros-deixa-feridos-na-em-cidade-de-sc",
+    "title": "Colisão entre Renault Sandero e Ford Ka em Rio Negrinho deixa três pessoas feridas sem gravidade",
+    "guid": "scmulti:913b009c4d8312d196684604d05a35eaec462e56",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_913b009c4d8312d196684604d05a35eaec462e56/",
+    "usedAt": 1784245622723,
+    "usedAtIso": "2026-07-16T23:47:02.723Z"
   }
 }
