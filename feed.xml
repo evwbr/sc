@@ -2,28 +2,32 @@
 <rss version="2.0"
  xmlns:content="http://purl.org/rss/1.0/modules/content/"
  xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:media="http://search.yahoo.com/mrss/"
  xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
 <title>Evo Web News - SC (Multi-fontes)</title>
 <atom:link href="https://evwbr.github.io/sc/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/sc/</link>
 <description>Notícias de Santa Catarina (últimas 24h) - Evo Web News</description>
-<lastBuildDate>Mon, 27 Jul 2026 17:48:20 GMT</lastBuildDate>
+<lastBuildDate>Mon, 27 Jul 2026 19:38:08 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Trânsito em Itapema é desviado pela Avenida Beira-Mar durante interdição na Avenida Nereu Ramos]]></title>
-<link>https://evwbr.github.io/sc/p/scmulti_f7b362296ae1a4a4fcd5724ced571235aad0d2b0/</link>
+<title><![CDATA[Águas de Camboriú realiza testes diários para garantir qualidade da água tratada]]></title>
+<link>https://evwbr.github.io/sc/p/scmulti_bcead745cd71d424017c323f38fba4d3a341212f/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 27 Jul 2026 16:52:17 GMT</pubDate>
+<pubDate>Mon, 27 Jul 2026 19:00:00 GMT</pubDate>
 <category><![CDATA[Santa Catarina]]></category>
-<guid isPermaLink="false"><![CDATA[scmulti:f7b362296ae1a4a4fcd5724ced571235aad0d2b0]]></guid>
-<description><![CDATA[Motoristas em Itapema devem utilizar rotas alternativas devido à interdição na Avenida Nereu Ramos, com desvios pela Avenida Beira-Mar e Rua 120, afetando o acesso de moradores das ruas 135 e 137.]]></description>
+<guid isPermaLink="false"><![CDATA[scmulti:bcead745cd71d424017c323f38fba4d3a341212f]]></guid>
+<description><![CDATA[A Águas de Camboriú realiza diariamente testes rigorosos para assegurar a potabilidade da água distribuída à população, garantindo a saúde das famílias da região.]]></description>
+<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fvisornoticias.com.br%2Fwp-content%2Fuploads%2F2026%2F07%2FQualidade-da-agua-e-essencial-no-combate-as-doencas.jpg" type="image/jpeg"/>
+<media:content url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fvisornoticias.com.br%2Fwp-content%2Fuploads%2F2026%2F07%2FQualidade-da-agua-e-essencial-no-combate-as-doencas.jpg" medium="image" type="image/jpeg"/>
+<media:thumbnail url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fvisornoticias.com.br%2Fwp-content%2Fuploads%2F2026%2F07%2FQualidade-da-agua-e-essencial-no-combate-as-doencas.jpg"/>
 <content:encoded><![CDATA[
-<p>Motoristas em Itapema devem utilizar rotas alternativas devido à interdição na Avenida Nereu Ramos, com desvios pela Avenida Beira-Mar e Rua 120, afetando o acesso de moradores das ruas 135 e 137.</p>
-<p>O Departamento de Trânsito Municipal de Itapema anunciou a interdição da Avenida Nereu Ramos no trecho entre as ruas 139 e 133, exigindo desvios no fluxo de veículos. No sentido Meia Praia–Centro, o trânsito será desviado para a Avenida Beira-Mar, enquanto no sentido Centro–Meia Praia, os motoristas deverão seguir pela Rua 120.</p>
-<p>Os moradores das ruas 135 e 137 terão o acesso alterado, entrando e saindo pela Avenida Beira-Mar enquanto durar o bloqueio. A medida visa garantir a segurança e a fluidez do trânsito durante o período de interdição.</p>
-<p>As autoridades orientam os condutores a reduzir a velocidade, respeitar a sinalização provisória e planejar os trajetos com antecedência para evitar transtornos. A colaboração dos motoristas é fundamental para o bom andamento das mudanças.</p>
-<p>Além disso, o município informou que novas intervenções temporárias no trânsito ocorrerão no sábado (1º) e domingo (2), em função da realização do Arraiá Solidário. Detalhes sobre os próximos bloqueios e desvios serão divulgados nos próximos dias.</p>
+<p><img src="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fvisornoticias.com.br%2Fwp-content%2Fuploads%2F2026%2F07%2FQualidade-da-agua-e-essencial-no-combate-as-doencas.jpg" alt="Águas de Camboriú realiza testes diários para garantir qualidade da água tratada" /></p>
+<p>A Águas de Camboriú realiza diariamente testes rigorosos para assegurar a potabilidade da água distribuída à população, garantindo a saúde das famílias da região.</p>
+<p>O processo inclui testes diários que avaliam aspectos físicos, químicos e bacteriológicos da água, assegurando que ela esteja própria para o consumo humano.</p>
+<p>Para manter a população informada sobre os serviços e ações da concessionária, a Águas de Camboriú disponibiliza canais de comunicação, incluindo redes sociais e atendimento telefônico, facilitando o contato e esclarecimento de dúvidas.</p>
+<p>O compromisso com a qualidade da água é fundamental para a saúde pública, e a empresa segue investindo em tecnologia e processos que assegurem a potabilidade do recurso distribuído diariamente às residências de Camboriú e região.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
