@@ -1,4 +1,364 @@
 {
+  "source:a2dab665592cf4eba370595e633ee8a7d8955263": {
+    "url": "https://visornoticias.com.br/qualidade-da-agua-e-essencial-no-combate-as-doencas-2",
+    "title": "Águas de Camboriú realiza testes diários para garantir qualidade da água tratada",
+    "guid": "scmulti:bcead745cd71d424017c323f38fba4d3a341212f",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_bcead745cd71d424017c323f38fba4d3a341212f/",
+    "usedAt": 1785181022538,
+    "usedAtIso": "2026-07-27T19:37:02.538Z"
+  },
+  "source:e6bb6e23f854387ec459028db8cbb06bc495b248": {
+    "url": "https://visornoticias.com.br/arraia-solidario-bloqueia-avenida-e-muda-transito-no-centro-de-itapema-saiba-os-dias-das-alteracoes",
+    "title": "Trânsito em Itapema é desviado pela Avenida Beira-Mar durante interdição na Avenida Nereu Ramos",
+    "guid": "scmulti:f7b362296ae1a4a4fcd5724ced571235aad0d2b0",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_f7b362296ae1a4a4fcd5724ced571235aad0d2b0/",
+    "usedAt": 1785174422763,
+    "usedAtIso": "2026-07-27T17:47:02.763Z"
+  },
+  "source:2d906c57722efe7124b94601eb6fda7def444ba4": {
+    "url": "https://visornoticias.com.br/carreta-atinge-poste-de-rede-eletrica-em-camboriu-e-deixa-acesso-interditado-entre-bairros",
+    "title": "Queda de estrutura bloqueia trânsito nos bairros Areias e Santa Regina em Balneário Camboriú",
+    "guid": "scmulti:20ca7d4eb943b084ca37bd89a0b8a43737b54d3a",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_20ca7d4eb943b084ca37bd89a0b8a43737b54d3a/",
+    "usedAt": 1785167222241,
+    "usedAtIso": "2026-07-27T15:47:02.241Z"
+  },
+  "source:8a9ce48d8be83a62e0c61437af6121f742156285": {
+    "url": "https://visornoticias.com.br/bilhete-encontrado-com-homem-atropelado-na-br-101-leva-pm-a-corpo-de-adolescente-na-grande-florianopolis",
+    "title": "Adolescente é encontrada morta com sinais de violência em Palhoça após homem ser atropelado na BR-101",
+    "guid": "scmulti:6d5c6791cd0ab375a2400963138ea99e30494776",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_6d5c6791cd0ab375a2400963138ea99e30494776/",
+    "usedAt": 1785163622602,
+    "usedAtIso": "2026-07-27T14:47:02.602Z"
+  },
+  "source:abefa556e2065f50663fc8bbb62b35f0d1dea877": {
+    "url": "https://visornoticias.com.br/mulher-morre-apos-carro-a-100km-h-atravessar-o-sinal-vermelho-e-atingir-motocicleta-em-florianopolis",
+    "title": "Carro avança sinal vermelho e causa acidente grave na Avenida Beira-Mar Norte em Florianópolis",
+    "guid": "scmulti:c499184168e5b211cb13e3d4a08bee52d686d9c0",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_c499184168e5b211cb13e3d4a08bee52d686d9c0/",
+    "usedAt": 1785163622602,
+    "usedAtIso": "2026-07-27T14:47:02.602Z"
+  },
+  "source:cd76aa6ff5dcd03046012d9ba0dd31b9c4c78ccb": {
+    "url": "https://visornoticias.com.br/operacao-com-k9-e-drones-levam-136-pessoas-a-delegacia-e-apreende-67-kg-de-drogas-em-balneario-camboriu",
+    "title": "Guarda Municipal de Balneário Camboriú apreende mais de 6 quilos de drogas no primeiro semestre de 2026",
+    "guid": "scmulti:9d5e8b99278ed46584ba3f887b33fb8cfe45a6d6",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_9d5e8b99278ed46584ba3f887b33fb8cfe45a6d6/",
+    "usedAt": 1785160022559,
+    "usedAtIso": "2026-07-27T13:47:02.559Z"
+  },
+  "source:4894a57886cf1d657db13a059d6309a71abf0d7c": {
+    "url": "https://cbntotal.com.br/cotidiano/perigo-na-rua-calcada-esburacada-em-barranco-preocupa-moradores-de-florianopolis",
+    "title": "Calçada esburacada e com desníveis oferece risco a pedestres entre Capoeiras e Coqueiros em Florianópolis",
+    "guid": "scmulti:1e889eb84243b7fb724cee7f5ed4472eb517d6bf",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_1e889eb84243b7fb724cee7f5ed4472eb517d6bf/",
+    "usedAt": 1785160022559,
+    "usedAtIso": "2026-07-27T13:47:02.559Z"
+  },
+  "source:1adfcb513fefce5a8f76e6280687135d63bd7851": {
+    "url": "https://visornoticias.com.br/trecho-da-segunda-avenida-e-interditado-para-obras-em-itapema",
+    "title": "Segunda Avenida em Meia Praia terá bloqueio total para obras de drenagem entre ruas 280 e 284",
+    "guid": "scmulti:206df1bacd084fc9e9258ff0f863922dab7ba17c",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_206df1bacd084fc9e9258ff0f863922dab7ba17c/",
+    "usedAt": 1785160022559,
+    "usedAtIso": "2026-07-27T13:47:02.559Z"
+  },
+  "source:0f74edcd106f28e5ead553efb8cc538412f2aef9": {
+    "url": "https://cbntotal.com.br/cotidiano/acidente-na-beira-mar-mata-passageira-de-aplicativo-e-deixa-motorista-em-estado-grave",
+    "title": "Motorista morre após acidente com traumatismo cranioencefálico em Florianópolis",
+    "guid": "scmulti:37be00507289b2d8d8d22fef89d06176c5c88dc7",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_37be00507289b2d8d8d22fef89d06176c5c88dc7/",
+    "usedAt": 1785160022559,
+    "usedAtIso": "2026-07-27T13:47:02.559Z"
+  },
+  "source:193cee8e810d8acd2c08e3ca3ecbbb9d10dfe796": {
+    "url": "https://visornoticias.com.br/idoso-de-78-anos-sai-de-sc-e-viaja-sete-dias-de-carro-para-encontrar-companheira-que-conheceu-nas-redes-sociais",
+    "title": "Aposentado de Santa Catarina viaja 3,2 mil km para encontrar professora no Maranhão",
+    "guid": "scmulti:f7bab7f5557e47abed67eb29d890ca66f957153a",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_f7bab7f5557e47abed67eb29d890ca66f957153a/",
+    "usedAt": 1785160022559,
+    "usedAtIso": "2026-07-27T13:47:02.559Z"
+  },
+  "source:4beef72a809fa46ffe92feffe6979be5547588d4": {
+    "url": "https://visornoticias.com.br/carro-com-oito-pessoas-bate-em-arvore-e-duas-estudantes-morrem",
+    "title": "Acidente com Mitsubishi Pajero deixa duas jovens mortas e vários feridos em Foz do Iguaçu",
+    "guid": "scmulti:0b26a2cd0f0563fefdbcd5b09205bb0894f068e6",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_0b26a2cd0f0563fefdbcd5b09205bb0894f068e6/",
+    "usedAt": 1785160022559,
+    "usedAtIso": "2026-07-27T13:47:02.559Z"
+  },
+  "source:e10806e3abbc3cb06ab94a3a3dbd1ffe58d8130e": {
+    "url": "https://visornoticias.com.br/homem-que-matou-companheira-na-frente-da-filha-e-condenado-a-45-anos-em-sc",
+    "title": "Homem é condenado por feminicídio em Bela Vista e terá que pagar indenização à filha da vítima",
+    "guid": "scmulti:cee59a3378eb703e281984902cea46ce2752dacc",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_cee59a3378eb703e281984902cea46ce2752dacc/",
+    "usedAt": 1785098822059,
+    "usedAtIso": "2026-07-26T20:47:02.059Z"
+  },
+  "source:68d9c5172f94d9ac30580d6e9e51efad2fef52d8": {
+    "url": "https://visornoticias.com.br/trabalhador-morre-nove-dias-apos-cair-de-35-metros-do-telhado-em-sc",
+    "title": "Trabalhador morre após queda durante conserto em Irani",
+    "guid": "scmulti:e6f010b2f981aeca73f5a8ab6c382706ae93b697",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_e6f010b2f981aeca73f5a8ab6c382706ae93b697/",
+    "usedAt": 1785095222908,
+    "usedAtIso": "2026-07-26T19:47:02.908Z"
+  },
+  "source:8c7bc448b600f549e9cab2190577de4944e54e21": {
+    "url": "https://visornoticias.com.br/banda-municipal-de-itapema-conquista-tetracampeonato-geral-do-concurso-de-bandas-e-fanfarras-em-sc",
+    "title": "Banda Municipal de Itapema conquista quarto título geral em campeonato com 28 corporações musicais",
+    "guid": "scmulti:f280fec14a7789a2da866b3d0edf767ded727a5c",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_f280fec14a7789a2da866b3d0edf767ded727a5c/",
+    "usedAt": 1785088022503,
+    "usedAtIso": "2026-07-26T17:47:02.503Z"
+  },
+  "source:1a2f2182d3e8b17a14fcad0db44cffa6815131fc": {
+    "url": "https://visornoticias.com.br/motociclista-bebado-em-alta-velocidade-atinge-ciclista-e-acaba-preso-em-itapema",
+    "title": "Motociclista embriagado provoca acidente com ciclista em Santa Catarina e é preso",
+    "guid": "scmulti:cbbcc7a54705af6c8f2e28f192d41d194e027782",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_cbbcc7a54705af6c8f2e28f192d41d194e027782/",
+    "usedAt": 1785088022503,
+    "usedAtIso": "2026-07-26T17:47:02.503Z"
+  },
+  "source:b7b3520655c1a76cc1213be03ae1b58eec20ec67": {
+    "url": "https://visornoticias.com.br/local-interditado-apos-tentativa-de-homicidio-e-fechado-novamente-pela-fiscalizacao-de-balneario-camboriu",
+    "title": "Prefeitura de Balneário Camboriú interdita novamente estabelecimento na Quinta Avenida por descumprimento de ordem pública",
+    "guid": "scmulti:04382609e5eba7c6a253a07bfd4a0a2995c7d3dc",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_04382609e5eba7c6a253a07bfd4a0a2995c7d3dc/",
+    "usedAt": 1785084422433,
+    "usedAtIso": "2026-07-26T16:47:02.433Z"
+  },
+  "source:446e112420300def6bc11177f504a6af6c6e9e64": {
+    "url": "https://visornoticias.com.br/justica-da-90-dias-para-prefeitura-impedir-risco-de-deslizamento-e-desabamento-sobre-casas-em-florianopolis",
+    "title": "Justiça determina obras e monitoramento em área de risco em Florianópolis após descumprimento de medidas",
+    "guid": "scmulti:1a238c723ea11e6c0334ae930331eeeefd09f3ca",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_1a238c723ea11e6c0334ae930331eeeefd09f3ca/",
+    "usedAt": 1785077222222,
+    "usedAtIso": "2026-07-26T14:47:02.222Z"
+  },
+  "source:65bd8c8f9ff9038374f330bb777a77c87762a0f7": {
+    "url": "https://visornoticias.com.br/defesa-civil-emite-alerta-para-temporais-severos-com-raios-ventania-e-alagamentos-em-tres-regioes-de-sc",
+    "title": "Defesa Civil alerta para temporais isolados em Santa Catarina neste domingo",
+    "guid": "scmulti:4112d43c1601cc4989cb518c6c2b44469ef4f5f7",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_4112d43c1601cc4989cb518c6c2b44469ef4f5f7/",
+    "usedAt": 1785073622658,
+    "usedAtIso": "2026-07-26T13:47:02.658Z"
+  },
+  "source:8dcd7111d3955f14e6a23338873ef785f42c6370": {
+    "url": "https://visornoticias.com.br/confronto-com-a-pm-na-divisa-com-camboriu-mata-adolescente-e-deixa-jovem-em-estado-grave",
+    "title": "Policial é baleado durante abordagem a motocicleta furtada em Itajaí",
+    "guid": "scmulti:6255aadf477ee2d0c296dba2d4612fdcc9024183",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_6255aadf477ee2d0c296dba2d4612fdcc9024183/",
+    "usedAt": 1785073622658,
+    "usedAtIso": "2026-07-26T13:47:02.658Z"
+  },
+  "source:4192f69a394d2dbbcb750c4078a05923a7e16314": {
+    "url": "https://visornoticias.com.br/motociclista-morre-apos-bater-em-poste-e-passageiro-fica-gravemente-ferido-em-sc",
+    "title": "Motociclista morre em acidente em Gaspar; passageiro é hospitalizado com ferimentos graves",
+    "guid": "scmulti:ebfda1ae21fbea2e012585ab984dfad774cd4aab",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_ebfda1ae21fbea2e012585ab984dfad774cd4aab/",
+    "usedAt": 1785070022043,
+    "usedAtIso": "2026-07-26T12:47:02.043Z"
+  },
+  "source:65abed22a1af97c13345b06749993172edad4db0": {
+    "url": "https://visornoticias.com.br/idosa-de-63-anos-e-atropelada-enquanto-caminhava-com-bicicleta-no-norte-de-sc",
+    "title": "Idosa sofre suspeita de fratura após acidente em Garuva e é levada ao pronto atendimento",
+    "guid": "scmulti:c1f3807864bd9e4e2caf246109abaffc6bbeb5cd",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_c1f3807864bd9e4e2caf246109abaffc6bbeb5cd/",
+    "usedAt": 1785066422209,
+    "usedAtIso": "2026-07-26T11:47:02.209Z"
+  },
+  "source:4d0712c8868d2117bcf918d5e429dc91c8fabfb8": {
+    "url": "https://visornoticias.com.br/denuncia-leva-policia-a-estufa-usada-para-plantacao-de-maconha-em-sc",
+    "title": "Polícia Civil apreende estufa para cultivo de maconha em Criciúma após denúncia do Ministério Público",
+    "guid": "scmulti:885ac5487ff4866f295f274c85df51e153f7dae7",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_885ac5487ff4866f295f274c85df51e153f7dae7/",
+    "usedAt": 1785016022429,
+    "usedAtIso": "2026-07-25T21:47:02.429Z"
+  },
+  "source:1a523fbbdf0a97f961d05fbec86625a5949ca3c0": {
+    "url": "https://visornoticias.com.br/motociclista-e-resgatado-de-helicoptero-apos-acidente-em-trilha-de-biguacu",
+    "title": "Motociclista é resgatado com ferimentos graves em área de mata de difícil acesso em Santa Catarina",
+    "guid": "scmulti:adace61210e76c803137890f6649d818808835e3",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_adace61210e76c803137890f6649d818808835e3/",
+    "usedAt": 1785012422098,
+    "usedAtIso": "2026-07-25T20:47:02.098Z"
+  },
+  "source:166ce5f6ac7a70396194d82ef65a93f1334dd65d": {
+    "url": "https://visornoticias.com.br/sogra-tera-que-pagar-r-10-mil-por-expor-neto-e-ofender-nora-nas-redes-sociais-em-sc",
+    "title": "Tribunal de São Francisco do Sul determina indenização e retratação por públicações ofensivas contra nora",
+    "guid": "scmulti:09f60d3764dc06a34211479b3004f34664878ee4",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_09f60d3764dc06a34211479b3004f34664878ee4/",
+    "usedAt": 1785012422098,
+    "usedAtIso": "2026-07-25T20:47:02.098Z"
+  },
+  "source:7e48aaf34de69cb23caf3beaa24453ac671329fd": {
+    "url": "https://visornoticias.com.br/homem-recem-saido-da-prisao-e-preso-tentando-furtar-casa-em-porto-belo",
+    "title": "Homem recém-saído da prisão é preso ao tentar furtar residência em Porto Belo",
+    "guid": "scmulti:720d773b17f5c029e1faa0aabf965a109650b99e",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_720d773b17f5c029e1faa0aabf965a109650b99e/",
+    "usedAt": 1785005222572,
+    "usedAtIso": "2026-07-25T18:47:02.572Z"
+  },
+  "source:c253d495815554467931249f61289a0a5a4d4ca5": {
+    "url": "https://visornoticias.com.br/sistema-de-reconhecimento-facial-entrega-foragido-a-pm-em-balneario-camboriu",
+    "title": "Homem é preso em Balneário Camboriú após alerta do sistema de reconhecimento facial",
+    "guid": "scmulti:b883c518f96538fbbe8d1adc6af76448b61b6c0a",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_b883c518f96538fbbe8d1adc6af76448b61b6c0a/",
+    "usedAt": 1784998022340,
+    "usedAtIso": "2026-07-25T16:47:02.340Z"
+  },
+  "source:a16f1f1ad4f5c6ee5a774ccd4d9fb7d222728c0e": {
+    "url": "https://visornoticias.com.br/acidente-entre-quatro-carros-deixa-quatro-feridos-na-br-470-em-sc",
+    "title": "Acidente na BR-470 em Pouso Redondo deixa três feridos e causa interdição temporária da via",
+    "guid": "scmulti:75c85986a9734f4aeb8829824ec338cad73d0957",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_75c85986a9734f4aeb8829824ec338cad73d0957/",
+    "usedAt": 1784990822271,
+    "usedAtIso": "2026-07-25T14:47:02.271Z"
+  },
+  "source:d06195c15bd8513fd0167504dce69a907a667de4": {
+    "url": "https://visornoticias.com.br/defesa-civil-emite-alerta-de-temporais-para-toda-santa-catarina-neste-domingo",
+    "title": "Defesa Civil alerta para temporais em Santa Catarina neste domingo",
+    "guid": "scmulti:3c92b337828accb72e248fe2ba89d0a31111c41f",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_3c92b337828accb72e248fe2ba89d0a31111c41f/",
+    "usedAt": 1784987222842,
+    "usedAtIso": "2026-07-25T13:47:02.842Z"
+  },
+  "source:907b01e923e6a51f97454c2f1b13ddb6f5788380": {
+    "url": "https://visornoticias.com.br/corpo-de-mulher-desaparecida-e-encontrado-em-rio-de-sc",
+    "title": "Corpo de mulher desaparecida em Braço do Norte é encontrado em rio no bairro Uruguaia",
+    "guid": "scmulti:3ea3f4b941f4b9fb30e78f6576c005eb24d90a88",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_3ea3f4b941f4b9fb30e78f6576c005eb24d90a88/",
+    "usedAt": 1784983622827,
+    "usedAtIso": "2026-07-25T12:47:02.827Z"
+  },
+  "source:e96bafc1d7a2a53c2c054ea4fcf5766312b104b9": {
+    "url": "https://visornoticias.com.br/motorista-fica-ferido-apos-bater-contra-veiculo-estacionado-e-guard-rail-em-sc",
+    "title": "Motorista fica ferido após colisão contra veículo estacionado e guard-rail em Lages",
+    "guid": "scmulti:de0962206ae4c66612747fd14abb8e2b7d9d82bd",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_de0962206ae4c66612747fd14abb8e2b7d9d82bd/",
+    "usedAt": 1784983622827,
+    "usedAtIso": "2026-07-25T12:47:02.827Z"
+  },
+  "source:f1591ae4958c26ec9e958f410b6ad2340a2424e0": {
+    "url": "https://visornoticias.com.br/sabado-tera-sol-e-temperaturas-de-ate-25c-em-sc",
+    "title": "Sol predomina e temperaturas sobem em Santa Catarina após instabilidade na madrugada",
+    "guid": "scmulti:123025727a2cd3a16641af8565a35ff04b660b9c",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_123025727a2cd3a16641af8565a35ff04b660b9c/",
+    "usedAt": 1784947622085,
+    "usedAtIso": "2026-07-25T02:47:02.085Z"
+  },
+  "source:480442a9b02730ca1b129e43ec75b6ee12f0878a": {
+    "url": "https://visornoticias.com.br/identificado-motorista-que-morreu-em-acidente-com-caminhao-em-sc",
+    "title": "Colisão entre Gol e caminhão na Rodovia João Cirimbelli deixa um morto e um ferido",
+    "guid": "scmulti:74713f5b65847269ab646ee0cad3cf338f3f0878",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_74713f5b65847269ab646ee0cad3cf338f3f0878/",
+    "usedAt": 1784936822538,
+    "usedAtIso": "2026-07-24T23:47:02.538Z"
+  },
+  "source:9af09ff586db2406eb160139c6d70fd8bfd0cfd2": {
+    "url": "https://visornoticias.com.br/motorista-morre-apos-acidente-com-caminhao-em-sc",
+    "title": "Acidente entre carro e caminhão deixa motorista do Gol morto em Criciúma",
+    "guid": "scmulti:8023f07fc54e9aaf54bb44118e664beef51e4a5c",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_8023f07fc54e9aaf54bb44118e664beef51e4a5c/",
+    "usedAt": 1784936822538,
+    "usedAtIso": "2026-07-24T23:47:02.538Z"
+  },
+  "source:42a514e4188f3cf013b5c574d054f63e45d88f3a": {
+    "url": "https://visornoticias.com.br/sc-tem-54-cidades-em-alerta-para-raios-e-ventos-fortes",
+    "title": "Defesa Civil emite alertas de temporais para 54 cidades do Oeste, Extremo Oeste e Meio-Oeste de Santa Catarina",
+    "guid": "scmulti:035a239febed1d1925cda12e6c66515c696582c9",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_035a239febed1d1925cda12e6c66515c696582c9/",
+    "usedAt": 1784933222883,
+    "usedAtIso": "2026-07-24T22:47:02.883Z"
+  },
+  "source:a37d2783205a585d47fee04a9c5dcfcb4c35544b": {
+    "url": "https://visornoticias.com.br/corrida-altera-transito-na-beira-mar-continental-em-florianopolis-neste-domingo-veja-como-fica",
+    "title": "Corredores terão trecho exclusivo na Beira-Mar Continental em Florianópolis com interdições temporárias",
+    "guid": "scmulti:a172a927089c6ef7e08f3dda30b0e519c9e6ae44",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_a172a927089c6ef7e08f3dda30b0e519c9e6ae44/",
+    "usedAt": 1784929622108,
+    "usedAtIso": "2026-07-24T21:47:02.108Z"
+  },
+  "source:0d0ec496bf05caeb6fa7329cbc225828c251add6": {
+    "url": "https://visornoticias.com.br/acidente-deixa-dois-carros-com-a-frente-destruida-em-brusque",
+    "title": "Carro perde controle, atinge poste e colide com outro veículo em rua de Santa Catarina",
+    "guid": "scmulti:58c3584854a4652d8cd89960023accc19e9d4982",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_58c3584854a4652d8cd89960023accc19e9d4982/",
+    "usedAt": 1784929622108,
+    "usedAtIso": "2026-07-24T21:47:02.108Z"
+  },
+  "source:f53dbfa865b46a58467f829aadc80d28265628e3": {
+    "url": "https://visornoticias.com.br/foragido-com-mais-de-oito-anos-de-pena-e-preso-em-itapema",
+    "title": "Homem é preso em Santa Catarina por ordem judicial do Rio Grande do Sul por tráfico e posse ilegal de arma",
+    "guid": "scmulti:d67dce4e6277cd933f008f1c900307e2e07716bc",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_d67dce4e6277cd933f008f1c900307e2e07716bc/",
+    "usedAt": 1784926022255,
+    "usedAtIso": "2026-07-24T20:47:02.255Z"
+  },
+  "source:680bd84934ce82d179b9ab6fef007fa93dcab5e0": {
+    "url": "https://visornoticias.com.br/manutencao-gramado-estadio-lages",
+    "title": "Lages abre licitação para manutenção do gramado do Estádio Vidal Ramos Júnior com investimento de R$ 34 mil",
+    "guid": "scmulti:8356ea26a34daddadf24c3ab0d8f6ec245da199f",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_8356ea26a34daddadf24c3ab0d8f6ec245da199f/",
+    "usedAt": 1784922422711,
+    "usedAtIso": "2026-07-24T19:47:02.711Z"
+  },
+  "source:8adb58804cc61c85bbce43fc36ea84cf3373f803": {
+    "url": "https://visornoticias.com.br/festa-do-colono-altera-transito-itajai",
+    "title": "Festa do Colono em Itajaí provoca mudanças temporárias no trânsito até domingo",
+    "guid": "scmulti:fc83909d722d51c13ec15d543418ba6dcc063b7d",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_fc83909d722d51c13ec15d543418ba6dcc063b7d/",
+    "usedAt": 1784922422711,
+    "usedAtIso": "2026-07-24T19:47:02.711Z"
+  },
+  "source:5be9b3f609fcdfb7eac4146a53dfa5c36a24a226": {
+    "url": "https://visornoticias.com.br/empresario-ano-chapeco-2",
+    "title": "ACIC anuncia processo para eleição do Empresário e Empresária do Ano em Chapecó",
+    "guid": "scmulti:c4659fa0efd70a0db5da136cd33a8000da7b67d7",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_c4659fa0efd70a0db5da136cd33a8000da7b67d7/",
+    "usedAt": 1784922422711,
+    "usedAtIso": "2026-07-24T19:47:02.711Z"
+  },
+  "source:4409fa705acd819681b739f142ce2af3725a07c5": {
+    "url": "https://visornoticias.com.br/dia-do-viajante-objetos-originais-em-parque-de-santa-catarina-revelam-como-piratas-cruzavam-os-oceanos",
+    "title": "Aventura Pirata em Balneário Camboriú reúne acervo histórico sobre a vida marítima na Era da Pirataria",
+    "guid": "scmulti:34bc722bd82ac27cfd52b140a9a95d5680ed10cc",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_34bc722bd82ac27cfd52b140a9a95d5680ed10cc/",
+    "usedAt": 1784918822612,
+    "usedAtIso": "2026-07-24T18:47:02.612Z"
+  },
+  "source:33e19264e216b8f718978cd2bb5dce0387e72979": {
+    "url": "https://visornoticias.com.br/reu-que-acelerou-caminhao-contra-ex-sogro-e-o-prensou-entre-dois-veiculos-e-condenado-a-10-anos-em-sc",
+    "title": "Homem é condenado por tentativa de homicídio após atropelar ex-sogro com caminhão-guincho em Santa Catarina",
+    "guid": "scmulti:47babfffcc3ed282ab7ee112cf9e052dcfaa1089",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_47babfffcc3ed282ab7ee112cf9e052dcfaa1089/",
+    "usedAt": 1784915223920,
+    "usedAtIso": "2026-07-24T17:47:03.920Z"
+  },
+  "source:8bb1c8c7c8a96e25ae2646ab706909788a9368eb": {
+    "url": "https://visornoticias.com.br/disputa-por-terreno-termina-com-uma-pessoa-morta-e-condenacao-de-familia-em-sc",
+    "title": "Quatro réus são condenados por confronto entre vizinhos em Irani que resultou em morte",
+    "guid": "scmulti:609143a1b16002e4430deb1849c9cb7a6808d176",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_609143a1b16002e4430deb1849c9cb7a6808d176/",
+    "usedAt": 1784911622251,
+    "usedAtIso": "2026-07-24T16:47:02.251Z"
+  },
+  "source:0f89746cddbe8a2084acb32426ace127765accc6": {
+    "url": "https://visornoticias.com.br/perfil-falso-espalha-alertas-falsos-de-buracos-no-waze-em-balneario-camboriu",
+    "title": "Perfil falso no Waze gera alertas falsos de buracos em Balneário Camboriú e Prefeitura aciona Ministério Público",
+    "guid": "scmulti:fd5bd3819abf066fe71159c2add89db89302986e",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_fd5bd3819abf066fe71159c2add89db89302986e/",
+    "usedAt": 1784908022842,
+    "usedAtIso": "2026-07-24T15:47:02.842Z"
+  },
+  "source:40079c497f926ab8b73244008a3f63fa18e3db16": {
+    "url": "https://visornoticias.com.br/furtos-de-cabos-causam-prejuizo-de-mais-de-r-700-mil-e-afetam-seguranca-na-br-116",
+    "title": "Furtos e vandalismo causam prejuízo de R$ 731 mil e comprometem segurança na BR-116 em Santa Catarina e Paraná",
+    "guid": "scmulti:8f495b26298256d5bd46610daa9a4bb0173feeda",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_8f495b26298256d5bd46610daa9a4bb0173feeda/",
+    "usedAt": 1784904422556,
+    "usedAtIso": "2026-07-24T14:47:02.556Z"
+  },
   "source:2e26797a1408edc60362a24945cbbfdd46928346": {
     "url": "https://cbntotal.com.br/esportes/figueirense-x-itabaiana-onde-assistir-horario-e-vote-em-quem-vence-na-serie-c",
     "title": "Figueirense x Itabaiana: onde assistir, horário e VOTE em quem vence na Série C",
@@ -5063,364 +5423,20 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:40079c497f926ab8b73244008a3f63fa18e3db16": {
-    "url": "https://visornoticias.com.br/furtos-de-cabos-causam-prejuizo-de-mais-de-r-700-mil-e-afetam-seguranca-na-br-116",
-    "title": "Furtos e vandalismo causam prejuízo de R$ 731 mil e comprometem segurança na BR-116 em Santa Catarina e Paraná",
-    "guid": "scmulti:8f495b26298256d5bd46610daa9a4bb0173feeda",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_8f495b26298256d5bd46610daa9a4bb0173feeda/",
-    "usedAt": 1784904422556,
-    "usedAtIso": "2026-07-24T14:47:02.556Z"
+  "source:01af8ecbf26898c4310f7c08ab25d5ffde69a5a5": {
+    "url": "https://visornoticias.com.br/calor-antecede-frente-fria-e-temporais-voltam-a-sc-nesta-terca-feira",
+    "title": "Frente fria provoca temporais isolados em Santa Catarina a partir da noite",
+    "guid": "scmulti:6f4dca37ce750f6be685775cba51d7573b4f9737",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_6f4dca37ce750f6be685775cba51d7573b4f9737/",
+    "usedAt": 1785195422310,
+    "usedAtIso": "2026-07-27T23:37:02.310Z"
   },
-  "source:0f89746cddbe8a2084acb32426ace127765accc6": {
-    "url": "https://visornoticias.com.br/perfil-falso-espalha-alertas-falsos-de-buracos-no-waze-em-balneario-camboriu",
-    "title": "Perfil falso no Waze gera alertas falsos de buracos em Balneário Camboriú e Prefeitura aciona Ministério Público",
-    "guid": "scmulti:fd5bd3819abf066fe71159c2add89db89302986e",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_fd5bd3819abf066fe71159c2add89db89302986e/",
-    "usedAt": 1784908022842,
-    "usedAtIso": "2026-07-24T15:47:02.842Z"
-  },
-  "source:8bb1c8c7c8a96e25ae2646ab706909788a9368eb": {
-    "url": "https://visornoticias.com.br/disputa-por-terreno-termina-com-uma-pessoa-morta-e-condenacao-de-familia-em-sc",
-    "title": "Quatro réus são condenados por confronto entre vizinhos em Irani que resultou em morte",
-    "guid": "scmulti:609143a1b16002e4430deb1849c9cb7a6808d176",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_609143a1b16002e4430deb1849c9cb7a6808d176/",
-    "usedAt": 1784911622251,
-    "usedAtIso": "2026-07-24T16:47:02.251Z"
-  },
-  "source:33e19264e216b8f718978cd2bb5dce0387e72979": {
-    "url": "https://visornoticias.com.br/reu-que-acelerou-caminhao-contra-ex-sogro-e-o-prensou-entre-dois-veiculos-e-condenado-a-10-anos-em-sc",
-    "title": "Homem é condenado por tentativa de homicídio após atropelar ex-sogro com caminhão-guincho em Santa Catarina",
-    "guid": "scmulti:47babfffcc3ed282ab7ee112cf9e052dcfaa1089",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_47babfffcc3ed282ab7ee112cf9e052dcfaa1089/",
-    "usedAt": 1784915223920,
-    "usedAtIso": "2026-07-24T17:47:03.920Z"
-  },
-  "source:4409fa705acd819681b739f142ce2af3725a07c5": {
-    "url": "https://visornoticias.com.br/dia-do-viajante-objetos-originais-em-parque-de-santa-catarina-revelam-como-piratas-cruzavam-os-oceanos",
-    "title": "Aventura Pirata em Balneário Camboriú reúne acervo histórico sobre a vida marítima na Era da Pirataria",
-    "guid": "scmulti:34bc722bd82ac27cfd52b140a9a95d5680ed10cc",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_34bc722bd82ac27cfd52b140a9a95d5680ed10cc/",
-    "usedAt": 1784918822612,
-    "usedAtIso": "2026-07-24T18:47:02.612Z"
-  },
-  "source:680bd84934ce82d179b9ab6fef007fa93dcab5e0": {
-    "url": "https://visornoticias.com.br/manutencao-gramado-estadio-lages",
-    "title": "Lages abre licitação para manutenção do gramado do Estádio Vidal Ramos Júnior com investimento de R$ 34 mil",
-    "guid": "scmulti:8356ea26a34daddadf24c3ab0d8f6ec245da199f",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_8356ea26a34daddadf24c3ab0d8f6ec245da199f/",
-    "usedAt": 1784922422711,
-    "usedAtIso": "2026-07-24T19:47:02.711Z"
-  },
-  "source:8adb58804cc61c85bbce43fc36ea84cf3373f803": {
-    "url": "https://visornoticias.com.br/festa-do-colono-altera-transito-itajai",
-    "title": "Festa do Colono em Itajaí provoca mudanças temporárias no trânsito até domingo",
-    "guid": "scmulti:fc83909d722d51c13ec15d543418ba6dcc063b7d",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_fc83909d722d51c13ec15d543418ba6dcc063b7d/",
-    "usedAt": 1784922422711,
-    "usedAtIso": "2026-07-24T19:47:02.711Z"
-  },
-  "source:5be9b3f609fcdfb7eac4146a53dfa5c36a24a226": {
-    "url": "https://visornoticias.com.br/empresario-ano-chapeco-2",
-    "title": "ACIC anuncia processo para eleição do Empresário e Empresária do Ano em Chapecó",
-    "guid": "scmulti:c4659fa0efd70a0db5da136cd33a8000da7b67d7",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_c4659fa0efd70a0db5da136cd33a8000da7b67d7/",
-    "usedAt": 1784922422711,
-    "usedAtIso": "2026-07-24T19:47:02.711Z"
-  },
-  "source:f53dbfa865b46a58467f829aadc80d28265628e3": {
-    "url": "https://visornoticias.com.br/foragido-com-mais-de-oito-anos-de-pena-e-preso-em-itapema",
-    "title": "Homem é preso em Santa Catarina por ordem judicial do Rio Grande do Sul por tráfico e posse ilegal de arma",
-    "guid": "scmulti:d67dce4e6277cd933f008f1c900307e2e07716bc",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_d67dce4e6277cd933f008f1c900307e2e07716bc/",
-    "usedAt": 1784926022255,
-    "usedAtIso": "2026-07-24T20:47:02.255Z"
-  },
-  "source:a37d2783205a585d47fee04a9c5dcfcb4c35544b": {
-    "url": "https://visornoticias.com.br/corrida-altera-transito-na-beira-mar-continental-em-florianopolis-neste-domingo-veja-como-fica",
-    "title": "Corredores terão trecho exclusivo na Beira-Mar Continental em Florianópolis com interdições temporárias",
-    "guid": "scmulti:a172a927089c6ef7e08f3dda30b0e519c9e6ae44",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_a172a927089c6ef7e08f3dda30b0e519c9e6ae44/",
-    "usedAt": 1784929622108,
-    "usedAtIso": "2026-07-24T21:47:02.108Z"
-  },
-  "source:0d0ec496bf05caeb6fa7329cbc225828c251add6": {
-    "url": "https://visornoticias.com.br/acidente-deixa-dois-carros-com-a-frente-destruida-em-brusque",
-    "title": "Carro perde controle, atinge poste e colide com outro veículo em rua de Santa Catarina",
-    "guid": "scmulti:58c3584854a4652d8cd89960023accc19e9d4982",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_58c3584854a4652d8cd89960023accc19e9d4982/",
-    "usedAt": 1784929622108,
-    "usedAtIso": "2026-07-24T21:47:02.108Z"
-  },
-  "source:42a514e4188f3cf013b5c574d054f63e45d88f3a": {
-    "url": "https://visornoticias.com.br/sc-tem-54-cidades-em-alerta-para-raios-e-ventos-fortes",
-    "title": "Defesa Civil emite alertas de temporais para 54 cidades do Oeste, Extremo Oeste e Meio-Oeste de Santa Catarina",
-    "guid": "scmulti:035a239febed1d1925cda12e6c66515c696582c9",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_035a239febed1d1925cda12e6c66515c696582c9/",
-    "usedAt": 1784933222883,
-    "usedAtIso": "2026-07-24T22:47:02.883Z"
-  },
-  "source:480442a9b02730ca1b129e43ec75b6ee12f0878a": {
-    "url": "https://visornoticias.com.br/identificado-motorista-que-morreu-em-acidente-com-caminhao-em-sc",
-    "title": "Colisão entre Gol e caminhão na Rodovia João Cirimbelli deixa um morto e um ferido",
-    "guid": "scmulti:74713f5b65847269ab646ee0cad3cf338f3f0878",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_74713f5b65847269ab646ee0cad3cf338f3f0878/",
-    "usedAt": 1784936822538,
-    "usedAtIso": "2026-07-24T23:47:02.538Z"
-  },
-  "source:9af09ff586db2406eb160139c6d70fd8bfd0cfd2": {
-    "url": "https://visornoticias.com.br/motorista-morre-apos-acidente-com-caminhao-em-sc",
-    "title": "Acidente entre carro e caminhão deixa motorista do Gol morto em Criciúma",
-    "guid": "scmulti:8023f07fc54e9aaf54bb44118e664beef51e4a5c",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_8023f07fc54e9aaf54bb44118e664beef51e4a5c/",
-    "usedAt": 1784936822538,
-    "usedAtIso": "2026-07-24T23:47:02.538Z"
-  },
-  "source:f1591ae4958c26ec9e958f410b6ad2340a2424e0": {
-    "url": "https://visornoticias.com.br/sabado-tera-sol-e-temperaturas-de-ate-25c-em-sc",
-    "title": "Sol predomina e temperaturas sobem em Santa Catarina após instabilidade na madrugada",
-    "guid": "scmulti:123025727a2cd3a16641af8565a35ff04b660b9c",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_123025727a2cd3a16641af8565a35ff04b660b9c/",
-    "usedAt": 1784947622085,
-    "usedAtIso": "2026-07-25T02:47:02.085Z"
-  },
-  "source:907b01e923e6a51f97454c2f1b13ddb6f5788380": {
-    "url": "https://visornoticias.com.br/corpo-de-mulher-desaparecida-e-encontrado-em-rio-de-sc",
-    "title": "Corpo de mulher desaparecida em Braço do Norte é encontrado em rio no bairro Uruguaia",
-    "guid": "scmulti:3ea3f4b941f4b9fb30e78f6576c005eb24d90a88",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_3ea3f4b941f4b9fb30e78f6576c005eb24d90a88/",
-    "usedAt": 1784983622827,
-    "usedAtIso": "2026-07-25T12:47:02.827Z"
-  },
-  "source:e96bafc1d7a2a53c2c054ea4fcf5766312b104b9": {
-    "url": "https://visornoticias.com.br/motorista-fica-ferido-apos-bater-contra-veiculo-estacionado-e-guard-rail-em-sc",
-    "title": "Motorista fica ferido após colisão contra veículo estacionado e guard-rail em Lages",
-    "guid": "scmulti:de0962206ae4c66612747fd14abb8e2b7d9d82bd",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_de0962206ae4c66612747fd14abb8e2b7d9d82bd/",
-    "usedAt": 1784983622827,
-    "usedAtIso": "2026-07-25T12:47:02.827Z"
-  },
-  "source:d06195c15bd8513fd0167504dce69a907a667de4": {
-    "url": "https://visornoticias.com.br/defesa-civil-emite-alerta-de-temporais-para-toda-santa-catarina-neste-domingo",
-    "title": "Defesa Civil alerta para temporais em Santa Catarina neste domingo",
-    "guid": "scmulti:3c92b337828accb72e248fe2ba89d0a31111c41f",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_3c92b337828accb72e248fe2ba89d0a31111c41f/",
-    "usedAt": 1784987222842,
-    "usedAtIso": "2026-07-25T13:47:02.842Z"
-  },
-  "source:a16f1f1ad4f5c6ee5a774ccd4d9fb7d222728c0e": {
-    "url": "https://visornoticias.com.br/acidente-entre-quatro-carros-deixa-quatro-feridos-na-br-470-em-sc",
-    "title": "Acidente na BR-470 em Pouso Redondo deixa três feridos e causa interdição temporária da via",
-    "guid": "scmulti:75c85986a9734f4aeb8829824ec338cad73d0957",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_75c85986a9734f4aeb8829824ec338cad73d0957/",
-    "usedAt": 1784990822271,
-    "usedAtIso": "2026-07-25T14:47:02.271Z"
-  },
-  "source:c253d495815554467931249f61289a0a5a4d4ca5": {
-    "url": "https://visornoticias.com.br/sistema-de-reconhecimento-facial-entrega-foragido-a-pm-em-balneario-camboriu",
-    "title": "Homem é preso em Balneário Camboriú após alerta do sistema de reconhecimento facial",
-    "guid": "scmulti:b883c518f96538fbbe8d1adc6af76448b61b6c0a",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_b883c518f96538fbbe8d1adc6af76448b61b6c0a/",
-    "usedAt": 1784998022340,
-    "usedAtIso": "2026-07-25T16:47:02.340Z"
-  },
-  "source:7e48aaf34de69cb23caf3beaa24453ac671329fd": {
-    "url": "https://visornoticias.com.br/homem-recem-saido-da-prisao-e-preso-tentando-furtar-casa-em-porto-belo",
-    "title": "Homem recém-saído da prisão é preso ao tentar furtar residência em Porto Belo",
-    "guid": "scmulti:720d773b17f5c029e1faa0aabf965a109650b99e",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_720d773b17f5c029e1faa0aabf965a109650b99e/",
-    "usedAt": 1785005222572,
-    "usedAtIso": "2026-07-25T18:47:02.572Z"
-  },
-  "source:1a523fbbdf0a97f961d05fbec86625a5949ca3c0": {
-    "url": "https://visornoticias.com.br/motociclista-e-resgatado-de-helicoptero-apos-acidente-em-trilha-de-biguacu",
-    "title": "Motociclista é resgatado com ferimentos graves em área de mata de difícil acesso em Santa Catarina",
-    "guid": "scmulti:adace61210e76c803137890f6649d818808835e3",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_adace61210e76c803137890f6649d818808835e3/",
-    "usedAt": 1785012422098,
-    "usedAtIso": "2026-07-25T20:47:02.098Z"
-  },
-  "source:166ce5f6ac7a70396194d82ef65a93f1334dd65d": {
-    "url": "https://visornoticias.com.br/sogra-tera-que-pagar-r-10-mil-por-expor-neto-e-ofender-nora-nas-redes-sociais-em-sc",
-    "title": "Tribunal de São Francisco do Sul determina indenização e retratação por públicações ofensivas contra nora",
-    "guid": "scmulti:09f60d3764dc06a34211479b3004f34664878ee4",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_09f60d3764dc06a34211479b3004f34664878ee4/",
-    "usedAt": 1785012422098,
-    "usedAtIso": "2026-07-25T20:47:02.098Z"
-  },
-  "source:4d0712c8868d2117bcf918d5e429dc91c8fabfb8": {
-    "url": "https://visornoticias.com.br/denuncia-leva-policia-a-estufa-usada-para-plantacao-de-maconha-em-sc",
-    "title": "Polícia Civil apreende estufa para cultivo de maconha em Criciúma após denúncia do Ministério Público",
-    "guid": "scmulti:885ac5487ff4866f295f274c85df51e153f7dae7",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_885ac5487ff4866f295f274c85df51e153f7dae7/",
-    "usedAt": 1785016022429,
-    "usedAtIso": "2026-07-25T21:47:02.429Z"
-  },
-  "source:65abed22a1af97c13345b06749993172edad4db0": {
-    "url": "https://visornoticias.com.br/idosa-de-63-anos-e-atropelada-enquanto-caminhava-com-bicicleta-no-norte-de-sc",
-    "title": "Idosa sofre suspeita de fratura após acidente em Garuva e é levada ao pronto atendimento",
-    "guid": "scmulti:c1f3807864bd9e4e2caf246109abaffc6bbeb5cd",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_c1f3807864bd9e4e2caf246109abaffc6bbeb5cd/",
-    "usedAt": 1785066422209,
-    "usedAtIso": "2026-07-26T11:47:02.209Z"
-  },
-  "source:4192f69a394d2dbbcb750c4078a05923a7e16314": {
-    "url": "https://visornoticias.com.br/motociclista-morre-apos-bater-em-poste-e-passageiro-fica-gravemente-ferido-em-sc",
-    "title": "Motociclista morre em acidente em Gaspar; passageiro é hospitalizado com ferimentos graves",
-    "guid": "scmulti:ebfda1ae21fbea2e012585ab984dfad774cd4aab",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_ebfda1ae21fbea2e012585ab984dfad774cd4aab/",
-    "usedAt": 1785070022043,
-    "usedAtIso": "2026-07-26T12:47:02.043Z"
-  },
-  "source:65bd8c8f9ff9038374f330bb777a77c87762a0f7": {
-    "url": "https://visornoticias.com.br/defesa-civil-emite-alerta-para-temporais-severos-com-raios-ventania-e-alagamentos-em-tres-regioes-de-sc",
-    "title": "Defesa Civil alerta para temporais isolados em Santa Catarina neste domingo",
-    "guid": "scmulti:4112d43c1601cc4989cb518c6c2b44469ef4f5f7",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_4112d43c1601cc4989cb518c6c2b44469ef4f5f7/",
-    "usedAt": 1785073622658,
-    "usedAtIso": "2026-07-26T13:47:02.658Z"
-  },
-  "source:8dcd7111d3955f14e6a23338873ef785f42c6370": {
-    "url": "https://visornoticias.com.br/confronto-com-a-pm-na-divisa-com-camboriu-mata-adolescente-e-deixa-jovem-em-estado-grave",
-    "title": "Policial é baleado durante abordagem a motocicleta furtada em Itajaí",
-    "guid": "scmulti:6255aadf477ee2d0c296dba2d4612fdcc9024183",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_6255aadf477ee2d0c296dba2d4612fdcc9024183/",
-    "usedAt": 1785073622658,
-    "usedAtIso": "2026-07-26T13:47:02.658Z"
-  },
-  "source:446e112420300def6bc11177f504a6af6c6e9e64": {
-    "url": "https://visornoticias.com.br/justica-da-90-dias-para-prefeitura-impedir-risco-de-deslizamento-e-desabamento-sobre-casas-em-florianopolis",
-    "title": "Justiça determina obras e monitoramento em área de risco em Florianópolis após descumprimento de medidas",
-    "guid": "scmulti:1a238c723ea11e6c0334ae930331eeeefd09f3ca",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_1a238c723ea11e6c0334ae930331eeeefd09f3ca/",
-    "usedAt": 1785077222222,
-    "usedAtIso": "2026-07-26T14:47:02.222Z"
-  },
-  "source:b7b3520655c1a76cc1213be03ae1b58eec20ec67": {
-    "url": "https://visornoticias.com.br/local-interditado-apos-tentativa-de-homicidio-e-fechado-novamente-pela-fiscalizacao-de-balneario-camboriu",
-    "title": "Prefeitura de Balneário Camboriú interdita novamente estabelecimento na Quinta Avenida por descumprimento de ordem pública",
-    "guid": "scmulti:04382609e5eba7c6a253a07bfd4a0a2995c7d3dc",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_04382609e5eba7c6a253a07bfd4a0a2995c7d3dc/",
-    "usedAt": 1785084422433,
-    "usedAtIso": "2026-07-26T16:47:02.433Z"
-  },
-  "source:8c7bc448b600f549e9cab2190577de4944e54e21": {
-    "url": "https://visornoticias.com.br/banda-municipal-de-itapema-conquista-tetracampeonato-geral-do-concurso-de-bandas-e-fanfarras-em-sc",
-    "title": "Banda Municipal de Itapema conquista quarto título geral em campeonato com 28 corporações musicais",
-    "guid": "scmulti:f280fec14a7789a2da866b3d0edf767ded727a5c",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_f280fec14a7789a2da866b3d0edf767ded727a5c/",
-    "usedAt": 1785088022503,
-    "usedAtIso": "2026-07-26T17:47:02.503Z"
-  },
-  "source:1a2f2182d3e8b17a14fcad0db44cffa6815131fc": {
-    "url": "https://visornoticias.com.br/motociclista-bebado-em-alta-velocidade-atinge-ciclista-e-acaba-preso-em-itapema",
-    "title": "Motociclista embriagado provoca acidente com ciclista em Santa Catarina e é preso",
-    "guid": "scmulti:cbbcc7a54705af6c8f2e28f192d41d194e027782",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_cbbcc7a54705af6c8f2e28f192d41d194e027782/",
-    "usedAt": 1785088022503,
-    "usedAtIso": "2026-07-26T17:47:02.503Z"
-  },
-  "source:68d9c5172f94d9ac30580d6e9e51efad2fef52d8": {
-    "url": "https://visornoticias.com.br/trabalhador-morre-nove-dias-apos-cair-de-35-metros-do-telhado-em-sc",
-    "title": "Trabalhador morre após queda durante conserto em Irani",
-    "guid": "scmulti:e6f010b2f981aeca73f5a8ab6c382706ae93b697",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_e6f010b2f981aeca73f5a8ab6c382706ae93b697/",
-    "usedAt": 1785095222908,
-    "usedAtIso": "2026-07-26T19:47:02.908Z"
-  },
-  "source:e10806e3abbc3cb06ab94a3a3dbd1ffe58d8130e": {
-    "url": "https://visornoticias.com.br/homem-que-matou-companheira-na-frente-da-filha-e-condenado-a-45-anos-em-sc",
-    "title": "Homem é condenado por feminicídio em Bela Vista e terá que pagar indenização à filha da vítima",
-    "guid": "scmulti:cee59a3378eb703e281984902cea46ce2752dacc",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_cee59a3378eb703e281984902cea46ce2752dacc/",
-    "usedAt": 1785098822059,
-    "usedAtIso": "2026-07-26T20:47:02.059Z"
-  },
-  "source:cd76aa6ff5dcd03046012d9ba0dd31b9c4c78ccb": {
-    "url": "https://visornoticias.com.br/operacao-com-k9-e-drones-levam-136-pessoas-a-delegacia-e-apreende-67-kg-de-drogas-em-balneario-camboriu",
-    "title": "Guarda Municipal de Balneário Camboriú apreende mais de 6 quilos de drogas no primeiro semestre de 2026",
-    "guid": "scmulti:9d5e8b99278ed46584ba3f887b33fb8cfe45a6d6",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_9d5e8b99278ed46584ba3f887b33fb8cfe45a6d6/",
-    "usedAt": 1785160022559,
-    "usedAtIso": "2026-07-27T13:47:02.559Z"
-  },
-  "source:4894a57886cf1d657db13a059d6309a71abf0d7c": {
-    "url": "https://cbntotal.com.br/cotidiano/perigo-na-rua-calcada-esburacada-em-barranco-preocupa-moradores-de-florianopolis",
-    "title": "Calçada esburacada e com desníveis oferece risco a pedestres entre Capoeiras e Coqueiros em Florianópolis",
-    "guid": "scmulti:1e889eb84243b7fb724cee7f5ed4472eb517d6bf",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_1e889eb84243b7fb724cee7f5ed4472eb517d6bf/",
-    "usedAt": 1785160022559,
-    "usedAtIso": "2026-07-27T13:47:02.559Z"
-  },
-  "source:1adfcb513fefce5a8f76e6280687135d63bd7851": {
-    "url": "https://visornoticias.com.br/trecho-da-segunda-avenida-e-interditado-para-obras-em-itapema",
-    "title": "Segunda Avenida em Meia Praia terá bloqueio total para obras de drenagem entre ruas 280 e 284",
-    "guid": "scmulti:206df1bacd084fc9e9258ff0f863922dab7ba17c",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_206df1bacd084fc9e9258ff0f863922dab7ba17c/",
-    "usedAt": 1785160022559,
-    "usedAtIso": "2026-07-27T13:47:02.559Z"
-  },
-  "source:0f74edcd106f28e5ead553efb8cc538412f2aef9": {
-    "url": "https://cbntotal.com.br/cotidiano/acidente-na-beira-mar-mata-passageira-de-aplicativo-e-deixa-motorista-em-estado-grave",
-    "title": "Motorista morre após acidente com traumatismo cranioencefálico em Florianópolis",
-    "guid": "scmulti:37be00507289b2d8d8d22fef89d06176c5c88dc7",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_37be00507289b2d8d8d22fef89d06176c5c88dc7/",
-    "usedAt": 1785160022559,
-    "usedAtIso": "2026-07-27T13:47:02.559Z"
-  },
-  "source:193cee8e810d8acd2c08e3ca3ecbbb9d10dfe796": {
-    "url": "https://visornoticias.com.br/idoso-de-78-anos-sai-de-sc-e-viaja-sete-dias-de-carro-para-encontrar-companheira-que-conheceu-nas-redes-sociais",
-    "title": "Aposentado de Santa Catarina viaja 3,2 mil km para encontrar professora no Maranhão",
-    "guid": "scmulti:f7bab7f5557e47abed67eb29d890ca66f957153a",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_f7bab7f5557e47abed67eb29d890ca66f957153a/",
-    "usedAt": 1785160022559,
-    "usedAtIso": "2026-07-27T13:47:02.559Z"
-  },
-  "source:4beef72a809fa46ffe92feffe6979be5547588d4": {
-    "url": "https://visornoticias.com.br/carro-com-oito-pessoas-bate-em-arvore-e-duas-estudantes-morrem",
-    "title": "Acidente com Mitsubishi Pajero deixa duas jovens mortas e vários feridos em Foz do Iguaçu",
-    "guid": "scmulti:0b26a2cd0f0563fefdbcd5b09205bb0894f068e6",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_0b26a2cd0f0563fefdbcd5b09205bb0894f068e6/",
-    "usedAt": 1785160022559,
-    "usedAtIso": "2026-07-27T13:47:02.559Z"
-  },
-  "source:8a9ce48d8be83a62e0c61437af6121f742156285": {
-    "url": "https://visornoticias.com.br/bilhete-encontrado-com-homem-atropelado-na-br-101-leva-pm-a-corpo-de-adolescente-na-grande-florianopolis",
-    "title": "Adolescente é encontrada morta com sinais de violência em Palhoça após homem ser atropelado na BR-101",
-    "guid": "scmulti:6d5c6791cd0ab375a2400963138ea99e30494776",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_6d5c6791cd0ab375a2400963138ea99e30494776/",
-    "usedAt": 1785163622602,
-    "usedAtIso": "2026-07-27T14:47:02.602Z"
-  },
-  "source:abefa556e2065f50663fc8bbb62b35f0d1dea877": {
-    "url": "https://visornoticias.com.br/mulher-morre-apos-carro-a-100km-h-atravessar-o-sinal-vermelho-e-atingir-motocicleta-em-florianopolis",
-    "title": "Carro avança sinal vermelho e causa acidente grave na Avenida Beira-Mar Norte em Florianópolis",
-    "guid": "scmulti:c499184168e5b211cb13e3d4a08bee52d686d9c0",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_c499184168e5b211cb13e3d4a08bee52d686d9c0/",
-    "usedAt": 1785163622602,
-    "usedAtIso": "2026-07-27T14:47:02.602Z"
-  },
-  "source:2d906c57722efe7124b94601eb6fda7def444ba4": {
-    "url": "https://visornoticias.com.br/carreta-atinge-poste-de-rede-eletrica-em-camboriu-e-deixa-acesso-interditado-entre-bairros",
-    "title": "Queda de estrutura bloqueia trânsito nos bairros Areias e Santa Regina em Balneário Camboriú",
-    "guid": "scmulti:20ca7d4eb943b084ca37bd89a0b8a43737b54d3a",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_20ca7d4eb943b084ca37bd89a0b8a43737b54d3a/",
-    "usedAt": 1785167222241,
-    "usedAtIso": "2026-07-27T15:47:02.241Z"
-  },
-  "source:e6bb6e23f854387ec459028db8cbb06bc495b248": {
-    "url": "https://visornoticias.com.br/arraia-solidario-bloqueia-avenida-e-muda-transito-no-centro-de-itapema-saiba-os-dias-das-alteracoes",
-    "title": "Trânsito em Itapema é desviado pela Avenida Beira-Mar durante interdição na Avenida Nereu Ramos",
-    "guid": "scmulti:f7b362296ae1a4a4fcd5724ced571235aad0d2b0",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_f7b362296ae1a4a4fcd5724ced571235aad0d2b0/",
-    "usedAt": 1785174422763,
-    "usedAtIso": "2026-07-27T17:47:02.763Z"
-  },
-  "source:a2dab665592cf4eba370595e633ee8a7d8955263": {
-    "url": "https://visornoticias.com.br/qualidade-da-agua-e-essencial-no-combate-as-doencas-2",
-    "title": "Águas de Camboriú realiza testes diários para garantir qualidade da água tratada",
-    "guid": "scmulti:bcead745cd71d424017c323f38fba4d3a341212f",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_bcead745cd71d424017c323f38fba4d3a341212f/",
-    "usedAt": 1785181022538,
-    "usedAtIso": "2026-07-27T19:37:02.538Z"
+  "source:3ce28153234b77a035415104ef07ea330c4a817e": {
+    "url": "https://visornoticias.com.br/professora-pisa-no-pe-de-crianca-como-forma-de-correcao-e-e-demitida-em-sc",
+    "title": "Professora é autuada em flagrante após incidente em centro de educação infantil em Criciúma",
+    "guid": "scmulti:72440675d87f175fb9090ddc954d3e12e976de37",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_72440675d87f175fb9090ddc954d3e12e976de37/",
+    "usedAt": 1785195422310,
+    "usedAtIso": "2026-07-27T23:37:02.310Z"
   }
 }
