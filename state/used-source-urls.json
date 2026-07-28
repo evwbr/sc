@@ -1,4 +1,12 @@
 {
+  "source:c4b7d46146a2733da39a4698f1d6ed3cdc67206a": {
+    "url": "https://visornoticias.com.br/curto-circuito-provoca-incendio-em-poste-de-rede-eletrica-e-deixa-56-unidades-sem-energia-em-joinville",
+    "title": "Incêndio danifica poste e deixa 56 unidades sem energia em Santa Catarina",
+    "guid": "scmulti:7d093e1cd0f74220b34e09601cd00ff0898e35f6",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_7d093e1cd0f74220b34e09601cd00ff0898e35f6/",
+    "usedAt": 1785247219973,
+    "usedAtIso": "2026-07-28T14:00:19.973Z"
+  },
   "source:5e2d74800c813055f2ad08f0c5a96e2140b7facb": {
     "url": "https://visornoticias.com.br/defesa-civil-de-itapema-inicia-mapeamento-de-areas-com-risco-de-deslizamento-para-elaborar-plano-de-contingencia",
     "title": "Itapema inicia mapeamento de áreas de risco para prevenção de deslizamentos",
@@ -5559,12 +5567,12 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:c4b7d46146a2733da39a4698f1d6ed3cdc67206a": {
-    "url": "https://visornoticias.com.br/curto-circuito-provoca-incendio-em-poste-de-rede-eletrica-e-deixa-56-unidades-sem-energia-em-joinville",
-    "title": "Incêndio danifica poste e deixa 56 unidades sem energia em Santa Catarina",
-    "guid": "scmulti:7d093e1cd0f74220b34e09601cd00ff0898e35f6",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_7d093e1cd0f74220b34e09601cd00ff0898e35f6/",
-    "usedAt": 1785247219973,
-    "usedAtIso": "2026-07-28T14:00:19.973Z"
+  "source:fed104a2e415975b85ce0b10829979526b2db8f7": {
+    "url": "https://visornoticias.com.br/motociclista-morre-apos-perder-o-controle-e-bater-contra-muro-na-sc-401",
+    "title": "Motociclista morre após perder controle da moto em rodovia de Santa Catarina",
+    "guid": "scmulti:35e4b2d6f572a65e5d7b9a85891555b33778e3a2",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_35e4b2d6f572a65e5d7b9a85891555b33778e3a2/",
+    "usedAt": 1785254419490,
+    "usedAtIso": "2026-07-28T16:00:19.490Z"
   }
 }
