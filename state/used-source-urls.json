@@ -1,4 +1,12 @@
 {
+  "source:da93fca49ad8c965f7a86df9132340b921e64743": {
+    "url": "https://visornoticias.com.br/homem-e-condenado-a-18-anos-por-matar-taxista-com-53-facadas-em-sc",
+    "title": "Homem é condenado por assassinato de taxista em Jaguaruna e por feminicídio em Criciúma",
+    "guid": "scmulti:8901575a20a4be09823256dff0b7fc2823ed0ac9",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_8901575a20a4be09823256dff0b7fc2823ed0ac9/",
+    "usedAt": 1785238622536,
+    "usedAtIso": "2026-07-28T11:37:02.536Z"
+  },
   "source:d9b45e708b8b57e81990bca96507d6b53fcbbae1": {
     "url": "https://visornoticias.com.br/cunhado-e-preso-por-suspeita-de-estupro-contra-menina-de-11-anos-em-sc",
     "title": "Homem é preso em flagrante por abuso de criança em Araranguá",
@@ -5487,12 +5495,44 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:da93fca49ad8c965f7a86df9132340b921e64743": {
-    "url": "https://visornoticias.com.br/homem-e-condenado-a-18-anos-por-matar-taxista-com-53-facadas-em-sc",
-    "title": "Homem é condenado por assassinato de taxista em Jaguaruna e por feminicídio em Criciúma",
-    "guid": "scmulti:8901575a20a4be09823256dff0b7fc2823ed0ac9",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_8901575a20a4be09823256dff0b7fc2823ed0ac9/",
-    "usedAt": 1785238622536,
-    "usedAtIso": "2026-07-28T11:37:02.536Z"
+  "source:3e656e550d77880b8402d2285fca406e77527629": {
+    "url": "https://cbntotal.com.br/cotidiano/prazo-para-solicitar-isencao-do-iptu-acaba-nesta-sexta-em-sao-jose",
+    "title": "São José oferece isenção de IPTU para idosos, aposentados e pessoas em situação de vulnerabilidade",
+    "guid": "scmulti:3f373f9e9d1619a0ec54759bb51dffc0c252ad6c",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_3f373f9e9d1619a0ec54759bb51dffc0c252ad6c/",
+    "usedAt": 1785241472205,
+    "usedAtIso": "2026-07-28T12:24:32.205Z"
+  },
+  "source:4fce90110c44f4aa58623c1e5609fa8fecd808b0": {
+    "url": "https://cbntotal.com.br/cotidiano/chuva-forte-se-aproxima-e-florianopolis-entra-em-alerta-amarelo-saiba-quando-comeca",
+    "title": "Defesa Civil emite alerta amarelo para Florianópolis devido a instabilidade do tempo e mar agitado",
+    "guid": "scmulti:e8375090f31c3516a870b302407bf4b9dc1c5d10",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_e8375090f31c3516a870b302407bf4b9dc1c5d10/",
+    "usedAt": 1785241472205,
+    "usedAtIso": "2026-07-28T12:24:32.205Z"
+  },
+  "source:392d148535f2da0e4c848e7d7cfce5f30f0b875a": {
+    "url": "https://visornoticias.com.br/crianca-de-10-anos-e-socorrida-apos-barra-de-aco-atravessar-parte-do-corpo-enquanto-brincava-no-vale-do-itajai",
+    "title": "Menino sofre ferimento grave no tórax até a virilha e recebe atendimento em Pomerode",
+    "guid": "scmulti:465fd7ec08bc9a33071398599fe777f7b9759f09",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_465fd7ec08bc9a33071398599fe777f7b9759f09/",
+    "usedAt": 1785241472205,
+    "usedAtIso": "2026-07-28T12:24:32.205Z"
+  },
+  "source:a7d30174cac8395764b6eb58b12b72814dfdc287": {
+    "url": "https://cbntotal.com.br/cotidiano/querida-quem-era-a-mae-morta-em-acidente-na-beira-mar-em-florianopolis",
+    "title": "Mãe solo morre em acidente entre carro e moto de aplicativo em Florianópolis",
+    "guid": "scmulti:a73e148addadda26cd1eb09dc660914f9e744a12",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_a73e148addadda26cd1eb09dc660914f9e744a12/",
+    "usedAt": 1785241472205,
+    "usedAtIso": "2026-07-28T12:24:32.205Z"
+  },
+  "source:bee7d8b9545287be9286ce8486cf8648183e4229": {
+    "url": "https://visornoticias.com.br/carro-abandonado-ha-tres-anos-com-multas-e-licenciamento-de-2020-e-removido-em-balneario-camboriu",
+    "title": "Veículo abandonado com licenciamento vencido é removido em Balneário Camboriú",
+    "guid": "scmulti:1273eefac5d014065f978355f0b317e73902fd26",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_1273eefac5d014065f978355f0b317e73902fd26/",
+    "usedAt": 1785241472205,
+    "usedAtIso": "2026-07-28T12:24:32.205Z"
   }
 }
