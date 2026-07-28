@@ -1,4 +1,12 @@
 {
+  "source:fe773bd2767ef2b3a2e707220976aad43a685826": {
+    "url": "https://visornoticias.com.br/fiscalizacao-na-br-101-acaba-com-homem-preso-e-24-kg-de-skunk-apreendidos",
+    "title": "Polícia apreende cinco malas de skunk em carro com placas do Paraná em Laguna",
+    "guid": "scmulti:47a3bfc0809eaeef1a9ee91c2a403a2181adbe68",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_47a3bfc0809eaeef1a9ee91c2a403a2181adbe68/",
+    "usedAt": 1785199022601,
+    "usedAtIso": "2026-07-28T00:37:02.601Z"
+  },
   "source:01af8ecbf26898c4310f7c08ab25d5ffde69a5a5": {
     "url": "https://visornoticias.com.br/calor-antecede-frente-fria-e-temporais-voltam-a-sc-nesta-terca-feira",
     "title": "Frente fria provoca temporais isolados em Santa Catarina a partir da noite",
@@ -5439,12 +5447,28 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:fe773bd2767ef2b3a2e707220976aad43a685826": {
-    "url": "https://visornoticias.com.br/fiscalizacao-na-br-101-acaba-com-homem-preso-e-24-kg-de-skunk-apreendidos",
-    "title": "Polícia apreende cinco malas de skunk em carro com placas do Paraná em Laguna",
-    "guid": "scmulti:47a3bfc0809eaeef1a9ee91c2a403a2181adbe68",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_47a3bfc0809eaeef1a9ee91c2a403a2181adbe68/",
-    "usedAt": 1785199022601,
-    "usedAtIso": "2026-07-28T00:37:02.601Z"
+  "source:d66e7694e812aaa73a20aad1a2f9fc193e061db7": {
+    "url": "https://visornoticias.com.br/defesa-civil-reforca-alerta-para-tempestades-com-granizo-e-alagamentos-em-varias-regioes-de-sc",
+    "title": "Defesa Civil emite alerta de temporais para municípios do Sul de Santa Catarina",
+    "guid": "scmulti:cf1d979ca835a0b827f473fa75ae40bdc7838226",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_cf1d979ca835a0b827f473fa75ae40bdc7838226/",
+    "usedAt": 1785231422643,
+    "usedAtIso": "2026-07-28T09:37:02.643Z"
+  },
+  "source:c4d302f7a1184522445530b41e30eb3dd95e4650": {
+    "url": "https://visornoticias.com.br/operacao-contra-o-trafico-prende-homem-e-apreende-mais-de-800-comprimidos-de-ecstasy-em-camboriu",
+    "title": "Polícia Militar prende homem com drogas e materiais para fracionamento em Santa Regina, Balneário Camboriú",
+    "guid": "scmulti:67d5a064b2dbf0271de70797d0d58e0cfd452826",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_67d5a064b2dbf0271de70797d0d58e0cfd452826/",
+    "usedAt": 1785231422643,
+    "usedAtIso": "2026-07-28T09:37:02.643Z"
+  },
+  "source:ba433825da896d42ed50059ae84e87455eb8ea62": {
+    "url": "https://visornoticias.com.br/menino-de-10-anos-morre-apos-ser-atingido-na-cabeca-por-trave-em-quadra-em-sc",
+    "title": "Criança fica gravemente ferida após queda de trave em quadra esportiva interditada em Criciúma",
+    "guid": "scmulti:e5991b72abf0a375fdf92d6c6e9e8af1a8e9fdf0",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_e5991b72abf0a375fdf92d6c6e9e8af1a8e9fdf0/",
+    "usedAt": 1785231422643,
+    "usedAtIso": "2026-07-28T09:37:02.643Z"
   }
 }
