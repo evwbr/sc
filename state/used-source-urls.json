@@ -1,4 +1,28 @@
 {
+  "source:927fbfbf469f6a2230d84e8eaac035a995b622b5": {
+    "url": "https://visornoticias.com.br/instalacao-de-portico-fecha-morro-de-zimbros-veja-a-rota-alternativa",
+    "title": "Porto Belo bloqueia trecho para instalar pórtico que restringe tráfego de caminhões e ônibus",
+    "guid": "scmulti:4019b43b580c6922088971415677e774ec793e5f",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_4019b43b580c6922088971415677e774ec793e5f/",
+    "usedAt": 1785276019701,
+    "usedAtIso": "2026-07-28T22:00:19.701Z"
+  },
+  "source:69513c9a3a2fdf6a92c10ff5498fe13d4e7860d9": {
+    "url": "https://visornoticias.com.br/mpf-apura-possiveis-falhas-de-seguranca-no-ferry-boat-entre-itajai-e-navegantes",
+    "title": "MPF solicita vistorias em balsas de Itajaí após denúncias de risco à segurança dos passageiros",
+    "guid": "scmulti:7cbccde0463b0a31a1bde09543ce0b69d6ccc438",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_7cbccde0463b0a31a1bde09543ce0b69d6ccc438/",
+    "usedAt": 1785276019701,
+    "usedAtIso": "2026-07-28T22:00:19.701Z"
+  },
+  "source:301a92c07b3af6fbf4f75a07b713136c4dad5c91": {
+    "url": "https://visornoticias.com.br/acusado-de-incendiar-viaturas-em-bombinhas-recebe-novo-mandado-dentro-do-presidio",
+    "title": "Polícia Civil investiga furtos em Bombinhas com suspeito já preso em Tijucas",
+    "guid": "scmulti:ef8b806a1f9ae653343cb1a48d580dd4e83a46eb",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_ef8b806a1f9ae653343cb1a48d580dd4e83a46eb/",
+    "usedAt": 1785276019701,
+    "usedAtIso": "2026-07-28T22:00:19.701Z"
+  },
   "source:c5840f090f8bc6b6db098eed233dec7d91a4fe73": {
     "url": "https://visornoticias.com.br/defesa-civil-alerta-para-temporais-com-granizo-em-18-cidades-de-sc",
     "title": "Defesa Civil emite alerta de temporais para 18 municípios de Santa Catarina",
@@ -5599,28 +5623,12 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:927fbfbf469f6a2230d84e8eaac035a995b622b5": {
-    "url": "https://visornoticias.com.br/instalacao-de-portico-fecha-morro-de-zimbros-veja-a-rota-alternativa",
-    "title": "Porto Belo bloqueia trecho para instalar pórtico que restringe tráfego de caminhões e ônibus",
-    "guid": "scmulti:4019b43b580c6922088971415677e774ec793e5f",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_4019b43b580c6922088971415677e774ec793e5f/",
-    "usedAt": 1785276019701,
-    "usedAtIso": "2026-07-28T22:00:19.701Z"
-  },
-  "source:69513c9a3a2fdf6a92c10ff5498fe13d4e7860d9": {
-    "url": "https://visornoticias.com.br/mpf-apura-possiveis-falhas-de-seguranca-no-ferry-boat-entre-itajai-e-navegantes",
-    "title": "MPF solicita vistorias em balsas de Itajaí após denúncias de risco à segurança dos passageiros",
-    "guid": "scmulti:7cbccde0463b0a31a1bde09543ce0b69d6ccc438",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_7cbccde0463b0a31a1bde09543ce0b69d6ccc438/",
-    "usedAt": 1785276019701,
-    "usedAtIso": "2026-07-28T22:00:19.701Z"
-  },
-  "source:301a92c07b3af6fbf4f75a07b713136c4dad5c91": {
-    "url": "https://visornoticias.com.br/acusado-de-incendiar-viaturas-em-bombinhas-recebe-novo-mandado-dentro-do-presidio",
-    "title": "Polícia Civil investiga furtos em Bombinhas com suspeito já preso em Tijucas",
-    "guid": "scmulti:ef8b806a1f9ae653343cb1a48d580dd4e83a46eb",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_ef8b806a1f9ae653343cb1a48d580dd4e83a46eb/",
-    "usedAt": 1785276019701,
-    "usedAtIso": "2026-07-28T22:00:19.701Z"
+  "source:841d069e1af868a0f5abbc571218f68cd5a78b8b": {
+    "url": "https://visornoticias.com.br/itapema-abre-inscricoes-para-cursos-de-qualificacao-profissional",
+    "title": "CapacItapema oferece quatro cursos gratuitos em áreas de beleza, tecnologia e comunicação em Itapema",
+    "guid": "scmulti:7c06f6aee612fd4196e6249e8fda62c2c3969e34",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_7c06f6aee612fd4196e6249e8fda62c2c3969e34/",
+    "usedAt": 1785279619544,
+    "usedAtIso": "2026-07-28T23:00:19.544Z"
   }
 }
