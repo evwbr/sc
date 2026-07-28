@@ -1,4 +1,12 @@
 {
+  "source:c5840f090f8bc6b6db098eed233dec7d91a4fe73": {
+    "url": "https://visornoticias.com.br/defesa-civil-alerta-para-temporais-com-granizo-em-18-cidades-de-sc",
+    "title": "Defesa Civil emite alerta de temporais para 18 municípios de Santa Catarina",
+    "guid": "scmulti:fe84f97150c44f6d4f89c2f595b2aefd88694b9a",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_fe84f97150c44f6d4f89c2f595b2aefd88694b9a/",
+    "usedAt": 1785268819375,
+    "usedAtIso": "2026-07-28T20:00:19.375Z"
+  },
   "source:d30ceb409559a9ad682ea97a5fa38b16dddde4ba": {
     "url": "https://visornoticias.com.br/ponte-hercilio-luz-tera-bloqueios-noturnos-para-manutencao",
     "title": "Ponte terá bloqueios noturnos para manutenção do gradil em Santa Catarina",
@@ -5591,12 +5599,28 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:c5840f090f8bc6b6db098eed233dec7d91a4fe73": {
-    "url": "https://visornoticias.com.br/defesa-civil-alerta-para-temporais-com-granizo-em-18-cidades-de-sc",
-    "title": "Defesa Civil emite alerta de temporais para 18 municípios de Santa Catarina",
-    "guid": "scmulti:fe84f97150c44f6d4f89c2f595b2aefd88694b9a",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_fe84f97150c44f6d4f89c2f595b2aefd88694b9a/",
-    "usedAt": 1785268819375,
-    "usedAtIso": "2026-07-28T20:00:19.375Z"
+  "source:927fbfbf469f6a2230d84e8eaac035a995b622b5": {
+    "url": "https://visornoticias.com.br/instalacao-de-portico-fecha-morro-de-zimbros-veja-a-rota-alternativa",
+    "title": "Porto Belo bloqueia trecho para instalar pórtico que restringe tráfego de caminhões e ônibus",
+    "guid": "scmulti:4019b43b580c6922088971415677e774ec793e5f",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_4019b43b580c6922088971415677e774ec793e5f/",
+    "usedAt": 1785276019701,
+    "usedAtIso": "2026-07-28T22:00:19.701Z"
+  },
+  "source:69513c9a3a2fdf6a92c10ff5498fe13d4e7860d9": {
+    "url": "https://visornoticias.com.br/mpf-apura-possiveis-falhas-de-seguranca-no-ferry-boat-entre-itajai-e-navegantes",
+    "title": "MPF solicita vistorias em balsas de Itajaí após denúncias de risco à segurança dos passageiros",
+    "guid": "scmulti:7cbccde0463b0a31a1bde09543ce0b69d6ccc438",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_7cbccde0463b0a31a1bde09543ce0b69d6ccc438/",
+    "usedAt": 1785276019701,
+    "usedAtIso": "2026-07-28T22:00:19.701Z"
+  },
+  "source:301a92c07b3af6fbf4f75a07b713136c4dad5c91": {
+    "url": "https://visornoticias.com.br/acusado-de-incendiar-viaturas-em-bombinhas-recebe-novo-mandado-dentro-do-presidio",
+    "title": "Polícia Civil investiga furtos em Bombinhas com suspeito já preso em Tijucas",
+    "guid": "scmulti:ef8b806a1f9ae653343cb1a48d580dd4e83a46eb",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_ef8b806a1f9ae653343cb1a48d580dd4e83a46eb/",
+    "usedAt": 1785276019701,
+    "usedAtIso": "2026-07-28T22:00:19.701Z"
   }
 }
