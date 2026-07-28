@@ -1,4 +1,12 @@
 {
+  "source:fed104a2e415975b85ce0b10829979526b2db8f7": {
+    "url": "https://visornoticias.com.br/motociclista-morre-apos-perder-o-controle-e-bater-contra-muro-na-sc-401",
+    "title": "Motociclista morre após perder controle da moto em rodovia de Santa Catarina",
+    "guid": "scmulti:35e4b2d6f572a65e5d7b9a85891555b33778e3a2",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_35e4b2d6f572a65e5d7b9a85891555b33778e3a2/",
+    "usedAt": 1785254419490,
+    "usedAtIso": "2026-07-28T16:00:19.490Z"
+  },
   "source:c4b7d46146a2733da39a4698f1d6ed3cdc67206a": {
     "url": "https://visornoticias.com.br/curto-circuito-provoca-incendio-em-poste-de-rede-eletrica-e-deixa-56-unidades-sem-energia-em-joinville",
     "title": "Incêndio danifica poste e deixa 56 unidades sem energia em Santa Catarina",
@@ -5567,12 +5575,12 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:fed104a2e415975b85ce0b10829979526b2db8f7": {
-    "url": "https://visornoticias.com.br/motociclista-morre-apos-perder-o-controle-e-bater-contra-muro-na-sc-401",
-    "title": "Motociclista morre após perder controle da moto em rodovia de Santa Catarina",
-    "guid": "scmulti:35e4b2d6f572a65e5d7b9a85891555b33778e3a2",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_35e4b2d6f572a65e5d7b9a85891555b33778e3a2/",
-    "usedAt": 1785254419490,
-    "usedAtIso": "2026-07-28T16:00:19.490Z"
+  "source:04eca63555d5ec18f811d7da84a4d4c39971953e": {
+    "url": "https://visornoticias.com.br/engavetamento-interdita-a-br-101-e-causa-filas-de-mais-de-10-km-no-litoral-norte-de-sc",
+    "title": "Acidente bloqueia sentido Norte da BR-101 e causa congestionamento de mais de 20 km em Santa Catarina",
+    "guid": "scmulti:e7830c14aec59bdc9a10aede4525bbca8e60b7b0",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_e7830c14aec59bdc9a10aede4525bbca8e60b7b0/",
+    "usedAt": 1785261619751,
+    "usedAtIso": "2026-07-28T18:00:19.751Z"
   }
 }
