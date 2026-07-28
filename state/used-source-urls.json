@@ -1,4 +1,20 @@
 {
+  "source:d9b45e708b8b57e81990bca96507d6b53fcbbae1": {
+    "url": "https://visornoticias.com.br/cunhado-e-preso-por-suspeita-de-estupro-contra-menina-de-11-anos-em-sc",
+    "title": "Homem é preso em flagrante por abuso de criança em Araranguá",
+    "guid": "scmulti:b8df6aa7cc5b7e796300cd614884c92fcda886c9",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_b8df6aa7cc5b7e796300cd614884c92fcda886c9/",
+    "usedAt": 1785235023181,
+    "usedAtIso": "2026-07-28T10:37:03.181Z"
+  },
+  "source:7fe73afd137a19e3ba094f5001c118e772ee3bec": {
+    "url": "https://visornoticias.com.br/homem-pelado-corre-pelo-centro-de-balneario-camboriu-durante-a-noite",
+    "title": "Homem é flagrado andando apenas de meias e tênis em via pública de Santa Catarina",
+    "guid": "scmulti:2b1b43547608710a312ed6e1faf6793929c69120",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_2b1b43547608710a312ed6e1faf6793929c69120/",
+    "usedAt": 1785235023181,
+    "usedAtIso": "2026-07-28T10:37:03.181Z"
+  },
   "source:d66e7694e812aaa73a20aad1a2f9fc193e061db7": {
     "url": "https://visornoticias.com.br/defesa-civil-reforca-alerta-para-tempestades-com-granizo-e-alagamentos-em-varias-regioes-de-sc",
     "title": "Defesa Civil emite alerta de temporais para municípios do Sul de Santa Catarina",
@@ -5471,20 +5487,12 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:d9b45e708b8b57e81990bca96507d6b53fcbbae1": {
-    "url": "https://visornoticias.com.br/cunhado-e-preso-por-suspeita-de-estupro-contra-menina-de-11-anos-em-sc",
-    "title": "Homem é preso em flagrante por abuso de criança em Araranguá",
-    "guid": "scmulti:b8df6aa7cc5b7e796300cd614884c92fcda886c9",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_b8df6aa7cc5b7e796300cd614884c92fcda886c9/",
-    "usedAt": 1785235023181,
-    "usedAtIso": "2026-07-28T10:37:03.181Z"
-  },
-  "source:7fe73afd137a19e3ba094f5001c118e772ee3bec": {
-    "url": "https://visornoticias.com.br/homem-pelado-corre-pelo-centro-de-balneario-camboriu-durante-a-noite",
-    "title": "Homem é flagrado andando apenas de meias e tênis em via pública de Santa Catarina",
-    "guid": "scmulti:2b1b43547608710a312ed6e1faf6793929c69120",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_2b1b43547608710a312ed6e1faf6793929c69120/",
-    "usedAt": 1785235023181,
-    "usedAtIso": "2026-07-28T10:37:03.181Z"
+  "source:da93fca49ad8c965f7a86df9132340b921e64743": {
+    "url": "https://visornoticias.com.br/homem-e-condenado-a-18-anos-por-matar-taxista-com-53-facadas-em-sc",
+    "title": "Homem é condenado por assassinato de taxista em Jaguaruna e por feminicídio em Criciúma",
+    "guid": "scmulti:8901575a20a4be09823256dff0b7fc2823ed0ac9",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_8901575a20a4be09823256dff0b7fc2823ed0ac9/",
+    "usedAt": 1785238622536,
+    "usedAtIso": "2026-07-28T11:37:02.536Z"
   }
 }
