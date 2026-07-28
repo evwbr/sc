@@ -1,4 +1,12 @@
 {
+  "source:d30ceb409559a9ad682ea97a5fa38b16dddde4ba": {
+    "url": "https://visornoticias.com.br/ponte-hercilio-luz-tera-bloqueios-noturnos-para-manutencao",
+    "title": "Ponte terá bloqueios noturnos para manutenção do gradil em Santa Catarina",
+    "guid": "scmulti:f8fc24aa11486fa18cac1695b4777ef2088cac86",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_f8fc24aa11486fa18cac1695b4777ef2088cac86/",
+    "usedAt": 1785265219612,
+    "usedAtIso": "2026-07-28T19:00:19.612Z"
+  },
   "source:04eca63555d5ec18f811d7da84a4d4c39971953e": {
     "url": "https://visornoticias.com.br/engavetamento-interdita-a-br-101-e-causa-filas-de-mais-de-10-km-no-litoral-norte-de-sc",
     "title": "Acidente bloqueia sentido Norte da BR-101 e causa congestionamento de mais de 20 km em Santa Catarina",
@@ -5583,12 +5591,12 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:d30ceb409559a9ad682ea97a5fa38b16dddde4ba": {
-    "url": "https://visornoticias.com.br/ponte-hercilio-luz-tera-bloqueios-noturnos-para-manutencao",
-    "title": "Ponte terá bloqueios noturnos para manutenção do gradil em Santa Catarina",
-    "guid": "scmulti:f8fc24aa11486fa18cac1695b4777ef2088cac86",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_f8fc24aa11486fa18cac1695b4777ef2088cac86/",
-    "usedAt": 1785265219612,
-    "usedAtIso": "2026-07-28T19:00:19.612Z"
+  "source:c5840f090f8bc6b6db098eed233dec7d91a4fe73": {
+    "url": "https://visornoticias.com.br/defesa-civil-alerta-para-temporais-com-granizo-em-18-cidades-de-sc",
+    "title": "Defesa Civil emite alerta de temporais para 18 municípios de Santa Catarina",
+    "guid": "scmulti:fe84f97150c44f6d4f89c2f595b2aefd88694b9a",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_fe84f97150c44f6d4f89c2f595b2aefd88694b9a/",
+    "usedAt": 1785268819375,
+    "usedAtIso": "2026-07-28T20:00:19.375Z"
   }
 }
