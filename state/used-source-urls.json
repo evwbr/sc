@@ -1,4 +1,20 @@
 {
+  "source:01af8ecbf26898c4310f7c08ab25d5ffde69a5a5": {
+    "url": "https://visornoticias.com.br/calor-antecede-frente-fria-e-temporais-voltam-a-sc-nesta-terca-feira",
+    "title": "Frente fria provoca temporais isolados em Santa Catarina a partir da noite",
+    "guid": "scmulti:6f4dca37ce750f6be685775cba51d7573b4f9737",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_6f4dca37ce750f6be685775cba51d7573b4f9737/",
+    "usedAt": 1785195422310,
+    "usedAtIso": "2026-07-27T23:37:02.310Z"
+  },
+  "source:3ce28153234b77a035415104ef07ea330c4a817e": {
+    "url": "https://visornoticias.com.br/professora-pisa-no-pe-de-crianca-como-forma-de-correcao-e-e-demitida-em-sc",
+    "title": "Professora é autuada em flagrante após incidente em centro de educação infantil em Criciúma",
+    "guid": "scmulti:72440675d87f175fb9090ddc954d3e12e976de37",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_72440675d87f175fb9090ddc954d3e12e976de37/",
+    "usedAt": 1785195422310,
+    "usedAtIso": "2026-07-27T23:37:02.310Z"
+  },
   "source:a2dab665592cf4eba370595e633ee8a7d8955263": {
     "url": "https://visornoticias.com.br/qualidade-da-agua-e-essencial-no-combate-as-doencas-2",
     "title": "Águas de Camboriú realiza testes diários para garantir qualidade da água tratada",
@@ -5423,20 +5439,12 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:01af8ecbf26898c4310f7c08ab25d5ffde69a5a5": {
-    "url": "https://visornoticias.com.br/calor-antecede-frente-fria-e-temporais-voltam-a-sc-nesta-terca-feira",
-    "title": "Frente fria provoca temporais isolados em Santa Catarina a partir da noite",
-    "guid": "scmulti:6f4dca37ce750f6be685775cba51d7573b4f9737",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_6f4dca37ce750f6be685775cba51d7573b4f9737/",
-    "usedAt": 1785195422310,
-    "usedAtIso": "2026-07-27T23:37:02.310Z"
-  },
-  "source:3ce28153234b77a035415104ef07ea330c4a817e": {
-    "url": "https://visornoticias.com.br/professora-pisa-no-pe-de-crianca-como-forma-de-correcao-e-e-demitida-em-sc",
-    "title": "Professora é autuada em flagrante após incidente em centro de educação infantil em Criciúma",
-    "guid": "scmulti:72440675d87f175fb9090ddc954d3e12e976de37",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_72440675d87f175fb9090ddc954d3e12e976de37/",
-    "usedAt": 1785195422310,
-    "usedAtIso": "2026-07-27T23:37:02.310Z"
+  "source:fe773bd2767ef2b3a2e707220976aad43a685826": {
+    "url": "https://visornoticias.com.br/fiscalizacao-na-br-101-acaba-com-homem-preso-e-24-kg-de-skunk-apreendidos",
+    "title": "Polícia apreende cinco malas de skunk em carro com placas do Paraná em Laguna",
+    "guid": "scmulti:47a3bfc0809eaeef1a9ee91c2a403a2181adbe68",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_47a3bfc0809eaeef1a9ee91c2a403a2181adbe68/",
+    "usedAt": 1785199022601,
+    "usedAtIso": "2026-07-28T00:37:02.601Z"
   }
 }
