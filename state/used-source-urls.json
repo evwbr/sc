@@ -1,4 +1,12 @@
 {
+  "source:3e334799b0321098c3fcf8929d5f04061da84b6f": {
+    "url": "https://visornoticias.com.br/acidente-entre-carro-e-carreta-trava-br-101-com-mais-de-10-km-de-fila-entre-itajai-e-balneario-camboriu",
+    "title": "Acidente na BR-101 entre Itajaí e Balneário Camboriú causa congestionamento de mais de 10 quilômetros",
+    "guid": "scmulti:07c89c9210877ea82eb2cf6b27e136d883bf7dae",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_07c89c9210877ea82eb2cf6b27e136d883bf7dae/",
+    "usedAt": 1785351619586,
+    "usedAtIso": "2026-07-29T19:00:19.586Z"
+  },
   "source:79a9ddff799f70685329e9f26ed94e7cf00cbf7b": {
     "url": "https://visornoticias.com.br/acidente-com-dois-carros-deixa-tres-feridos-e-motorista-preso-as-ferragens-na-br-470-em-sc",
     "title": "Acidente na marginal da BR-470 deixa motorista preso às ferragens e três feridos em Santa Catarina",
@@ -5751,12 +5759,12 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:3e334799b0321098c3fcf8929d5f04061da84b6f": {
-    "url": "https://visornoticias.com.br/acidente-entre-carro-e-carreta-trava-br-101-com-mais-de-10-km-de-fila-entre-itajai-e-balneario-camboriu",
-    "title": "Acidente na BR-101 entre Itajaí e Balneário Camboriú causa congestionamento de mais de 10 quilômetros",
-    "guid": "scmulti:07c89c9210877ea82eb2cf6b27e136d883bf7dae",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_07c89c9210877ea82eb2cf6b27e136d883bf7dae/",
-    "usedAt": 1785351619586,
-    "usedAtIso": "2026-07-29T19:00:19.586Z"
+  "source:50f541c914329fa4fda2052fc793ab977c24291e": {
+    "url": "https://visornoticias.com.br/promessa-do-surfe-de-itapema-ganha-apoio-para-disputar-brasileiro",
+    "title": "Atleta de Itapema Kaleb Henrique fecha patrocínio com empresa local para disputar Circuito Brasileiro de surf",
+    "guid": "scmulti:2e111ed7d40b9f1bb948b929af1bb3844f16375e",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_2e111ed7d40b9f1bb948b929af1bb3844f16375e/",
+    "usedAt": 1785355219545,
+    "usedAtIso": "2026-07-29T20:00:19.545Z"
   }
 }
