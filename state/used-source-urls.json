@@ -1,4 +1,12 @@
 {
+  "source:0aa700c5247524e24313761f247423274ac0247f": {
+    "url": "https://visornoticias.com.br/ventos-de-85-km-h-causam-estragos-e-falta-de-luz-em-garuva",
+    "title": "Defesa Civil mobiliza equipes para avaliar danos causados por temporal em Santa Catarina",
+    "guid": "scmulti:721b1c6d998b304fa9ee8d1d243191c77438e775",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_721b1c6d998b304fa9ee8d1d243191c77438e775/",
+    "usedAt": 1785358819621,
+    "usedAtIso": "2026-07-29T21:00:19.621Z"
+  },
   "source:50f541c914329fa4fda2052fc793ab977c24291e": {
     "url": "https://visornoticias.com.br/promessa-do-surfe-de-itapema-ganha-apoio-para-disputar-brasileiro",
     "title": "Atleta de Itapema Kaleb Henrique fecha patrocínio com empresa local para disputar Circuito Brasileiro de surf",
@@ -5767,12 +5775,12 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:0aa700c5247524e24313761f247423274ac0247f": {
-    "url": "https://visornoticias.com.br/ventos-de-85-km-h-causam-estragos-e-falta-de-luz-em-garuva",
-    "title": "Defesa Civil mobiliza equipes para avaliar danos causados por temporal em Santa Catarina",
-    "guid": "scmulti:721b1c6d998b304fa9ee8d1d243191c77438e775",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_721b1c6d998b304fa9ee8d1d243191c77438e775/",
-    "usedAt": 1785358819621,
-    "usedAtIso": "2026-07-29T21:00:19.621Z"
+  "source:9e19d4e5ff2fca47b4aab214b46460dfb83dbd55": {
+    "url": "https://visornoticias.com.br/acidente-bloqueia-faixa-e-causa-congestionamento-em-florianopolis",
+    "title": "Colisão na ponte Ivo Silveira provoca congestionamento nos dois sentidos em Florianópolis",
+    "guid": "scmulti:ce12e2f816b0ff54a2464efcfadadce9e5baa0e7",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_ce12e2f816b0ff54a2464efcfadadce9e5baa0e7/",
+    "usedAt": 1785366019312,
+    "usedAtIso": "2026-07-29T23:00:19.312Z"
   }
 }
