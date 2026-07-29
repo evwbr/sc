@@ -1,4 +1,20 @@
 {
+  "source:6922fc14dc9a8191c8d8a115108a47681873e6c6": {
+    "url": "https://visornoticias.com.br/cao-farejador-encontra-581-quilos-de-maconha-em-tanques-falsos-de-carreta-na-br-282-em-sc",
+    "title": "Motorista paraguaio é preso com 581 quilos de maconha escondidos em tanques de carreta em Santa Catarina",
+    "guid": "scmulti:0aa8da00fc3dcf068a8e78f8373f221301c0f97e",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_0aa8da00fc3dcf068a8e78f8373f221301c0f97e/",
+    "usedAt": 1785315622118,
+    "usedAtIso": "2026-07-29T09:00:22.118Z"
+  },
+  "source:7f2d155dcdcfc508721e5fcfe6fdbcf178f69118": {
+    "url": "https://visornoticias.com.br/barco-de-pesca-e-destruido-por-incendio-e-pescador-e-resgatado-em-praia-de-sc",
+    "title": "Incêndio atinge embarcação de pesca em Penha e mobiliza bombeiros e moradores",
+    "guid": "scmulti:f3102c998ab0ef08c36e1fe4105863f5fe0059c6",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_f3102c998ab0ef08c36e1fe4105863f5fe0059c6/",
+    "usedAt": 1785315622118,
+    "usedAtIso": "2026-07-29T09:00:22.118Z"
+  },
   "source:72098042a1e228563a6628fc8d0b9b2a0c1d9e05": {
     "url": "https://visornoticias.com.br/frente-fria-avanca-e-coloca-santa-catarina-em-alerta",
     "title": "Santa Catarina enfrenta temporais com risco moderado a alto de danos e alagamentos",
@@ -5647,20 +5663,12 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:6922fc14dc9a8191c8d8a115108a47681873e6c6": {
-    "url": "https://visornoticias.com.br/cao-farejador-encontra-581-quilos-de-maconha-em-tanques-falsos-de-carreta-na-br-282-em-sc",
-    "title": "Motorista paraguaio é preso com 581 quilos de maconha escondidos em tanques de carreta em Santa Catarina",
-    "guid": "scmulti:0aa8da00fc3dcf068a8e78f8373f221301c0f97e",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_0aa8da00fc3dcf068a8e78f8373f221301c0f97e/",
-    "usedAt": 1785315622118,
-    "usedAtIso": "2026-07-29T09:00:22.118Z"
-  },
-  "source:7f2d155dcdcfc508721e5fcfe6fdbcf178f69118": {
-    "url": "https://visornoticias.com.br/barco-de-pesca-e-destruido-por-incendio-e-pescador-e-resgatado-em-praia-de-sc",
-    "title": "Incêndio atinge embarcação de pesca em Penha e mobiliza bombeiros e moradores",
-    "guid": "scmulti:f3102c998ab0ef08c36e1fe4105863f5fe0059c6",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_f3102c998ab0ef08c36e1fe4105863f5fe0059c6/",
-    "usedAt": 1785315622118,
-    "usedAtIso": "2026-07-29T09:00:22.118Z"
+  "source:d85ef59459962d60fd2b396fc14384e1356403ef": {
+    "url": "https://visornoticias.com.br/morador-nao-resiste-e-morre-no-hospital-apos-ser-espancado-por-faccao-criminosa-em-florianopolis",
+    "title": "Homem é atacado e morre após ser levado à força em Capoeiras, Florianópolis",
+    "guid": "scmulti:c1fc5086ad0e22dbc7e000a727f163f3d883e323",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_c1fc5086ad0e22dbc7e000a727f163f3d883e323/",
+    "usedAt": 1785322819635,
+    "usedAtIso": "2026-07-29T11:00:19.635Z"
   }
 }
