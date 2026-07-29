@@ -1,4 +1,12 @@
 {
+  "source:841d069e1af868a0f5abbc571218f68cd5a78b8b": {
+    "url": "https://visornoticias.com.br/itapema-abre-inscricoes-para-cursos-de-qualificacao-profissional",
+    "title": "CapacItapema oferece quatro cursos gratuitos em áreas de beleza, tecnologia e comunicação em Itapema",
+    "guid": "scmulti:7c06f6aee612fd4196e6249e8fda62c2c3969e34",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_7c06f6aee612fd4196e6249e8fda62c2c3969e34/",
+    "usedAt": 1785279619544,
+    "usedAtIso": "2026-07-28T23:00:19.544Z"
+  },
   "source:927fbfbf469f6a2230d84e8eaac035a995b622b5": {
     "url": "https://visornoticias.com.br/instalacao-de-portico-fecha-morro-de-zimbros-veja-a-rota-alternativa",
     "title": "Porto Belo bloqueia trecho para instalar pórtico que restringe tráfego de caminhões e ônibus",
@@ -5623,12 +5631,12 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:841d069e1af868a0f5abbc571218f68cd5a78b8b": {
-    "url": "https://visornoticias.com.br/itapema-abre-inscricoes-para-cursos-de-qualificacao-profissional",
-    "title": "CapacItapema oferece quatro cursos gratuitos em áreas de beleza, tecnologia e comunicação em Itapema",
-    "guid": "scmulti:7c06f6aee612fd4196e6249e8fda62c2c3969e34",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_7c06f6aee612fd4196e6249e8fda62c2c3969e34/",
-    "usedAt": 1785279619544,
-    "usedAtIso": "2026-07-28T23:00:19.544Z"
+  "source:195e416afeb06d36169cf2fd50bbe870c63a4a40": {
+    "url": "https://visornoticias.com.br/blumenau-continua-com-risco-de-chuva-forte-apos-temporal-com-granizo",
+    "title": "Temporal com granizo e ventos fortes causa danos em Blumenau e deixa 13 ocorrências",
+    "guid": "scmulti:42aae1b11dc92953f69c11f441bb4649d5fcc64c",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_42aae1b11dc92953f69c11f441bb4649d5fcc64c/",
+    "usedAt": 1785283220722,
+    "usedAtIso": "2026-07-29T00:00:20.722Z"
   }
 }
