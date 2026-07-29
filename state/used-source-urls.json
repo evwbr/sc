@@ -1,4 +1,12 @@
 {
+  "source:79a9ddff799f70685329e9f26ed94e7cf00cbf7b": {
+    "url": "https://visornoticias.com.br/acidente-com-dois-carros-deixa-tres-feridos-e-motorista-preso-as-ferragens-na-br-470-em-sc",
+    "title": "Acidente na marginal da BR-470 deixa motorista preso às ferragens e três feridos em Santa Catarina",
+    "guid": "scmulti:d70093b0a318c54657f092e068085b7099971743",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_d70093b0a318c54657f092e068085b7099971743/",
+    "usedAt": 1785340819772,
+    "usedAtIso": "2026-07-29T16:00:19.772Z"
+  },
   "source:a7ca5eff1a85b459179df4bce180b10d186ab1f3": {
     "url": "https://visornoticias.com.br/voce-sabe-o-que-e-perda-de-agua-entender-ajuda-a-preservar-2",
     "title": "Concessionárias de Santa Catarina intensificam ações para reduzir perdas de água tratada",
@@ -5743,12 +5751,12 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:79a9ddff799f70685329e9f26ed94e7cf00cbf7b": {
-    "url": "https://visornoticias.com.br/acidente-com-dois-carros-deixa-tres-feridos-e-motorista-preso-as-ferragens-na-br-470-em-sc",
-    "title": "Acidente na marginal da BR-470 deixa motorista preso às ferragens e três feridos em Santa Catarina",
-    "guid": "scmulti:d70093b0a318c54657f092e068085b7099971743",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_d70093b0a318c54657f092e068085b7099971743/",
-    "usedAt": 1785340819772,
-    "usedAtIso": "2026-07-29T16:00:19.772Z"
+  "source:3e334799b0321098c3fcf8929d5f04061da84b6f": {
+    "url": "https://visornoticias.com.br/acidente-entre-carro-e-carreta-trava-br-101-com-mais-de-10-km-de-fila-entre-itajai-e-balneario-camboriu",
+    "title": "Acidente na BR-101 entre Itajaí e Balneário Camboriú causa congestionamento de mais de 10 quilômetros",
+    "guid": "scmulti:07c89c9210877ea82eb2cf6b27e136d883bf7dae",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_07c89c9210877ea82eb2cf6b27e136d883bf7dae/",
+    "usedAt": 1785351619586,
+    "usedAtIso": "2026-07-29T19:00:19.586Z"
   }
 }
