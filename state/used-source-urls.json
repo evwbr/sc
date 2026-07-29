@@ -1,4 +1,12 @@
 {
+  "source:d85ef59459962d60fd2b396fc14384e1356403ef": {
+    "url": "https://visornoticias.com.br/morador-nao-resiste-e-morre-no-hospital-apos-ser-espancado-por-faccao-criminosa-em-florianopolis",
+    "title": "Homem é atacado e morre após ser levado à força em Capoeiras, Florianópolis",
+    "guid": "scmulti:c1fc5086ad0e22dbc7e000a727f163f3d883e323",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_c1fc5086ad0e22dbc7e000a727f163f3d883e323/",
+    "usedAt": 1785322819635,
+    "usedAtIso": "2026-07-29T11:00:19.635Z"
+  },
   "source:6922fc14dc9a8191c8d8a115108a47681873e6c6": {
     "url": "https://visornoticias.com.br/cao-farejador-encontra-581-quilos-de-maconha-em-tanques-falsos-de-carreta-na-br-282-em-sc",
     "title": "Motorista paraguaio é preso com 581 quilos de maconha escondidos em tanques de carreta em Santa Catarina",
@@ -5663,12 +5671,12 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:d85ef59459962d60fd2b396fc14384e1356403ef": {
-    "url": "https://visornoticias.com.br/morador-nao-resiste-e-morre-no-hospital-apos-ser-espancado-por-faccao-criminosa-em-florianopolis",
-    "title": "Homem é atacado e morre após ser levado à força em Capoeiras, Florianópolis",
-    "guid": "scmulti:c1fc5086ad0e22dbc7e000a727f163f3d883e323",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_c1fc5086ad0e22dbc7e000a727f163f3d883e323/",
-    "usedAt": 1785322819635,
-    "usedAtIso": "2026-07-29T11:00:19.635Z"
+  "source:90bce820b38904afff6ae12ec378f2b8ef2ff363": {
+    "url": "https://visornoticias.com.br/suspeito-tenta-fugir-da-policia-apos-pular-muro-e-e-preso-com-mais-de-2-kg-de-maconha-em-itajai",
+    "title": "Homem é preso com mais de 2 quilos de droga após tentativa de fuga em Balneário Camboriú",
+    "guid": "scmulti:022b672602a8c43dd84056269316683b3220574a",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_022b672602a8c43dd84056269316683b3220574a/",
+    "usedAt": 1785326419930,
+    "usedAtIso": "2026-07-29T12:00:19.930Z"
   }
 }
