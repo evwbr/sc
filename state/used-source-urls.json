@@ -1,4 +1,20 @@
 {
+  "source:a7ca5eff1a85b459179df4bce180b10d186ab1f3": {
+    "url": "https://visornoticias.com.br/voce-sabe-o-que-e-perda-de-agua-entender-ajuda-a-preservar-2",
+    "title": "Concessionárias de Santa Catarina intensificam ações para reduzir perdas de água tratada",
+    "guid": "scmulti:be579454f6884d4b76e3855baa56ad9b23e1ee45",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_be579454f6884d4b76e3855baa56ad9b23e1ee45/",
+    "usedAt": 1785337219699,
+    "usedAtIso": "2026-07-29T15:00:19.699Z"
+  },
+  "source:b6531d73a5b61ecd6818fb3314434e453f0e589e": {
+    "url": "https://visornoticias.com.br/homem-morre-apos-ser-atacado-em-area-de-mangue-em-balneario-camboriu",
+    "title": "Homem em situação de rua é morto em Balneário Camboriú; suspeito fugiu após agressão",
+    "guid": "scmulti:ac5936aa795d4b6aa64400488d748011be054981",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_ac5936aa795d4b6aa64400488d748011be054981/",
+    "usedAt": 1785337219699,
+    "usedAtIso": "2026-07-29T15:00:19.699Z"
+  },
   "source:9d2fc6d1a7d5baa584748c72f87d6f53ca52045b": {
     "url": "https://visornoticias.com.br/caes-doentes-e-31-aves-em-condicoes-precarias-sao-resgatados-e-homem-e-preso-em-blumenau",
     "title": "Animais são resgatados de residência com condições precárias em Santa Catarina",
@@ -5727,20 +5743,12 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:a7ca5eff1a85b459179df4bce180b10d186ab1f3": {
-    "url": "https://visornoticias.com.br/voce-sabe-o-que-e-perda-de-agua-entender-ajuda-a-preservar-2",
-    "title": "Concessionárias de Santa Catarina intensificam ações para reduzir perdas de água tratada",
-    "guid": "scmulti:be579454f6884d4b76e3855baa56ad9b23e1ee45",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_be579454f6884d4b76e3855baa56ad9b23e1ee45/",
-    "usedAt": 1785337219699,
-    "usedAtIso": "2026-07-29T15:00:19.699Z"
-  },
-  "source:b6531d73a5b61ecd6818fb3314434e453f0e589e": {
-    "url": "https://visornoticias.com.br/homem-morre-apos-ser-atacado-em-area-de-mangue-em-balneario-camboriu",
-    "title": "Homem em situação de rua é morto em Balneário Camboriú; suspeito fugiu após agressão",
-    "guid": "scmulti:ac5936aa795d4b6aa64400488d748011be054981",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_ac5936aa795d4b6aa64400488d748011be054981/",
-    "usedAt": 1785337219699,
-    "usedAtIso": "2026-07-29T15:00:19.699Z"
+  "source:79a9ddff799f70685329e9f26ed94e7cf00cbf7b": {
+    "url": "https://visornoticias.com.br/acidente-com-dois-carros-deixa-tres-feridos-e-motorista-preso-as-ferragens-na-br-470-em-sc",
+    "title": "Acidente na marginal da BR-470 deixa motorista preso às ferragens e três feridos em Santa Catarina",
+    "guid": "scmulti:d70093b0a318c54657f092e068085b7099971743",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_d70093b0a318c54657f092e068085b7099971743/",
+    "usedAt": 1785340819772,
+    "usedAtIso": "2026-07-29T16:00:19.772Z"
   }
 }
