@@ -1,4 +1,52 @@
 {
+  "source:9d2fc6d1a7d5baa584748c72f87d6f53ca52045b": {
+    "url": "https://visornoticias.com.br/caes-doentes-e-31-aves-em-condicoes-precarias-sao-resgatados-e-homem-e-preso-em-blumenau",
+    "title": "Animais são resgatados de residência com condições precárias em Santa Catarina",
+    "guid": "scmulti:fa2fc3fd72688ee8c66fd3002dcf3d595e061e5a",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_fa2fc3fd72688ee8c66fd3002dcf3d595e061e5a/",
+    "usedAt": 1785333619599,
+    "usedAtIso": "2026-07-29T14:00:19.599Z"
+  },
+  "source:bbbc02ad0219874f7c22101e0f7bbf42c8984438": {
+    "url": "https://visornoticias.com.br/operacao-prende-grupo-suspeito-de-roubar-casas-e-estabelecimentos-em-sc",
+    "title": "Polícia Civil realiza operação em três cidades de Santa Catarina e prende 12 suspeitos de roubos em Joinville",
+    "guid": "scmulti:8c4fcde8ef12e279c2c226fbc7fa8fd5c03f588c",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_8c4fcde8ef12e279c2c226fbc7fa8fd5c03f588c/",
+    "usedAt": 1785333619599,
+    "usedAtIso": "2026-07-29T14:00:19.599Z"
+  },
+  "source:3654f63b79403a74e49c9e223ec270732e09eabf": {
+    "url": "https://visornoticias.com.br/defesa-civil-alerta-para-temporais-com-granizo-e-ventania-em-sc-nesta-quarta",
+    "title": "Defesa Civil alerta para temporais com granizo e ventos fortes em Santa Catarina",
+    "guid": "scmulti:88a1dc3aff8208d51813ff04274b146a8a39e4a3",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_88a1dc3aff8208d51813ff04274b146a8a39e4a3/",
+    "usedAt": 1785333619599,
+    "usedAtIso": "2026-07-29T14:00:19.599Z"
+  },
+  "source:fbe1b736742e4331bf821652aaaa0a8bd954900d": {
+    "url": "https://visornoticias.com.br/carro-fica-destruido-e-motorista-morre-apos-batida-frontal-com-caminhao-na-br-282-em-sc",
+    "title": "Motorista de carro morre em colisão com caminhão em Santa Catarina",
+    "guid": "scmulti:8d2f83d2d3504b54a7f7da649756325cad0bfef5",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_8d2f83d2d3504b54a7f7da649756325cad0bfef5/",
+    "usedAt": 1785333619599,
+    "usedAtIso": "2026-07-29T14:00:19.599Z"
+  },
+  "source:ba9fbfabe17e236ba20ef20e8fc01c7014965721": {
+    "url": "https://visornoticias.com.br/homem-atira-na-sogra-durante-discussao-familiar-e-acaba-preso-em-joinville",
+    "title": "Mulher é baleada no ombro durante discussão no Jardim Paraíso, em Balneário Camboriú",
+    "guid": "scmulti:bb5bef0b984e0025572910ecc4c5de503495f944",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_bb5bef0b984e0025572910ecc4c5de503495f944/",
+    "usedAt": 1785333619599,
+    "usedAtIso": "2026-07-29T14:00:19.599Z"
+  },
+  "source:fd04ba2219097ead7fc68c77df97b6c4d9705c3b": {
+    "url": "https://cbntotal.com.br/cotidiano/caminhao-esmaga-carro-em-acidente-e-mata-motorista-na-br-282-irreconhecivel",
+    "title": "Acidente fatal entre caminhão e carro na BR-282 deixa motorista preso às ferragens sem vida",
+    "guid": "scmulti:1e2197d516bdcdc72ba84a3926609b2a21b50a4e",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_1e2197d516bdcdc72ba84a3926609b2a21b50a4e/",
+    "usedAt": 1785333619599,
+    "usedAtIso": "2026-07-29T14:00:19.599Z"
+  },
   "source:90bce820b38904afff6ae12ec378f2b8ef2ff363": {
     "url": "https://visornoticias.com.br/suspeito-tenta-fugir-da-policia-apos-pular-muro-e-e-preso-com-mais-de-2-kg-de-maconha-em-itajai",
     "title": "Homem é preso com mais de 2 quilos de droga após tentativa de fuga em Balneário Camboriú",
@@ -5679,52 +5727,20 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:9d2fc6d1a7d5baa584748c72f87d6f53ca52045b": {
-    "url": "https://visornoticias.com.br/caes-doentes-e-31-aves-em-condicoes-precarias-sao-resgatados-e-homem-e-preso-em-blumenau",
-    "title": "Animais são resgatados de residência com condições precárias em Santa Catarina",
-    "guid": "scmulti:fa2fc3fd72688ee8c66fd3002dcf3d595e061e5a",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_fa2fc3fd72688ee8c66fd3002dcf3d595e061e5a/",
-    "usedAt": 1785333619599,
-    "usedAtIso": "2026-07-29T14:00:19.599Z"
+  "source:a7ca5eff1a85b459179df4bce180b10d186ab1f3": {
+    "url": "https://visornoticias.com.br/voce-sabe-o-que-e-perda-de-agua-entender-ajuda-a-preservar-2",
+    "title": "Concessionárias de Santa Catarina intensificam ações para reduzir perdas de água tratada",
+    "guid": "scmulti:be579454f6884d4b76e3855baa56ad9b23e1ee45",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_be579454f6884d4b76e3855baa56ad9b23e1ee45/",
+    "usedAt": 1785337219699,
+    "usedAtIso": "2026-07-29T15:00:19.699Z"
   },
-  "source:bbbc02ad0219874f7c22101e0f7bbf42c8984438": {
-    "url": "https://visornoticias.com.br/operacao-prende-grupo-suspeito-de-roubar-casas-e-estabelecimentos-em-sc",
-    "title": "Polícia Civil realiza operação em três cidades de Santa Catarina e prende 12 suspeitos de roubos em Joinville",
-    "guid": "scmulti:8c4fcde8ef12e279c2c226fbc7fa8fd5c03f588c",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_8c4fcde8ef12e279c2c226fbc7fa8fd5c03f588c/",
-    "usedAt": 1785333619599,
-    "usedAtIso": "2026-07-29T14:00:19.599Z"
-  },
-  "source:3654f63b79403a74e49c9e223ec270732e09eabf": {
-    "url": "https://visornoticias.com.br/defesa-civil-alerta-para-temporais-com-granizo-e-ventania-em-sc-nesta-quarta",
-    "title": "Defesa Civil alerta para temporais com granizo e ventos fortes em Santa Catarina",
-    "guid": "scmulti:88a1dc3aff8208d51813ff04274b146a8a39e4a3",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_88a1dc3aff8208d51813ff04274b146a8a39e4a3/",
-    "usedAt": 1785333619599,
-    "usedAtIso": "2026-07-29T14:00:19.599Z"
-  },
-  "source:fbe1b736742e4331bf821652aaaa0a8bd954900d": {
-    "url": "https://visornoticias.com.br/carro-fica-destruido-e-motorista-morre-apos-batida-frontal-com-caminhao-na-br-282-em-sc",
-    "title": "Motorista de carro morre em colisão com caminhão em Santa Catarina",
-    "guid": "scmulti:8d2f83d2d3504b54a7f7da649756325cad0bfef5",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_8d2f83d2d3504b54a7f7da649756325cad0bfef5/",
-    "usedAt": 1785333619599,
-    "usedAtIso": "2026-07-29T14:00:19.599Z"
-  },
-  "source:ba9fbfabe17e236ba20ef20e8fc01c7014965721": {
-    "url": "https://visornoticias.com.br/homem-atira-na-sogra-durante-discussao-familiar-e-acaba-preso-em-joinville",
-    "title": "Mulher é baleada no ombro durante discussão no Jardim Paraíso, em Balneário Camboriú",
-    "guid": "scmulti:bb5bef0b984e0025572910ecc4c5de503495f944",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_bb5bef0b984e0025572910ecc4c5de503495f944/",
-    "usedAt": 1785333619599,
-    "usedAtIso": "2026-07-29T14:00:19.599Z"
-  },
-  "source:fd04ba2219097ead7fc68c77df97b6c4d9705c3b": {
-    "url": "https://cbntotal.com.br/cotidiano/caminhao-esmaga-carro-em-acidente-e-mata-motorista-na-br-282-irreconhecivel",
-    "title": "Acidente fatal entre caminhão e carro na BR-282 deixa motorista preso às ferragens sem vida",
-    "guid": "scmulti:1e2197d516bdcdc72ba84a3926609b2a21b50a4e",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_1e2197d516bdcdc72ba84a3926609b2a21b50a4e/",
-    "usedAt": 1785333619599,
-    "usedAtIso": "2026-07-29T14:00:19.599Z"
+  "source:b6531d73a5b61ecd6818fb3314434e453f0e589e": {
+    "url": "https://visornoticias.com.br/homem-morre-apos-ser-atacado-em-area-de-mangue-em-balneario-camboriu",
+    "title": "Homem em situação de rua é morto em Balneário Camboriú; suspeito fugiu após agressão",
+    "guid": "scmulti:ac5936aa795d4b6aa64400488d748011be054981",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_ac5936aa795d4b6aa64400488d748011be054981/",
+    "usedAt": 1785337219699,
+    "usedAtIso": "2026-07-29T15:00:19.699Z"
   }
 }
