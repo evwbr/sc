@@ -1,4 +1,20 @@
 {
+  "source:453368de4920dc81a2e16f88714a129420948a55": {
+    "url": "https://visornoticias.com.br/homem-e-executado-a-tiros-e-suspeitos-sao-presos-com-fuzil-em-joinville",
+    "title": "Homem é morto a tiros em condomínio de Balneário Camboriú e veículo é incendiado nas proximidades",
+    "guid": "scmulti:8683cc53452f6dbb1f2bac050c7ab1beb35a6c4b",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_8683cc53452f6dbb1f2bac050c7ab1beb35a6c4b/",
+    "usedAt": 1785405619887,
+    "usedAtIso": "2026-07-30T10:00:19.887Z"
+  },
+  "source:5e9262d2dbc3a40db6aa80618ace853bd20a17cb": {
+    "url": "https://visornoticias.com.br/santa-catarina-tera-calor-intenso-rajadas-de-vento-e-risco-de-temporais-isolados",
+    "title": "Frente fria traz risco de temporais isolados no Oeste de Santa Catarina neste fim de semana",
+    "guid": "scmulti:c2fcce18fda346bf1586b893888f600f54b5206f",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_c2fcce18fda346bf1586b893888f600f54b5206f/",
+    "usedAt": 1785405619887,
+    "usedAtIso": "2026-07-30T10:00:19.887Z"
+  },
   "source:9e19d4e5ff2fca47b4aab214b46460dfb83dbd55": {
     "url": "https://visornoticias.com.br/acidente-bloqueia-faixa-e-causa-congestionamento-em-florianopolis",
     "title": "Colisão na ponte Ivo Silveira provoca congestionamento nos dois sentidos em Florianópolis",
@@ -5783,20 +5799,12 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:453368de4920dc81a2e16f88714a129420948a55": {
-    "url": "https://visornoticias.com.br/homem-e-executado-a-tiros-e-suspeitos-sao-presos-com-fuzil-em-joinville",
-    "title": "Homem é morto a tiros em condomínio de Balneário Camboriú e veículo é incendiado nas proximidades",
-    "guid": "scmulti:8683cc53452f6dbb1f2bac050c7ab1beb35a6c4b",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_8683cc53452f6dbb1f2bac050c7ab1beb35a6c4b/",
-    "usedAt": 1785405619887,
-    "usedAtIso": "2026-07-30T10:00:19.887Z"
-  },
-  "source:5e9262d2dbc3a40db6aa80618ace853bd20a17cb": {
-    "url": "https://visornoticias.com.br/santa-catarina-tera-calor-intenso-rajadas-de-vento-e-risco-de-temporais-isolados",
-    "title": "Frente fria traz risco de temporais isolados no Oeste de Santa Catarina neste fim de semana",
-    "guid": "scmulti:c2fcce18fda346bf1586b893888f600f54b5206f",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_c2fcce18fda346bf1586b893888f600f54b5206f/",
-    "usedAt": 1785405619887,
-    "usedAtIso": "2026-07-30T10:00:19.887Z"
+  "source:1f60e4abe3c3aa4b6d3f4e42387dc2b288f1eb41": {
+    "url": "https://visornoticias.com.br/corpo-e-encontrado-em-area-de-dificil-acesso-em-praia-de-sc",
+    "title": "Homem é encontrado morto em costão próximo à Praia do Bananal em Penha",
+    "guid": "scmulti:d1638f7ad01d7566a221008e45e036ef7075562a",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_d1638f7ad01d7566a221008e45e036ef7075562a/",
+    "usedAt": 1785409220406,
+    "usedAtIso": "2026-07-30T11:00:20.406Z"
   }
 }
