@@ -1,4 +1,12 @@
 {
+  "source:1f60e4abe3c3aa4b6d3f4e42387dc2b288f1eb41": {
+    "url": "https://visornoticias.com.br/corpo-e-encontrado-em-area-de-dificil-acesso-em-praia-de-sc",
+    "title": "Homem é encontrado morto em costão próximo à Praia do Bananal em Penha",
+    "guid": "scmulti:d1638f7ad01d7566a221008e45e036ef7075562a",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_d1638f7ad01d7566a221008e45e036ef7075562a/",
+    "usedAt": 1785409220406,
+    "usedAtIso": "2026-07-30T11:00:20.406Z"
+  },
   "source:453368de4920dc81a2e16f88714a129420948a55": {
     "url": "https://visornoticias.com.br/homem-e-executado-a-tiros-e-suspeitos-sao-presos-com-fuzil-em-joinville",
     "title": "Homem é morto a tiros em condomínio de Balneário Camboriú e veículo é incendiado nas proximidades",
@@ -5799,12 +5807,12 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:1f60e4abe3c3aa4b6d3f4e42387dc2b288f1eb41": {
-    "url": "https://visornoticias.com.br/corpo-e-encontrado-em-area-de-dificil-acesso-em-praia-de-sc",
-    "title": "Homem é encontrado morto em costão próximo à Praia do Bananal em Penha",
-    "guid": "scmulti:d1638f7ad01d7566a221008e45e036ef7075562a",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_d1638f7ad01d7566a221008e45e036ef7075562a/",
-    "usedAt": 1785409220406,
-    "usedAtIso": "2026-07-30T11:00:20.406Z"
+  "source:a48c5ade8fc81a3473a0a58edf8f9a0cc4677014": {
+    "url": "https://visornoticias.com.br/ex-jogador-do-botafogo-morre-apos-muro-desabar-durante-forte-vendaval",
+    "title": "Vendaval no Rio de Janeiro provoca desabamento e morte de ex-jogador Tássio Maia",
+    "guid": "scmulti:cd7dc87bb39e792f6e15b6aa8d3c39babe450fa9",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_cd7dc87bb39e792f6e15b6aa8d3c39babe450fa9/",
+    "usedAt": 1785420019834,
+    "usedAtIso": "2026-07-30T14:00:19.834Z"
   }
 }
