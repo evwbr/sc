@@ -1,4 +1,28 @@
 {
+  "source:0a61702a2c897341f7291f6cd2431c56fe7f2b10": {
+    "url": "https://visornoticias.com.br/prf-intensifica-fiscalizacao-de-carretas-e-excesso-de-peso-na-br-470",
+    "title": "Operação fiscaliza excesso de peso e circulação irregular de carretas na BR-470 em Rio do Sul",
+    "guid": "scmulti:d5a1822451f9f038b3e16881ae26d46e49344016",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_d5a1822451f9f038b3e16881ae26d46e49344016/",
+    "usedAt": 1785445219549,
+    "usedAtIso": "2026-07-30T21:00:19.549Z"
+  },
+  "source:6add4415e50fcecb06938661d5e15b4c6938e17f": {
+    "url": "https://visornoticias.com.br/cachorro-e-resgatado-com-vida-apos-ficar-20-horas-soterrado-em-sc",
+    "title": "Bombeiros resgatam cachorro soterrado após desabamento em Concórdia",
+    "guid": "scmulti:77c7242930cb412ef66d6b52e8a328ab51a87f4b",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_77c7242930cb412ef66d6b52e8a328ab51a87f4b/",
+    "usedAt": 1785445219549,
+    "usedAtIso": "2026-07-30T21:00:19.549Z"
+  },
+  "source:224771d06ee623a8d4f2d03dd2614b4c0110ffd4": {
+    "url": "https://visornoticias.com.br/contencao-erosao-lages-avenida-belisario-ramos",
+    "title": "Prefeitura de Lages intensifica contenção de erosão nas margens do rio Carahá na avenida Belisário Ramos",
+    "guid": "scmulti:4da383d3145d1279fc74973fcd868ef50eabf87b",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_4da383d3145d1279fc74973fcd868ef50eabf87b/",
+    "usedAt": 1785445219549,
+    "usedAtIso": "2026-07-30T21:00:19.549Z"
+  },
   "source:08c0d44e8b0d8ccfe839a5d1df2aa4f678c6bb95": {
     "url": "https://visornoticias.com.br/lages-conquista-medalhas-joguinhos-abertos-sc",
     "title": "Lages conquista oito medalhas nos Joguinhos Abertos de Santa Catarina em Blumenau",
@@ -5879,28 +5903,12 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:0a61702a2c897341f7291f6cd2431c56fe7f2b10": {
-    "url": "https://visornoticias.com.br/prf-intensifica-fiscalizacao-de-carretas-e-excesso-de-peso-na-br-470",
-    "title": "Operação fiscaliza excesso de peso e circulação irregular de carretas na BR-470 em Rio do Sul",
-    "guid": "scmulti:d5a1822451f9f038b3e16881ae26d46e49344016",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_d5a1822451f9f038b3e16881ae26d46e49344016/",
-    "usedAt": 1785445219549,
-    "usedAtIso": "2026-07-30T21:00:19.549Z"
-  },
-  "source:6add4415e50fcecb06938661d5e15b4c6938e17f": {
-    "url": "https://visornoticias.com.br/cachorro-e-resgatado-com-vida-apos-ficar-20-horas-soterrado-em-sc",
-    "title": "Bombeiros resgatam cachorro soterrado após desabamento em Concórdia",
-    "guid": "scmulti:77c7242930cb412ef66d6b52e8a328ab51a87f4b",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_77c7242930cb412ef66d6b52e8a328ab51a87f4b/",
-    "usedAt": 1785445219549,
-    "usedAtIso": "2026-07-30T21:00:19.549Z"
-  },
-  "source:224771d06ee623a8d4f2d03dd2614b4c0110ffd4": {
-    "url": "https://visornoticias.com.br/contencao-erosao-lages-avenida-belisario-ramos",
-    "title": "Prefeitura de Lages intensifica contenção de erosão nas margens do rio Carahá na avenida Belisário Ramos",
-    "guid": "scmulti:4da383d3145d1279fc74973fcd868ef50eabf87b",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_4da383d3145d1279fc74973fcd868ef50eabf87b/",
-    "usedAt": 1785445219549,
-    "usedAtIso": "2026-07-30T21:00:19.549Z"
+  "source:4ae5f49405a7a5b335ffc43208eff696d67307da": {
+    "url": "https://visornoticias.com.br/suspeito-de-estupro-e-preso-em-camboriu-apos-operacao-entre-sc-e-rs",
+    "title": "Polícias Civis de Santa Catarina e RS capturam homem com mandado de prisão preventiva em Camboriú",
+    "guid": "scmulti:622bc4592dfe7c545054b3b8939955e86a365229",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_622bc4592dfe7c545054b3b8939955e86a365229/",
+    "usedAt": 1785448826544,
+    "usedAtIso": "2026-07-30T22:00:26.544Z"
   }
 }
