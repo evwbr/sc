@@ -1,4 +1,44 @@
 {
+  "source:08c0d44e8b0d8ccfe839a5d1df2aa4f678c6bb95": {
+    "url": "https://visornoticias.com.br/lages-conquista-medalhas-joguinhos-abertos-sc",
+    "title": "Lages conquista oito medalhas nos Joguinhos Abertos de Santa Catarina em Blumenau",
+    "guid": "scmulti:44846c43f39ed79c1e5a81772db8e8c4c9007012",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_44846c43f39ed79c1e5a81772db8e8c4c9007012/",
+    "usedAt": 1785441624680,
+    "usedAtIso": "2026-07-30T20:00:24.680Z"
+  },
+  "source:2f4e1000c49e059dddb3092502642b187c72014a": {
+    "url": "https://visornoticias.com.br/chuvas-lages-7",
+    "title": "Tempestade em Lages provoca 13 ocorrências e afeta 52 pessoas",
+    "guid": "scmulti:910610fd988e99a1d3dbd02899f50a56418751b8",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_910610fd988e99a1d3dbd02899f50a56418751b8/",
+    "usedAt": 1785441624680,
+    "usedAtIso": "2026-07-30T20:00:24.680Z"
+  },
+  "source:5f818e968d0c6df6995aa1c347f09d0979a8f87f": {
+    "url": "https://visornoticias.com.br/limpeza-urbana-lages-bairros",
+    "title": "Secretaria de Serviços Públicos realiza manutenção e limpeza urbana em diversos pontos de Lages",
+    "guid": "scmulti:47a3141a6314282c5521124a965fa56802edb7c9",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_47a3141a6314282c5521124a965fa56802edb7c9/",
+    "usedAt": 1785441624680,
+    "usedAtIso": "2026-07-30T20:00:24.680Z"
+  },
+  "source:c2ae45c0e766fda3927ccc9e845c53563ede4065": {
+    "url": "https://visornoticias.com.br/juventude-na-politica-jaragua-do-sul",
+    "title": "Jaraguá do Sul cria Comcidade Jovem para ampliar participação política da juventude",
+    "guid": "scmulti:98fc153cf7a4d83d8a07ece93bebadabc4398d96",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_98fc153cf7a4d83d8a07ece93bebadabc4398d96/",
+    "usedAt": 1785441624680,
+    "usedAtIso": "2026-07-30T20:00:24.680Z"
+  },
+  "source:494afd14b7395260353400f6c14559f7b8a4b8d5": {
+    "url": "https://visornoticias.com.br/veteranos-da-feb-homenagem-jaragua-do-sul",
+    "title": "Câmara de Vereadores de Balneário Camboriú homenageia associação dos veteranos da FEB",
+    "guid": "scmulti:5ada5a3a17d5d2b7efd61b66413d5f4070c97dcc",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_5ada5a3a17d5d2b7efd61b66413d5f4070c97dcc/",
+    "usedAt": 1785441624680,
+    "usedAtIso": "2026-07-30T20:00:24.680Z"
+  },
   "source:3c3d28ca5a71da5af4992858fcfcc5bdc2e7c338": {
     "url": "https://visornoticias.com.br/samae-alerta-para-possivel-falta-de-agua-apos-rompimento-de-adutora-em-porto-belo",
     "title": "Manutenção emergencial pode causar falta de água no bairro Vila Nova em Balneário Camboriú",
@@ -5839,44 +5879,28 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:08c0d44e8b0d8ccfe839a5d1df2aa4f678c6bb95": {
-    "url": "https://visornoticias.com.br/lages-conquista-medalhas-joguinhos-abertos-sc",
-    "title": "Lages conquista oito medalhas nos Joguinhos Abertos de Santa Catarina em Blumenau",
-    "guid": "scmulti:44846c43f39ed79c1e5a81772db8e8c4c9007012",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_44846c43f39ed79c1e5a81772db8e8c4c9007012/",
-    "usedAt": 1785441624680,
-    "usedAtIso": "2026-07-30T20:00:24.680Z"
+  "source:0a61702a2c897341f7291f6cd2431c56fe7f2b10": {
+    "url": "https://visornoticias.com.br/prf-intensifica-fiscalizacao-de-carretas-e-excesso-de-peso-na-br-470",
+    "title": "Operação fiscaliza excesso de peso e circulação irregular de carretas na BR-470 em Rio do Sul",
+    "guid": "scmulti:d5a1822451f9f038b3e16881ae26d46e49344016",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_d5a1822451f9f038b3e16881ae26d46e49344016/",
+    "usedAt": 1785445219549,
+    "usedAtIso": "2026-07-30T21:00:19.549Z"
   },
-  "source:2f4e1000c49e059dddb3092502642b187c72014a": {
-    "url": "https://visornoticias.com.br/chuvas-lages-7",
-    "title": "Tempestade em Lages provoca 13 ocorrências e afeta 52 pessoas",
-    "guid": "scmulti:910610fd988e99a1d3dbd02899f50a56418751b8",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_910610fd988e99a1d3dbd02899f50a56418751b8/",
-    "usedAt": 1785441624680,
-    "usedAtIso": "2026-07-30T20:00:24.680Z"
+  "source:6add4415e50fcecb06938661d5e15b4c6938e17f": {
+    "url": "https://visornoticias.com.br/cachorro-e-resgatado-com-vida-apos-ficar-20-horas-soterrado-em-sc",
+    "title": "Bombeiros resgatam cachorro soterrado após desabamento em Concórdia",
+    "guid": "scmulti:77c7242930cb412ef66d6b52e8a328ab51a87f4b",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_77c7242930cb412ef66d6b52e8a328ab51a87f4b/",
+    "usedAt": 1785445219549,
+    "usedAtIso": "2026-07-30T21:00:19.549Z"
   },
-  "source:5f818e968d0c6df6995aa1c347f09d0979a8f87f": {
-    "url": "https://visornoticias.com.br/limpeza-urbana-lages-bairros",
-    "title": "Secretaria de Serviços Públicos realiza manutenção e limpeza urbana em diversos pontos de Lages",
-    "guid": "scmulti:47a3141a6314282c5521124a965fa56802edb7c9",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_47a3141a6314282c5521124a965fa56802edb7c9/",
-    "usedAt": 1785441624680,
-    "usedAtIso": "2026-07-30T20:00:24.680Z"
-  },
-  "source:c2ae45c0e766fda3927ccc9e845c53563ede4065": {
-    "url": "https://visornoticias.com.br/juventude-na-politica-jaragua-do-sul",
-    "title": "Jaraguá do Sul cria Comcidade Jovem para ampliar participação política da juventude",
-    "guid": "scmulti:98fc153cf7a4d83d8a07ece93bebadabc4398d96",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_98fc153cf7a4d83d8a07ece93bebadabc4398d96/",
-    "usedAt": 1785441624680,
-    "usedAtIso": "2026-07-30T20:00:24.680Z"
-  },
-  "source:494afd14b7395260353400f6c14559f7b8a4b8d5": {
-    "url": "https://visornoticias.com.br/veteranos-da-feb-homenagem-jaragua-do-sul",
-    "title": "Câmara de Vereadores de Balneário Camboriú homenageia associação dos veteranos da FEB",
-    "guid": "scmulti:5ada5a3a17d5d2b7efd61b66413d5f4070c97dcc",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_5ada5a3a17d5d2b7efd61b66413d5f4070c97dcc/",
-    "usedAt": 1785441624680,
-    "usedAtIso": "2026-07-30T20:00:24.680Z"
+  "source:224771d06ee623a8d4f2d03dd2614b4c0110ffd4": {
+    "url": "https://visornoticias.com.br/contencao-erosao-lages-avenida-belisario-ramos",
+    "title": "Prefeitura de Lages intensifica contenção de erosão nas margens do rio Carahá na avenida Belisário Ramos",
+    "guid": "scmulti:4da383d3145d1279fc74973fcd868ef50eabf87b",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_4da383d3145d1279fc74973fcd868ef50eabf87b/",
+    "usedAt": 1785445219549,
+    "usedAtIso": "2026-07-30T21:00:19.549Z"
   }
 }
