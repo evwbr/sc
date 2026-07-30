@@ -1,4 +1,20 @@
 {
+  "source:e517c410b27e0a20ab5814b86c2d78abc6c17cd8": {
+    "url": "https://visornoticias.com.br/carreta-fica-atravessada-apos-acidente-e-bloqueia-a-br-101-no-litoral-norte-de-sc",
+    "title": "Acidente com carreta bloqueia totalmente a BR-101 em Santa Catarina",
+    "guid": "scmulti:f18e31d76d60b0f4f60d48af4d015184717ca596",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_f18e31d76d60b0f4f60d48af4d015184717ca596/",
+    "usedAt": 1785427219783,
+    "usedAtIso": "2026-07-30T16:00:19.783Z"
+  },
+  "source:ec33f528e07238c2fd57b7581fc67c3731feb0aa": {
+    "url": "https://cbntotal.com.br/cotidiano/vendedor-e-espancado-durante-ataque-homofobico-em-bairro-nobre-e-agressor-e-preso-em-florianopolis",
+    "title": "Homem de 26 anos é preso por agressão contra vendedor em Florianópolis",
+    "guid": "scmulti:4eab86d96322015a73b556caf27effdc55a04146",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_4eab86d96322015a73b556caf27effdc55a04146/",
+    "usedAt": 1785427219783,
+    "usedAtIso": "2026-07-30T16:00:19.783Z"
+  },
   "source:a48c5ade8fc81a3473a0a58edf8f9a0cc4677014": {
     "url": "https://visornoticias.com.br/ex-jogador-do-botafogo-morre-apos-muro-desabar-durante-forte-vendaval",
     "title": "Vendaval no Rio de Janeiro provoca desabamento e morte de ex-jogador Tássio Maia",
@@ -5815,20 +5831,12 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:e517c410b27e0a20ab5814b86c2d78abc6c17cd8": {
-    "url": "https://visornoticias.com.br/carreta-fica-atravessada-apos-acidente-e-bloqueia-a-br-101-no-litoral-norte-de-sc",
-    "title": "Acidente com carreta bloqueia totalmente a BR-101 em Santa Catarina",
-    "guid": "scmulti:f18e31d76d60b0f4f60d48af4d015184717ca596",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_f18e31d76d60b0f4f60d48af4d015184717ca596/",
-    "usedAt": 1785427219783,
-    "usedAtIso": "2026-07-30T16:00:19.783Z"
-  },
-  "source:ec33f528e07238c2fd57b7581fc67c3731feb0aa": {
-    "url": "https://cbntotal.com.br/cotidiano/vendedor-e-espancado-durante-ataque-homofobico-em-bairro-nobre-e-agressor-e-preso-em-florianopolis",
-    "title": "Homem de 26 anos é preso por agressão contra vendedor em Florianópolis",
-    "guid": "scmulti:4eab86d96322015a73b556caf27effdc55a04146",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_4eab86d96322015a73b556caf27effdc55a04146/",
-    "usedAt": 1785427219783,
-    "usedAtIso": "2026-07-30T16:00:19.783Z"
+  "source:3c3d28ca5a71da5af4992858fcfcc5bdc2e7c338": {
+    "url": "https://visornoticias.com.br/samae-alerta-para-possivel-falta-de-agua-apos-rompimento-de-adutora-em-porto-belo",
+    "title": "Manutenção emergencial pode causar falta de água no bairro Vila Nova em Balneário Camboriú",
+    "guid": "scmulti:695bcdc600861fcef422e98634aea411e5df8c48",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_695bcdc600861fcef422e98634aea411e5df8c48/",
+    "usedAt": 1785430820251,
+    "usedAtIso": "2026-07-30T17:00:20.251Z"
   }
 }
