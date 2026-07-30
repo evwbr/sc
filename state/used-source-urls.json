@@ -1,4 +1,12 @@
 {
+  "source:4ae5f49405a7a5b335ffc43208eff696d67307da": {
+    "url": "https://visornoticias.com.br/suspeito-de-estupro-e-preso-em-camboriu-apos-operacao-entre-sc-e-rs",
+    "title": "Polícias Civis de Santa Catarina e RS capturam homem com mandado de prisão preventiva em Camboriú",
+    "guid": "scmulti:622bc4592dfe7c545054b3b8939955e86a365229",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_622bc4592dfe7c545054b3b8939955e86a365229/",
+    "usedAt": 1785448826544,
+    "usedAtIso": "2026-07-30T22:00:26.544Z"
+  },
   "source:0a61702a2c897341f7291f6cd2431c56fe7f2b10": {
     "url": "https://visornoticias.com.br/prf-intensifica-fiscalizacao-de-carretas-e-excesso-de-peso-na-br-470",
     "title": "Operação fiscaliza excesso de peso e circulação irregular de carretas na BR-470 em Rio do Sul",
@@ -5903,12 +5911,12 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:4ae5f49405a7a5b335ffc43208eff696d67307da": {
-    "url": "https://visornoticias.com.br/suspeito-de-estupro-e-preso-em-camboriu-apos-operacao-entre-sc-e-rs",
-    "title": "Polícias Civis de Santa Catarina e RS capturam homem com mandado de prisão preventiva em Camboriú",
-    "guid": "scmulti:622bc4592dfe7c545054b3b8939955e86a365229",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_622bc4592dfe7c545054b3b8939955e86a365229/",
-    "usedAt": 1785448826544,
-    "usedAtIso": "2026-07-30T22:00:26.544Z"
+  "source:47faea66db8767153fd8a3929b54f8daf6a291aa": {
+    "url": "https://visornoticias.com.br/sexta-feira-tera-sol-e-rajadas-de-ate-60-km-h-em-sc",
+    "title": "Ventos fortes e mar agitado marcam o clima em Santa Catarina nesta quarta-feira",
+    "guid": "scmulti:2b09c6d4df2e13776deaf423b95f4429ee964371",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_2b09c6d4df2e13776deaf423b95f4429ee964371/",
+    "usedAt": 1785452419559,
+    "usedAtIso": "2026-07-30T23:00:19.559Z"
   }
 }
