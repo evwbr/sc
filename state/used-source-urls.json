@@ -1,4 +1,12 @@
 {
+  "source:3c3d28ca5a71da5af4992858fcfcc5bdc2e7c338": {
+    "url": "https://visornoticias.com.br/samae-alerta-para-possivel-falta-de-agua-apos-rompimento-de-adutora-em-porto-belo",
+    "title": "Manutenção emergencial pode causar falta de água no bairro Vila Nova em Balneário Camboriú",
+    "guid": "scmulti:695bcdc600861fcef422e98634aea411e5df8c48",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_695bcdc600861fcef422e98634aea411e5df8c48/",
+    "usedAt": 1785430820251,
+    "usedAtIso": "2026-07-30T17:00:20.251Z"
+  },
   "source:e517c410b27e0a20ab5814b86c2d78abc6c17cd8": {
     "url": "https://visornoticias.com.br/carreta-fica-atravessada-apos-acidente-e-bloqueia-a-br-101-no-litoral-norte-de-sc",
     "title": "Acidente com carreta bloqueia totalmente a BR-101 em Santa Catarina",
@@ -5831,12 +5839,44 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:3c3d28ca5a71da5af4992858fcfcc5bdc2e7c338": {
-    "url": "https://visornoticias.com.br/samae-alerta-para-possivel-falta-de-agua-apos-rompimento-de-adutora-em-porto-belo",
-    "title": "Manutenção emergencial pode causar falta de água no bairro Vila Nova em Balneário Camboriú",
-    "guid": "scmulti:695bcdc600861fcef422e98634aea411e5df8c48",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_695bcdc600861fcef422e98634aea411e5df8c48/",
-    "usedAt": 1785430820251,
-    "usedAtIso": "2026-07-30T17:00:20.251Z"
+  "source:08c0d44e8b0d8ccfe839a5d1df2aa4f678c6bb95": {
+    "url": "https://visornoticias.com.br/lages-conquista-medalhas-joguinhos-abertos-sc",
+    "title": "Lages conquista oito medalhas nos Joguinhos Abertos de Santa Catarina em Blumenau",
+    "guid": "scmulti:44846c43f39ed79c1e5a81772db8e8c4c9007012",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_44846c43f39ed79c1e5a81772db8e8c4c9007012/",
+    "usedAt": 1785441624680,
+    "usedAtIso": "2026-07-30T20:00:24.680Z"
+  },
+  "source:2f4e1000c49e059dddb3092502642b187c72014a": {
+    "url": "https://visornoticias.com.br/chuvas-lages-7",
+    "title": "Tempestade em Lages provoca 13 ocorrências e afeta 52 pessoas",
+    "guid": "scmulti:910610fd988e99a1d3dbd02899f50a56418751b8",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_910610fd988e99a1d3dbd02899f50a56418751b8/",
+    "usedAt": 1785441624680,
+    "usedAtIso": "2026-07-30T20:00:24.680Z"
+  },
+  "source:5f818e968d0c6df6995aa1c347f09d0979a8f87f": {
+    "url": "https://visornoticias.com.br/limpeza-urbana-lages-bairros",
+    "title": "Secretaria de Serviços Públicos realiza manutenção e limpeza urbana em diversos pontos de Lages",
+    "guid": "scmulti:47a3141a6314282c5521124a965fa56802edb7c9",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_47a3141a6314282c5521124a965fa56802edb7c9/",
+    "usedAt": 1785441624680,
+    "usedAtIso": "2026-07-30T20:00:24.680Z"
+  },
+  "source:c2ae45c0e766fda3927ccc9e845c53563ede4065": {
+    "url": "https://visornoticias.com.br/juventude-na-politica-jaragua-do-sul",
+    "title": "Jaraguá do Sul cria Comcidade Jovem para ampliar participação política da juventude",
+    "guid": "scmulti:98fc153cf7a4d83d8a07ece93bebadabc4398d96",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_98fc153cf7a4d83d8a07ece93bebadabc4398d96/",
+    "usedAt": 1785441624680,
+    "usedAtIso": "2026-07-30T20:00:24.680Z"
+  },
+  "source:494afd14b7395260353400f6c14559f7b8a4b8d5": {
+    "url": "https://visornoticias.com.br/veteranos-da-feb-homenagem-jaragua-do-sul",
+    "title": "Câmara de Vereadores de Balneário Camboriú homenageia associação dos veteranos da FEB",
+    "guid": "scmulti:5ada5a3a17d5d2b7efd61b66413d5f4070c97dcc",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_5ada5a3a17d5d2b7efd61b66413d5f4070c97dcc/",
+    "usedAt": 1785441624680,
+    "usedAtIso": "2026-07-30T20:00:24.680Z"
   }
 }
