@@ -1,4 +1,12 @@
 {
+  "source:a48c5ade8fc81a3473a0a58edf8f9a0cc4677014": {
+    "url": "https://visornoticias.com.br/ex-jogador-do-botafogo-morre-apos-muro-desabar-durante-forte-vendaval",
+    "title": "Vendaval no Rio de Janeiro provoca desabamento e morte de ex-jogador Tássio Maia",
+    "guid": "scmulti:cd7dc87bb39e792f6e15b6aa8d3c39babe450fa9",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_cd7dc87bb39e792f6e15b6aa8d3c39babe450fa9/",
+    "usedAt": 1785420019834,
+    "usedAtIso": "2026-07-30T14:00:19.834Z"
+  },
   "source:1f60e4abe3c3aa4b6d3f4e42387dc2b288f1eb41": {
     "url": "https://visornoticias.com.br/corpo-e-encontrado-em-area-de-dificil-acesso-em-praia-de-sc",
     "title": "Homem é encontrado morto em costão próximo à Praia do Bananal em Penha",
@@ -5807,12 +5815,20 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:a48c5ade8fc81a3473a0a58edf8f9a0cc4677014": {
-    "url": "https://visornoticias.com.br/ex-jogador-do-botafogo-morre-apos-muro-desabar-durante-forte-vendaval",
-    "title": "Vendaval no Rio de Janeiro provoca desabamento e morte de ex-jogador Tássio Maia",
-    "guid": "scmulti:cd7dc87bb39e792f6e15b6aa8d3c39babe450fa9",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_cd7dc87bb39e792f6e15b6aa8d3c39babe450fa9/",
-    "usedAt": 1785420019834,
-    "usedAtIso": "2026-07-30T14:00:19.834Z"
+  "source:e517c410b27e0a20ab5814b86c2d78abc6c17cd8": {
+    "url": "https://visornoticias.com.br/carreta-fica-atravessada-apos-acidente-e-bloqueia-a-br-101-no-litoral-norte-de-sc",
+    "title": "Acidente com carreta bloqueia totalmente a BR-101 em Santa Catarina",
+    "guid": "scmulti:f18e31d76d60b0f4f60d48af4d015184717ca596",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_f18e31d76d60b0f4f60d48af4d015184717ca596/",
+    "usedAt": 1785427219783,
+    "usedAtIso": "2026-07-30T16:00:19.783Z"
+  },
+  "source:ec33f528e07238c2fd57b7581fc67c3731feb0aa": {
+    "url": "https://cbntotal.com.br/cotidiano/vendedor-e-espancado-durante-ataque-homofobico-em-bairro-nobre-e-agressor-e-preso-em-florianopolis",
+    "title": "Homem de 26 anos é preso por agressão contra vendedor em Florianópolis",
+    "guid": "scmulti:4eab86d96322015a73b556caf27effdc55a04146",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_4eab86d96322015a73b556caf27effdc55a04146/",
+    "usedAt": 1785427219783,
+    "usedAtIso": "2026-07-30T16:00:19.783Z"
   }
 }
