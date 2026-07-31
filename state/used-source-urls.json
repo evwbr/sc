@@ -1,4 +1,12 @@
 {
+  "source:cbeea1055283e47ced7a48743394a7af48c838ba": {
+    "url": "https://visornoticias.com.br/estrada-que-liga-itapema-e-porto-belo-recebe-pavimentacao-asfaltica",
+    "title": "Estrada Geral do Sertão do Trombudo em Itapema será interditada para pavimentação",
+    "guid": "scmulti:5d6b43e301e5547372f31a799e54c9865037d62b",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_5d6b43e301e5547372f31a799e54c9865037d62b/",
+    "usedAt": 1785517220108,
+    "usedAtIso": "2026-07-31T17:00:20.108Z"
+  },
   "source:e786ba424020f1c2ba0e7165f06e07353d94079d": {
     "url": "https://visornoticias.com.br/policia-faz-buscas-por-suspeito-em-itajai-apos-relato-de-cachorro-ser-baleado",
     "title": "Polícia Militar investiga possível maus-tratos a cachorro em Santa Catarina",
@@ -6023,12 +6031,20 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:cbeea1055283e47ced7a48743394a7af48c838ba": {
-    "url": "https://visornoticias.com.br/estrada-que-liga-itapema-e-porto-belo-recebe-pavimentacao-asfaltica",
-    "title": "Estrada Geral do Sertão do Trombudo em Itapema será interditada para pavimentação",
-    "guid": "scmulti:5d6b43e301e5547372f31a799e54c9865037d62b",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_5d6b43e301e5547372f31a799e54c9865037d62b/",
-    "usedAt": 1785517220108,
-    "usedAtIso": "2026-07-31T17:00:20.108Z"
+  "source:bcde0e6a3d8856ef6e52791c8cc2978fba9afada": {
+    "url": "https://visornoticias.com.br/trabalhador-morre-apos-queda-de-30-metros-durante-manutencao-de-silo-em-sc",
+    "title": "Queda de trabalhadores em São José do Cedro deixa um morto e um ferido",
+    "guid": "scmulti:d127579622e423c61fa3c417c64c938c3fdd2903",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_d127579622e423c61fa3c417c64c938c3fdd2903/",
+    "usedAt": 1785524419259,
+    "usedAtIso": "2026-07-31T19:00:19.259Z"
+  },
+  "source:dd83ef3c3d3c7d777428a492d7653343f9186710": {
+    "url": "https://visornoticias.com.br/mudanca-no-tempo-el-nino-trara-meses-mais-quentes-e-chuvosos-a-sc",
+    "title": "El Niño deve provocar meses mais quentes e chuvosos em Santa Catarina entre agosto e outubro",
+    "guid": "scmulti:da890eba2940dd53f8956f098d42072df85f013b",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_da890eba2940dd53f8956f098d42072df85f013b/",
+    "usedAt": 1785524419259,
+    "usedAtIso": "2026-07-31T19:00:19.259Z"
   }
 }
