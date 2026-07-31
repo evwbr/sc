@@ -1,4 +1,20 @@
 {
+  "source:b33ef45d603797cc49ea3cf95703cf961d516b80": {
+    "url": "https://visornoticias.com.br/policia-prende-quatro-suspeitos-de-integrar-faccao-em-sc-mulher-apontada-como-lider-esta-entre-os-detidos",
+    "title": "Quatro pessoas são presas em operação contra organização criminosa em Lages",
+    "guid": "scmulti:62333b742da46929598575c19ad6f4aa03caabca",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_62333b742da46929598575c19ad6f4aa03caabca/",
+    "usedAt": 1785492019145,
+    "usedAtIso": "2026-07-31T10:00:19.145Z"
+  },
+  "source:3446b2ee5ee221d43e471159d95e73800f4dd3fb": {
+    "url": "https://visornoticias.com.br/tempo-ensolarado-predomina-antes-da-chegada-de-chuva-e-temporais-em-sc",
+    "title": "Nova frente fria traz temporais isolados e variação de temperaturas em Santa Catarina",
+    "guid": "scmulti:149c582168dfaf5c09d45a337041d853c65b778e",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_149c582168dfaf5c09d45a337041d853c65b778e/",
+    "usedAt": 1785492019145,
+    "usedAtIso": "2026-07-31T10:00:19.145Z"
+  },
   "source:7f610163521da8f2eea410506e165f9084ccf2ed": {
     "url": "https://visornoticias.com.br/resgate-aereo-salva-trabalhador-esmagado-entre-carga-e-carreta-em-sc",
     "title": "Trabalhador fica gravemente ferido em acidente e é resgatado por helicóptero em Xaxim",
@@ -5927,20 +5943,28 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:b33ef45d603797cc49ea3cf95703cf961d516b80": {
-    "url": "https://visornoticias.com.br/policia-prende-quatro-suspeitos-de-integrar-faccao-em-sc-mulher-apontada-como-lider-esta-entre-os-detidos",
-    "title": "Quatro pessoas são presas em operação contra organização criminosa em Lages",
-    "guid": "scmulti:62333b742da46929598575c19ad6f4aa03caabca",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_62333b742da46929598575c19ad6f4aa03caabca/",
-    "usedAt": 1785492019145,
-    "usedAtIso": "2026-07-31T10:00:19.145Z"
+  "source:816b6c1cd6ed63c394fbd7cc6fd57ce941c695a6": {
+    "url": "https://visornoticias.com.br/operacao-em-seis-cidades-cumpre-16-mandados-e-investiga-corrupcao-e-desvios-na-saude-em-sc",
+    "title": "Polícia cumpre 16 mandados em investigação de pagamentos irregulares e desvio em postos de saúde de Timbó",
+    "guid": "scmulti:b9b1c80610dbf30b587da1e16777978750f9c4d4",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_b9b1c80610dbf30b587da1e16777978750f9c4d4/",
+    "usedAt": 1785499219346,
+    "usedAtIso": "2026-07-31T12:00:19.346Z"
   },
-  "source:3446b2ee5ee221d43e471159d95e73800f4dd3fb": {
-    "url": "https://visornoticias.com.br/tempo-ensolarado-predomina-antes-da-chegada-de-chuva-e-temporais-em-sc",
-    "title": "Nova frente fria traz temporais isolados e variação de temperaturas em Santa Catarina",
-    "guid": "scmulti:149c582168dfaf5c09d45a337041d853c65b778e",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_149c582168dfaf5c09d45a337041d853c65b778e/",
-    "usedAt": 1785492019145,
-    "usedAtIso": "2026-07-31T10:00:19.145Z"
+  "source:4d433bb5e3058bbe992737744705f34c8db1dfc1": {
+    "url": "https://visornoticias.com.br/engavetamento-com-quatro-veiculos-deixa-motoristas-feridos-na-br-470-e-provoca-fila-de-6-km-no-sentido-blumenau",
+    "title": "Engavetamento com caminhões, carro e motocicleta bloqueia pista no sentido Blumenau e causa congestionamento de seis quilômetros",
+    "guid": "scmulti:096972a6fe561c9ec0e3d9800bfc9f938464d70d",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_096972a6fe561c9ec0e3d9800bfc9f938464d70d/",
+    "usedAt": 1785499219346,
+    "usedAtIso": "2026-07-31T12:00:19.346Z"
+  },
+  "source:4c23d92485a606fd73d7437d5c817a014ca0dac2": {
+    "url": "https://visornoticias.com.br/entenda-a-importancia-dos-reservatorios-de-agua-no-sistema-de-abastecimento-2",
+    "title": "Reservatórios garantem abastecimento estável e seguro em Camboriú",
+    "guid": "scmulti:c8ffdae6703b4f41c4cd335615d8cd010dd458ca",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_c8ffdae6703b4f41c4cd335615d8cd010dd458ca/",
+    "usedAt": 1785499219346,
+    "usedAtIso": "2026-07-31T12:00:19.346Z"
   }
 }
