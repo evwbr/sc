@@ -1,4 +1,12 @@
 {
+  "source:7f610163521da8f2eea410506e165f9084ccf2ed": {
+    "url": "https://visornoticias.com.br/resgate-aereo-salva-trabalhador-esmagado-entre-carga-e-carreta-em-sc",
+    "title": "Trabalhador fica gravemente ferido em acidente e é resgatado por helicóptero em Xaxim",
+    "guid": "scmulti:e43d345218b42ce2ab44c26d295d633b5667787f",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_e43d345218b42ce2ab44c26d295d633b5667787f/",
+    "usedAt": 1785488419712,
+    "usedAtIso": "2026-07-31T09:00:19.712Z"
+  },
   "source:47faea66db8767153fd8a3929b54f8daf6a291aa": {
     "url": "https://visornoticias.com.br/sexta-feira-tera-sol-e-rajadas-de-ate-60-km-h-em-sc",
     "title": "Ventos fortes e mar agitado marcam o clima em Santa Catarina nesta quarta-feira",
@@ -5919,12 +5927,20 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:7f610163521da8f2eea410506e165f9084ccf2ed": {
-    "url": "https://visornoticias.com.br/resgate-aereo-salva-trabalhador-esmagado-entre-carga-e-carreta-em-sc",
-    "title": "Trabalhador fica gravemente ferido em acidente e é resgatado por helicóptero em Xaxim",
-    "guid": "scmulti:e43d345218b42ce2ab44c26d295d633b5667787f",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_e43d345218b42ce2ab44c26d295d633b5667787f/",
-    "usedAt": 1785488419712,
-    "usedAtIso": "2026-07-31T09:00:19.712Z"
+  "source:b33ef45d603797cc49ea3cf95703cf961d516b80": {
+    "url": "https://visornoticias.com.br/policia-prende-quatro-suspeitos-de-integrar-faccao-em-sc-mulher-apontada-como-lider-esta-entre-os-detidos",
+    "title": "Quatro pessoas são presas em operação contra organização criminosa em Lages",
+    "guid": "scmulti:62333b742da46929598575c19ad6f4aa03caabca",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_62333b742da46929598575c19ad6f4aa03caabca/",
+    "usedAt": 1785492019145,
+    "usedAtIso": "2026-07-31T10:00:19.145Z"
+  },
+  "source:3446b2ee5ee221d43e471159d95e73800f4dd3fb": {
+    "url": "https://visornoticias.com.br/tempo-ensolarado-predomina-antes-da-chegada-de-chuva-e-temporais-em-sc",
+    "title": "Nova frente fria traz temporais isolados e variação de temperaturas em Santa Catarina",
+    "guid": "scmulti:149c582168dfaf5c09d45a337041d853c65b778e",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_149c582168dfaf5c09d45a337041d853c65b778e/",
+    "usedAt": 1785492019145,
+    "usedAtIso": "2026-07-31T10:00:19.145Z"
   }
 }
