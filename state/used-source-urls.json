@@ -1,4 +1,20 @@
 {
+  "source:d49d7ca7b1cab1545aa192b54f744f721b8a5d53": {
+    "url": "https://visornoticias.com.br/engavetamento-com-oito-veiculos-bloqueia-ponte-anita-garibaldi",
+    "title": "Engavetamento com veículo de grande porte bloqueia sentido Sul da BR-101 em Santa Catarina",
+    "guid": "scmulti:6e4e160576a210f79315e7778b1804a7967b31c0",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_6e4e160576a210f79315e7778b1804a7967b31c0/",
+    "usedAt": 1785528019216,
+    "usedAtIso": "2026-07-31T20:00:19.216Z"
+  },
+  "source:74a8b3fa2a46b61054184338274bed325adecdf0": {
+    "url": "https://visornoticias.com.br/tatuador-investigado-por-estupro-e-crimes-contra-19-mulheres-e-preso-em-balneario-camboriu",
+    "title": "Homem é investigado por agressões e humilhações em cidades do Rio Grande do Sul",
+    "guid": "scmulti:b3409c4ee5907922272edaf9e5fd283b2a35228c",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_b3409c4ee5907922272edaf9e5fd283b2a35228c/",
+    "usedAt": 1785528019216,
+    "usedAtIso": "2026-07-31T20:00:19.216Z"
+  },
   "source:bcde0e6a3d8856ef6e52791c8cc2978fba9afada": {
     "url": "https://visornoticias.com.br/trabalhador-morre-apos-queda-de-30-metros-durante-manutencao-de-silo-em-sc",
     "title": "Queda de trabalhadores em São José do Cedro deixa um morto e um ferido",
@@ -6047,20 +6063,12 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:d49d7ca7b1cab1545aa192b54f744f721b8a5d53": {
-    "url": "https://visornoticias.com.br/engavetamento-com-oito-veiculos-bloqueia-ponte-anita-garibaldi",
-    "title": "Engavetamento com veículo de grande porte bloqueia sentido Sul da BR-101 em Santa Catarina",
-    "guid": "scmulti:6e4e160576a210f79315e7778b1804a7967b31c0",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_6e4e160576a210f79315e7778b1804a7967b31c0/",
-    "usedAt": 1785528019216,
-    "usedAtIso": "2026-07-31T20:00:19.216Z"
-  },
-  "source:74a8b3fa2a46b61054184338274bed325adecdf0": {
-    "url": "https://visornoticias.com.br/tatuador-investigado-por-estupro-e-crimes-contra-19-mulheres-e-preso-em-balneario-camboriu",
-    "title": "Homem é investigado por agressões e humilhações em cidades do Rio Grande do Sul",
-    "guid": "scmulti:b3409c4ee5907922272edaf9e5fd283b2a35228c",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_b3409c4ee5907922272edaf9e5fd283b2a35228c/",
-    "usedAt": 1785528019216,
-    "usedAtIso": "2026-07-31T20:00:19.216Z"
+  "source:7b7726173ec13027c47198e16238b877c717d4b2": {
+    "url": "https://visornoticias.com.br/itapema-deve-receber-dez-novos-policiais-afirma-xepa-apos-reuniao-com-comandante-da-pm",
+    "title": "Itapema terá reforço de cerca de dez policiais militares temporários, anuncia comando da PM",
+    "guid": "scmulti:5a4b6594da2afb232e8d63461c3d56f2afb952d5",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_5a4b6594da2afb232e8d63461c3d56f2afb952d5/",
+    "usedAt": 1785531620055,
+    "usedAtIso": "2026-07-31T21:00:20.055Z"
   }
 }
