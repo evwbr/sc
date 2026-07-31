@@ -1,4 +1,20 @@
 {
+  "source:bcde0e6a3d8856ef6e52791c8cc2978fba9afada": {
+    "url": "https://visornoticias.com.br/trabalhador-morre-apos-queda-de-30-metros-durante-manutencao-de-silo-em-sc",
+    "title": "Queda de trabalhadores em São José do Cedro deixa um morto e um ferido",
+    "guid": "scmulti:d127579622e423c61fa3c417c64c938c3fdd2903",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_d127579622e423c61fa3c417c64c938c3fdd2903/",
+    "usedAt": 1785524419259,
+    "usedAtIso": "2026-07-31T19:00:19.259Z"
+  },
+  "source:dd83ef3c3d3c7d777428a492d7653343f9186710": {
+    "url": "https://visornoticias.com.br/mudanca-no-tempo-el-nino-trara-meses-mais-quentes-e-chuvosos-a-sc",
+    "title": "El Niño deve provocar meses mais quentes e chuvosos em Santa Catarina entre agosto e outubro",
+    "guid": "scmulti:da890eba2940dd53f8956f098d42072df85f013b",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_da890eba2940dd53f8956f098d42072df85f013b/",
+    "usedAt": 1785524419259,
+    "usedAtIso": "2026-07-31T19:00:19.259Z"
+  },
   "source:cbeea1055283e47ced7a48743394a7af48c838ba": {
     "url": "https://visornoticias.com.br/estrada-que-liga-itapema-e-porto-belo-recebe-pavimentacao-asfaltica",
     "title": "Estrada Geral do Sertão do Trombudo em Itapema será interditada para pavimentação",
@@ -6031,20 +6047,20 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:bcde0e6a3d8856ef6e52791c8cc2978fba9afada": {
-    "url": "https://visornoticias.com.br/trabalhador-morre-apos-queda-de-30-metros-durante-manutencao-de-silo-em-sc",
-    "title": "Queda de trabalhadores em São José do Cedro deixa um morto e um ferido",
-    "guid": "scmulti:d127579622e423c61fa3c417c64c938c3fdd2903",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_d127579622e423c61fa3c417c64c938c3fdd2903/",
-    "usedAt": 1785524419259,
-    "usedAtIso": "2026-07-31T19:00:19.259Z"
+  "source:d49d7ca7b1cab1545aa192b54f744f721b8a5d53": {
+    "url": "https://visornoticias.com.br/engavetamento-com-oito-veiculos-bloqueia-ponte-anita-garibaldi",
+    "title": "Engavetamento com veículo de grande porte bloqueia sentido Sul da BR-101 em Santa Catarina",
+    "guid": "scmulti:6e4e160576a210f79315e7778b1804a7967b31c0",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_6e4e160576a210f79315e7778b1804a7967b31c0/",
+    "usedAt": 1785528019216,
+    "usedAtIso": "2026-07-31T20:00:19.216Z"
   },
-  "source:dd83ef3c3d3c7d777428a492d7653343f9186710": {
-    "url": "https://visornoticias.com.br/mudanca-no-tempo-el-nino-trara-meses-mais-quentes-e-chuvosos-a-sc",
-    "title": "El Niño deve provocar meses mais quentes e chuvosos em Santa Catarina entre agosto e outubro",
-    "guid": "scmulti:da890eba2940dd53f8956f098d42072df85f013b",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_da890eba2940dd53f8956f098d42072df85f013b/",
-    "usedAt": 1785524419259,
-    "usedAtIso": "2026-07-31T19:00:19.259Z"
+  "source:74a8b3fa2a46b61054184338274bed325adecdf0": {
+    "url": "https://visornoticias.com.br/tatuador-investigado-por-estupro-e-crimes-contra-19-mulheres-e-preso-em-balneario-camboriu",
+    "title": "Homem é investigado por agressões e humilhações em cidades do Rio Grande do Sul",
+    "guid": "scmulti:b3409c4ee5907922272edaf9e5fd283b2a35228c",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_b3409c4ee5907922272edaf9e5fd283b2a35228c/",
+    "usedAt": 1785528019216,
+    "usedAtIso": "2026-07-31T20:00:19.216Z"
   }
 }
