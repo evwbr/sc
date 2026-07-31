@@ -1,4 +1,12 @@
 {
+  "source:47faea66db8767153fd8a3929b54f8daf6a291aa": {
+    "url": "https://visornoticias.com.br/sexta-feira-tera-sol-e-rajadas-de-ate-60-km-h-em-sc",
+    "title": "Ventos fortes e mar agitado marcam o clima em Santa Catarina nesta quarta-feira",
+    "guid": "scmulti:2b09c6d4df2e13776deaf423b95f4429ee964371",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_2b09c6d4df2e13776deaf423b95f4429ee964371/",
+    "usedAt": 1785452419559,
+    "usedAtIso": "2026-07-30T23:00:19.559Z"
+  },
   "source:4ae5f49405a7a5b335ffc43208eff696d67307da": {
     "url": "https://visornoticias.com.br/suspeito-de-estupro-e-preso-em-camboriu-apos-operacao-entre-sc-e-rs",
     "title": "Polícias Civis de Santa Catarina e RS capturam homem com mandado de prisão preventiva em Camboriú",
@@ -5911,12 +5919,12 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:47faea66db8767153fd8a3929b54f8daf6a291aa": {
-    "url": "https://visornoticias.com.br/sexta-feira-tera-sol-e-rajadas-de-ate-60-km-h-em-sc",
-    "title": "Ventos fortes e mar agitado marcam o clima em Santa Catarina nesta quarta-feira",
-    "guid": "scmulti:2b09c6d4df2e13776deaf423b95f4429ee964371",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_2b09c6d4df2e13776deaf423b95f4429ee964371/",
-    "usedAt": 1785452419559,
-    "usedAtIso": "2026-07-30T23:00:19.559Z"
+  "source:7f610163521da8f2eea410506e165f9084ccf2ed": {
+    "url": "https://visornoticias.com.br/resgate-aereo-salva-trabalhador-esmagado-entre-carga-e-carreta-em-sc",
+    "title": "Trabalhador fica gravemente ferido em acidente e é resgatado por helicóptero em Xaxim",
+    "guid": "scmulti:e43d345218b42ce2ab44c26d295d633b5667787f",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_e43d345218b42ce2ab44c26d295d633b5667787f/",
+    "usedAt": 1785488419712,
+    "usedAtIso": "2026-07-31T09:00:19.712Z"
   }
 }
