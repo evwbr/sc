@@ -1,4 +1,12 @@
 {
+  "source:e786ba424020f1c2ba0e7165f06e07353d94079d": {
+    "url": "https://visornoticias.com.br/policia-faz-buscas-por-suspeito-em-itajai-apos-relato-de-cachorro-ser-baleado",
+    "title": "Polícia Militar investiga possível maus-tratos a cachorro em Santa Catarina",
+    "guid": "scmulti:1ad4394274e5b71c0c377848717c5866a6691950",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_1ad4394274e5b71c0c377848717c5866a6691950/",
+    "usedAt": 1785513619777,
+    "usedAtIso": "2026-07-31T16:00:19.777Z"
+  },
   "source:7ad27144ea05f1089a9bb4bf56df2bfe1a8da8a3": {
     "url": "https://visornoticias.com.br/situacao-rua-lages",
     "title": "Lages inicia capacitação para uso da Plataforma Acolher no acompanhamento de pessoas em situação de rua",
@@ -6015,12 +6023,12 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:e786ba424020f1c2ba0e7165f06e07353d94079d": {
-    "url": "https://visornoticias.com.br/policia-faz-buscas-por-suspeito-em-itajai-apos-relato-de-cachorro-ser-baleado",
-    "title": "Polícia Militar investiga possível maus-tratos a cachorro em Santa Catarina",
-    "guid": "scmulti:1ad4394274e5b71c0c377848717c5866a6691950",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_1ad4394274e5b71c0c377848717c5866a6691950/",
-    "usedAt": 1785513619777,
-    "usedAtIso": "2026-07-31T16:00:19.777Z"
+  "source:cbeea1055283e47ced7a48743394a7af48c838ba": {
+    "url": "https://visornoticias.com.br/estrada-que-liga-itapema-e-porto-belo-recebe-pavimentacao-asfaltica",
+    "title": "Estrada Geral do Sertão do Trombudo em Itapema será interditada para pavimentação",
+    "guid": "scmulti:5d6b43e301e5547372f31a799e54c9865037d62b",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_5d6b43e301e5547372f31a799e54c9865037d62b/",
+    "usedAt": 1785517220108,
+    "usedAtIso": "2026-07-31T17:00:20.108Z"
   }
 }
