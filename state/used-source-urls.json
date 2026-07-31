@@ -1,4 +1,28 @@
 {
+  "source:7ad27144ea05f1089a9bb4bf56df2bfe1a8da8a3": {
+    "url": "https://visornoticias.com.br/situacao-rua-lages",
+    "title": "Lages inicia capacitação para uso da Plataforma Acolher no acompanhamento de pessoas em situação de rua",
+    "guid": "scmulti:e093756b65957016a0204c3d99d40fa0b6ac9334",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_e093756b65957016a0204c3d99d40fa0b6ac9334/",
+    "usedAt": 1785506419562,
+    "usedAtIso": "2026-07-31T14:00:19.562Z"
+  },
+  "source:1d50c9a07950043713a432e56246e769d5b10bd7": {
+    "url": "https://visornoticias.com.br/pavimentacao-de-ruas-lages-prefeitura-assume-obras",
+    "title": "Prefeitura de Lages assume diretamente pavimentação de ruas após descumprimento de contratos",
+    "guid": "scmulti:c75c54bce1f3eaabeceb9d69889b97778e2a2bc3",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_c75c54bce1f3eaabeceb9d69889b97778e2a2bc3/",
+    "usedAt": 1785506419562,
+    "usedAtIso": "2026-07-31T14:00:19.562Z"
+  },
+  "source:d94180977d0d008a2048df10a45150d8ee720a8b": {
+    "url": "https://visornoticias.com.br/operacao-investiga-homem-que-teria-usado-redes-sociais-para-incentivar-adolescente-a-atos-violentos-em-sc",
+    "title": "Operação em Rio Negrinho investiga suspeito de incentivar violência extrema em ambiente virtual",
+    "guid": "scmulti:9754be58b5f2e9903410b8499d24c1dfc51a28e7",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_9754be58b5f2e9903410b8499d24c1dfc51a28e7/",
+    "usedAt": 1785506419562,
+    "usedAtIso": "2026-07-31T14:00:19.562Z"
+  },
   "source:dc7f0427a2488c9f5a1abcd219fb9aaa083db979": {
     "url": "https://cbntotal.com.br/cotidiano/brt-de-florianopolis-em-que-pe-esta-o-megaprojeto-de-r-159-milhoes",
     "title": "Florianópolis inicia licitação para obras do BRT na Avenida Mauro Ramos",
@@ -5991,28 +6015,12 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:7ad27144ea05f1089a9bb4bf56df2bfe1a8da8a3": {
-    "url": "https://visornoticias.com.br/situacao-rua-lages",
-    "title": "Lages inicia capacitação para uso da Plataforma Acolher no acompanhamento de pessoas em situação de rua",
-    "guid": "scmulti:e093756b65957016a0204c3d99d40fa0b6ac9334",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_e093756b65957016a0204c3d99d40fa0b6ac9334/",
-    "usedAt": 1785506419562,
-    "usedAtIso": "2026-07-31T14:00:19.562Z"
-  },
-  "source:1d50c9a07950043713a432e56246e769d5b10bd7": {
-    "url": "https://visornoticias.com.br/pavimentacao-de-ruas-lages-prefeitura-assume-obras",
-    "title": "Prefeitura de Lages assume diretamente pavimentação de ruas após descumprimento de contratos",
-    "guid": "scmulti:c75c54bce1f3eaabeceb9d69889b97778e2a2bc3",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_c75c54bce1f3eaabeceb9d69889b97778e2a2bc3/",
-    "usedAt": 1785506419562,
-    "usedAtIso": "2026-07-31T14:00:19.562Z"
-  },
-  "source:d94180977d0d008a2048df10a45150d8ee720a8b": {
-    "url": "https://visornoticias.com.br/operacao-investiga-homem-que-teria-usado-redes-sociais-para-incentivar-adolescente-a-atos-violentos-em-sc",
-    "title": "Operação em Rio Negrinho investiga suspeito de incentivar violência extrema em ambiente virtual",
-    "guid": "scmulti:9754be58b5f2e9903410b8499d24c1dfc51a28e7",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_9754be58b5f2e9903410b8499d24c1dfc51a28e7/",
-    "usedAt": 1785506419562,
-    "usedAtIso": "2026-07-31T14:00:19.562Z"
+  "source:e786ba424020f1c2ba0e7165f06e07353d94079d": {
+    "url": "https://visornoticias.com.br/policia-faz-buscas-por-suspeito-em-itajai-apos-relato-de-cachorro-ser-baleado",
+    "title": "Polícia Militar investiga possível maus-tratos a cachorro em Santa Catarina",
+    "guid": "scmulti:1ad4394274e5b71c0c377848717c5866a6691950",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_1ad4394274e5b71c0c377848717c5866a6691950/",
+    "usedAt": 1785513619777,
+    "usedAtIso": "2026-07-31T16:00:19.777Z"
   }
 }
