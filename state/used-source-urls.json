@@ -1,4 +1,12 @@
 {
+  "source:1e613ba506cf61f3f09583d5633b3c83930eee82": {
+    "url": "https://visornoticias.com.br/filho-teria-planejado-morte-do-pai-apos-agressoes-contra-ele-e-a-mae-em-itapema-diz-policia-civil",
+    "title": "Filho e dois amigos são presos suspeitos de planejar e executar assassinato do pai em Itapema",
+    "guid": "scmulti:d66c215cab5cea9a536054b20803e90915f3ddca",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_d66c215cab5cea9a536054b20803e90915f3ddca/",
+    "usedAt": 1785589219169,
+    "usedAtIso": "2026-08-01T13:00:19.169Z"
+  },
   "source:bb8edfd82f99dcd90c55e075e666d38d72ec30c1": {
     "url": "https://visornoticias.com.br/servidor-morto-em-itapema-e-identificado-filho-adotivo-confessa-o-crime",
     "title": "Dois homens são presos em flagrante por homicídio de servidor público em Itapema",
@@ -6087,12 +6095,12 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:1e613ba506cf61f3f09583d5633b3c83930eee82": {
-    "url": "https://visornoticias.com.br/filho-teria-planejado-morte-do-pai-apos-agressoes-contra-ele-e-a-mae-em-itapema-diz-policia-civil",
-    "title": "Filho e dois amigos são presos suspeitos de planejar e executar assassinato do pai em Itapema",
-    "guid": "scmulti:d66c215cab5cea9a536054b20803e90915f3ddca",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_d66c215cab5cea9a536054b20803e90915f3ddca/",
-    "usedAt": 1785589219169,
-    "usedAtIso": "2026-08-01T13:00:19.169Z"
+  "source:90e0d5dd9e48e4b4a57b3e18cfd1baf873fe9f68": {
+    "url": "https://visornoticias.com.br/tempo-firme-perde-forca-com-chegada-de-frente-fria-em-sc",
+    "title": "Frente fria provoca aumento da nebulosidade e pancadas de chuva em Santa Catarina no fim de semana",
+    "guid": "scmulti:7b5abef00a7d5d5c06b07725b0716dfb1bc8dd9a",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_7b5abef00a7d5d5c06b07725b0716dfb1bc8dd9a/",
+    "usedAt": 1785592820262,
+    "usedAtIso": "2026-08-01T14:00:20.262Z"
   }
 }
