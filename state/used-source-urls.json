@@ -1,4 +1,12 @@
 {
+  "source:90e0d5dd9e48e4b4a57b3e18cfd1baf873fe9f68": {
+    "url": "https://visornoticias.com.br/tempo-firme-perde-forca-com-chegada-de-frente-fria-em-sc",
+    "title": "Frente fria provoca aumento da nebulosidade e pancadas de chuva em Santa Catarina no fim de semana",
+    "guid": "scmulti:7b5abef00a7d5d5c06b07725b0716dfb1bc8dd9a",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_7b5abef00a7d5d5c06b07725b0716dfb1bc8dd9a/",
+    "usedAt": 1785592820262,
+    "usedAtIso": "2026-08-01T14:00:20.262Z"
+  },
   "source:1e613ba506cf61f3f09583d5633b3c83930eee82": {
     "url": "https://visornoticias.com.br/filho-teria-planejado-morte-do-pai-apos-agressoes-contra-ele-e-a-mae-em-itapema-diz-policia-civil",
     "title": "Filho e dois amigos são presos suspeitos de planejar e executar assassinato do pai em Itapema",
@@ -6095,12 +6103,12 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:90e0d5dd9e48e4b4a57b3e18cfd1baf873fe9f68": {
-    "url": "https://visornoticias.com.br/tempo-firme-perde-forca-com-chegada-de-frente-fria-em-sc",
-    "title": "Frente fria provoca aumento da nebulosidade e pancadas de chuva em Santa Catarina no fim de semana",
-    "guid": "scmulti:7b5abef00a7d5d5c06b07725b0716dfb1bc8dd9a",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_7b5abef00a7d5d5c06b07725b0716dfb1bc8dd9a/",
-    "usedAt": 1785592820262,
-    "usedAtIso": "2026-08-01T14:00:20.262Z"
+  "source:bfdabbf2b09c620f53a6ed034427ff07348c0e99": {
+    "url": "https://visornoticias.com.br/suspeito-de-matar-ex-em-sc-registrou-desaparecimento-apos-o-crime",
+    "title": "Ex-companheiro e pai são presos por assassinato em Xaxim após tentativa de simular acidente",
+    "guid": "scmulti:c6e518e9a7500f00514a79ea9a7dce5836e1c530",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_c6e518e9a7500f00514a79ea9a7dce5836e1c530/",
+    "usedAt": 1785600019501,
+    "usedAtIso": "2026-08-01T16:00:19.501Z"
   }
 }
