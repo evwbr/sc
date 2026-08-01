@@ -1,4 +1,12 @@
 {
+  "source:acf1b6add328347db7becf36b2c79f0e10861f5c": {
+    "url": "https://visornoticias.com.br/adolescente-e-apreendido-com-tabletes-de-maconha-e-r-450-em-camboriu",
+    "title": "Adolescente é apreendido com 79 gramas de maconha em motocicleta sem habilitação",
+    "guid": "scmulti:7fa02486aa66f1978512fd83ed57435e33ccba19",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_7fa02486aa66f1978512fd83ed57435e33ccba19/",
+    "usedAt": 1785603619324,
+    "usedAtIso": "2026-08-01T17:00:19.324Z"
+  },
   "source:bfdabbf2b09c620f53a6ed034427ff07348c0e99": {
     "url": "https://visornoticias.com.br/suspeito-de-matar-ex-em-sc-registrou-desaparecimento-apos-o-crime",
     "title": "Ex-companheiro e pai são presos por assassinato em Xaxim após tentativa de simular acidente",
@@ -6111,12 +6119,12 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:acf1b6add328347db7becf36b2c79f0e10861f5c": {
-    "url": "https://visornoticias.com.br/adolescente-e-apreendido-com-tabletes-de-maconha-e-r-450-em-camboriu",
-    "title": "Adolescente é apreendido com 79 gramas de maconha em motocicleta sem habilitação",
-    "guid": "scmulti:7fa02486aa66f1978512fd83ed57435e33ccba19",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_7fa02486aa66f1978512fd83ed57435e33ccba19/",
-    "usedAt": 1785603619324,
-    "usedAtIso": "2026-08-01T17:00:19.324Z"
+  "source:e862f46eb71093186d0e973e994faddad9f8ff6d": {
+    "url": "https://visornoticias.com.br/jovem-reage-apos-ser-rendido-e-entra-em-luta-corporal-com-homem-armado-para-proteger-a-mae-em-sc",
+    "title": "Jovem reage a ataque contra mãe e impede feminicídio em residência",
+    "guid": "scmulti:e15405b8e589b145731fcd6ea9257a86bf4edbd0",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_e15405b8e589b145731fcd6ea9257a86bf4edbd0/",
+    "usedAt": 1785607219380,
+    "usedAtIso": "2026-08-01T18:00:19.380Z"
   }
 }
