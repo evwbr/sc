@@ -1,4 +1,12 @@
 {
+  "source:011bca002f0190b2b9356b721e25fe4696241e0e": {
+    "url": "https://visornoticias.com.br/homem-e-baleado-e-suspeito-e-preso-com-pistola-9-mm-em-blumenau",
+    "title": "Homem é ferido e suspeito é preso com arma em Vila Itoupava, Blumenau",
+    "guid": "scmulti:73990d151e776d9b8cde1dbe7ae31d2c037a1dc7",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_73990d151e776d9b8cde1dbe7ae31d2c037a1dc7/",
+    "usedAt": 1785614419231,
+    "usedAtIso": "2026-08-01T20:00:19.231Z"
+  },
   "source:b83e086c59e8aae7802776eebe108b647105918f": {
     "url": "https://visornoticias.com.br/scanner-revela-16-quilo-de-drogas-e-materiais-com-professora-que-tentava-entrar-em-presidio-de-chapeco",
     "title": "Professora é flagrada com materiais escondidos durante fiscalização em unidade prisional de Chapecó",
@@ -6143,12 +6151,20 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:011bca002f0190b2b9356b721e25fe4696241e0e": {
-    "url": "https://visornoticias.com.br/homem-e-baleado-e-suspeito-e-preso-com-pistola-9-mm-em-blumenau",
-    "title": "Homem é ferido e suspeito é preso com arma em Vila Itoupava, Blumenau",
-    "guid": "scmulti:73990d151e776d9b8cde1dbe7ae31d2c037a1dc7",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_73990d151e776d9b8cde1dbe7ae31d2c037a1dc7/",
-    "usedAt": 1785614419231,
-    "usedAtIso": "2026-08-01T20:00:19.231Z"
+  "source:479bd8561d1c4189677e3577f32beefa98334b6a": {
+    "url": "https://visornoticias.com.br/domingo-comeca-com-sol-mas-termina-sob-forte-influencia-de-frente-fria-em-sc",
+    "title": "Frente fria provoca aumento de nebulosidade e chuva ocasional no Sul de Santa Catarina neste domingo",
+    "guid": "scmulti:f20e16fea56ea7ed86c9c3d3b4b6f4323f07a162",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_f20e16fea56ea7ed86c9c3d3b4b6f4323f07a162/",
+    "usedAt": 1785618020363,
+    "usedAtIso": "2026-08-01T21:00:20.363Z"
+  },
+  "source:bd4fe004f4e16db1363d7d1363c42b10b4978da4": {
+    "url": "https://visornoticias.com.br/homem-e-denunciado-pelo-mp-apos-usar-extintor-para-invadir-apartamento-e-espancar-mulher-ate-a-morte-em-sc",
+    "title": "Homem é denunciado por homicídio em contexto de violência doméstica em São José",
+    "guid": "scmulti:640e6328bb9199c7f9c1688ad7274c4e786eaa9a",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_640e6328bb9199c7f9c1688ad7274c4e786eaa9a/",
+    "usedAt": 1785618020363,
+    "usedAtIso": "2026-08-01T21:00:20.363Z"
   }
 }
