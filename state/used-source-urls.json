@@ -1,4 +1,12 @@
 {
+  "source:bfdabbf2b09c620f53a6ed034427ff07348c0e99": {
+    "url": "https://visornoticias.com.br/suspeito-de-matar-ex-em-sc-registrou-desaparecimento-apos-o-crime",
+    "title": "Ex-companheiro e pai são presos por assassinato em Xaxim após tentativa de simular acidente",
+    "guid": "scmulti:c6e518e9a7500f00514a79ea9a7dce5836e1c530",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_c6e518e9a7500f00514a79ea9a7dce5836e1c530/",
+    "usedAt": 1785600019501,
+    "usedAtIso": "2026-08-01T16:00:19.501Z"
+  },
   "source:90e0d5dd9e48e4b4a57b3e18cfd1baf873fe9f68": {
     "url": "https://visornoticias.com.br/tempo-firme-perde-forca-com-chegada-de-frente-fria-em-sc",
     "title": "Frente fria provoca aumento da nebulosidade e pancadas de chuva em Santa Catarina no fim de semana",
@@ -6103,12 +6111,12 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:bfdabbf2b09c620f53a6ed034427ff07348c0e99": {
-    "url": "https://visornoticias.com.br/suspeito-de-matar-ex-em-sc-registrou-desaparecimento-apos-o-crime",
-    "title": "Ex-companheiro e pai são presos por assassinato em Xaxim após tentativa de simular acidente",
-    "guid": "scmulti:c6e518e9a7500f00514a79ea9a7dce5836e1c530",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_c6e518e9a7500f00514a79ea9a7dce5836e1c530/",
-    "usedAt": 1785600019501,
-    "usedAtIso": "2026-08-01T16:00:19.501Z"
+  "source:acf1b6add328347db7becf36b2c79f0e10861f5c": {
+    "url": "https://visornoticias.com.br/adolescente-e-apreendido-com-tabletes-de-maconha-e-r-450-em-camboriu",
+    "title": "Adolescente é apreendido com 79 gramas de maconha em motocicleta sem habilitação",
+    "guid": "scmulti:7fa02486aa66f1978512fd83ed57435e33ccba19",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_7fa02486aa66f1978512fd83ed57435e33ccba19/",
+    "usedAt": 1785603619324,
+    "usedAtIso": "2026-08-01T17:00:19.324Z"
   }
 }
