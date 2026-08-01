@@ -1,4 +1,12 @@
 {
+  "source:7b7726173ec13027c47198e16238b877c717d4b2": {
+    "url": "https://visornoticias.com.br/itapema-deve-receber-dez-novos-policiais-afirma-xepa-apos-reuniao-com-comandante-da-pm",
+    "title": "Itapema terá reforço de cerca de dez policiais militares temporários, anuncia comando da PM",
+    "guid": "scmulti:5a4b6594da2afb232e8d63461c3d56f2afb952d5",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_5a4b6594da2afb232e8d63461c3d56f2afb952d5/",
+    "usedAt": 1785531620055,
+    "usedAtIso": "2026-07-31T21:00:20.055Z"
+  },
   "source:d49d7ca7b1cab1545aa192b54f744f721b8a5d53": {
     "url": "https://visornoticias.com.br/engavetamento-com-oito-veiculos-bloqueia-ponte-anita-garibaldi",
     "title": "Engavetamento com veículo de grande porte bloqueia sentido Sul da BR-101 em Santa Catarina",
@@ -6063,12 +6071,20 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:7b7726173ec13027c47198e16238b877c717d4b2": {
-    "url": "https://visornoticias.com.br/itapema-deve-receber-dez-novos-policiais-afirma-xepa-apos-reuniao-com-comandante-da-pm",
-    "title": "Itapema terá reforço de cerca de dez policiais militares temporários, anuncia comando da PM",
-    "guid": "scmulti:5a4b6594da2afb232e8d63461c3d56f2afb952d5",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_5a4b6594da2afb232e8d63461c3d56f2afb952d5/",
-    "usedAt": 1785531620055,
-    "usedAtIso": "2026-07-31T21:00:20.055Z"
+  "source:bb8edfd82f99dcd90c55e075e666d38d72ec30c1": {
+    "url": "https://visornoticias.com.br/servidor-morto-em-itapema-e-identificado-filho-adotivo-confessa-o-crime",
+    "title": "Dois homens são presos em flagrante por homicídio de servidor público em Itapema",
+    "guid": "scmulti:3d2767081e0f33f73e16e389025a89f284fae134",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_3d2767081e0f33f73e16e389025a89f284fae134/",
+    "usedAt": 1785553219602,
+    "usedAtIso": "2026-08-01T03:00:19.602Z"
+  },
+  "source:9e2eea74f1b4b60e4a0f5d693fd9888bb4dde19e": {
+    "url": "https://visornoticias.com.br/filho-confessa-ter-matado-o-proprio-pai-em-itapema",
+    "title": "Servidor de Itapema é encontrado morto com sinais de violência; suspeitos são detidos com motocicleta roubada",
+    "guid": "scmulti:5137b36d3ca3fbd7ea524c72d041955767ad1e7c",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_5137b36d3ca3fbd7ea524c72d041955767ad1e7c/",
+    "usedAt": 1785553219602,
+    "usedAtIso": "2026-08-01T03:00:19.602Z"
   }
 }
