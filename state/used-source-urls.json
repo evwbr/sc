@@ -1,4 +1,12 @@
 {
+  "source:e862f46eb71093186d0e973e994faddad9f8ff6d": {
+    "url": "https://visornoticias.com.br/jovem-reage-apos-ser-rendido-e-entra-em-luta-corporal-com-homem-armado-para-proteger-a-mae-em-sc",
+    "title": "Jovem reage a ataque contra mãe e impede feminicídio em residência",
+    "guid": "scmulti:e15405b8e589b145731fcd6ea9257a86bf4edbd0",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_e15405b8e589b145731fcd6ea9257a86bf4edbd0/",
+    "usedAt": 1785607219380,
+    "usedAtIso": "2026-08-01T18:00:19.380Z"
+  },
   "source:acf1b6add328347db7becf36b2c79f0e10861f5c": {
     "url": "https://visornoticias.com.br/adolescente-e-apreendido-com-tabletes-de-maconha-e-r-450-em-camboriu",
     "title": "Adolescente é apreendido com 79 gramas de maconha em motocicleta sem habilitação",
@@ -6119,12 +6127,20 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:e862f46eb71093186d0e973e994faddad9f8ff6d": {
-    "url": "https://visornoticias.com.br/jovem-reage-apos-ser-rendido-e-entra-em-luta-corporal-com-homem-armado-para-proteger-a-mae-em-sc",
-    "title": "Jovem reage a ataque contra mãe e impede feminicídio em residência",
-    "guid": "scmulti:e15405b8e589b145731fcd6ea9257a86bf4edbd0",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_e15405b8e589b145731fcd6ea9257a86bf4edbd0/",
-    "usedAt": 1785607219380,
-    "usedAtIso": "2026-08-01T18:00:19.380Z"
+  "source:b83e086c59e8aae7802776eebe108b647105918f": {
+    "url": "https://visornoticias.com.br/scanner-revela-16-quilo-de-drogas-e-materiais-com-professora-que-tentava-entrar-em-presidio-de-chapeco",
+    "title": "Professora é flagrada com materiais escondidos durante fiscalização em unidade prisional de Chapecó",
+    "guid": "scmulti:fd9338c99c4264491a9714915f67a86415b2f7f7",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_fd9338c99c4264491a9714915f67a86415b2f7f7/",
+    "usedAt": 1785610820106,
+    "usedAtIso": "2026-08-01T19:00:20.106Z"
+  },
+  "source:33252d7e21bda9dc126fa248822209371759238e": {
+    "url": "https://visornoticias.com.br/psd-mdb-e-pp-oficializam-chapa-para-o-governo-de-santa-catarina-com-joao-rodrigues-chiodini-amin-e-lunelli",
+    "title": "Chapa de João Rodrigues confirma Carlos Chiodini como vice e define candidatos ao Senado em Santa Catarina",
+    "guid": "scmulti:83e2e01266ef45ccda6c12c257ec279677327f55",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_83e2e01266ef45ccda6c12c257ec279677327f55/",
+    "usedAt": 1785610820106,
+    "usedAtIso": "2026-08-01T19:00:20.106Z"
   }
 }
