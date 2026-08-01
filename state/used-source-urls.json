@@ -1,4 +1,20 @@
 {
+  "source:479bd8561d1c4189677e3577f32beefa98334b6a": {
+    "url": "https://visornoticias.com.br/domingo-comeca-com-sol-mas-termina-sob-forte-influencia-de-frente-fria-em-sc",
+    "title": "Frente fria provoca aumento de nebulosidade e chuva ocasional no Sul de Santa Catarina neste domingo",
+    "guid": "scmulti:f20e16fea56ea7ed86c9c3d3b4b6f4323f07a162",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_f20e16fea56ea7ed86c9c3d3b4b6f4323f07a162/",
+    "usedAt": 1785618020363,
+    "usedAtIso": "2026-08-01T21:00:20.363Z"
+  },
+  "source:bd4fe004f4e16db1363d7d1363c42b10b4978da4": {
+    "url": "https://visornoticias.com.br/homem-e-denunciado-pelo-mp-apos-usar-extintor-para-invadir-apartamento-e-espancar-mulher-ate-a-morte-em-sc",
+    "title": "Homem é denunciado por homicídio em contexto de violência doméstica em São José",
+    "guid": "scmulti:640e6328bb9199c7f9c1688ad7274c4e786eaa9a",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_640e6328bb9199c7f9c1688ad7274c4e786eaa9a/",
+    "usedAt": 1785618020363,
+    "usedAtIso": "2026-08-01T21:00:20.363Z"
+  },
   "source:011bca002f0190b2b9356b721e25fe4696241e0e": {
     "url": "https://visornoticias.com.br/homem-e-baleado-e-suspeito-e-preso-com-pistola-9-mm-em-blumenau",
     "title": "Homem é ferido e suspeito é preso com arma em Vila Itoupava, Blumenau",
@@ -6151,20 +6167,36 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:479bd8561d1c4189677e3577f32beefa98334b6a": {
-    "url": "https://visornoticias.com.br/domingo-comeca-com-sol-mas-termina-sob-forte-influencia-de-frente-fria-em-sc",
-    "title": "Frente fria provoca aumento de nebulosidade e chuva ocasional no Sul de Santa Catarina neste domingo",
-    "guid": "scmulti:f20e16fea56ea7ed86c9c3d3b4b6f4323f07a162",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_f20e16fea56ea7ed86c9c3d3b4b6f4323f07a162/",
-    "usedAt": 1785618020363,
-    "usedAtIso": "2026-08-01T21:00:20.363Z"
+  "source:0634bad62b271ac43309b0b59cfd84ac538c0d69": {
+    "url": "https://visornoticias.com.br/handebol-escolar-itajai",
+    "title": "Handebol escolar mobiliza mais de 1.000 alunos em etapa dos Jogos da Rede Municipal de Itajaí",
+    "guid": "scmulti:5c25a573110de001789e9dfa87e329cc23cbacdc",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_5c25a573110de001789e9dfa87e329cc23cbacdc/",
+    "usedAt": 1785625219714,
+    "usedAtIso": "2026-08-01T23:00:19.714Z"
   },
-  "source:bd4fe004f4e16db1363d7d1363c42b10b4978da4": {
-    "url": "https://visornoticias.com.br/homem-e-denunciado-pelo-mp-apos-usar-extintor-para-invadir-apartamento-e-espancar-mulher-ate-a-morte-em-sc",
-    "title": "Homem é denunciado por homicídio em contexto de violência doméstica em São José",
-    "guid": "scmulti:640e6328bb9199c7f9c1688ad7274c4e786eaa9a",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_640e6328bb9199c7f9c1688ad7274c4e786eaa9a/",
-    "usedAt": 1785618020363,
-    "usedAtIso": "2026-08-01T21:00:20.363Z"
+  "source:94d13284909f55f78ba279cb64de849bf6b7cd7b": {
+    "url": "https://visornoticias.com.br/transporte-escolar-itajai-2",
+    "title": "Seis ônibus do transporte escolar de Itajaí passam por manutenção completa para retomar atividades",
+    "guid": "scmulti:5423c6e920f27fb997d76a0d46e0f78d4a51f026",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_5423c6e920f27fb997d76a0d46e0f78d4a51f026/",
+    "usedAt": 1785625219714,
+    "usedAtIso": "2026-08-01T23:00:19.714Z"
+  },
+  "source:2d6f1f48fbe63757d49c04586a9e7191657bfc54": {
+    "url": "https://visornoticias.com.br/motociclista-fica-inconsciente-apos-acidente-e-vai-parar-no-hospital-em-florianopolis",
+    "title": "Motociclista com ferimento no rosto é socorrido em Florianópolis após acidente",
+    "guid": "scmulti:ad741c433f2e19a9a8af094b93df8937cd1bd9d1",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_ad741c433f2e19a9a8af094b93df8937cd1bd9d1/",
+    "usedAt": 1785625219714,
+    "usedAtIso": "2026-08-01T23:00:19.714Z"
+  },
+  "source:07142806cc8f43ac34d908951015f6487eecbe8a": {
+    "url": "https://visornoticias.com.br/motocicleta-e-pertences-de-servidor-morto-pelo-filho-sao-encontrados-em-itapema-e-porto-belo",
+    "title": "Homem presta depoimento e motocicleta é apreendida em investigação de homicídio em Itapema",
+    "guid": "scmulti:b1348ec42c8b864685876183a30b570c4242cbe4",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_b1348ec42c8b864685876183a30b570c4242cbe4/",
+    "usedAt": 1785625219714,
+    "usedAtIso": "2026-08-01T23:00:19.714Z"
   }
 }
