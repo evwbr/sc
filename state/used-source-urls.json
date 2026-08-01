@@ -1,4 +1,20 @@
 {
+  "source:bb8edfd82f99dcd90c55e075e666d38d72ec30c1": {
+    "url": "https://visornoticias.com.br/servidor-morto-em-itapema-e-identificado-filho-adotivo-confessa-o-crime",
+    "title": "Dois homens são presos em flagrante por homicídio de servidor público em Itapema",
+    "guid": "scmulti:3d2767081e0f33f73e16e389025a89f284fae134",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_3d2767081e0f33f73e16e389025a89f284fae134/",
+    "usedAt": 1785553219602,
+    "usedAtIso": "2026-08-01T03:00:19.602Z"
+  },
+  "source:9e2eea74f1b4b60e4a0f5d693fd9888bb4dde19e": {
+    "url": "https://visornoticias.com.br/filho-confessa-ter-matado-o-proprio-pai-em-itapema",
+    "title": "Servidor de Itapema é encontrado morto com sinais de violência; suspeitos são detidos com motocicleta roubada",
+    "guid": "scmulti:5137b36d3ca3fbd7ea524c72d041955767ad1e7c",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_5137b36d3ca3fbd7ea524c72d041955767ad1e7c/",
+    "usedAt": 1785553219602,
+    "usedAtIso": "2026-08-01T03:00:19.602Z"
+  },
   "source:7b7726173ec13027c47198e16238b877c717d4b2": {
     "url": "https://visornoticias.com.br/itapema-deve-receber-dez-novos-policiais-afirma-xepa-apos-reuniao-com-comandante-da-pm",
     "title": "Itapema terá reforço de cerca de dez policiais militares temporários, anuncia comando da PM",
@@ -6071,20 +6087,12 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:bb8edfd82f99dcd90c55e075e666d38d72ec30c1": {
-    "url": "https://visornoticias.com.br/servidor-morto-em-itapema-e-identificado-filho-adotivo-confessa-o-crime",
-    "title": "Dois homens são presos em flagrante por homicídio de servidor público em Itapema",
-    "guid": "scmulti:3d2767081e0f33f73e16e389025a89f284fae134",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_3d2767081e0f33f73e16e389025a89f284fae134/",
-    "usedAt": 1785553219602,
-    "usedAtIso": "2026-08-01T03:00:19.602Z"
-  },
-  "source:9e2eea74f1b4b60e4a0f5d693fd9888bb4dde19e": {
-    "url": "https://visornoticias.com.br/filho-confessa-ter-matado-o-proprio-pai-em-itapema",
-    "title": "Servidor de Itapema é encontrado morto com sinais de violência; suspeitos são detidos com motocicleta roubada",
-    "guid": "scmulti:5137b36d3ca3fbd7ea524c72d041955767ad1e7c",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_5137b36d3ca3fbd7ea524c72d041955767ad1e7c/",
-    "usedAt": 1785553219602,
-    "usedAtIso": "2026-08-01T03:00:19.602Z"
+  "source:1e613ba506cf61f3f09583d5633b3c83930eee82": {
+    "url": "https://visornoticias.com.br/filho-teria-planejado-morte-do-pai-apos-agressoes-contra-ele-e-a-mae-em-itapema-diz-policia-civil",
+    "title": "Filho e dois amigos são presos suspeitos de planejar e executar assassinato do pai em Itapema",
+    "guid": "scmulti:d66c215cab5cea9a536054b20803e90915f3ddca",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_d66c215cab5cea9a536054b20803e90915f3ddca/",
+    "usedAt": 1785589219169,
+    "usedAtIso": "2026-08-01T13:00:19.169Z"
   }
 }
