@@ -1,4 +1,12 @@
 {
+  "source:1ef29d1a37df78c0162fcfe809bdda66143d2b5b": {
+    "url": "https://cbntotal.com.br/esportes/para-bater-recorde-mundial-catarinense-de-55-anos-comeca-desafio-de-correr-mais-de-846-km-em-uma-semana-em-esteira-de-shopping",
+    "title": "Ultramaratonista Débora tenta novo recorde mundial de distância em esteira no Beiramar Shopping",
+    "guid": "scmulti:194fa5d86f0c388eff905f35a04c7b6aa3b1d9b7",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_194fa5d86f0c388eff905f35a04c7b6aa3b1d9b7/",
+    "usedAt": 1785697219196,
+    "usedAtIso": "2026-08-02T19:00:19.196Z"
+  },
   "source:601b3e416730fada8cd94177b518b7fc2c8b7b0a": {
     "url": "https://visornoticias.com.br/grave-acidente-entre-carros-mata-passageira-de-33-anos-na-br-116-em-sc",
     "title": "Colisão frontal na BR-116 em Santa Catarina deixa uma passageira morta",
@@ -6215,12 +6223,28 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:1ef29d1a37df78c0162fcfe809bdda66143d2b5b": {
-    "url": "https://cbntotal.com.br/esportes/para-bater-recorde-mundial-catarinense-de-55-anos-comeca-desafio-de-correr-mais-de-846-km-em-uma-semana-em-esteira-de-shopping",
-    "title": "Ultramaratonista Débora tenta novo recorde mundial de distância em esteira no Beiramar Shopping",
-    "guid": "scmulti:194fa5d86f0c388eff905f35a04c7b6aa3b1d9b7",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_194fa5d86f0c388eff905f35a04c7b6aa3b1d9b7/",
-    "usedAt": 1785697219196,
-    "usedAtIso": "2026-08-02T19:00:19.196Z"
+  "source:1646021f8931a057320ddd7199ae019478a3eaf5": {
+    "url": "https://cbntotal.com.br/cotidiano/linha-723-saiba-como-vai-funcionar-o-novo-formiguinha-gratuito-em-florianopolis",
+    "title": "Prefeitura de Florianópolis inicia operação experimental da linha 723 para Morro da Penitenciária",
+    "guid": "scmulti:7c83f8cded471873b2e1028cdbc4ba75acd9e0e0",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_7c83f8cded471873b2e1028cdbc4ba75acd9e0e0/",
+    "usedAt": 1785700819271,
+    "usedAtIso": "2026-08-02T20:00:19.271Z"
+  },
+  "source:f1a926eada37260f5c81581703ecaf00d00b49bc": {
+    "url": "https://visornoticias.com.br/frente-fria-traz-risco-de-temporais-isolados-para-sc-nesta-segunda",
+    "title": "Santa Catarina terá chuva isolada e temperaturas elevadas com risco moderado de temporais",
+    "guid": "scmulti:69c88aeddb6cb9a4509666854ee59e331dbff2c4",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_69c88aeddb6cb9a4509666854ee59e331dbff2c4/",
+    "usedAt": 1785700819271,
+    "usedAtIso": "2026-08-02T20:00:19.271Z"
+  },
+  "source:a909425fb21dafa414f7403f27ec6c24f8d8c709": {
+    "url": "https://visornoticias.com.br/pl-oficializa-jorginho-mello-a-reeleicao-com-adriano-silva-como-vice-em-sc",
+    "title": "Adriano Silva é confirmado candidato a vice-governador na chapa de Jorginho Mello em Santa Catarina",
+    "guid": "scmulti:66ca9352be58c8ae0363e696114f55885b3de7aa",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_66ca9352be58c8ae0363e696114f55885b3de7aa/",
+    "usedAt": 1785700819271,
+    "usedAtIso": "2026-08-02T20:00:19.271Z"
   }
 }
