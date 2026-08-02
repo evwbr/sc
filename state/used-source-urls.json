@@ -1,4 +1,12 @@
 {
+  "source:601b3e416730fada8cd94177b518b7fc2c8b7b0a": {
+    "url": "https://visornoticias.com.br/grave-acidente-entre-carros-mata-passageira-de-33-anos-na-br-116-em-sc",
+    "title": "Colisão frontal na BR-116 em Santa Catarina deixa uma passageira morta",
+    "guid": "scmulti:c45bdac698e73cf58e5089afcc1bff87f12062a9",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_c45bdac698e73cf58e5089afcc1bff87f12062a9/",
+    "usedAt": 1785675619547,
+    "usedAtIso": "2026-08-02T13:00:19.547Z"
+  },
   "source:237ab2ae67f7cab90afce50cba7d7c9f0b65c45f": {
     "url": "https://visornoticias.com.br/policia-investiga-suspeita-de-estelionato-apos-homem-induzir-idosa-a-pagar-r-140-mil-por-carro-e-fugir-em-sc",
     "title": "Investigação apura estelionato qualificado contra idosa envolvendo veículo registrado em nome de terceiro",
@@ -6207,12 +6215,12 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:601b3e416730fada8cd94177b518b7fc2c8b7b0a": {
-    "url": "https://visornoticias.com.br/grave-acidente-entre-carros-mata-passageira-de-33-anos-na-br-116-em-sc",
-    "title": "Colisão frontal na BR-116 em Santa Catarina deixa uma passageira morta",
-    "guid": "scmulti:c45bdac698e73cf58e5089afcc1bff87f12062a9",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_c45bdac698e73cf58e5089afcc1bff87f12062a9/",
-    "usedAt": 1785675619547,
-    "usedAtIso": "2026-08-02T13:00:19.547Z"
+  "source:1ef29d1a37df78c0162fcfe809bdda66143d2b5b": {
+    "url": "https://cbntotal.com.br/esportes/para-bater-recorde-mundial-catarinense-de-55-anos-comeca-desafio-de-correr-mais-de-846-km-em-uma-semana-em-esteira-de-shopping",
+    "title": "Ultramaratonista Débora tenta novo recorde mundial de distância em esteira no Beiramar Shopping",
+    "guid": "scmulti:194fa5d86f0c388eff905f35a04c7b6aa3b1d9b7",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_194fa5d86f0c388eff905f35a04c7b6aa3b1d9b7/",
+    "usedAt": 1785697219196,
+    "usedAtIso": "2026-08-02T19:00:19.196Z"
   }
 }
