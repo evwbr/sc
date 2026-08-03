@@ -1,4 +1,20 @@
 {
+  "source:b4138100ea1be09adc61986b3b1cc9c242124b8f": {
+    "url": "https://visornoticias.com.br/recuperacao-do-pavimento-na-ponte-sobre-o-rio-camboriu-altera-o-transito-e-pode-causar-lentidao-na-br-101",
+    "title": "Obras na BR-101 em Santa Catarina causam interdição parcial e podem provocar lentidão durante a madrugada",
+    "guid": "scmulti:c74391f36691aa40d976a923497a5d9e6154fa05",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_c74391f36691aa40d976a923497a5d9e6154fa05/",
+    "usedAt": 1785765619500,
+    "usedAtIso": "2026-08-03T14:00:19.500Z"
+  },
+  "source:a28360585fe76fb7a028a7181f312cf9e29ca71e": {
+    "url": "https://visornoticias.com.br/arraia-solidario-de-itapema-termina-com-carro-0-km-sorteado-e-mais-de-r-300-mil-em-premios",
+    "title": "Arraiá Solidário de Itapema reúne milhares e distribui mais de R$ 300 mil em prêmios",
+    "guid": "scmulti:b040c07391d13ec88f94517c8abe3cb60e528276",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_b040c07391d13ec88f94517c8abe3cb60e528276/",
+    "usedAt": 1785765619500,
+    "usedAtIso": "2026-08-03T14:00:19.500Z"
+  },
   "source:6de0766b149a91f66a259319182c3438f365f529": {
     "url": "https://visornoticias.com.br/batida-frontal-entre-dois-caminhoes-mata-um-motorista-e-deixa-outro-ferido-na-br-282-na-grande-florianopolis",
     "title": "Colisão entre caminhões deixa um morto e um ferido em Santa Catarina",
@@ -6311,20 +6327,12 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:b4138100ea1be09adc61986b3b1cc9c242124b8f": {
-    "url": "https://visornoticias.com.br/recuperacao-do-pavimento-na-ponte-sobre-o-rio-camboriu-altera-o-transito-e-pode-causar-lentidao-na-br-101",
-    "title": "Obras na BR-101 em Santa Catarina causam interdição parcial e podem provocar lentidão durante a madrugada",
-    "guid": "scmulti:c74391f36691aa40d976a923497a5d9e6154fa05",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_c74391f36691aa40d976a923497a5d9e6154fa05/",
-    "usedAt": 1785765619500,
-    "usedAtIso": "2026-08-03T14:00:19.500Z"
-  },
-  "source:a28360585fe76fb7a028a7181f312cf9e29ca71e": {
-    "url": "https://visornoticias.com.br/arraia-solidario-de-itapema-termina-com-carro-0-km-sorteado-e-mais-de-r-300-mil-em-premios",
-    "title": "Arraiá Solidário de Itapema reúne milhares e distribui mais de R$ 300 mil em prêmios",
-    "guid": "scmulti:b040c07391d13ec88f94517c8abe3cb60e528276",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_b040c07391d13ec88f94517c8abe3cb60e528276/",
-    "usedAt": 1785765619500,
-    "usedAtIso": "2026-08-03T14:00:19.500Z"
+  "source:c2b9206d9de0bff3643359a868cb172946c2e39c": {
+    "url": "https://visornoticias.com.br/identificado-homem-que-morreu-apos-cair-de-embarcacao-em-barragem-de-sc",
+    "title": "Homem desaparece e é encontrado morto após queda em barragem de Timbó",
+    "guid": "scmulti:17c44b7ca6bff96ab0588dd6aa0879bb7f8c681b",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_17c44b7ca6bff96ab0588dd6aa0879bb7f8c681b/",
+    "usedAt": 1785772819616,
+    "usedAtIso": "2026-08-03T16:00:19.616Z"
   }
 }
