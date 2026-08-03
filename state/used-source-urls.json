@@ -1,4 +1,12 @@
 {
+  "source:17d1bad11c27c21d61f4a956f78aabb702f8c825": {
+    "url": "https://visornoticias.com.br/baleia-encontrada-morta-em-itapema-estava-a-deriva-no-litoral-norte-de-sc",
+    "title": "Carcaça de baleia à deriva é monitorada na Bacia de Santos",
+    "guid": "scmulti:e093b7837c1058de6ead4f4db136c7eca2ca1035",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_e093b7837c1058de6ead4f4db136c7eca2ca1035/",
+    "usedAt": 1785783620047,
+    "usedAtIso": "2026-08-03T19:00:20.047Z"
+  },
   "source:96d4028b12ea19c6983a1a3518ac4c5399c88c19": {
     "url": "https://visornoticias.com.br/parto-emergencia-upa-itajai",
     "title": "Parto de emergência é realizado na UPA Cordeiros em Itajaí",
@@ -6375,12 +6383,12 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:17d1bad11c27c21d61f4a956f78aabb702f8c825": {
-    "url": "https://visornoticias.com.br/baleia-encontrada-morta-em-itapema-estava-a-deriva-no-litoral-norte-de-sc",
-    "title": "Carcaça de baleia à deriva é monitorada na Bacia de Santos",
-    "guid": "scmulti:e093b7837c1058de6ead4f4db136c7eca2ca1035",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_e093b7837c1058de6ead4f4db136c7eca2ca1035/",
-    "usedAt": 1785783620047,
-    "usedAtIso": "2026-08-03T19:00:20.047Z"
+  "source:396e03db1030952711772b77799da1499887d7be": {
+    "url": "https://visornoticias.com.br/idosa-relata-24-horas-de-terror-apos-ser-sequestrada-por-don-juan-em-sc",
+    "title": "Idosa é sequestrada em baile e abandonada em área de mata em Gaspar; suspeito é preso em Joinville",
+    "guid": "scmulti:6975271a21f38506e97166b889391bdbed720ce5",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_6975271a21f38506e97166b889391bdbed720ce5/",
+    "usedAt": 1785798019414,
+    "usedAtIso": "2026-08-03T23:00:19.414Z"
   }
 }
