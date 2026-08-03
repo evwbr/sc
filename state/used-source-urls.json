@@ -1,4 +1,12 @@
 {
+  "source:c2b9206d9de0bff3643359a868cb172946c2e39c": {
+    "url": "https://visornoticias.com.br/identificado-homem-que-morreu-apos-cair-de-embarcacao-em-barragem-de-sc",
+    "title": "Homem desaparece e é encontrado morto após queda em barragem de Timbó",
+    "guid": "scmulti:17c44b7ca6bff96ab0588dd6aa0879bb7f8c681b",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_17c44b7ca6bff96ab0588dd6aa0879bb7f8c681b/",
+    "usedAt": 1785772819616,
+    "usedAtIso": "2026-08-03T16:00:19.616Z"
+  },
   "source:b4138100ea1be09adc61986b3b1cc9c242124b8f": {
     "url": "https://visornoticias.com.br/recuperacao-do-pavimento-na-ponte-sobre-o-rio-camboriu-altera-o-transito-e-pode-causar-lentidao-na-br-101",
     "title": "Obras na BR-101 em Santa Catarina causam interdição parcial e podem provocar lentidão durante a madrugada",
@@ -6327,12 +6335,44 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:c2b9206d9de0bff3643359a868cb172946c2e39c": {
-    "url": "https://visornoticias.com.br/identificado-homem-que-morreu-apos-cair-de-embarcacao-em-barragem-de-sc",
-    "title": "Homem desaparece e é encontrado morto após queda em barragem de Timbó",
-    "guid": "scmulti:17c44b7ca6bff96ab0588dd6aa0879bb7f8c681b",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_17c44b7ca6bff96ab0588dd6aa0879bb7f8c681b/",
-    "usedAt": 1785772819616,
-    "usedAtIso": "2026-08-03T16:00:19.616Z"
+  "source:96d4028b12ea19c6983a1a3518ac4c5399c88c19": {
+    "url": "https://visornoticias.com.br/parto-emergencia-upa-itajai",
+    "title": "Parto de emergência é realizado na UPA Cordeiros em Itajaí",
+    "guid": "scmulti:5ccf19821c9d736bf121af421ec42208037c0533",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_5ccf19821c9d736bf121af421ec42208037c0533/",
+    "usedAt": 1785776420204,
+    "usedAtIso": "2026-08-03T17:00:20.204Z"
+  },
+  "source:55fc9956cce0b4ac728fb374645ebe52da3703fe": {
+    "url": "https://visornoticias.com.br/handebol-feminino-itajai-final-joguinhos-abertos",
+    "title": "Itajaí garante vaga na final do handebol feminino nos Joguinhos Abertos de Santa Catarina",
+    "guid": "scmulti:b4c7bebb0921be652f6d2a3704a672f1262e4426",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_b4c7bebb0921be652f6d2a3704a672f1262e4426/",
+    "usedAt": 1785776420204,
+    "usedAtIso": "2026-08-03T17:00:20.204Z"
+  },
+  "source:0f481728ff5d3d780a0953208e923681c46af0e5": {
+    "url": "https://visornoticias.com.br/taekwondo-joguinhos-abertos",
+    "title": "Atleta de Itajaí conquista ouro no taekwondo dos Joguinhos Abertos em Blumenau",
+    "guid": "scmulti:a2210195f62474e2e2423e4a4cb7121af2578750",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_a2210195f62474e2e2423e4a4cb7121af2578750/",
+    "usedAt": 1785776420204,
+    "usedAtIso": "2026-08-03T17:00:20.204Z"
+  },
+  "source:0fe54a648d9f6c2202f0f6bb5054d3076dc4fb54": {
+    "url": "https://visornoticias.com.br/joguinhos-abertos-sc-4",
+    "title": "Handebol feminino de Itajaí conquista bicampeonato nos Joguinhos Abertos de Santa Catarina",
+    "guid": "scmulti:9a6a4a5caeb9847c24252f72eb5eec4f76c43827",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_9a6a4a5caeb9847c24252f72eb5eec4f76c43827/",
+    "usedAt": 1785776420204,
+    "usedAtIso": "2026-08-03T17:00:20.204Z"
+  },
+  "source:b326cae5a40bb5c1ac408a97f2289f482abee2a2": {
+    "url": "https://visornoticias.com.br/karate-nos-joguinhos",
+    "title": "Equipe de karatê de Tubarão conquista 11 medalhas nos Joguinhos Abertos de Santa Catarina",
+    "guid": "scmulti:81fadbddba3c36fa184e2804595b263417688e4e",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_81fadbddba3c36fa184e2804595b263417688e4e/",
+    "usedAt": 1785776420204,
+    "usedAtIso": "2026-08-03T17:00:20.204Z"
   }
 }
