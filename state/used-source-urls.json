@@ -1,4 +1,20 @@
 {
+  "source:b596d93d5e64b9fd3308f37764899aa4f56f244a": {
+    "url": "https://visornoticias.com.br/mudancas-nos-horarios-da-saude-entram-em-vigor-em-itapema-veja-como-ficou-o-atendimento",
+    "title": "Itapema ajusta horários de unidades de saúde e implanta telemedicina 24 horas",
+    "guid": "scmulti:903080b5f69a0eac1f09b88fb2b1cf35c73b13ea",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_903080b5f69a0eac1f09b88fb2b1cf35c73b13ea/",
+    "usedAt": 1785758419900,
+    "usedAtIso": "2026-08-03T12:00:19.900Z"
+  },
+  "source:0921181674f07adcdfd6827f57cd69aefc573ce7": {
+    "url": "https://visornoticias.com.br/sem-conseguir-contato-mae-viaja-para-encontrar-o-filho-e-o-encontra-morto-em-apartamento-em-sc",
+    "title": "Homem é encontrado morto em apartamento de Garopaba durante visita da mãe",
+    "guid": "scmulti:26c54412453c97bc2c7007762e6f98091420722f",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_26c54412453c97bc2c7007762e6f98091420722f/",
+    "usedAt": 1785758419900,
+    "usedAtIso": "2026-08-03T12:00:19.900Z"
+  },
   "source:31166c417bffdacbd7e464b77c99c59452e92f5c": {
     "url": "https://visornoticias.com.br/motorista-foge-apos-capotar-o-carro-e-deixar-passageiro-ferido-na-br-470-em-sc",
     "title": "Veículo capota na BR-470 em Ilhota e passageiro é encaminhado ao hospital",
@@ -6279,20 +6295,20 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:b596d93d5e64b9fd3308f37764899aa4f56f244a": {
-    "url": "https://visornoticias.com.br/mudancas-nos-horarios-da-saude-entram-em-vigor-em-itapema-veja-como-ficou-o-atendimento",
-    "title": "Itapema ajusta horários de unidades de saúde e implanta telemedicina 24 horas",
-    "guid": "scmulti:903080b5f69a0eac1f09b88fb2b1cf35c73b13ea",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_903080b5f69a0eac1f09b88fb2b1cf35c73b13ea/",
-    "usedAt": 1785758419900,
-    "usedAtIso": "2026-08-03T12:00:19.900Z"
+  "source:6de0766b149a91f66a259319182c3438f365f529": {
+    "url": "https://visornoticias.com.br/batida-frontal-entre-dois-caminhoes-mata-um-motorista-e-deixa-outro-ferido-na-br-282-na-grande-florianopolis",
+    "title": "Colisão entre caminhões deixa um morto e um ferido em Santa Catarina",
+    "guid": "scmulti:7c4b7883e1a7e726a241c59037842839ba0da5dc",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_7c4b7883e1a7e726a241c59037842839ba0da5dc/",
+    "usedAt": 1785762022388,
+    "usedAtIso": "2026-08-03T13:00:22.388Z"
   },
-  "source:0921181674f07adcdfd6827f57cd69aefc573ce7": {
-    "url": "https://visornoticias.com.br/sem-conseguir-contato-mae-viaja-para-encontrar-o-filho-e-o-encontra-morto-em-apartamento-em-sc",
-    "title": "Homem é encontrado morto em apartamento de Garopaba durante visita da mãe",
-    "guid": "scmulti:26c54412453c97bc2c7007762e6f98091420722f",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_26c54412453c97bc2c7007762e6f98091420722f/",
-    "usedAt": 1785758419900,
-    "usedAtIso": "2026-08-03T12:00:19.900Z"
+  "source:62a794ca0fdbf847eeeabe2c1199e4fad48172c3": {
+    "url": "https://cbntotal.com.br/cotidiano/vai-chover-em-florianopolis-nesta-segunda-previsao-indica-reviravolta-no-tempo",
+    "title": "Frente fria provoca alerta amarelo e previsão de temporais em Florianópolis nesta segunda-feira",
+    "guid": "scmulti:67c7e13bd4e2c2b14432cef759cfbb1a3f540734",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_67c7e13bd4e2c2b14432cef759cfbb1a3f540734/",
+    "usedAt": 1785762022388,
+    "usedAtIso": "2026-08-03T13:00:22.388Z"
   }
 }
