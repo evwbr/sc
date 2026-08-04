@@ -1,4 +1,12 @@
 {
+  "source:ee0c77b09a5253ba073d208c26352ab930292716": {
+    "url": "https://visornoticias.com.br/itapema-inicia-campanha-para-atualizar-cadernetas-de-vacinacao-de-menores-de-15-anos",
+    "title": "Itapema realiza campanha de multivacinação para crianças e adolescentes até 14 anos em agosto",
+    "guid": "scmulti:34e53e9f33b99e580e4b1383545737dd264c152e",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_34e53e9f33b99e580e4b1383545737dd264c152e/",
+    "usedAt": 1785855619988,
+    "usedAtIso": "2026-08-04T15:00:19.988Z"
+  },
   "source:6ed75a886991df7f615a842beb771ac3ff5da31f": {
     "url": "https://visornoticias.com.br/acidente-com-caminhao-deixa-casa-destruida-e-transito-interditado-na-br-101-em-sc",
     "title": "Caminhão tomba e atinge residência na BR-101 em Santa Catarina, pista marginal é interditada",
@@ -6479,12 +6487,12 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:ee0c77b09a5253ba073d208c26352ab930292716": {
-    "url": "https://visornoticias.com.br/itapema-inicia-campanha-para-atualizar-cadernetas-de-vacinacao-de-menores-de-15-anos",
-    "title": "Itapema realiza campanha de multivacinação para crianças e adolescentes até 14 anos em agosto",
-    "guid": "scmulti:34e53e9f33b99e580e4b1383545737dd264c152e",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_34e53e9f33b99e580e4b1383545737dd264c152e/",
-    "usedAt": 1785855619988,
-    "usedAtIso": "2026-08-04T15:00:19.988Z"
+  "source:bf64afbedf8755603838107174be6d3c0efb1a10": {
+    "url": "https://visornoticias.com.br/pavimentacao-da-nova-alca-de-acesso-a-br-101-entra-na-reta-final-em-itapema",
+    "title": "Itapema avança na conclusão de nova alça de acesso à BR-101 e melhorias urbanas",
+    "guid": "scmulti:8e8ccc3e28a6cdf225c6c31bfdda7b7341cfac89",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_8e8ccc3e28a6cdf225c6c31bfdda7b7341cfac89/",
+    "usedAt": 1785859219816,
+    "usedAtIso": "2026-08-04T16:00:19.816Z"
   }
 }
