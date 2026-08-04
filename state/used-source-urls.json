@@ -1,4 +1,12 @@
 {
+  "source:37d4d09014e6bb0fa1774a064db9dead7411dd10": {
+    "url": "https://visornoticias.com.br/parque-militar-em-sc-segue-em-fase-de-pre-abertura-com-experiencias-ineditas-na-america-latina",
+    "title": "Bravura Park inaugura pré-abertura com experiências inéditas em parque militar na BR-101",
+    "guid": "scmulti:144bd6efbb5c466987bca6d81c9dfa1e0478b605",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_144bd6efbb5c466987bca6d81c9dfa1e0478b605/",
+    "usedAt": 1785873619650,
+    "usedAtIso": "2026-08-04T20:00:19.650Z"
+  },
   "source:0da858967b19dbc4ff28c4e6565507e860703640": {
     "url": "https://visornoticias.com.br/acidente-entre-carro-e-trator-deixa-sete-feridos-em-sc",
     "title": "Sete pessoas ficam feridas em acidente envolvendo carro e trator em Ituporanga",
@@ -6527,12 +6535,28 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:37d4d09014e6bb0fa1774a064db9dead7411dd10": {
-    "url": "https://visornoticias.com.br/parque-militar-em-sc-segue-em-fase-de-pre-abertura-com-experiencias-ineditas-na-america-latina",
-    "title": "Bravura Park inaugura pré-abertura com experiências inéditas em parque militar na BR-101",
-    "guid": "scmulti:144bd6efbb5c466987bca6d81c9dfa1e0478b605",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_144bd6efbb5c466987bca6d81c9dfa1e0478b605/",
-    "usedAt": 1785873619650,
-    "usedAtIso": "2026-08-04T20:00:19.650Z"
+  "source:6d487d883e8816d3b8b86589af2e2bf6f5896693": {
+    "url": "https://visornoticias.com.br/retirada-de-fios-2",
+    "title": "Itajaí avança na remoção de fios inoperantes para melhorar a paisagem urbana",
+    "guid": "scmulti:dde89a9a54d5ec6cff3113253122d9c9e93f906a",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_dde89a9a54d5ec6cff3113253122d9c9e93f906a/",
+    "usedAt": 1785884420098,
+    "usedAtIso": "2026-08-04T23:00:20.098Z"
+  },
+  "source:8c086b5b8483b602f6bc0dca621d8e94b9d59032": {
+    "url": "https://visornoticias.com.br/preco-dos-combustiveis-tubarao",
+    "title": "Pesquisa revela grande variação nos preços dos combustíveis em Tubarão",
+    "guid": "scmulti:e386d03e772018bd2b6c10326acd0e9edba73c91",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_e386d03e772018bd2b6c10326acd0e9edba73c91/",
+    "usedAt": 1785884420098,
+    "usedAtIso": "2026-08-04T23:00:20.098Z"
+  },
+  "source:5eabf8c3102463dda20550f56cc962037b3ff3bd": {
+    "url": "https://visornoticias.com.br/taekwondo-itajai",
+    "title": "Equipe masculina de taekwondo de Itajaí conquista terceiro lugar nos Joguinhos Abertos de Santa Catarina",
+    "guid": "scmulti:45ba290c171bdf4ef11ac503c31a417206ac69d4",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_45ba290c171bdf4ef11ac503c31a417206ac69d4/",
+    "usedAt": 1785884420098,
+    "usedAtIso": "2026-08-04T23:00:20.098Z"
   }
 }
