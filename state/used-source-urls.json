@@ -1,4 +1,20 @@
 {
+  "source:98d995cb51ff1ff4f169cfe96a8ddeac906d1e36": {
+    "url": "https://cbntotal.com.br/cotidiano/rio-que-corta-2a-maior-cidade-da-regiao-recebe-barreiras-de-concreto-perigo",
+    "title": "São José instala barreiras de concreto para aumentar segurança nas margens do Rio Três Henriques",
+    "guid": "scmulti:09a9bdbeb67945870b277ee657700e6e6831e0f3",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_09a9bdbeb67945870b277ee657700e6e6831e0f3/",
+    "usedAt": 1785844819887,
+    "usedAtIso": "2026-08-04T12:00:19.887Z"
+  },
+  "source:6e0379699d45692ebc868e1685e224c0bb65085e": {
+    "url": "https://visornoticias.com.br/irmaos-morrem-atropelados-por-carro-na-br-470-em-pouso-redondo",
+    "title": "Irmãos são atropelados enquanto atravessavam rodovia entre Pouso Redondo e Rio do Sul",
+    "guid": "scmulti:d06de11cedcbcb7f8b35108c4fa7415805317f11",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_d06de11cedcbcb7f8b35108c4fa7415805317f11/",
+    "usedAt": 1785844819887,
+    "usedAtIso": "2026-08-04T12:00:19.887Z"
+  },
   "source:4af5309d5e981aa2488bf94e8ae5dbc718830d20": {
     "url": "https://visornoticias.com.br/ataque-dentro-de-casa-termina-com-mulher-morta-apos-ser-esfaqueada-no-pescoco-e-suspeito-e-preso-em-sc",
     "title": "Mulher morre após ataque em residência de Imbituba; suspeito é preso em flagrante",
@@ -6439,20 +6455,20 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:98d995cb51ff1ff4f169cfe96a8ddeac906d1e36": {
-    "url": "https://cbntotal.com.br/cotidiano/rio-que-corta-2a-maior-cidade-da-regiao-recebe-barreiras-de-concreto-perigo",
-    "title": "São José instala barreiras de concreto para aumentar segurança nas margens do Rio Três Henriques",
-    "guid": "scmulti:09a9bdbeb67945870b277ee657700e6e6831e0f3",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_09a9bdbeb67945870b277ee657700e6e6831e0f3/",
-    "usedAt": 1785844819887,
-    "usedAtIso": "2026-08-04T12:00:19.887Z"
+  "source:a43211519e17a4029e28a0ca927ad8c17a321876": {
+    "url": "https://visornoticias.com.br/repavimentacao-em-itajai",
+    "title": "Itajaí inicia repavimentação nas ruas José Lopes e José Rosa no bairro Cordeiros",
+    "guid": "scmulti:3c26a50fb3787d1f6fc033d97f35d4f1618815be",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_3c26a50fb3787d1f6fc033d97f35d4f1618815be/",
+    "usedAt": 1785848421020,
+    "usedAtIso": "2026-08-04T13:00:21.020Z"
   },
-  "source:6e0379699d45692ebc868e1685e224c0bb65085e": {
-    "url": "https://visornoticias.com.br/irmaos-morrem-atropelados-por-carro-na-br-470-em-pouso-redondo",
-    "title": "Irmãos são atropelados enquanto atravessavam rodovia entre Pouso Redondo e Rio do Sul",
-    "guid": "scmulti:d06de11cedcbcb7f8b35108c4fa7415805317f11",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_d06de11cedcbcb7f8b35108c4fa7415805317f11/",
-    "usedAt": 1785844819887,
-    "usedAtIso": "2026-08-04T12:00:19.887Z"
+  "source:c29b16c0b08cc090af596ac81c4fd24438917f18": {
+    "url": "https://visornoticias.com.br/rua-francisco-reis",
+    "title": "Obras de requalificação asfáltica alteram trânsito na rua Francisco Reis, em Itajaí",
+    "guid": "scmulti:b39edd5186f00c59735f5d5bf439d565b88557f4",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_b39edd5186f00c59735f5d5bf439d565b88557f4/",
+    "usedAt": 1785848421020,
+    "usedAtIso": "2026-08-04T13:00:21.020Z"
   }
 }
