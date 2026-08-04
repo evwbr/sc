@@ -1,4 +1,20 @@
 {
+  "source:95d50770477c02cb28f8846c4983c2b2801d6edd": {
+    "url": "https://visornoticias.com.br/mandados-em-sc-apuram-grupo-suspeito-de-planejar-ataque-durante-debate-presidencial",
+    "title": "Operação em cinco estados investiga grupo que planejava ataque com explosivos em debate presidencial",
+    "guid": "scmulti:7428057b992c7d4ddf19efeaeb832c982c02cf63",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_7428057b992c7d4ddf19efeaeb832c982c02cf63/",
+    "usedAt": 1785862821423,
+    "usedAtIso": "2026-08-04T17:00:21.423Z"
+  },
+  "source:5abed964d01ef0f57ec99eaf2192204ea9c08282": {
+    "url": "https://visornoticias.com.br/combate-dengue-itajai-metodo-wolbachia",
+    "title": "Itajaí inicia reconhecimento de campo para implantação do Método Wolbachia no combate à dengue",
+    "guid": "scmulti:f011c513078747addf00d759068860f3f618f290",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_f011c513078747addf00d759068860f3f618f290/",
+    "usedAt": 1785862821423,
+    "usedAtIso": "2026-08-04T17:00:21.423Z"
+  },
   "source:bf64afbedf8755603838107174be6d3c0efb1a10": {
     "url": "https://visornoticias.com.br/pavimentacao-da-nova-alca-de-acesso-a-br-101-entra-na-reta-final-em-itapema",
     "title": "Itapema avança na conclusão de nova alça de acesso à BR-101 e melhorias urbanas",
@@ -6495,20 +6511,20 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:95d50770477c02cb28f8846c4983c2b2801d6edd": {
-    "url": "https://visornoticias.com.br/mandados-em-sc-apuram-grupo-suspeito-de-planejar-ataque-durante-debate-presidencial",
-    "title": "Operação em cinco estados investiga grupo que planejava ataque com explosivos em debate presidencial",
-    "guid": "scmulti:7428057b992c7d4ddf19efeaeb832c982c02cf63",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_7428057b992c7d4ddf19efeaeb832c982c02cf63/",
-    "usedAt": 1785862821423,
-    "usedAtIso": "2026-08-04T17:00:21.423Z"
+  "source:0da858967b19dbc4ff28c4e6565507e860703640": {
+    "url": "https://visornoticias.com.br/acidente-entre-carro-e-trator-deixa-sete-feridos-em-sc",
+    "title": "Sete pessoas ficam feridas em acidente envolvendo carro e trator em Ituporanga",
+    "guid": "scmulti:f2580314fc1bb49d2f7a9d90f9c2f89bbcad7e75",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_f2580314fc1bb49d2f7a9d90f9c2f89bbcad7e75/",
+    "usedAt": 1785866420631,
+    "usedAtIso": "2026-08-04T18:00:20.631Z"
   },
-  "source:5abed964d01ef0f57ec99eaf2192204ea9c08282": {
-    "url": "https://visornoticias.com.br/combate-dengue-itajai-metodo-wolbachia",
-    "title": "Itajaí inicia reconhecimento de campo para implantação do Método Wolbachia no combate à dengue",
-    "guid": "scmulti:f011c513078747addf00d759068860f3f618f290",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_f011c513078747addf00d759068860f3f618f290/",
-    "usedAt": 1785862821423,
-    "usedAtIso": "2026-08-04T17:00:21.423Z"
+  "source:2be4d96acb7b471a05f4fb00693fffe2d2a5cb36": {
+    "url": "https://visornoticias.com.br/filhote-de-tubarao-e-localizado-morto-em-praia-de-sao-francisco-do-sul",
+    "title": "Filhote de Tubarão é encontrado morto preso em rede de pesca na praia de São Francisco do Sul",
+    "guid": "scmulti:01e501faa6cb38983ed73dfb02a73914bb89f602",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_01e501faa6cb38983ed73dfb02a73914bb89f602/",
+    "usedAt": 1785866420631,
+    "usedAtIso": "2026-08-04T18:00:20.631Z"
   }
 }
