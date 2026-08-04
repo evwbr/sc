@@ -1,4 +1,28 @@
 {
+  "source:4af5309d5e981aa2488bf94e8ae5dbc718830d20": {
+    "url": "https://visornoticias.com.br/ataque-dentro-de-casa-termina-com-mulher-morta-apos-ser-esfaqueada-no-pescoco-e-suspeito-e-preso-em-sc",
+    "title": "Mulher morre após ataque em residência de Imbituba; suspeito é preso em flagrante",
+    "guid": "scmulti:b3b6ce3be3616f0bb908bb7b87c7727ef488cb1b",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_b3b6ce3be3616f0bb908bb7b87c7727ef488cb1b/",
+    "usedAt": 1785841219318,
+    "usedAtIso": "2026-08-04T11:00:19.318Z"
+  },
+  "source:55df6cb8c9b4cdff0d6b9fb8c35b793e95bf8536": {
+    "url": "https://visornoticias.com.br/churrasco-na-calcada-termina-com-procurado-por-trafico-no-rj-preso-em-balneario-camboriu",
+    "title": "Homem com mandado de prisão por tráfico é detido em abordagem da Guarda Municipal em Itajaí",
+    "guid": "scmulti:c4efc3c93dfa1f0cc6252022f39a22a56432d4df",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_c4efc3c93dfa1f0cc6252022f39a22a56432d4df/",
+    "usedAt": 1785841219318,
+    "usedAtIso": "2026-08-04T11:00:19.318Z"
+  },
+  "source:a002355304b254f4033be41290ef82ceedd2d7f1": {
+    "url": "https://visornoticias.com.br/motorista-morre-preso-as-ferragens-e-outro-fica-ferido-apos-batida-entre-caminhoes-em-sc",
+    "title": "Colisão frontal entre caminhões em Santa Catarina deixa um motorista morto e outro ferido",
+    "guid": "scmulti:66a05c29b9c687806a6a345bb8be87e13f946de5",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_66a05c29b9c687806a6a345bb8be87e13f946de5/",
+    "usedAt": 1785841219318,
+    "usedAtIso": "2026-08-04T11:00:19.318Z"
+  },
   "source:7802b808fbc36871272986e4d404fc04ad1be5e4": {
     "url": "https://visornoticias.com.br/chuva-intensa-vento-e-granizo-ameacam-todas-as-regioes-de-santa-catarina",
     "title": "Santa Catarina enfrenta aumento de instabilidade com risco de temporais e granizo durante a semana",
@@ -6415,28 +6439,20 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:4af5309d5e981aa2488bf94e8ae5dbc718830d20": {
-    "url": "https://visornoticias.com.br/ataque-dentro-de-casa-termina-com-mulher-morta-apos-ser-esfaqueada-no-pescoco-e-suspeito-e-preso-em-sc",
-    "title": "Mulher morre após ataque em residência de Imbituba; suspeito é preso em flagrante",
-    "guid": "scmulti:b3b6ce3be3616f0bb908bb7b87c7727ef488cb1b",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_b3b6ce3be3616f0bb908bb7b87c7727ef488cb1b/",
-    "usedAt": 1785841219318,
-    "usedAtIso": "2026-08-04T11:00:19.318Z"
+  "source:98d995cb51ff1ff4f169cfe96a8ddeac906d1e36": {
+    "url": "https://cbntotal.com.br/cotidiano/rio-que-corta-2a-maior-cidade-da-regiao-recebe-barreiras-de-concreto-perigo",
+    "title": "São José instala barreiras de concreto para aumentar segurança nas margens do Rio Três Henriques",
+    "guid": "scmulti:09a9bdbeb67945870b277ee657700e6e6831e0f3",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_09a9bdbeb67945870b277ee657700e6e6831e0f3/",
+    "usedAt": 1785844819887,
+    "usedAtIso": "2026-08-04T12:00:19.887Z"
   },
-  "source:55df6cb8c9b4cdff0d6b9fb8c35b793e95bf8536": {
-    "url": "https://visornoticias.com.br/churrasco-na-calcada-termina-com-procurado-por-trafico-no-rj-preso-em-balneario-camboriu",
-    "title": "Homem com mandado de prisão por tráfico é detido em abordagem da Guarda Municipal em Itajaí",
-    "guid": "scmulti:c4efc3c93dfa1f0cc6252022f39a22a56432d4df",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_c4efc3c93dfa1f0cc6252022f39a22a56432d4df/",
-    "usedAt": 1785841219318,
-    "usedAtIso": "2026-08-04T11:00:19.318Z"
-  },
-  "source:a002355304b254f4033be41290ef82ceedd2d7f1": {
-    "url": "https://visornoticias.com.br/motorista-morre-preso-as-ferragens-e-outro-fica-ferido-apos-batida-entre-caminhoes-em-sc",
-    "title": "Colisão frontal entre caminhões em Santa Catarina deixa um motorista morto e outro ferido",
-    "guid": "scmulti:66a05c29b9c687806a6a345bb8be87e13f946de5",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_66a05c29b9c687806a6a345bb8be87e13f946de5/",
-    "usedAt": 1785841219318,
-    "usedAtIso": "2026-08-04T11:00:19.318Z"
+  "source:6e0379699d45692ebc868e1685e224c0bb65085e": {
+    "url": "https://visornoticias.com.br/irmaos-morrem-atropelados-por-carro-na-br-470-em-pouso-redondo",
+    "title": "Irmãos são atropelados enquanto atravessavam rodovia entre Pouso Redondo e Rio do Sul",
+    "guid": "scmulti:d06de11cedcbcb7f8b35108c4fa7415805317f11",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_d06de11cedcbcb7f8b35108c4fa7415805317f11/",
+    "usedAt": 1785844819887,
+    "usedAtIso": "2026-08-04T12:00:19.887Z"
   }
 }
