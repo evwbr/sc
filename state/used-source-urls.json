@@ -1,4 +1,12 @@
 {
+  "source:db04e88a497d3b2ada3e6217c3dec1ec350b485e": {
+    "url": "https://visornoticias.com.br/santa-catarina-tera-chuva-e-temporais-isolados-nesta-terca-feira",
+    "title": "Santa Catarina terá temperaturas amenas e possibilidade de chuva isolada principalmente na divisa com o Rio Grande do Sul",
+    "guid": "scmulti:9320e76cfa38bb8205f0d33aac6de839a8230e76",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_9320e76cfa38bb8205f0d33aac6de839a8230e76/",
+    "usedAt": 1785808819640,
+    "usedAtIso": "2026-08-04T02:00:19.640Z"
+  },
   "source:36c01c6f09ba429b4dbd714484682e547ece9de1": {
     "url": "https://visornoticias.com.br/praia-de-sc-preve-r-11-milhao-para-instalar-plataformas-flutuantes",
     "title": "Palhoça planeja instalar até cinco plataformas flutuantes para embarque e lazer nas praias",
@@ -6399,12 +6407,12 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:db04e88a497d3b2ada3e6217c3dec1ec350b485e": {
-    "url": "https://visornoticias.com.br/santa-catarina-tera-chuva-e-temporais-isolados-nesta-terca-feira",
-    "title": "Santa Catarina terá temperaturas amenas e possibilidade de chuva isolada principalmente na divisa com o Rio Grande do Sul",
-    "guid": "scmulti:9320e76cfa38bb8205f0d33aac6de839a8230e76",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_9320e76cfa38bb8205f0d33aac6de839a8230e76/",
-    "usedAt": 1785808819640,
-    "usedAtIso": "2026-08-04T02:00:19.640Z"
+  "source:7802b808fbc36871272986e4d404fc04ad1be5e4": {
+    "url": "https://visornoticias.com.br/chuva-intensa-vento-e-granizo-ameacam-todas-as-regioes-de-santa-catarina",
+    "title": "Santa Catarina enfrenta aumento de instabilidade com risco de temporais e granizo durante a semana",
+    "guid": "scmulti:06dc369946109303036a3d61e5f0e97fa552b5dd",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_06dc369946109303036a3d61e5f0e97fa552b5dd/",
+    "usedAt": 1785837619344,
+    "usedAtIso": "2026-08-04T10:00:19.344Z"
   }
 }
