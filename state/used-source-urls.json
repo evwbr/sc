@@ -1,4 +1,12 @@
 {
+  "source:bf64afbedf8755603838107174be6d3c0efb1a10": {
+    "url": "https://visornoticias.com.br/pavimentacao-da-nova-alca-de-acesso-a-br-101-entra-na-reta-final-em-itapema",
+    "title": "Itapema avança na conclusão de nova alça de acesso à BR-101 e melhorias urbanas",
+    "guid": "scmulti:8e8ccc3e28a6cdf225c6c31bfdda7b7341cfac89",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_8e8ccc3e28a6cdf225c6c31bfdda7b7341cfac89/",
+    "usedAt": 1785859219816,
+    "usedAtIso": "2026-08-04T16:00:19.816Z"
+  },
   "source:ee0c77b09a5253ba073d208c26352ab930292716": {
     "url": "https://visornoticias.com.br/itapema-inicia-campanha-para-atualizar-cadernetas-de-vacinacao-de-menores-de-15-anos",
     "title": "Itapema realiza campanha de multivacinação para crianças e adolescentes até 14 anos em agosto",
@@ -6487,12 +6495,20 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:bf64afbedf8755603838107174be6d3c0efb1a10": {
-    "url": "https://visornoticias.com.br/pavimentacao-da-nova-alca-de-acesso-a-br-101-entra-na-reta-final-em-itapema",
-    "title": "Itapema avança na conclusão de nova alça de acesso à BR-101 e melhorias urbanas",
-    "guid": "scmulti:8e8ccc3e28a6cdf225c6c31bfdda7b7341cfac89",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_8e8ccc3e28a6cdf225c6c31bfdda7b7341cfac89/",
-    "usedAt": 1785859219816,
-    "usedAtIso": "2026-08-04T16:00:19.816Z"
+  "source:95d50770477c02cb28f8846c4983c2b2801d6edd": {
+    "url": "https://visornoticias.com.br/mandados-em-sc-apuram-grupo-suspeito-de-planejar-ataque-durante-debate-presidencial",
+    "title": "Operação em cinco estados investiga grupo que planejava ataque com explosivos em debate presidencial",
+    "guid": "scmulti:7428057b992c7d4ddf19efeaeb832c982c02cf63",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_7428057b992c7d4ddf19efeaeb832c982c02cf63/",
+    "usedAt": 1785862821423,
+    "usedAtIso": "2026-08-04T17:00:21.423Z"
+  },
+  "source:5abed964d01ef0f57ec99eaf2192204ea9c08282": {
+    "url": "https://visornoticias.com.br/combate-dengue-itajai-metodo-wolbachia",
+    "title": "Itajaí inicia reconhecimento de campo para implantação do Método Wolbachia no combate à dengue",
+    "guid": "scmulti:f011c513078747addf00d759068860f3f618f290",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_f011c513078747addf00d759068860f3f618f290/",
+    "usedAt": 1785862821423,
+    "usedAtIso": "2026-08-04T17:00:21.423Z"
   }
 }
