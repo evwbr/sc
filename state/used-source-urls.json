@@ -1,4 +1,12 @@
 {
+  "source:36c01c6f09ba429b4dbd714484682e547ece9de1": {
+    "url": "https://visornoticias.com.br/praia-de-sc-preve-r-11-milhao-para-instalar-plataformas-flutuantes",
+    "title": "Palhoça planeja instalar até cinco plataformas flutuantes para embarque e lazer nas praias",
+    "guid": "scmulti:0700469b548f701cd8c702ce0bba05e0ee217a3c",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_0700469b548f701cd8c702ce0bba05e0ee217a3c/",
+    "usedAt": 1785801619728,
+    "usedAtIso": "2026-08-04T00:00:19.728Z"
+  },
   "source:396e03db1030952711772b77799da1499887d7be": {
     "url": "https://visornoticias.com.br/idosa-relata-24-horas-de-terror-apos-ser-sequestrada-por-don-juan-em-sc",
     "title": "Idosa é sequestrada em baile e abandonada em área de mata em Gaspar; suspeito é preso em Joinville",
@@ -6391,12 +6399,12 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:36c01c6f09ba429b4dbd714484682e547ece9de1": {
-    "url": "https://visornoticias.com.br/praia-de-sc-preve-r-11-milhao-para-instalar-plataformas-flutuantes",
-    "title": "Palhoça planeja instalar até cinco plataformas flutuantes para embarque e lazer nas praias",
-    "guid": "scmulti:0700469b548f701cd8c702ce0bba05e0ee217a3c",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_0700469b548f701cd8c702ce0bba05e0ee217a3c/",
-    "usedAt": 1785801619728,
-    "usedAtIso": "2026-08-04T00:00:19.728Z"
+  "source:db04e88a497d3b2ada3e6217c3dec1ec350b485e": {
+    "url": "https://visornoticias.com.br/santa-catarina-tera-chuva-e-temporais-isolados-nesta-terca-feira",
+    "title": "Santa Catarina terá temperaturas amenas e possibilidade de chuva isolada principalmente na divisa com o Rio Grande do Sul",
+    "guid": "scmulti:9320e76cfa38bb8205f0d33aac6de839a8230e76",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_9320e76cfa38bb8205f0d33aac6de839a8230e76/",
+    "usedAt": 1785808819640,
+    "usedAtIso": "2026-08-04T02:00:19.640Z"
   }
 }
