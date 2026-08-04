@@ -1,4 +1,12 @@
 {
+  "source:6ed75a886991df7f615a842beb771ac3ff5da31f": {
+    "url": "https://visornoticias.com.br/acidente-com-caminhao-deixa-casa-destruida-e-transito-interditado-na-br-101-em-sc",
+    "title": "Caminhão tomba e atinge residência na BR-101 em Santa Catarina, pista marginal é interditada",
+    "guid": "scmulti:562dd951c35169b3934c3db8c7414e937243cec6",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_562dd951c35169b3934c3db8c7414e937243cec6/",
+    "usedAt": 1785852020811,
+    "usedAtIso": "2026-08-04T14:00:20.811Z"
+  },
   "source:a43211519e17a4029e28a0ca927ad8c17a321876": {
     "url": "https://visornoticias.com.br/repavimentacao-em-itajai",
     "title": "Itajaí inicia repavimentação nas ruas José Lopes e José Rosa no bairro Cordeiros",
@@ -6471,12 +6479,12 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:6ed75a886991df7f615a842beb771ac3ff5da31f": {
-    "url": "https://visornoticias.com.br/acidente-com-caminhao-deixa-casa-destruida-e-transito-interditado-na-br-101-em-sc",
-    "title": "Caminhão tomba e atinge residência na BR-101 em Santa Catarina, pista marginal é interditada",
-    "guid": "scmulti:562dd951c35169b3934c3db8c7414e937243cec6",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_562dd951c35169b3934c3db8c7414e937243cec6/",
-    "usedAt": 1785852020811,
-    "usedAtIso": "2026-08-04T14:00:20.811Z"
+  "source:ee0c77b09a5253ba073d208c26352ab930292716": {
+    "url": "https://visornoticias.com.br/itapema-inicia-campanha-para-atualizar-cadernetas-de-vacinacao-de-menores-de-15-anos",
+    "title": "Itapema realiza campanha de multivacinação para crianças e adolescentes até 14 anos em agosto",
+    "guid": "scmulti:34e53e9f33b99e580e4b1383545737dd264c152e",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_34e53e9f33b99e580e4b1383545737dd264c152e/",
+    "usedAt": 1785855619988,
+    "usedAtIso": "2026-08-04T15:00:19.988Z"
   }
 }
