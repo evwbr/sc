@@ -1,4 +1,12 @@
 {
+  "source:2aeb34dfdf32f3431160b6d088c13f1918e7f2a6": {
+    "url": "https://cbntotal.com.br/cotidiano/defesa-civil-alerta-para-risco-de-temporais-e-estragos-em-florianopolis",
+    "title": "Defesa Civil alerta para temporais com raios, ventos fortes e granizo em Santa Catarina",
+    "guid": "scmulti:2ee20b8d629236eaf95174fa03f938f8110b7f6c",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_2ee20b8d629236eaf95174fa03f938f8110b7f6c/",
+    "usedAt": 1785942021325,
+    "usedAtIso": "2026-08-05T15:00:21.325Z"
+  },
   "source:567e48cd4630abf8cc1ac9f95cd3b7e8a4c50316": {
     "url": "https://visornoticias.com.br/operacao-descobre-desmanche-clandestino-com-veiculos-furtados-as-margens-da-br-470-em-sc",
     "title": "Polícia encontra desmanche com veículos e peças furtadas em Santa Catarina",
@@ -6655,12 +6663,20 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:2aeb34dfdf32f3431160b6d088c13f1918e7f2a6": {
-    "url": "https://cbntotal.com.br/cotidiano/defesa-civil-alerta-para-risco-de-temporais-e-estragos-em-florianopolis",
-    "title": "Defesa Civil alerta para temporais com raios, ventos fortes e granizo em Santa Catarina",
-    "guid": "scmulti:2ee20b8d629236eaf95174fa03f938f8110b7f6c",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_2ee20b8d629236eaf95174fa03f938f8110b7f6c/",
-    "usedAt": 1785942021325,
-    "usedAtIso": "2026-08-05T15:00:21.325Z"
+  "source:a4a58e12888b3089b4f35b1166a7e9991b679cad": {
+    "url": "https://visornoticias.com.br/lesao-irreversivel-na-medula-deve-deixar-motociclista-em-cadeira-de-rodas-apos-acidente-em-florianopolis",
+    "title": "Motociclista fica com lesão grave na medula após acidente na Beira-Mar Norte em Florianópolis",
+    "guid": "scmulti:c53d789e7df7d512e636f44a4156b931c6997ec8",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_c53d789e7df7d512e636f44a4156b931c6997ec8/",
+    "usedAt": 1785945619981,
+    "usedAtIso": "2026-08-05T16:00:19.981Z"
+  },
+  "source:7a6c1eee2bc84e240124d7053f6a835536999a11": {
+    "url": "https://visornoticias.com.br/veiculo-e-tomado-pelas-chamas-e-mobiliza-bombeiros-em-sc",
+    "title": "Bombeiros controlam incêndio em Santa Catarina e eliminam riscos no local",
+    "guid": "scmulti:e4a0e384b84e7376463d0c33a4bf7f4e4baa4086",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_e4a0e384b84e7376463d0c33a4bf7f4e4baa4086/",
+    "usedAt": 1785945619981,
+    "usedAtIso": "2026-08-05T16:00:19.981Z"
   }
 }
