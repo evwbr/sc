@@ -1,4 +1,12 @@
 {
+  "source:efed48f7bbb91253de99c630a4f3191575558abf": {
+    "url": "https://visornoticias.com.br/sc-tera-quarta-feira-de-chuva-e-temporais-isolados",
+    "title": "Santa Catarina enfrenta risco moderado de temporais com chuva e ventos isolados nesta quarta-feira",
+    "guid": "scmulti:0e8a5ad887e5233d6ba384ceaad921703fc197d4",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_0e8a5ad887e5233d6ba384ceaad921703fc197d4/",
+    "usedAt": 1785891619903,
+    "usedAtIso": "2026-08-05T01:00:19.903Z"
+  },
   "source:d3a7a8ef726b3ec331a552688f65516c7e4e67a0": {
     "url": "https://visornoticias.com.br/manutencao-gramado-lages",
     "title": "Iniciada manutenção do gramado do Estádio Municipal Vidal Ramos Júnior em Lages para calendário esportivo",
@@ -6567,12 +6575,12 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:efed48f7bbb91253de99c630a4f3191575558abf": {
-    "url": "https://visornoticias.com.br/sc-tera-quarta-feira-de-chuva-e-temporais-isolados",
-    "title": "Santa Catarina enfrenta risco moderado de temporais com chuva e ventos isolados nesta quarta-feira",
-    "guid": "scmulti:0e8a5ad887e5233d6ba384ceaad921703fc197d4",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_0e8a5ad887e5233d6ba384ceaad921703fc197d4/",
-    "usedAt": 1785891619903,
-    "usedAtIso": "2026-08-05T01:00:19.903Z"
+  "source:96d2a9fa957580cb78c718dfad737e1be8d93be9": {
+    "url": "https://visornoticias.com.br/havan-leva-mais-de-300-pessoas-para-voos-de-helicoptero-no-aniversario-de-brusque",
+    "title": "Empresa promove 60 passeios de helicóptero em Brusque para moradores e visitantes",
+    "guid": "scmulti:c8ddecbf62ae59126f360d1e3fc1591080cf7254",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_c8ddecbf62ae59126f360d1e3fc1591080cf7254/",
+    "usedAt": 1785906019675,
+    "usedAtIso": "2026-08-05T05:00:19.675Z"
   }
 }
