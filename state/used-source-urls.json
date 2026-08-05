@@ -1,4 +1,12 @@
 {
+  "source:567e48cd4630abf8cc1ac9f95cd3b7e8a4c50316": {
+    "url": "https://visornoticias.com.br/operacao-descobre-desmanche-clandestino-com-veiculos-furtados-as-margens-da-br-470-em-sc",
+    "title": "Polícia encontra desmanche com veículos e peças furtadas em Santa Catarina",
+    "guid": "scmulti:94ad3eb16d6a0cd222cba5228840395d4bf39390",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_94ad3eb16d6a0cd222cba5228840395d4bf39390/",
+    "usedAt": 1785938419600,
+    "usedAtIso": "2026-08-05T14:00:19.600Z"
+  },
   "source:aead6d809d0856bf225bbd0560c4c6b85d678fba": {
     "url": "https://visornoticias.com.br/motociclista-morre-apos-moto-ficar-presa-sob-onibus-em-cruzamento-movimentado-de-joinville",
     "title": "Motociclista morre após colisão com ônibus em cruzamento de Joinville",
@@ -6647,12 +6655,12 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:567e48cd4630abf8cc1ac9f95cd3b7e8a4c50316": {
-    "url": "https://visornoticias.com.br/operacao-descobre-desmanche-clandestino-com-veiculos-furtados-as-margens-da-br-470-em-sc",
-    "title": "Polícia encontra desmanche com veículos e peças furtadas em Santa Catarina",
-    "guid": "scmulti:94ad3eb16d6a0cd222cba5228840395d4bf39390",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_94ad3eb16d6a0cd222cba5228840395d4bf39390/",
-    "usedAt": 1785938419600,
-    "usedAtIso": "2026-08-05T14:00:19.600Z"
+  "source:2aeb34dfdf32f3431160b6d088c13f1918e7f2a6": {
+    "url": "https://cbntotal.com.br/cotidiano/defesa-civil-alerta-para-risco-de-temporais-e-estragos-em-florianopolis",
+    "title": "Defesa Civil alerta para temporais com raios, ventos fortes e granizo em Santa Catarina",
+    "guid": "scmulti:2ee20b8d629236eaf95174fa03f938f8110b7f6c",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_2ee20b8d629236eaf95174fa03f938f8110b7f6c/",
+    "usedAt": 1785942021325,
+    "usedAtIso": "2026-08-05T15:00:21.325Z"
   }
 }
