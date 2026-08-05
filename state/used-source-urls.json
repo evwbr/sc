@@ -1,4 +1,20 @@
 {
+  "source:a4a58e12888b3089b4f35b1166a7e9991b679cad": {
+    "url": "https://visornoticias.com.br/lesao-irreversivel-na-medula-deve-deixar-motociclista-em-cadeira-de-rodas-apos-acidente-em-florianopolis",
+    "title": "Motociclista fica com lesão grave na medula após acidente na Beira-Mar Norte em Florianópolis",
+    "guid": "scmulti:c53d789e7df7d512e636f44a4156b931c6997ec8",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_c53d789e7df7d512e636f44a4156b931c6997ec8/",
+    "usedAt": 1785945619981,
+    "usedAtIso": "2026-08-05T16:00:19.981Z"
+  },
+  "source:7a6c1eee2bc84e240124d7053f6a835536999a11": {
+    "url": "https://visornoticias.com.br/veiculo-e-tomado-pelas-chamas-e-mobiliza-bombeiros-em-sc",
+    "title": "Bombeiros controlam incêndio em Santa Catarina e eliminam riscos no local",
+    "guid": "scmulti:e4a0e384b84e7376463d0c33a4bf7f4e4baa4086",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_e4a0e384b84e7376463d0c33a4bf7f4e4baa4086/",
+    "usedAt": 1785945619981,
+    "usedAtIso": "2026-08-05T16:00:19.981Z"
+  },
   "source:2aeb34dfdf32f3431160b6d088c13f1918e7f2a6": {
     "url": "https://cbntotal.com.br/cotidiano/defesa-civil-alerta-para-risco-de-temporais-e-estragos-em-florianopolis",
     "title": "Defesa Civil alerta para temporais com raios, ventos fortes e granizo em Santa Catarina",
@@ -6663,20 +6679,28 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:a4a58e12888b3089b4f35b1166a7e9991b679cad": {
-    "url": "https://visornoticias.com.br/lesao-irreversivel-na-medula-deve-deixar-motociclista-em-cadeira-de-rodas-apos-acidente-em-florianopolis",
-    "title": "Motociclista fica com lesão grave na medula após acidente na Beira-Mar Norte em Florianópolis",
-    "guid": "scmulti:c53d789e7df7d512e636f44a4156b931c6997ec8",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_c53d789e7df7d512e636f44a4156b931c6997ec8/",
-    "usedAt": 1785945619981,
-    "usedAtIso": "2026-08-05T16:00:19.981Z"
+  "source:0be415f3a9108e3aa7fd0d2fa6c9c05f58377059": {
+    "url": "https://visornoticias.com.br/ciclone-bomba-ameaca-santa-catarina-com-chuva-intensa-e-rajadas-de-vento",
+    "title": "Ciclone bomba deve provocar temporais e ventos fortes no Oeste de Santa Catarina",
+    "guid": "scmulti:def0e0f442f6b344b4f6991e6a34ac6addf8113c",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_def0e0f442f6b344b4f6991e6a34ac6addf8113c/",
+    "usedAt": 1785952819489,
+    "usedAtIso": "2026-08-05T18:00:19.489Z"
   },
-  "source:7a6c1eee2bc84e240124d7053f6a835536999a11": {
-    "url": "https://visornoticias.com.br/veiculo-e-tomado-pelas-chamas-e-mobiliza-bombeiros-em-sc",
-    "title": "Bombeiros controlam incêndio em Santa Catarina e eliminam riscos no local",
-    "guid": "scmulti:e4a0e384b84e7376463d0c33a4bf7f4e4baa4086",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_e4a0e384b84e7376463d0c33a4bf7f4e4baa4086/",
-    "usedAt": 1785945619981,
-    "usedAtIso": "2026-08-05T16:00:19.981Z"
+  "source:3a4b2bf0df83dd857ab316973803923372c3a8e7": {
+    "url": "https://visornoticias.com.br/justica-condena-ex-vice-prefeito-por-encomendar-incendio-em-pavilhao-comunitario-em-sc",
+    "title": "Ex-vice-prefeito de Santa Catarina é condenado por encomendar incêndio em pavilhão comunitário",
+    "guid": "scmulti:0657e4c564b031a1ae669455f0f6b3dda00dd76d",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_0657e4c564b031a1ae669455f0f6b3dda00dd76d/",
+    "usedAt": 1785952819489,
+    "usedAtIso": "2026-08-05T18:00:19.489Z"
+  },
+  "source:0987516940f7cb7b12d296b0d362a4bd3ee62ed7": {
+    "url": "https://visornoticias.com.br/corpo-e-encontrado-apos-testemunha-notar-movimentacao-area-de-mata-em-itajai",
+    "title": "Homem é encontrado morto em área de mata após testemunha ouvir barulho em Santa Catarina",
+    "guid": "scmulti:c7549ce11e4b2a431a7c1ad77a94a932bfda3739",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_c7549ce11e4b2a431a7c1ad77a94a932bfda3739/",
+    "usedAt": 1785952819489,
+    "usedAtIso": "2026-08-05T18:00:19.489Z"
   }
 }
