@@ -1,4 +1,12 @@
 {
+  "source:fb056d2f26e16b608edaf5a5697493c26a75f515": {
+    "url": "https://visornoticias.com.br/5-oracoes-poderosas-para-o-dia-dos-pais",
+    "title": "Orações fortalecem laços de amor e espiritualidade no Dia dos Pais",
+    "guid": "scmulti:b9d9eb47d067c3874041c97bdf1c79310534b405",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_b9d9eb47d067c3874041c97bdf1c79310534b405/",
+    "usedAt": 1785913220396,
+    "usedAtIso": "2026-08-05T07:00:20.396Z"
+  },
   "source:96d2a9fa957580cb78c718dfad737e1be8d93be9": {
     "url": "https://visornoticias.com.br/havan-leva-mais-de-300-pessoas-para-voos-de-helicoptero-no-aniversario-de-brusque",
     "title": "Empresa promove 60 passeios de helicóptero em Brusque para moradores e visitantes",
@@ -6583,12 +6591,20 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:fb056d2f26e16b608edaf5a5697493c26a75f515": {
-    "url": "https://visornoticias.com.br/5-oracoes-poderosas-para-o-dia-dos-pais",
-    "title": "Orações fortalecem laços de amor e espiritualidade no Dia dos Pais",
-    "guid": "scmulti:b9d9eb47d067c3874041c97bdf1c79310534b405",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_b9d9eb47d067c3874041c97bdf1c79310534b405/",
-    "usedAt": 1785913220396,
-    "usedAtIso": "2026-08-05T07:00:20.396Z"
+  "source:af4cf9e5e3c9911e8ccd6f8bbc33c7f357375bdd": {
+    "url": "https://visornoticias.com.br/kitnet-usada-como-deposito-de-mais-de-8-quilos-de-drogas-e-descoberta-pela-pm-em-itajai",
+    "title": "Polícia apreende quase 7 quilos de drogas em kitnet usada para armazenamento em Santa Catarina",
+    "guid": "scmulti:fb45dec3ac9c715887028cabc3597154f4724ea1",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_fb45dec3ac9c715887028cabc3597154f4724ea1/",
+    "usedAt": 1785920421581,
+    "usedAtIso": "2026-08-05T09:00:21.581Z"
+  },
+  "source:28f07259d6fe7ec52f2a1854fe7dc8e256112f9c": {
+    "url": "https://visornoticias.com.br/caminhoneiro-fica-preso-as-ferragens-e-cabine-e-destruida-apos-acidente-entre-dois-caminhoes-na-br-101-em-sc",
+    "title": "Motorista fica preso na cabine de caminhão após colisão em rodovia de Garuva",
+    "guid": "scmulti:85a65e36d85691313ef94ec664d212b083a4ca65",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_85a65e36d85691313ef94ec664d212b083a4ca65/",
+    "usedAt": 1785920421581,
+    "usedAtIso": "2026-08-05T09:00:21.581Z"
   }
 }
