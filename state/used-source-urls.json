@@ -1,4 +1,44 @@
 {
+  "source:c1c6bdc03bf12e60c86e294ca91406a807b61cf0": {
+    "url": "https://visornoticias.com.br/obras-tubarao-avenida-getulio-vargas-aterro",
+    "title": "Obras na Avenida Getúlio Vargas em Tubarão reforçam margem do Rio Tubarão para conter erosão",
+    "guid": "scmulti:31e1a132c75c22d7849976bd561f444c9fb39a87",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_31e1a132c75c22d7849976bd561f444c9fb39a87/",
+    "usedAt": 1785960019903,
+    "usedAtIso": "2026-08-05T20:00:19.903Z"
+  },
+  "source:db32409e2d552495ea4f6dc202a56d460b7aa0f8": {
+    "url": "https://visornoticias.com.br/bocha-jasc-itajai-classifica-regional",
+    "title": "Equipe masculina de bocha de Itajaí conquista vice-campeonato na etapa microrregional dos JASC",
+    "guid": "scmulti:c5897beaa93dfe04e2556b57bef4688b39043025",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_c5897beaa93dfe04e2556b57bef4688b39043025/",
+    "usedAt": 1785960019903,
+    "usedAtIso": "2026-08-05T20:00:19.903Z"
+  },
+  "source:2a6430e02e9bec7734904b09ab8c070da17c835b": {
+    "url": "https://visornoticias.com.br/acoes-preventivas-el-nino-sao-jose",
+    "title": "AEMFLO e CDL São José passam a integrar plano municipal de contingência contra El Niño",
+    "guid": "scmulti:2463f14c234234068a0006e32905796782fbbe15",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_2463f14c234234068a0006e32905796782fbbe15/",
+    "usedAt": 1785960019903,
+    "usedAtIso": "2026-08-05T20:00:19.903Z"
+  },
+  "source:9f6b454ee5d9c410d5c92070825e76f9ca9ca0ee": {
+    "url": "https://visornoticias.com.br/lancamento-dardo-atleta-sao-jose-sul-americano",
+    "title": "Atleta de São José é convocada para representar o Brasil no lançamento de dardo nos Jogos Sul-Americanos de Atletismo 2026",
+    "guid": "scmulti:040697d76b3b919b82d027ed7a5f1282fbb19c2c",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_040697d76b3b919b82d027ed7a5f1282fbb19c2c/",
+    "usedAt": 1785960019903,
+    "usedAtIso": "2026-08-05T20:00:19.903Z"
+  },
+  "source:642d716e0db755d004add056a0485e503fbcca77": {
+    "url": "https://visornoticias.com.br/handebol-feminino-sao-jose",
+    "title": "Handebol feminino de São José estreia na etapa Regional Sul da Olesc em Araranguá",
+    "guid": "scmulti:d372c4337ea52cbff29632376b578fccd68bc04e",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_d372c4337ea52cbff29632376b578fccd68bc04e/",
+    "usedAt": 1785960019903,
+    "usedAtIso": "2026-08-05T20:00:19.903Z"
+  },
   "source:f9be0cb03e032305a9e43896f81a1ebff5112b03": {
     "url": "https://visornoticias.com.br/pm-descobre-desmanche-clandestino-com-carros-furtados-em-itapema-e-outras-cidades-do-litoral-norte",
     "title": "Polícia Militar descobre depósito de veículos furtados às margens da BR-470",
@@ -6719,44 +6759,28 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:c1c6bdc03bf12e60c86e294ca91406a807b61cf0": {
-    "url": "https://visornoticias.com.br/obras-tubarao-avenida-getulio-vargas-aterro",
-    "title": "Obras na Avenida Getúlio Vargas em Tubarão reforçam margem do Rio Tubarão para conter erosão",
-    "guid": "scmulti:31e1a132c75c22d7849976bd561f444c9fb39a87",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_31e1a132c75c22d7849976bd561f444c9fb39a87/",
-    "usedAt": 1785960019903,
-    "usedAtIso": "2026-08-05T20:00:19.903Z"
+  "source:f8ea95a1a1fa3a1ed9195dbf46333c9a07bcba7b": {
+    "url": "https://visornoticias.com.br/escola-olegario-vence-fase-municipal-do-futebol-escolar-em-itapema",
+    "title": "Escola Olegário vence decisão municipal e representa Itapema no Campeonato catarinense Escolar de Futebol",
+    "guid": "scmulti:14dd10ba4e7bbd7d4b983324725f37e49695d1b3",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_14dd10ba4e7bbd7d4b983324725f37e49695d1b3/",
+    "usedAt": 1785963619440,
+    "usedAtIso": "2026-08-05T21:00:19.440Z"
   },
-  "source:db32409e2d552495ea4f6dc202a56d460b7aa0f8": {
-    "url": "https://visornoticias.com.br/bocha-jasc-itajai-classifica-regional",
-    "title": "Equipe masculina de bocha de Itajaí conquista vice-campeonato na etapa microrregional dos JASC",
-    "guid": "scmulti:c5897beaa93dfe04e2556b57bef4688b39043025",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_c5897beaa93dfe04e2556b57bef4688b39043025/",
-    "usedAt": 1785960019903,
-    "usedAtIso": "2026-08-05T20:00:19.903Z"
+  "source:f3b3e22d20d9a510b3f05e76e810044072af5164": {
+    "url": "https://visornoticias.com.br/acidente-provoca-derramamento-de-oleo-e-fecha-rodovia-em-serra-catarinense",
+    "title": "Acidente na Santa Catarina-114 provoca derramamento de óleo e interdita rodovia em Mirante dos Pinheiros",
+    "guid": "scmulti:ff16be887c36d7f1ebd1c3a587f08f73b952bd56",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_ff16be887c36d7f1ebd1c3a587f08f73b952bd56/",
+    "usedAt": 1785963619440,
+    "usedAtIso": "2026-08-05T21:00:19.440Z"
   },
-  "source:2a6430e02e9bec7734904b09ab8c070da17c835b": {
-    "url": "https://visornoticias.com.br/acoes-preventivas-el-nino-sao-jose",
-    "title": "AEMFLO e CDL São José passam a integrar plano municipal de contingência contra El Niño",
-    "guid": "scmulti:2463f14c234234068a0006e32905796782fbbe15",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_2463f14c234234068a0006e32905796782fbbe15/",
-    "usedAt": 1785960019903,
-    "usedAtIso": "2026-08-05T20:00:19.903Z"
-  },
-  "source:9f6b454ee5d9c410d5c92070825e76f9ca9ca0ee": {
-    "url": "https://visornoticias.com.br/lancamento-dardo-atleta-sao-jose-sul-americano",
-    "title": "Atleta de São José é convocada para representar o Brasil no lançamento de dardo nos Jogos Sul-Americanos de Atletismo 2026",
-    "guid": "scmulti:040697d76b3b919b82d027ed7a5f1282fbb19c2c",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_040697d76b3b919b82d027ed7a5f1282fbb19c2c/",
-    "usedAt": 1785960019903,
-    "usedAtIso": "2026-08-05T20:00:19.903Z"
-  },
-  "source:642d716e0db755d004add056a0485e503fbcca77": {
-    "url": "https://visornoticias.com.br/handebol-feminino-sao-jose",
-    "title": "Handebol feminino de São José estreia na etapa Regional Sul da Olesc em Araranguá",
-    "guid": "scmulti:d372c4337ea52cbff29632376b578fccd68bc04e",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_d372c4337ea52cbff29632376b578fccd68bc04e/",
-    "usedAt": 1785960019903,
-    "usedAtIso": "2026-08-05T20:00:19.903Z"
+  "source:f35c0312c916a0bf639b047ea2aaf7369fa39327": {
+    "url": "https://visornoticias.com.br/esquema-falsificava-documentos-para-legalizar-animais-silvestres-em-sc",
+    "title": "Polícia Civil realiza operação contra tráfico de aves em Joinville e prende quatro pessoas",
+    "guid": "scmulti:7946c69267409e81839afc91c0c90d19bc18cacc",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_7946c69267409e81839afc91c0c90d19bc18cacc/",
+    "usedAt": 1785963619440,
+    "usedAtIso": "2026-08-05T21:00:19.440Z"
   }
 }
