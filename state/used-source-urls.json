@@ -1,4 +1,12 @@
 {
+  "source:d3a7a8ef726b3ec331a552688f65516c7e4e67a0": {
+    "url": "https://visornoticias.com.br/manutencao-gramado-lages",
+    "title": "Iniciada manutenção do gramado do Estádio Municipal Vidal Ramos Júnior em Lages para calendário esportivo",
+    "guid": "scmulti:4a91edf91b830a4f250c73ffd10e25526a11f68b",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_4a91edf91b830a4f250c73ffd10e25526a11f68b/",
+    "usedAt": 1785888019515,
+    "usedAtIso": "2026-08-05T00:00:19.515Z"
+  },
   "source:6d487d883e8816d3b8b86589af2e2bf6f5896693": {
     "url": "https://visornoticias.com.br/retirada-de-fios-2",
     "title": "Itajaí avança na remoção de fios inoperantes para melhorar a paisagem urbana",
@@ -6559,12 +6567,12 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:d3a7a8ef726b3ec331a552688f65516c7e4e67a0": {
-    "url": "https://visornoticias.com.br/manutencao-gramado-lages",
-    "title": "Iniciada manutenção do gramado do Estádio Municipal Vidal Ramos Júnior em Lages para calendário esportivo",
-    "guid": "scmulti:4a91edf91b830a4f250c73ffd10e25526a11f68b",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_4a91edf91b830a4f250c73ffd10e25526a11f68b/",
-    "usedAt": 1785888019515,
-    "usedAtIso": "2026-08-05T00:00:19.515Z"
+  "source:efed48f7bbb91253de99c630a4f3191575558abf": {
+    "url": "https://visornoticias.com.br/sc-tera-quarta-feira-de-chuva-e-temporais-isolados",
+    "title": "Santa Catarina enfrenta risco moderado de temporais com chuva e ventos isolados nesta quarta-feira",
+    "guid": "scmulti:0e8a5ad887e5233d6ba384ceaad921703fc197d4",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_0e8a5ad887e5233d6ba384ceaad921703fc197d4/",
+    "usedAt": 1785891619903,
+    "usedAtIso": "2026-08-05T01:00:19.903Z"
   }
 }
