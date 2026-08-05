@@ -1,4 +1,12 @@
 {
+  "source:ea8d7aeec15afe0d8e4900591ef9229c40497a49": {
+    "url": "https://visornoticias.com.br/ex-vice-prefeito-e-condenado-por-mandar-incendiar-pavilhao-comunitario-em-sc",
+    "title": "Ex-vice-prefeito de município catarinense é condenado por incêndio em pavilhão comunitário",
+    "guid": "scmulti:99832746212687edb63f0db04e2ade3f9d4eca4f",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_99832746212687edb63f0db04e2ade3f9d4eca4f/",
+    "usedAt": 1785931220153,
+    "usedAtIso": "2026-08-05T12:00:20.153Z"
+  },
   "source:92de1c55af7de41a7af75db912ca5aa5695d445f": {
     "url": "https://visornoticias.com.br/viagem-entre-rio-e-itapema-vira-caso-judicial-apos-passageira-deixar-pagamento-de-r-47-mil-para-a-proxima-corrida",
     "title": "Motorista de aplicativo tem cadastro desativado após corrida em Itapema e perde recurso no TJSC",
@@ -6623,12 +6631,20 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:ea8d7aeec15afe0d8e4900591ef9229c40497a49": {
-    "url": "https://visornoticias.com.br/ex-vice-prefeito-e-condenado-por-mandar-incendiar-pavilhao-comunitario-em-sc",
-    "title": "Ex-vice-prefeito de município catarinense é condenado por incêndio em pavilhão comunitário",
-    "guid": "scmulti:99832746212687edb63f0db04e2ade3f9d4eca4f",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_99832746212687edb63f0db04e2ade3f9d4eca4f/",
-    "usedAt": 1785931220153,
-    "usedAtIso": "2026-08-05T12:00:20.153Z"
+  "source:aead6d809d0856bf225bbd0560c4c6b85d678fba": {
+    "url": "https://visornoticias.com.br/motociclista-morre-apos-moto-ficar-presa-sob-onibus-em-cruzamento-movimentado-de-joinville",
+    "title": "Motociclista morre após colisão com ônibus em cruzamento de Joinville",
+    "guid": "scmulti:ab843741488e4991eaba48a36a3a27ea4a0647f6",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_ab843741488e4991eaba48a36a3a27ea4a0647f6/",
+    "usedAt": 1785934819695,
+    "usedAtIso": "2026-08-05T13:00:19.695Z"
+  },
+  "source:35cc669b4f7622e626339979392d7dfe311d3695": {
+    "url": "https://cbntotal.com.br/cotidiano/nova-regra-de-transito-sera-instalada-em-bairro-universitario-de-florianopolis",
+    "title": "Prefeitura implanta botoeira para melhorar segurança no semáforo da entrada leste da UFSC",
+    "guid": "scmulti:d3e754c96bfb68a31b7a8a57e677aa9baeb245c6",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_d3e754c96bfb68a31b7a8a57e677aa9baeb245c6/",
+    "usedAt": 1785934819695,
+    "usedAtIso": "2026-08-05T13:00:19.695Z"
   }
 }
