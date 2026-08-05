@@ -1,4 +1,28 @@
 {
+  "source:f8ea95a1a1fa3a1ed9195dbf46333c9a07bcba7b": {
+    "url": "https://visornoticias.com.br/escola-olegario-vence-fase-municipal-do-futebol-escolar-em-itapema",
+    "title": "Escola Olegário vence decisão municipal e representa Itapema no Campeonato catarinense Escolar de Futebol",
+    "guid": "scmulti:14dd10ba4e7bbd7d4b983324725f37e49695d1b3",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_14dd10ba4e7bbd7d4b983324725f37e49695d1b3/",
+    "usedAt": 1785963619440,
+    "usedAtIso": "2026-08-05T21:00:19.440Z"
+  },
+  "source:f3b3e22d20d9a510b3f05e76e810044072af5164": {
+    "url": "https://visornoticias.com.br/acidente-provoca-derramamento-de-oleo-e-fecha-rodovia-em-serra-catarinense",
+    "title": "Acidente na Santa Catarina-114 provoca derramamento de óleo e interdita rodovia em Mirante dos Pinheiros",
+    "guid": "scmulti:ff16be887c36d7f1ebd1c3a587f08f73b952bd56",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_ff16be887c36d7f1ebd1c3a587f08f73b952bd56/",
+    "usedAt": 1785963619440,
+    "usedAtIso": "2026-08-05T21:00:19.440Z"
+  },
+  "source:f35c0312c916a0bf639b047ea2aaf7369fa39327": {
+    "url": "https://visornoticias.com.br/esquema-falsificava-documentos-para-legalizar-animais-silvestres-em-sc",
+    "title": "Polícia Civil realiza operação contra tráfico de aves em Joinville e prende quatro pessoas",
+    "guid": "scmulti:7946c69267409e81839afc91c0c90d19bc18cacc",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_7946c69267409e81839afc91c0c90d19bc18cacc/",
+    "usedAt": 1785963619440,
+    "usedAtIso": "2026-08-05T21:00:19.440Z"
+  },
   "source:c1c6bdc03bf12e60c86e294ca91406a807b61cf0": {
     "url": "https://visornoticias.com.br/obras-tubarao-avenida-getulio-vargas-aterro",
     "title": "Obras na Avenida Getúlio Vargas em Tubarão reforçam margem do Rio Tubarão para conter erosão",
@@ -6759,28 +6783,12 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:f8ea95a1a1fa3a1ed9195dbf46333c9a07bcba7b": {
-    "url": "https://visornoticias.com.br/escola-olegario-vence-fase-municipal-do-futebol-escolar-em-itapema",
-    "title": "Escola Olegário vence decisão municipal e representa Itapema no Campeonato catarinense Escolar de Futebol",
-    "guid": "scmulti:14dd10ba4e7bbd7d4b983324725f37e49695d1b3",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_14dd10ba4e7bbd7d4b983324725f37e49695d1b3/",
-    "usedAt": 1785963619440,
-    "usedAtIso": "2026-08-05T21:00:19.440Z"
-  },
-  "source:f3b3e22d20d9a510b3f05e76e810044072af5164": {
-    "url": "https://visornoticias.com.br/acidente-provoca-derramamento-de-oleo-e-fecha-rodovia-em-serra-catarinense",
-    "title": "Acidente na Santa Catarina-114 provoca derramamento de óleo e interdita rodovia em Mirante dos Pinheiros",
-    "guid": "scmulti:ff16be887c36d7f1ebd1c3a587f08f73b952bd56",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_ff16be887c36d7f1ebd1c3a587f08f73b952bd56/",
-    "usedAt": 1785963619440,
-    "usedAtIso": "2026-08-05T21:00:19.440Z"
-  },
-  "source:f35c0312c916a0bf639b047ea2aaf7369fa39327": {
-    "url": "https://visornoticias.com.br/esquema-falsificava-documentos-para-legalizar-animais-silvestres-em-sc",
-    "title": "Polícia Civil realiza operação contra tráfico de aves em Joinville e prende quatro pessoas",
-    "guid": "scmulti:7946c69267409e81839afc91c0c90d19bc18cacc",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_7946c69267409e81839afc91c0c90d19bc18cacc/",
-    "usedAt": 1785963619440,
-    "usedAtIso": "2026-08-05T21:00:19.440Z"
+  "source:6b19d2954a0d7af5245a6eb9f00fa5143189a592": {
+    "url": "https://visornoticias.com.br/entenda-o-que-e-o-ciclone-bomba-que-pode-provocar-temporais-e-ventos-fortes-no-sul-do-brasil",
+    "title": "Ciclone bomba deve provocar tempestades e ventos fortes no litoral de Santa Catarina",
+    "guid": "scmulti:0e42a5146e0b3d2b87e799e60df0d59a29251e5c",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_0e42a5146e0b3d2b87e799e60df0d59a29251e5c/",
+    "usedAt": 1785970819658,
+    "usedAtIso": "2026-08-05T23:00:19.658Z"
   }
 }
