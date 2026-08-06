@@ -1,4 +1,12 @@
 {
+  "source:5ae5c1d12a5c6f5178268aa743cb6c98f80a40c2": {
+    "url": "https://visornoticias.com.br/curso-hospitalidade-balneario-camboriu",
+    "title": "Balneário Camboriú abre inscrições para curso gratuito de hospitalidade com 2 mil vagas",
+    "guid": "scmulti:4d5bf44f25400d29184e76324f1fe4a35988d0e3",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_4d5bf44f25400d29184e76324f1fe4a35988d0e3/",
+    "usedAt": 1786024820081,
+    "usedAtIso": "2026-08-06T14:00:20.081Z"
+  },
   "source:e49070d5f53a9e4a22c5203d7a00a0a5214efc5f": {
     "url": "https://visornoticias.com.br/bombeiros-retiram-carro-encontrado-a-15-metro-de-profundidade-em-lagoa-de-florianopolis",
     "title": "Carro é retirado da Lagoa da Conceição em Florianópolis sem ocupantes no veículo",
@@ -6895,12 +6903,20 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:5ae5c1d12a5c6f5178268aa743cb6c98f80a40c2": {
-    "url": "https://visornoticias.com.br/curso-hospitalidade-balneario-camboriu",
-    "title": "Balneário Camboriú abre inscrições para curso gratuito de hospitalidade com 2 mil vagas",
-    "guid": "scmulti:4d5bf44f25400d29184e76324f1fe4a35988d0e3",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_4d5bf44f25400d29184e76324f1fe4a35988d0e3/",
-    "usedAt": 1786024820081,
-    "usedAtIso": "2026-08-06T14:00:20.081Z"
+  "source:91ddd2cbe53c7bf921aefd439800f7b92c52dbdd": {
+    "url": "https://cbntotal.com.br/cotidiano/carro-vai-parar-dentro-da-lagoa-da-conceicao-e-operacao-de-retirada-mobiliza-bombeiros",
+    "title": "Carro é resgatado de lagoa em Florianópolis sem ocupantes",
+    "guid": "scmulti:21c4340a4eb2cd3a25ecb0f388130636158b39f7",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_21c4340a4eb2cd3a25ecb0f388130636158b39f7/",
+    "usedAt": 1786028420143,
+    "usedAtIso": "2026-08-06T15:00:20.143Z"
+  },
+  "source:5b1915586303f590bcf68ba8615f158290c46950": {
+    "url": "https://visornoticias.com.br/campeonato-jiu-jitsu-2",
+    "title": "Tubarão se prepara para sediar etapa do AJP Tour 600 de jiu-jitsu em agosto de 2026",
+    "guid": "scmulti:41eee2886c4c99ac33b6a6765d735a204063fd59",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_41eee2886c4c99ac33b6a6765d735a204063fd59/",
+    "usedAt": 1786028420143,
+    "usedAtIso": "2026-08-06T15:00:20.143Z"
   }
 }
