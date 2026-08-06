@@ -1,4 +1,20 @@
 {
+  "source:3167474ad116a25c3c4dd9f91dea3276613f42d4": {
+    "url": "https://visornoticias.com.br/carga-fica-espalhada-apos-caminhao-tombar-e-bloqueia-totalmente-a-br-101-norte-em-sc",
+    "title": "Rodovia bloqueada em Santa Catarina desvia trânsito para via marginal e causa orientações da PRF",
+    "guid": "scmulti:8faad1e7d4e0b664dcb1efe40b8acd2ebfdcf8ea",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_8faad1e7d4e0b664dcb1efe40b8acd2ebfdcf8ea/",
+    "usedAt": 1786010419404,
+    "usedAtIso": "2026-08-06T10:00:19.404Z"
+  },
+  "source:20bd0a38f1ca2d64c5bb6d723cfc106bc4477bcf": {
+    "url": "https://visornoticias.com.br/rajadas-de-ate-70-km-h-e-granizo-marcam-avanco-de-frente-fria-em-santa-catarina",
+    "title": "Santa Catarina enfrenta temporais com raios, ventos fortes e granizo a partir da tarde",
+    "guid": "scmulti:d309e05a690c4cd9629ae2e4f31733aea9556fdc",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_d309e05a690c4cd9629ae2e4f31733aea9556fdc/",
+    "usedAt": 1786010419404,
+    "usedAtIso": "2026-08-06T10:00:19.404Z"
+  },
   "source:f55d3bf49903ce20e9d9cd7c60b2d8cf06cfddf6": {
     "url": "https://visornoticias.com.br/pedidos-de-socorro-levam-pm-a-residencia-com-grande-quantidade-de-maconha-lanca-perfume-e-municoes-em-itajai",
     "title": "Polícia apreende munições e atende caso de violência doméstica em Itajaí",
@@ -6855,20 +6871,12 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:3167474ad116a25c3c4dd9f91dea3276613f42d4": {
-    "url": "https://visornoticias.com.br/carga-fica-espalhada-apos-caminhao-tombar-e-bloqueia-totalmente-a-br-101-norte-em-sc",
-    "title": "Rodovia bloqueada em Santa Catarina desvia trânsito para via marginal e causa orientações da PRF",
-    "guid": "scmulti:8faad1e7d4e0b664dcb1efe40b8acd2ebfdcf8ea",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_8faad1e7d4e0b664dcb1efe40b8acd2ebfdcf8ea/",
-    "usedAt": 1786010419404,
-    "usedAtIso": "2026-08-06T10:00:19.404Z"
-  },
-  "source:20bd0a38f1ca2d64c5bb6d723cfc106bc4477bcf": {
-    "url": "https://visornoticias.com.br/rajadas-de-ate-70-km-h-e-granizo-marcam-avanco-de-frente-fria-em-santa-catarina",
-    "title": "Santa Catarina enfrenta temporais com raios, ventos fortes e granizo a partir da tarde",
-    "guid": "scmulti:d309e05a690c4cd9629ae2e4f31733aea9556fdc",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_d309e05a690c4cd9629ae2e4f31733aea9556fdc/",
-    "usedAt": 1786010419404,
-    "usedAtIso": "2026-08-06T10:00:19.404Z"
+  "source:87039504c4f6fd5a3daa48e8668e9b34c7894a6e": {
+    "url": "https://visornoticias.com.br/acidente-com-dois-caminhoes-que-bloqueou-totalmente-a-br-101-norte-matou-motorista-preso-as-ferragens-em-sc",
+    "title": "Acidente entre caminhões bloqueia BR-101 Norte em Araquari e deixa um motorista morto",
+    "guid": "scmulti:f3a6603a554ae0890c9ebfb33e18218dab812868",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_f3a6603a554ae0890c9ebfb33e18218dab812868/",
+    "usedAt": 1786014019362,
+    "usedAtIso": "2026-08-06T11:00:19.362Z"
   }
 }
