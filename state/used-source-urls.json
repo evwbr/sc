@@ -1,4 +1,12 @@
 {
+  "source:069ab56d296f266abe755a1dcc5753f5d3e51b13": {
+    "url": "https://visornoticias.com.br/alerta-chuva-brusque",
+    "title": "Defesa Civil alerta para chuva intensa e rajadas de vento em Brusque e Vale do Itajaí",
+    "guid": "scmulti:1fa83bbefee975534a4468a7b15b430c68ebdcd7",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_1fa83bbefee975534a4468a7b15b430c68ebdcd7/",
+    "usedAt": 1786032019564,
+    "usedAtIso": "2026-08-06T16:00:19.564Z"
+  },
   "source:91ddd2cbe53c7bf921aefd439800f7b92c52dbdd": {
     "url": "https://cbntotal.com.br/cotidiano/carro-vai-parar-dentro-da-lagoa-da-conceicao-e-operacao-de-retirada-mobiliza-bombeiros",
     "title": "Carro é resgatado de lagoa em Florianópolis sem ocupantes",
@@ -6919,12 +6927,20 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:069ab56d296f266abe755a1dcc5753f5d3e51b13": {
-    "url": "https://visornoticias.com.br/alerta-chuva-brusque",
-    "title": "Defesa Civil alerta para chuva intensa e rajadas de vento em Brusque e Vale do Itajaí",
-    "guid": "scmulti:1fa83bbefee975534a4468a7b15b430c68ebdcd7",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_1fa83bbefee975534a4468a7b15b430c68ebdcd7/",
-    "usedAt": 1786032019564,
-    "usedAtIso": "2026-08-06T16:00:19.564Z"
+  "source:31b4146de514d2e2a23f8afafa2bdb57bc9bf71f": {
+    "url": "https://visornoticias.com.br/homem-ateia-fogo-em-casa-confessa-crime-pelo-190-e-espera-pela-pm-em-sc",
+    "title": "Homem confessa incêndio em residência no bairro Encano Baixo, em Indaial",
+    "guid": "scmulti:923670d8b0f51c3617337a634451fb1b7edbb58c",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_923670d8b0f51c3617337a634451fb1b7edbb58c/",
+    "usedAt": 1786035619487,
+    "usedAtIso": "2026-08-06T17:00:19.487Z"
+  },
+  "source:583c03e03d87101ea2b18d7854916e6e89791753": {
+    "url": "https://visornoticias.com.br/identificado-motociclista-de-29-anos-que-morreu-em-acidente-enquanto-seguia-para-o-trabalho-em-sc",
+    "title": "Motociclista morre em acidente entre Sombrio e Jacinto Machado",
+    "guid": "scmulti:bf5c08d0bfe935f54b68bfb35a62dde8440653da",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_bf5c08d0bfe935f54b68bfb35a62dde8440653da/",
+    "usedAt": 1786035619487,
+    "usedAtIso": "2026-08-06T17:00:19.487Z"
   }
 }
