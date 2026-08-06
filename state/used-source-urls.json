@@ -1,4 +1,20 @@
 {
+  "source:e49070d5f53a9e4a22c5203d7a00a0a5214efc5f": {
+    "url": "https://visornoticias.com.br/bombeiros-retiram-carro-encontrado-a-15-metro-de-profundidade-em-lagoa-de-florianopolis",
+    "title": "Carro é retirado da Lagoa da Conceição em Florianópolis sem ocupantes no veículo",
+    "guid": "scmulti:54c660bb588e8c1f3b96937daaa8a16fd00665da",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_54c660bb588e8c1f3b96937daaa8a16fd00665da/",
+    "usedAt": 1786021219247,
+    "usedAtIso": "2026-08-06T13:00:19.247Z"
+  },
+  "source:bec91bcca4b382505371592646344de8bc27e6ef": {
+    "url": "https://visornoticias.com.br/suspeito-quebra-o-proprio-celular-para-esconder-provas-e-acaba-preso-com-mais-de-5-kg-de-maconha-em-bc",
+    "title": "Homem é preso em flagrante com mais de 5 quilos de maconha em Balneário Camboriú",
+    "guid": "scmulti:a14518fbfd8a79907ecb513ab50262752ba70ada",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_a14518fbfd8a79907ecb513ab50262752ba70ada/",
+    "usedAt": 1786021219247,
+    "usedAtIso": "2026-08-06T13:00:19.247Z"
+  },
   "source:87039504c4f6fd5a3daa48e8668e9b34c7894a6e": {
     "url": "https://visornoticias.com.br/acidente-com-dois-caminhoes-que-bloqueou-totalmente-a-br-101-norte-matou-motorista-preso-as-ferragens-em-sc",
     "title": "Acidente entre caminhões bloqueia BR-101 Norte em Araquari e deixa um motorista morto",
@@ -6879,20 +6895,12 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:e49070d5f53a9e4a22c5203d7a00a0a5214efc5f": {
-    "url": "https://visornoticias.com.br/bombeiros-retiram-carro-encontrado-a-15-metro-de-profundidade-em-lagoa-de-florianopolis",
-    "title": "Carro é retirado da Lagoa da Conceição em Florianópolis sem ocupantes no veículo",
-    "guid": "scmulti:54c660bb588e8c1f3b96937daaa8a16fd00665da",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_54c660bb588e8c1f3b96937daaa8a16fd00665da/",
-    "usedAt": 1786021219247,
-    "usedAtIso": "2026-08-06T13:00:19.247Z"
-  },
-  "source:bec91bcca4b382505371592646344de8bc27e6ef": {
-    "url": "https://visornoticias.com.br/suspeito-quebra-o-proprio-celular-para-esconder-provas-e-acaba-preso-com-mais-de-5-kg-de-maconha-em-bc",
-    "title": "Homem é preso em flagrante com mais de 5 quilos de maconha em Balneário Camboriú",
-    "guid": "scmulti:a14518fbfd8a79907ecb513ab50262752ba70ada",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_a14518fbfd8a79907ecb513ab50262752ba70ada/",
-    "usedAt": 1786021219247,
-    "usedAtIso": "2026-08-06T13:00:19.247Z"
+  "source:5ae5c1d12a5c6f5178268aa743cb6c98f80a40c2": {
+    "url": "https://visornoticias.com.br/curso-hospitalidade-balneario-camboriu",
+    "title": "Balneário Camboriú abre inscrições para curso gratuito de hospitalidade com 2 mil vagas",
+    "guid": "scmulti:4d5bf44f25400d29184e76324f1fe4a35988d0e3",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_4d5bf44f25400d29184e76324f1fe4a35988d0e3/",
+    "usedAt": 1786024820081,
+    "usedAtIso": "2026-08-06T14:00:20.081Z"
   }
 }
