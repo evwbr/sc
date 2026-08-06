@@ -1,4 +1,12 @@
 {
+  "source:860fd418bc02773136e3de0f21824bb99add4e9b": {
+    "url": "https://visornoticias.com.br/temporais-ganham-forca-e-colocam-santa-catarina-em-alerta-nesta-quinta-feira",
+    "title": "Frente fria provoca temporais com risco moderado a alto em Santa Catarina",
+    "guid": "scmulti:1c4f3feb1a4deaa768cc0137ff041c696d239a71",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_1c4f3feb1a4deaa768cc0137ff041c696d239a71/",
+    "usedAt": 1785978019507,
+    "usedAtIso": "2026-08-06T01:00:19.507Z"
+  },
   "source:6cd3629e3c042bcfc54c3266c15ef04b0ae59e2f": {
     "url": "https://visornoticias.com.br/homem-invade-posto-de-saude-agride-vitima-e-faz-ameaca-com-faca-em-sc",
     "title": "Homem agride vítima dentro de posto de saúde em Mafra e foge antes da chegada da polícia",
@@ -6831,12 +6839,12 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:860fd418bc02773136e3de0f21824bb99add4e9b": {
-    "url": "https://visornoticias.com.br/temporais-ganham-forca-e-colocam-santa-catarina-em-alerta-nesta-quinta-feira",
-    "title": "Frente fria provoca temporais com risco moderado a alto em Santa Catarina",
-    "guid": "scmulti:1c4f3feb1a4deaa768cc0137ff041c696d239a71",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_1c4f3feb1a4deaa768cc0137ff041c696d239a71/",
-    "usedAt": 1785978019507,
-    "usedAtIso": "2026-08-06T01:00:19.507Z"
+  "source:31f13e6b9838663e21422d5d1a85373b27f70c7d": {
+    "url": "https://visornoticias.com.br/multivacinacao-em-tubarao",
+    "title": "Tubarão realiza campanha de multivacinação para crianças e adolescentes até 1º de setembro",
+    "guid": "scmulti:253149be42a8fb79f03bd19b45868ce95e5466df",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_253149be42a8fb79f03bd19b45868ce95e5466df/",
+    "usedAt": 1785988820438,
+    "usedAtIso": "2026-08-06T04:00:20.438Z"
   }
 }
