@@ -1,4 +1,12 @@
 {
+  "source:f55d3bf49903ce20e9d9cd7c60b2d8cf06cfddf6": {
+    "url": "https://visornoticias.com.br/pedidos-de-socorro-levam-pm-a-residencia-com-grande-quantidade-de-maconha-lanca-perfume-e-municoes-em-itajai",
+    "title": "Polícia apreende munições e atende caso de violência doméstica em Itajaí",
+    "guid": "scmulti:a99411fa10d7f1fbea10f6d5767b59cdd26756c0",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_a99411fa10d7f1fbea10f6d5767b59cdd26756c0/",
+    "usedAt": 1786006819743,
+    "usedAtIso": "2026-08-06T09:00:19.743Z"
+  },
   "source:31f13e6b9838663e21422d5d1a85373b27f70c7d": {
     "url": "https://visornoticias.com.br/multivacinacao-em-tubarao",
     "title": "Tubarão realiza campanha de multivacinação para crianças e adolescentes até 1º de setembro",
@@ -6847,12 +6855,20 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:f55d3bf49903ce20e9d9cd7c60b2d8cf06cfddf6": {
-    "url": "https://visornoticias.com.br/pedidos-de-socorro-levam-pm-a-residencia-com-grande-quantidade-de-maconha-lanca-perfume-e-municoes-em-itajai",
-    "title": "Polícia apreende munições e atende caso de violência doméstica em Itajaí",
-    "guid": "scmulti:a99411fa10d7f1fbea10f6d5767b59cdd26756c0",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_a99411fa10d7f1fbea10f6d5767b59cdd26756c0/",
-    "usedAt": 1786006819743,
-    "usedAtIso": "2026-08-06T09:00:19.743Z"
+  "source:3167474ad116a25c3c4dd9f91dea3276613f42d4": {
+    "url": "https://visornoticias.com.br/carga-fica-espalhada-apos-caminhao-tombar-e-bloqueia-totalmente-a-br-101-norte-em-sc",
+    "title": "Rodovia bloqueada em Santa Catarina desvia trânsito para via marginal e causa orientações da PRF",
+    "guid": "scmulti:8faad1e7d4e0b664dcb1efe40b8acd2ebfdcf8ea",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_8faad1e7d4e0b664dcb1efe40b8acd2ebfdcf8ea/",
+    "usedAt": 1786010419404,
+    "usedAtIso": "2026-08-06T10:00:19.404Z"
+  },
+  "source:20bd0a38f1ca2d64c5bb6d723cfc106bc4477bcf": {
+    "url": "https://visornoticias.com.br/rajadas-de-ate-70-km-h-e-granizo-marcam-avanco-de-frente-fria-em-santa-catarina",
+    "title": "Santa Catarina enfrenta temporais com raios, ventos fortes e granizo a partir da tarde",
+    "guid": "scmulti:d309e05a690c4cd9629ae2e4f31733aea9556fdc",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_d309e05a690c4cd9629ae2e4f31733aea9556fdc/",
+    "usedAt": 1786010419404,
+    "usedAtIso": "2026-08-06T10:00:19.404Z"
   }
 }
