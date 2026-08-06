@@ -1,4 +1,12 @@
 {
+  "source:c7f2529f8099851ac6a54bca13d0b7212d904b77": {
+    "url": "https://visornoticias.com.br/aguas-de-bombinhas-abre-vagas-de-emprego-no-setor-de-saneamento",
+    "title": "Águas de Bombinhas abre vagas para auxiliar de eletromecânica e agente de saneamento",
+    "guid": "scmulti:91599b6703e87b73f187cd357d029e845bb3bdb8",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_91599b6703e87b73f187cd357d029e845bb3bdb8/",
+    "usedAt": 1786050019699,
+    "usedAtIso": "2026-08-06T21:00:19.699Z"
+  },
   "source:40f01334a968794371f652fa9abd69bd600cea68": {
     "url": "https://visornoticias.com.br/rock-na-praca-brusque-25-edicao",
     "title": "Rock na Praça celebra 25 anos com shows, feira temática e concurso de cosplay em Brusque",
@@ -6967,12 +6975,12 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:c7f2529f8099851ac6a54bca13d0b7212d904b77": {
-    "url": "https://visornoticias.com.br/aguas-de-bombinhas-abre-vagas-de-emprego-no-setor-de-saneamento",
-    "title": "Águas de Bombinhas abre vagas para auxiliar de eletromecânica e agente de saneamento",
-    "guid": "scmulti:91599b6703e87b73f187cd357d029e845bb3bdb8",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_91599b6703e87b73f187cd357d029e845bb3bdb8/",
-    "usedAt": 1786050019699,
-    "usedAtIso": "2026-08-06T21:00:19.699Z"
+  "source:a900e14368175bb32eeba380e55d800dad217e66": {
+    "url": "https://visornoticias.com.br/justica-determina-cirurgia-de-quadril-para-paciente-que-espera-desde-2021-em-sc",
+    "title": "Paciente com luxação de prótese de quadril aguarda cirurgia há mais de três anos e Justiça determina procedimento em 30 dias",
+    "guid": "scmulti:94c61bdb4d1a6ea950d74dd00cdb5018e3178f6d",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_94c61bdb4d1a6ea950d74dd00cdb5018e3178f6d/",
+    "usedAt": 1786053619382,
+    "usedAtIso": "2026-08-06T22:00:19.382Z"
   }
 }
