@@ -1,4 +1,20 @@
 {
+  "source:31b4146de514d2e2a23f8afafa2bdb57bc9bf71f": {
+    "url": "https://visornoticias.com.br/homem-ateia-fogo-em-casa-confessa-crime-pelo-190-e-espera-pela-pm-em-sc",
+    "title": "Homem confessa incêndio em residência no bairro Encano Baixo, em Indaial",
+    "guid": "scmulti:923670d8b0f51c3617337a634451fb1b7edbb58c",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_923670d8b0f51c3617337a634451fb1b7edbb58c/",
+    "usedAt": 1786035619487,
+    "usedAtIso": "2026-08-06T17:00:19.487Z"
+  },
+  "source:583c03e03d87101ea2b18d7854916e6e89791753": {
+    "url": "https://visornoticias.com.br/identificado-motociclista-de-29-anos-que-morreu-em-acidente-enquanto-seguia-para-o-trabalho-em-sc",
+    "title": "Motociclista morre em acidente entre Sombrio e Jacinto Machado",
+    "guid": "scmulti:bf5c08d0bfe935f54b68bfb35a62dde8440653da",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_bf5c08d0bfe935f54b68bfb35a62dde8440653da/",
+    "usedAt": 1786035619487,
+    "usedAtIso": "2026-08-06T17:00:19.487Z"
+  },
   "source:069ab56d296f266abe755a1dcc5753f5d3e51b13": {
     "url": "https://visornoticias.com.br/alerta-chuva-brusque",
     "title": "Defesa Civil alerta para chuva intensa e rajadas de vento em Brusque e Vale do Itajaí",
@@ -6927,20 +6943,28 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:31b4146de514d2e2a23f8afafa2bdb57bc9bf71f": {
-    "url": "https://visornoticias.com.br/homem-ateia-fogo-em-casa-confessa-crime-pelo-190-e-espera-pela-pm-em-sc",
-    "title": "Homem confessa incêndio em residência no bairro Encano Baixo, em Indaial",
-    "guid": "scmulti:923670d8b0f51c3617337a634451fb1b7edbb58c",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_923670d8b0f51c3617337a634451fb1b7edbb58c/",
-    "usedAt": 1786035619487,
-    "usedAtIso": "2026-08-06T17:00:19.487Z"
+  "source:40f01334a968794371f652fa9abd69bd600cea68": {
+    "url": "https://visornoticias.com.br/rock-na-praca-brusque-25-edicao",
+    "title": "Rock na Praça celebra 25 anos com shows, feira temática e concurso de cosplay em Brusque",
+    "guid": "scmulti:903a6ef6bbbb5ec02b4a059d4f002fa8bd66f101",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_903a6ef6bbbb5ec02b4a059d4f002fa8bd66f101/",
+    "usedAt": 1786042819852,
+    "usedAtIso": "2026-08-06T19:00:19.852Z"
   },
-  "source:583c03e03d87101ea2b18d7854916e6e89791753": {
-    "url": "https://visornoticias.com.br/identificado-motociclista-de-29-anos-que-morreu-em-acidente-enquanto-seguia-para-o-trabalho-em-sc",
-    "title": "Motociclista morre em acidente entre Sombrio e Jacinto Machado",
-    "guid": "scmulti:bf5c08d0bfe935f54b68bfb35a62dde8440653da",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_bf5c08d0bfe935f54b68bfb35a62dde8440653da/",
-    "usedAt": 1786035619487,
-    "usedAtIso": "2026-08-06T17:00:19.487Z"
+  "source:7bd83ea0b077c4da3c413d5a82593f20b6e9fc0a": {
+    "url": "https://visornoticias.com.br/sul-americano-jiu-jitsu-2",
+    "title": "Atleta de 13 anos de Lages conquista título no Sul-Americano de Jiu-Jítsu e garante vaga no Mundial",
+    "guid": "scmulti:5c7cf5037f45360bc40bb67482a1a5f732f7632d",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_5c7cf5037f45360bc40bb67482a1a5f732f7632d/",
+    "usedAt": 1786042819852,
+    "usedAtIso": "2026-08-06T19:00:19.852Z"
+  },
+  "source:10b4c507f66940a3d7435ede18fc00948d272ec4": {
+    "url": "https://visornoticias.com.br/ciclone-extratropical",
+    "title": "Lages monitora ciclone extratropical que pode provocar temporais no estado entre quinta e sexta-feira",
+    "guid": "scmulti:e05a42ff980a7b107af8a26bea4505f8b686f1fe",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_e05a42ff980a7b107af8a26bea4505f8b686f1fe/",
+    "usedAt": 1786042819852,
+    "usedAtIso": "2026-08-06T19:00:19.852Z"
   }
 }
