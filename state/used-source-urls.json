@@ -1,4 +1,20 @@
 {
+  "source:91ddd2cbe53c7bf921aefd439800f7b92c52dbdd": {
+    "url": "https://cbntotal.com.br/cotidiano/carro-vai-parar-dentro-da-lagoa-da-conceicao-e-operacao-de-retirada-mobiliza-bombeiros",
+    "title": "Carro é resgatado de lagoa em Florianópolis sem ocupantes",
+    "guid": "scmulti:21c4340a4eb2cd3a25ecb0f388130636158b39f7",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_21c4340a4eb2cd3a25ecb0f388130636158b39f7/",
+    "usedAt": 1786028420143,
+    "usedAtIso": "2026-08-06T15:00:20.143Z"
+  },
+  "source:5b1915586303f590bcf68ba8615f158290c46950": {
+    "url": "https://visornoticias.com.br/campeonato-jiu-jitsu-2",
+    "title": "Tubarão se prepara para sediar etapa do AJP Tour 600 de jiu-jitsu em agosto de 2026",
+    "guid": "scmulti:41eee2886c4c99ac33b6a6765d735a204063fd59",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_41eee2886c4c99ac33b6a6765d735a204063fd59/",
+    "usedAt": 1786028420143,
+    "usedAtIso": "2026-08-06T15:00:20.143Z"
+  },
   "source:5ae5c1d12a5c6f5178268aa743cb6c98f80a40c2": {
     "url": "https://visornoticias.com.br/curso-hospitalidade-balneario-camboriu",
     "title": "Balneário Camboriú abre inscrições para curso gratuito de hospitalidade com 2 mil vagas",
@@ -6903,20 +6919,12 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:91ddd2cbe53c7bf921aefd439800f7b92c52dbdd": {
-    "url": "https://cbntotal.com.br/cotidiano/carro-vai-parar-dentro-da-lagoa-da-conceicao-e-operacao-de-retirada-mobiliza-bombeiros",
-    "title": "Carro é resgatado de lagoa em Florianópolis sem ocupantes",
-    "guid": "scmulti:21c4340a4eb2cd3a25ecb0f388130636158b39f7",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_21c4340a4eb2cd3a25ecb0f388130636158b39f7/",
-    "usedAt": 1786028420143,
-    "usedAtIso": "2026-08-06T15:00:20.143Z"
-  },
-  "source:5b1915586303f590bcf68ba8615f158290c46950": {
-    "url": "https://visornoticias.com.br/campeonato-jiu-jitsu-2",
-    "title": "Tubarão se prepara para sediar etapa do AJP Tour 600 de jiu-jitsu em agosto de 2026",
-    "guid": "scmulti:41eee2886c4c99ac33b6a6765d735a204063fd59",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_41eee2886c4c99ac33b6a6765d735a204063fd59/",
-    "usedAt": 1786028420143,
-    "usedAtIso": "2026-08-06T15:00:20.143Z"
+  "source:069ab56d296f266abe755a1dcc5753f5d3e51b13": {
+    "url": "https://visornoticias.com.br/alerta-chuva-brusque",
+    "title": "Defesa Civil alerta para chuva intensa e rajadas de vento em Brusque e Vale do Itajaí",
+    "guid": "scmulti:1fa83bbefee975534a4468a7b15b430c68ebdcd7",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_1fa83bbefee975534a4468a7b15b430c68ebdcd7/",
+    "usedAt": 1786032019564,
+    "usedAtIso": "2026-08-06T16:00:19.564Z"
   }
 }
