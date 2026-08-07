@@ -1,4 +1,28 @@
 {
+  "source:6a5bac594ec984b9b9708e180db25918f69f7e58": {
+    "url": "https://cbntotal.com.br/cotidiano/florianopolis-sobe-no-ranking-do-ideb-apos-avanco-na-educacao-publica",
+    "title": "Florianópolis avança no ranking nacional do IDEB com melhorias significativas no ensino fundamental",
+    "guid": "scmulti:78df3a0936b1ee9f26a8284cc555d4356f77eda2",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_78df3a0936b1ee9f26a8284cc555d4356f77eda2/",
+    "usedAt": 1786104019572,
+    "usedAtIso": "2026-08-07T12:00:19.572Z"
+  },
+  "source:1cf59d0462213efc4ebb6c1d26ea2bb91a95a5ef": {
+    "url": "https://visornoticias.com.br/rompimento-de-adutora-afeta-um-dos-principais-acessos-a-ilha-e-deixa-transito-em-apenas-uma-faixa-em-florianopolis",
+    "title": "Problema em adutora interdita parte da Avenida Governador Gustavo Richard em Balneário Camboriú",
+    "guid": "scmulti:be5df9fe6aab9c7b3dfb2dbaeb074e83d02b5fbc",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_be5df9fe6aab9c7b3dfb2dbaeb074e83d02b5fbc/",
+    "usedAt": 1786104019572,
+    "usedAtIso": "2026-08-07T12:00:19.572Z"
+  },
+  "source:5424bd644c3e19b5f32a15e11e249dbbf73032f1": {
+    "url": "https://visornoticias.com.br/ciclone-extratropical-deixa-mar-agitado-e-fim-de-semana-tera-temporais-em-sc",
+    "title": "Frente fria provoca temporais e queda de temperatura em Santa Catarina",
+    "guid": "scmulti:5e798f602ae455e46752efa9bf1fb738910a94c2",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_5e798f602ae455e46752efa9bf1fb738910a94c2/",
+    "usedAt": 1786104019572,
+    "usedAtIso": "2026-08-07T12:00:19.572Z"
+  },
   "source:8e321d375437de725bbcd3c7e4117f373eddde43": {
     "url": "https://visornoticias.com.br/tornado-e-ventos-de-120-km-h-derrubam-postes-e-causam-apagoes-e-estragos-na-rede-eletrica-do-rs",
     "title": "Tornado provoca estragos no Sul do Rio Grande do Sul e ventos fortes atingem Porto Alegre",
@@ -7007,28 +7031,52 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:6a5bac594ec984b9b9708e180db25918f69f7e58": {
-    "url": "https://cbntotal.com.br/cotidiano/florianopolis-sobe-no-ranking-do-ideb-apos-avanco-na-educacao-publica",
-    "title": "Florianópolis avança no ranking nacional do IDEB com melhorias significativas no ensino fundamental",
-    "guid": "scmulti:78df3a0936b1ee9f26a8284cc555d4356f77eda2",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_78df3a0936b1ee9f26a8284cc555d4356f77eda2/",
-    "usedAt": 1786104019572,
-    "usedAtIso": "2026-08-07T12:00:19.572Z"
+  "source:12afb5ffe0be548ae25ca27e2af3f313bfc1e96a": {
+    "url": "https://visornoticias.com.br/carreta-tomba-na-marginal-e-bloqueio-provoca-lentidao-na-br-101-na-grande-florianopolis",
+    "title": "Acidente com carreta causa lentidão e interdição parcial na BR-101 em Biguaçu",
+    "guid": "scmulti:51dcef7b97e5e5a51455c2cab76c6eb6f40d67f2",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_51dcef7b97e5e5a51455c2cab76c6eb6f40d67f2/",
+    "usedAt": 1786107621410,
+    "usedAtIso": "2026-08-07T13:00:21.410Z"
   },
-  "source:1cf59d0462213efc4ebb6c1d26ea2bb91a95a5ef": {
-    "url": "https://visornoticias.com.br/rompimento-de-adutora-afeta-um-dos-principais-acessos-a-ilha-e-deixa-transito-em-apenas-uma-faixa-em-florianopolis",
-    "title": "Problema em adutora interdita parte da Avenida Governador Gustavo Richard em Balneário Camboriú",
-    "guid": "scmulti:be5df9fe6aab9c7b3dfb2dbaeb074e83d02b5fbc",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_be5df9fe6aab9c7b3dfb2dbaeb074e83d02b5fbc/",
-    "usedAt": 1786104019572,
-    "usedAtIso": "2026-08-07T12:00:19.572Z"
+  "source:d2687619a385832288e2d37810ff11ae1781830d": {
+    "url": "https://cbntotal.com.br/cotidiano/serra-do-rio-do-rastro-tera-interdicao-neste-sabado-para-corrida-de-montanha-noturna",
+    "title": "Santa Catarina-390 será interditada à noite para corrida de montanha entre Lauro Müller e Bom Jardim da Serra",
+    "guid": "scmulti:ba47e19751444c23ed6608162672eed3a809537b",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_ba47e19751444c23ed6608162672eed3a809537b/",
+    "usedAt": 1786107621410,
+    "usedAtIso": "2026-08-07T13:00:21.410Z"
   },
-  "source:5424bd644c3e19b5f32a15e11e249dbbf73032f1": {
-    "url": "https://visornoticias.com.br/ciclone-extratropical-deixa-mar-agitado-e-fim-de-semana-tera-temporais-em-sc",
-    "title": "Frente fria provoca temporais e queda de temperatura em Santa Catarina",
-    "guid": "scmulti:5e798f602ae455e46752efa9bf1fb738910a94c2",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_5e798f602ae455e46752efa9bf1fb738910a94c2/",
-    "usedAt": 1786104019572,
-    "usedAtIso": "2026-08-07T12:00:19.572Z"
+  "source:29fc4572920e6cb24361f8ef3670fcb74449afd0": {
+    "url": "https://visornoticias.com.br/ideb-em-lages",
+    "title": "Lages alcança melhor índice de desenvolvimento da educação básica em 20 anos com nota 6,0 no IDEB",
+    "guid": "scmulti:2c9dab596c23014063c827182689c97ff5088175",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_2c9dab596c23014063c827182689c97ff5088175/",
+    "usedAt": 1786107621410,
+    "usedAtIso": "2026-08-07T13:00:21.410Z"
+  },
+  "source:203ac527aab48524f8dc48964320a55cb4e3482a": {
+    "url": "https://visornoticias.com.br/dia-dos-pais-criciuma-parque-astronomico-programacao",
+    "title": "Parque Astronômico de Criciúma promove atividades gratuitas para o Dia dos Pais",
+    "guid": "scmulti:190acd2e7d6982e5c0db65a81d0d10301b85cce0",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_190acd2e7d6982e5c0db65a81d0d10301b85cce0/",
+    "usedAt": 1786107621410,
+    "usedAtIso": "2026-08-07T13:00:21.410Z"
+  },
+  "source:e87f6cdef4193ad5adc64467cba926d979f81860": {
+    "url": "https://visornoticias.com.br/ideb-em-criciuma",
+    "title": "Criciúma registra avanço no IDEB e alcança",
+    "guid": "scmulti:a3e342cb83f6bedf0e70fc515599c7f07c33675b",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_a3e342cb83f6bedf0e70fc515599c7f07c33675b/",
+    "usedAt": 1786107621410,
+    "usedAtIso": "2026-08-07T13:00:21.410Z"
+  },
+  "source:1d0476c1c23c89c6388e92251240fc0990ebf541": {
+    "url": "https://visornoticias.com.br/prevencao-enchentes-criciuma-el-nino",
+    "title": "Criciúma intensifica limpeza de rios e bocas de lobo para prevenir alagamentos na Quarta Linha",
+    "guid": "scmulti:cecccf4d3c9871cb5d3e329f3b24eca6d8590f15",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_cecccf4d3c9871cb5d3e329f3b24eca6d8590f15/",
+    "usedAt": 1786107621410,
+    "usedAtIso": "2026-08-07T13:00:21.410Z"
   }
 }
