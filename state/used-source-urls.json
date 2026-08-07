@@ -1,4 +1,12 @@
 {
+  "source:8e321d375437de725bbcd3c7e4117f373eddde43": {
+    "url": "https://visornoticias.com.br/tornado-e-ventos-de-120-km-h-derrubam-postes-e-causam-apagoes-e-estragos-na-rede-eletrica-do-rs",
+    "title": "Tornado provoca estragos no Sul do Rio Grande do Sul e ventos fortes atingem Porto Alegre",
+    "guid": "scmulti:24b56f7a00e18d210e85ff5f57981ccb039da6b0",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_24b56f7a00e18d210e85ff5f57981ccb039da6b0/",
+    "usedAt": 1786096819888,
+    "usedAtIso": "2026-08-07T10:00:19.888Z"
+  },
   "source:9c2ebc2afcb59076d8cef2344e99779758e68430": {
     "url": "https://visornoticias.com.br/homem-tenta-usar-documento-do-irmao-e-policia-descobre-mandado-em-aberto-em-itapema",
     "title": "Homem é preso em Itapema por usar documento falso e ter mandado de prisão em aberto",
@@ -6999,12 +7007,28 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:8e321d375437de725bbcd3c7e4117f373eddde43": {
-    "url": "https://visornoticias.com.br/tornado-e-ventos-de-120-km-h-derrubam-postes-e-causam-apagoes-e-estragos-na-rede-eletrica-do-rs",
-    "title": "Tornado provoca estragos no Sul do Rio Grande do Sul e ventos fortes atingem Porto Alegre",
-    "guid": "scmulti:24b56f7a00e18d210e85ff5f57981ccb039da6b0",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_24b56f7a00e18d210e85ff5f57981ccb039da6b0/",
-    "usedAt": 1786096819888,
-    "usedAtIso": "2026-08-07T10:00:19.888Z"
+  "source:6a5bac594ec984b9b9708e180db25918f69f7e58": {
+    "url": "https://cbntotal.com.br/cotidiano/florianopolis-sobe-no-ranking-do-ideb-apos-avanco-na-educacao-publica",
+    "title": "Florianópolis avança no ranking nacional do IDEB com melhorias significativas no ensino fundamental",
+    "guid": "scmulti:78df3a0936b1ee9f26a8284cc555d4356f77eda2",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_78df3a0936b1ee9f26a8284cc555d4356f77eda2/",
+    "usedAt": 1786104019572,
+    "usedAtIso": "2026-08-07T12:00:19.572Z"
+  },
+  "source:1cf59d0462213efc4ebb6c1d26ea2bb91a95a5ef": {
+    "url": "https://visornoticias.com.br/rompimento-de-adutora-afeta-um-dos-principais-acessos-a-ilha-e-deixa-transito-em-apenas-uma-faixa-em-florianopolis",
+    "title": "Problema em adutora interdita parte da Avenida Governador Gustavo Richard em Balneário Camboriú",
+    "guid": "scmulti:be5df9fe6aab9c7b3dfb2dbaeb074e83d02b5fbc",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_be5df9fe6aab9c7b3dfb2dbaeb074e83d02b5fbc/",
+    "usedAt": 1786104019572,
+    "usedAtIso": "2026-08-07T12:00:19.572Z"
+  },
+  "source:5424bd644c3e19b5f32a15e11e249dbbf73032f1": {
+    "url": "https://visornoticias.com.br/ciclone-extratropical-deixa-mar-agitado-e-fim-de-semana-tera-temporais-em-sc",
+    "title": "Frente fria provoca temporais e queda de temperatura em Santa Catarina",
+    "guid": "scmulti:5e798f602ae455e46752efa9bf1fb738910a94c2",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_5e798f602ae455e46752efa9bf1fb738910a94c2/",
+    "usedAt": 1786104019572,
+    "usedAtIso": "2026-08-07T12:00:19.572Z"
   }
 }
