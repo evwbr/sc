@@ -1,4 +1,12 @@
 {
+  "source:de73363ca080d67497bf9c8f5db4e974804b86c6": {
+    "url": "https://visornoticias.com.br/posto-e-interditado-pela-segunda-vez-apos-fiscais-encontrarem-serie-de-irregularidades-em-florianopolis",
+    "title": "Procon interdita posto de combustível em Florianópolis por irregularidades fiscais e operacionais",
+    "guid": "scmulti:bf9f4d11b80cdbc5a900b32fbcec1040d2b8345b",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_bf9f4d11b80cdbc5a900b32fbcec1040d2b8345b/",
+    "usedAt": 1786122020522,
+    "usedAtIso": "2026-08-07T17:00:20.522Z"
+  },
   "source:760ddaeb679877bd88982cd1149834e71a379193": {
     "url": "https://visornoticias.com.br/homem-e-condenado-a-15-anos-por-matar-mulher-e-ocultacao-de-cadaver-no-sul-de-sc",
     "title": "Homem é condenado a 15 anos de prisão por homicídio duplamente qualificado em Içara",
@@ -7111,12 +7119,36 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:de73363ca080d67497bf9c8f5db4e974804b86c6": {
-    "url": "https://visornoticias.com.br/posto-e-interditado-pela-segunda-vez-apos-fiscais-encontrarem-serie-de-irregularidades-em-florianopolis",
-    "title": "Procon interdita posto de combustível em Florianópolis por irregularidades fiscais e operacionais",
-    "guid": "scmulti:bf9f4d11b80cdbc5a900b32fbcec1040d2b8345b",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_bf9f4d11b80cdbc5a900b32fbcec1040d2b8345b/",
-    "usedAt": 1786122020522,
-    "usedAtIso": "2026-08-07T17:00:20.522Z"
+  "source:ca140b2e835c3d498bce8e822d8e6322d4ed26ed": {
+    "url": "https://visornoticias.com.br/curso-costura-3",
+    "title": "Quatorze alunas concluem curso de costura em Lages com apoio do município e Senai",
+    "guid": "scmulti:aefc7bf86f2a12006486f5e41e2d3ff214d5354d",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_aefc7bf86f2a12006486f5e41e2d3ff214d5354d/",
+    "usedAt": 1786125619682,
+    "usedAtIso": "2026-08-07T18:00:19.682Z"
+  },
+  "source:b4b0d2f6aaee5468360a2c3fdc4d17fb08816180": {
+    "url": "https://visornoticias.com.br/jogos-abertos-lages",
+    "title": "Jogos Abertos movimentam Lages com competições de bocha e futsal até domingo",
+    "guid": "scmulti:c9d3f3986e5b6ba9f33808d083c4af2e587849ca",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_c9d3f3986e5b6ba9f33808d083c4af2e587849ca/",
+    "usedAt": 1786125619682,
+    "usedAtIso": "2026-08-07T18:00:19.682Z"
+  },
+  "source:8a54d6e21db4becea3ff4a6eb77c78b6d1eed30a": {
+    "url": "https://visornoticias.com.br/tempo-em-lages-2",
+    "title": "Lages mantém estado de atenção após passagem de ciclone extratropical e frente fria",
+    "guid": "scmulti:2f2cf6ec0c167da7f30c8e204e16e2b6f465b3a4",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_2f2cf6ec0c167da7f30c8e204e16e2b6f465b3a4/",
+    "usedAt": 1786125619682,
+    "usedAtIso": "2026-08-07T18:00:19.682Z"
+  },
+  "source:e49fb9d732bba30ec449f0ac3cd89100b079fa74": {
+    "url": "https://visornoticias.com.br/mare-em-itajai",
+    "title": "Itajaí instala marégrafo com tecnologia radar para aprimorar monitoramento das marés e prevenção de alagamentos",
+    "guid": "scmulti:19290bcc5bc40978241ee2068f1437bb007c1574",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_19290bcc5bc40978241ee2068f1437bb007c1574/",
+    "usedAt": 1786125619682,
+    "usedAtIso": "2026-08-07T18:00:19.682Z"
   }
 }
