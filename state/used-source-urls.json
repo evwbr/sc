@@ -1,4 +1,20 @@
 {
+  "source:f18b082b83f3f0b26c9f436e43cecc07bdc1ca3c": {
+    "url": "https://cbntotal.com.br/cotidiano/florianopolis-tem-risco-de-temporais-e-mar-agitado-nesta-sexta-feira-alerta-defesa-civil",
+    "title": "Santa Catarina enfrenta vendaval e mar agitado com risco de temporais e granizo nesta sexta-feira",
+    "guid": "scmulti:e6c212d9c12a5c277519908d40c51aaeed4e0036",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_e6c212d9c12a5c277519908d40c51aaeed4e0036/",
+    "usedAt": 1786111220100,
+    "usedAtIso": "2026-08-07T14:00:20.100Z"
+  },
+  "source:2d80ca3856d6593ac4d17865e9c76ca37366e49e": {
+    "url": "https://visornoticias.com.br/grupo-suspeito-de-furtar-hilux-e-localizado-pela-pm-e-homem-morre-em-confronto-em-sc",
+    "title": "Polícia Militar recupera caminhonete furtada em Penha e prende dois suspeitos em Araquari",
+    "guid": "scmulti:e9ae22f341f79a5c74e78cbd51e2455395c72ad4",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_e9ae22f341f79a5c74e78cbd51e2455395c72ad4/",
+    "usedAt": 1786111220100,
+    "usedAtIso": "2026-08-07T14:00:20.100Z"
+  },
   "source:12afb5ffe0be548ae25ca27e2af3f313bfc1e96a": {
     "url": "https://visornoticias.com.br/carreta-tomba-na-marginal-e-bloqueio-provoca-lentidao-na-br-101-na-grande-florianopolis",
     "title": "Acidente com carreta causa lentidão e interdição parcial na BR-101 em Biguaçu",
@@ -7079,20 +7095,20 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:f18b082b83f3f0b26c9f436e43cecc07bdc1ca3c": {
-    "url": "https://cbntotal.com.br/cotidiano/florianopolis-tem-risco-de-temporais-e-mar-agitado-nesta-sexta-feira-alerta-defesa-civil",
-    "title": "Santa Catarina enfrenta vendaval e mar agitado com risco de temporais e granizo nesta sexta-feira",
-    "guid": "scmulti:e6c212d9c12a5c277519908d40c51aaeed4e0036",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_e6c212d9c12a5c277519908d40c51aaeed4e0036/",
-    "usedAt": 1786111220100,
-    "usedAtIso": "2026-08-07T14:00:20.100Z"
+  "source:760ddaeb679877bd88982cd1149834e71a379193": {
+    "url": "https://visornoticias.com.br/homem-e-condenado-a-15-anos-por-matar-mulher-e-ocultacao-de-cadaver-no-sul-de-sc",
+    "title": "Homem é condenado a 15 anos de prisão por homicídio duplamente qualificado em Içara",
+    "guid": "scmulti:a8944ecd37a5f5f110daebe1fa6f338d60762273",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_a8944ecd37a5f5f110daebe1fa6f338d60762273/",
+    "usedAt": 1786118419570,
+    "usedAtIso": "2026-08-07T16:00:19.570Z"
   },
-  "source:2d80ca3856d6593ac4d17865e9c76ca37366e49e": {
-    "url": "https://visornoticias.com.br/grupo-suspeito-de-furtar-hilux-e-localizado-pela-pm-e-homem-morre-em-confronto-em-sc",
-    "title": "Polícia Militar recupera caminhonete furtada em Penha e prende dois suspeitos em Araquari",
-    "guid": "scmulti:e9ae22f341f79a5c74e78cbd51e2455395c72ad4",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_e9ae22f341f79a5c74e78cbd51e2455395c72ad4/",
-    "usedAt": 1786111220100,
-    "usedAtIso": "2026-08-07T14:00:20.100Z"
+  "source:918899a2013288bc36fea9caa8da27e74a617e8f": {
+    "url": "https://visornoticias.com.br/bloqueio-na-beira-mar-altera-transito-no-centro-de-itapema-neste-fim-de-semana",
+    "title": "Avenida Beira Mar em Itapema terá trecho interditado até sábado à noite",
+    "guid": "scmulti:a4260349ad982b3156cd5d71e86055d6a391cb85",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_a4260349ad982b3156cd5d71e86055d6a391cb85/",
+    "usedAt": 1786118419570,
+    "usedAtIso": "2026-08-07T16:00:19.570Z"
   }
 }
