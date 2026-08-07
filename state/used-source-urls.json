@@ -1,4 +1,12 @@
 {
+  "source:bb12dbe6fdc0141a455fe0790d832d9a9b645e40": {
+    "url": "https://visornoticias.com.br/mulher-tem-parte-da-perna-amputada-apos-ser-atropelada-pelo-ex-em-sc",
+    "title": "Ex-companheiro agride mulher e primo com caminhonete em Santa Maria, Rio do Sul",
+    "guid": "scmulti:119c9c940980eff44ce89d82fff9a39f9684419c",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_119c9c940980eff44ce89d82fff9a39f9684419c/",
+    "usedAt": 1786129220055,
+    "usedAtIso": "2026-08-07T19:00:20.055Z"
+  },
   "source:ca140b2e835c3d498bce8e822d8e6322d4ed26ed": {
     "url": "https://visornoticias.com.br/curso-costura-3",
     "title": "Quatorze alunas concluem curso de costura em Lages com apoio do município e Senai",
@@ -7151,12 +7159,12 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:bb12dbe6fdc0141a455fe0790d832d9a9b645e40": {
-    "url": "https://visornoticias.com.br/mulher-tem-parte-da-perna-amputada-apos-ser-atropelada-pelo-ex-em-sc",
-    "title": "Ex-companheiro agride mulher e primo com caminhonete em Santa Maria, Rio do Sul",
-    "guid": "scmulti:119c9c940980eff44ce89d82fff9a39f9684419c",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_119c9c940980eff44ce89d82fff9a39f9684419c/",
-    "usedAt": 1786129220055,
-    "usedAtIso": "2026-08-07T19:00:20.055Z"
+  "source:d5cc54ecae9609cfc4bb4972a44161f62e0e804f": {
+    "url": "https://visornoticias.com.br/motociclista-morre-em-acidente-e-br-101-e-bloqueada-em-sao-jose",
+    "title": "Motociclista morre em acidente na BR-101 em Balneário Camboriú e trânsito fica congestionado",
+    "guid": "scmulti:f16ab64434fed878f882b2613f719ea5d8c17464",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_f16ab64434fed878f882b2613f719ea5d8c17464/",
+    "usedAt": 1786132819412,
+    "usedAtIso": "2026-08-07T20:00:19.412Z"
   }
 }
