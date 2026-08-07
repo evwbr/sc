@@ -1,4 +1,52 @@
 {
+  "source:12afb5ffe0be548ae25ca27e2af3f313bfc1e96a": {
+    "url": "https://visornoticias.com.br/carreta-tomba-na-marginal-e-bloqueio-provoca-lentidao-na-br-101-na-grande-florianopolis",
+    "title": "Acidente com carreta causa lentidão e interdição parcial na BR-101 em Biguaçu",
+    "guid": "scmulti:51dcef7b97e5e5a51455c2cab76c6eb6f40d67f2",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_51dcef7b97e5e5a51455c2cab76c6eb6f40d67f2/",
+    "usedAt": 1786107621410,
+    "usedAtIso": "2026-08-07T13:00:21.410Z"
+  },
+  "source:d2687619a385832288e2d37810ff11ae1781830d": {
+    "url": "https://cbntotal.com.br/cotidiano/serra-do-rio-do-rastro-tera-interdicao-neste-sabado-para-corrida-de-montanha-noturna",
+    "title": "Santa Catarina-390 será interditada à noite para corrida de montanha entre Lauro Müller e Bom Jardim da Serra",
+    "guid": "scmulti:ba47e19751444c23ed6608162672eed3a809537b",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_ba47e19751444c23ed6608162672eed3a809537b/",
+    "usedAt": 1786107621410,
+    "usedAtIso": "2026-08-07T13:00:21.410Z"
+  },
+  "source:29fc4572920e6cb24361f8ef3670fcb74449afd0": {
+    "url": "https://visornoticias.com.br/ideb-em-lages",
+    "title": "Lages alcança melhor índice de desenvolvimento da educação básica em 20 anos com nota 6,0 no IDEB",
+    "guid": "scmulti:2c9dab596c23014063c827182689c97ff5088175",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_2c9dab596c23014063c827182689c97ff5088175/",
+    "usedAt": 1786107621410,
+    "usedAtIso": "2026-08-07T13:00:21.410Z"
+  },
+  "source:203ac527aab48524f8dc48964320a55cb4e3482a": {
+    "url": "https://visornoticias.com.br/dia-dos-pais-criciuma-parque-astronomico-programacao",
+    "title": "Parque Astronômico de Criciúma promove atividades gratuitas para o Dia dos Pais",
+    "guid": "scmulti:190acd2e7d6982e5c0db65a81d0d10301b85cce0",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_190acd2e7d6982e5c0db65a81d0d10301b85cce0/",
+    "usedAt": 1786107621410,
+    "usedAtIso": "2026-08-07T13:00:21.410Z"
+  },
+  "source:e87f6cdef4193ad5adc64467cba926d979f81860": {
+    "url": "https://visornoticias.com.br/ideb-em-criciuma",
+    "title": "Criciúma registra avanço no IDEB e alcança",
+    "guid": "scmulti:a3e342cb83f6bedf0e70fc515599c7f07c33675b",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_a3e342cb83f6bedf0e70fc515599c7f07c33675b/",
+    "usedAt": 1786107621410,
+    "usedAtIso": "2026-08-07T13:00:21.410Z"
+  },
+  "source:1d0476c1c23c89c6388e92251240fc0990ebf541": {
+    "url": "https://visornoticias.com.br/prevencao-enchentes-criciuma-el-nino",
+    "title": "Criciúma intensifica limpeza de rios e bocas de lobo para prevenir alagamentos na Quarta Linha",
+    "guid": "scmulti:cecccf4d3c9871cb5d3e329f3b24eca6d8590f15",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_cecccf4d3c9871cb5d3e329f3b24eca6d8590f15/",
+    "usedAt": 1786107621410,
+    "usedAtIso": "2026-08-07T13:00:21.410Z"
+  },
   "source:6a5bac594ec984b9b9708e180db25918f69f7e58": {
     "url": "https://cbntotal.com.br/cotidiano/florianopolis-sobe-no-ranking-do-ideb-apos-avanco-na-educacao-publica",
     "title": "Florianópolis avança no ranking nacional do IDEB com melhorias significativas no ensino fundamental",
@@ -7031,52 +7079,20 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:12afb5ffe0be548ae25ca27e2af3f313bfc1e96a": {
-    "url": "https://visornoticias.com.br/carreta-tomba-na-marginal-e-bloqueio-provoca-lentidao-na-br-101-na-grande-florianopolis",
-    "title": "Acidente com carreta causa lentidão e interdição parcial na BR-101 em Biguaçu",
-    "guid": "scmulti:51dcef7b97e5e5a51455c2cab76c6eb6f40d67f2",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_51dcef7b97e5e5a51455c2cab76c6eb6f40d67f2/",
-    "usedAt": 1786107621410,
-    "usedAtIso": "2026-08-07T13:00:21.410Z"
+  "source:f18b082b83f3f0b26c9f436e43cecc07bdc1ca3c": {
+    "url": "https://cbntotal.com.br/cotidiano/florianopolis-tem-risco-de-temporais-e-mar-agitado-nesta-sexta-feira-alerta-defesa-civil",
+    "title": "Santa Catarina enfrenta vendaval e mar agitado com risco de temporais e granizo nesta sexta-feira",
+    "guid": "scmulti:e6c212d9c12a5c277519908d40c51aaeed4e0036",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_e6c212d9c12a5c277519908d40c51aaeed4e0036/",
+    "usedAt": 1786111220100,
+    "usedAtIso": "2026-08-07T14:00:20.100Z"
   },
-  "source:d2687619a385832288e2d37810ff11ae1781830d": {
-    "url": "https://cbntotal.com.br/cotidiano/serra-do-rio-do-rastro-tera-interdicao-neste-sabado-para-corrida-de-montanha-noturna",
-    "title": "Santa Catarina-390 será interditada à noite para corrida de montanha entre Lauro Müller e Bom Jardim da Serra",
-    "guid": "scmulti:ba47e19751444c23ed6608162672eed3a809537b",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_ba47e19751444c23ed6608162672eed3a809537b/",
-    "usedAt": 1786107621410,
-    "usedAtIso": "2026-08-07T13:00:21.410Z"
-  },
-  "source:29fc4572920e6cb24361f8ef3670fcb74449afd0": {
-    "url": "https://visornoticias.com.br/ideb-em-lages",
-    "title": "Lages alcança melhor índice de desenvolvimento da educação básica em 20 anos com nota 6,0 no IDEB",
-    "guid": "scmulti:2c9dab596c23014063c827182689c97ff5088175",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_2c9dab596c23014063c827182689c97ff5088175/",
-    "usedAt": 1786107621410,
-    "usedAtIso": "2026-08-07T13:00:21.410Z"
-  },
-  "source:203ac527aab48524f8dc48964320a55cb4e3482a": {
-    "url": "https://visornoticias.com.br/dia-dos-pais-criciuma-parque-astronomico-programacao",
-    "title": "Parque Astronômico de Criciúma promove atividades gratuitas para o Dia dos Pais",
-    "guid": "scmulti:190acd2e7d6982e5c0db65a81d0d10301b85cce0",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_190acd2e7d6982e5c0db65a81d0d10301b85cce0/",
-    "usedAt": 1786107621410,
-    "usedAtIso": "2026-08-07T13:00:21.410Z"
-  },
-  "source:e87f6cdef4193ad5adc64467cba926d979f81860": {
-    "url": "https://visornoticias.com.br/ideb-em-criciuma",
-    "title": "Criciúma registra avanço no IDEB e alcança",
-    "guid": "scmulti:a3e342cb83f6bedf0e70fc515599c7f07c33675b",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_a3e342cb83f6bedf0e70fc515599c7f07c33675b/",
-    "usedAt": 1786107621410,
-    "usedAtIso": "2026-08-07T13:00:21.410Z"
-  },
-  "source:1d0476c1c23c89c6388e92251240fc0990ebf541": {
-    "url": "https://visornoticias.com.br/prevencao-enchentes-criciuma-el-nino",
-    "title": "Criciúma intensifica limpeza de rios e bocas de lobo para prevenir alagamentos na Quarta Linha",
-    "guid": "scmulti:cecccf4d3c9871cb5d3e329f3b24eca6d8590f15",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_cecccf4d3c9871cb5d3e329f3b24eca6d8590f15/",
-    "usedAt": 1786107621410,
-    "usedAtIso": "2026-08-07T13:00:21.410Z"
+  "source:2d80ca3856d6593ac4d17865e9c76ca37366e49e": {
+    "url": "https://visornoticias.com.br/grupo-suspeito-de-furtar-hilux-e-localizado-pela-pm-e-homem-morre-em-confronto-em-sc",
+    "title": "Polícia Militar recupera caminhonete furtada em Penha e prende dois suspeitos em Araquari",
+    "guid": "scmulti:e9ae22f341f79a5c74e78cbd51e2455395c72ad4",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_e9ae22f341f79a5c74e78cbd51e2455395c72ad4/",
+    "usedAt": 1786111220100,
+    "usedAtIso": "2026-08-07T14:00:20.100Z"
   }
 }
