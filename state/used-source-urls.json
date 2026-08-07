@@ -1,4 +1,20 @@
 {
+  "source:9c2ebc2afcb59076d8cef2344e99779758e68430": {
+    "url": "https://visornoticias.com.br/homem-tenta-usar-documento-do-irmao-e-policia-descobre-mandado-em-aberto-em-itapema",
+    "title": "Homem é preso em Itapema por usar documento falso e ter mandado de prisão em aberto",
+    "guid": "scmulti:3c342c4d01fcf6e1b18f32b1e92c4761aa599afa",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_3c342c4d01fcf6e1b18f32b1e92c4761aa599afa/",
+    "usedAt": 1786093220532,
+    "usedAtIso": "2026-08-07T09:00:20.532Z"
+  },
+  "source:fbd80fc59cbbd7b55066e2ff35a5365902a948c9": {
+    "url": "https://visornoticias.com.br/suspeitos-fazem-a-limpa-em-casa-de-veraneio-e-levam-ate-as-calhas-em-sc",
+    "title": "Residência em Criciúma é furtada com prejuízo de eletrodomésticos e estrutura da casa",
+    "guid": "scmulti:ea69568525cfe3ad14a08698d410e4cce992fbec",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_ea69568525cfe3ad14a08698d410e4cce992fbec/",
+    "usedAt": 1786093220532,
+    "usedAtIso": "2026-08-07T09:00:20.532Z"
+  },
   "source:a900e14368175bb32eeba380e55d800dad217e66": {
     "url": "https://visornoticias.com.br/justica-determina-cirurgia-de-quadril-para-paciente-que-espera-desde-2021-em-sc",
     "title": "Paciente com luxação de prótese de quadril aguarda cirurgia há mais de três anos e Justiça determina procedimento em 30 dias",
@@ -6983,20 +6999,12 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:9c2ebc2afcb59076d8cef2344e99779758e68430": {
-    "url": "https://visornoticias.com.br/homem-tenta-usar-documento-do-irmao-e-policia-descobre-mandado-em-aberto-em-itapema",
-    "title": "Homem é preso em Itapema por usar documento falso e ter mandado de prisão em aberto",
-    "guid": "scmulti:3c342c4d01fcf6e1b18f32b1e92c4761aa599afa",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_3c342c4d01fcf6e1b18f32b1e92c4761aa599afa/",
-    "usedAt": 1786093220532,
-    "usedAtIso": "2026-08-07T09:00:20.532Z"
-  },
-  "source:fbd80fc59cbbd7b55066e2ff35a5365902a948c9": {
-    "url": "https://visornoticias.com.br/suspeitos-fazem-a-limpa-em-casa-de-veraneio-e-levam-ate-as-calhas-em-sc",
-    "title": "Residência em Criciúma é furtada com prejuízo de eletrodomésticos e estrutura da casa",
-    "guid": "scmulti:ea69568525cfe3ad14a08698d410e4cce992fbec",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_ea69568525cfe3ad14a08698d410e4cce992fbec/",
-    "usedAt": 1786093220532,
-    "usedAtIso": "2026-08-07T09:00:20.532Z"
+  "source:8e321d375437de725bbcd3c7e4117f373eddde43": {
+    "url": "https://visornoticias.com.br/tornado-e-ventos-de-120-km-h-derrubam-postes-e-causam-apagoes-e-estragos-na-rede-eletrica-do-rs",
+    "title": "Tornado provoca estragos no Sul do Rio Grande do Sul e ventos fortes atingem Porto Alegre",
+    "guid": "scmulti:24b56f7a00e18d210e85ff5f57981ccb039da6b0",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_24b56f7a00e18d210e85ff5f57981ccb039da6b0/",
+    "usedAt": 1786096819888,
+    "usedAtIso": "2026-08-07T10:00:19.888Z"
   }
 }
