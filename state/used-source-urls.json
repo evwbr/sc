@@ -1,4 +1,12 @@
 {
+  "source:e10d63e61148b57ec078c9b7280dbf54e1cbc004": {
+    "url": "https://visornoticias.com.br/condutor-nao-consegue-frear-a-tempo-bate-contra-moto-e-deixa-tres-feridos-em-itapema",
+    "title": "Acidente entre motocicletas deixa uma pessoa gravemente ferida em rodovia de Santa Catarina",
+    "guid": "scmulti:71be624ce7be6b16008a19830045d85ff88a1c59",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_71be624ce7be6b16008a19830045d85ff88a1c59/",
+    "usedAt": 1786190419688,
+    "usedAtIso": "2026-08-08T12:00:19.688Z"
+  },
   "source:00c9d223b0b20726aa2cdcce9bb551570e75bcd8": {
     "url": "https://visornoticias.com.br/conta-de-agua-de-r-24-milhoes-assusta-moradora-no-litoral-norte-de-sc",
     "title": "Moradores de Vila Nova recebem cobranças milionárias equivocadas da Casan",
@@ -7183,12 +7191,20 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:e10d63e61148b57ec078c9b7280dbf54e1cbc004": {
-    "url": "https://visornoticias.com.br/condutor-nao-consegue-frear-a-tempo-bate-contra-moto-e-deixa-tres-feridos-em-itapema",
-    "title": "Acidente entre motocicletas deixa uma pessoa gravemente ferida em rodovia de Santa Catarina",
-    "guid": "scmulti:71be624ce7be6b16008a19830045d85ff88a1c59",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_71be624ce7be6b16008a19830045d85ff88a1c59/",
-    "usedAt": 1786190419688,
-    "usedAtIso": "2026-08-08T12:00:19.688Z"
+  "source:5f2abc5ef2f21f0149b99e7f161f1a09888923ad": {
+    "url": "https://visornoticias.com.br/investigacao-aponta-emboscada-antes-de-homem-ser-encontrado-morto-no-rio-itajai-acu-em-sc",
+    "title": "Polícia Civil investiga morte de homem afogado no Rio Itajaí-Açu com suspeita de ligação a desaparecimento de drogas",
+    "guid": "scmulti:4f2903589c09f363e80f5db74841b0437231777d",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_4f2903589c09f363e80f5db74841b0437231777d/",
+    "usedAt": 1786194019472,
+    "usedAtIso": "2026-08-08T13:00:19.472Z"
+  },
+  "source:4ac2776b6953b51bf83263d18477540debc355b5": {
+    "url": "https://visornoticias.com.br/menino-de-3-anos-morre-afogado-em-piscina-nos-fundos-de-casa-em-sc",
+    "title": "Menino morre afogado em piscina na residência da família em São João Batista",
+    "guid": "scmulti:f1750f66a78f3eeb1a6003ce5bc2a2211b6f5bf2",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_f1750f66a78f3eeb1a6003ce5bc2a2211b6f5bf2/",
+    "usedAt": 1786194019472,
+    "usedAtIso": "2026-08-08T13:00:19.472Z"
   }
 }
