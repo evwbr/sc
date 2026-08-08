@@ -1,4 +1,12 @@
 {
+  "source:41d2f718b16907f2c27b50aaae2b9c9b0c2754b9": {
+    "url": "https://visornoticias.com.br/operacao-contra-o-trafico-termina-com-dois-presos-e-mais-de-r-6-mil-apreendidos-no-vale-do-itajai",
+    "title": "Polícia apreende drogas, celulares e dinheiro em operação em Santa Catarina",
+    "guid": "scmulti:d270b11e3b2a0f7eff634920c420486934d45ed2",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_d270b11e3b2a0f7eff634920c420486934d45ed2/",
+    "usedAt": 1786208419525,
+    "usedAtIso": "2026-08-08T17:00:19.525Z"
+  },
   "source:8c616dcd538c4b851542e0d6b84351b53df11635": {
     "url": "https://visornoticias.com.br/defesa-civil-alerta-para-temporal-com-raios-e-rajadas-de-vento-em-balneario-camboriu",
     "title": "Defesa Civil emite alerta para temporais com raios, granizo e alagamentos em Balneário Camboriú",
@@ -7239,12 +7247,28 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:41d2f718b16907f2c27b50aaae2b9c9b0c2754b9": {
-    "url": "https://visornoticias.com.br/operacao-contra-o-trafico-termina-com-dois-presos-e-mais-de-r-6-mil-apreendidos-no-vale-do-itajai",
-    "title": "Polícia apreende drogas, celulares e dinheiro em operação em Santa Catarina",
-    "guid": "scmulti:d270b11e3b2a0f7eff634920c420486934d45ed2",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_d270b11e3b2a0f7eff634920c420486934d45ed2/",
-    "usedAt": 1786208419525,
-    "usedAtIso": "2026-08-08T17:00:19.525Z"
+  "source:ae16dd4e9ee21bff80d12963b37877901108180e": {
+    "url": "https://visornoticias.com.br/cadaver-e-enterrado-nos-fundos-de-casa-e-mpsc-denuncia-dupla-por-homicidio-em-sc",
+    "title": "Ministério Público pede indenização de R$ 200 mil em processo criminal na Comarca de Pinhalzinho",
+    "guid": "scmulti:74346c9e9ef74370b460626598efb2c5fdb2f376",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_74346c9e9ef74370b460626598efb2c5fdb2f376/",
+    "usedAt": 1786212019964,
+    "usedAtIso": "2026-08-08T18:00:19.964Z"
+  },
+  "source:ad6feddc0a5670f3bdcb46ea0750dc903a381c3a": {
+    "url": "https://visornoticias.com.br/operacao-contra-trafico-e-lavagem-de-dinheiro-atinge-itapema-e-outras-sete-cidades-de-sc",
+    "title": "Operação em Santa Catarina prende três suspeitos e apreende drogas, armas e dinheiro em investigação contra organização criminosa",
+    "guid": "scmulti:89306098a7732b864b913fa4f83d215628162f0c",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_89306098a7732b864b913fa4f83d215628162f0c/",
+    "usedAt": 1786212019964,
+    "usedAtIso": "2026-08-08T18:00:19.964Z"
+  },
+  "source:547c5a15ad696b42cce9b2e98a5e967f6e299f01": {
+    "url": "https://visornoticias.com.br/adocao-pracas-criciuma",
+    "title": "Praça Vilmar Zózimo Peixoto é revitalizada em Criciúma por parceria entre Prefeitura e Giassi Construtora",
+    "guid": "scmulti:6ff2f86a99bdcc25055b1ccb9d934066f9332056",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_6ff2f86a99bdcc25055b1ccb9d934066f9332056/",
+    "usedAt": 1786212019964,
+    "usedAtIso": "2026-08-08T18:00:19.964Z"
   }
 }
