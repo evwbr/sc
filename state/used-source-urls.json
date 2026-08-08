@@ -1,4 +1,12 @@
 {
+  "source:bce578c2d786ab3c888266e85c5426116f272fb3": {
+    "url": "https://visornoticias.com.br/homem-invade-propriedades-durante-a-madrugada-e-e-encontrado-morto-pouco-depois-no-norte-de-sc",
+    "title": "Homem é encontrado morto após entrar em propriedades e causar temor em moradores de Santa Catarina",
+    "guid": "scmulti:a214802dfe3cf392f185b921a6a34482848c5baf",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_a214802dfe3cf392f185b921a6a34482848c5baf/",
+    "usedAt": 1786215619574,
+    "usedAtIso": "2026-08-08T19:00:19.574Z"
+  },
   "source:ae16dd4e9ee21bff80d12963b37877901108180e": {
     "url": "https://visornoticias.com.br/cadaver-e-enterrado-nos-fundos-de-casa-e-mpsc-denuncia-dupla-por-homicidio-em-sc",
     "title": "Ministério Público pede indenização de R$ 200 mil em processo criminal na Comarca de Pinhalzinho",
@@ -7271,12 +7279,20 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:bce578c2d786ab3c888266e85c5426116f272fb3": {
-    "url": "https://visornoticias.com.br/homem-invade-propriedades-durante-a-madrugada-e-e-encontrado-morto-pouco-depois-no-norte-de-sc",
-    "title": "Homem é encontrado morto após entrar em propriedades e causar temor em moradores de Santa Catarina",
-    "guid": "scmulti:a214802dfe3cf392f185b921a6a34482848c5baf",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_a214802dfe3cf392f185b921a6a34482848c5baf/",
-    "usedAt": 1786215619574,
-    "usedAtIso": "2026-08-08T19:00:19.574Z"
+  "source:0832acf7dc0e8c35062ab14a08968cc7644bd70a": {
+    "url": "https://visornoticias.com.br/justica-de-sc-autoriza-mulher-a-excluir-nome-do-pai-da-certidao-apos-condenacao-por-violencia-sexual",
+    "title": "Justiça de Criciúma autoriza exclusão do nome do pai e mudança de prenome em certidão de nascimento",
+    "guid": "scmulti:264db4c84e4d55aa3782cef40ce095f0d83f2a0a",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_264db4c84e4d55aa3782cef40ce095f0d83f2a0a/",
+    "usedAt": 1786222823221,
+    "usedAtIso": "2026-08-08T21:00:23.221Z"
+  },
+  "source:4ec3f67ca6e4145e99824e01f7ec14bb1c5e733f": {
+    "url": "https://visornoticias.com.br/cratera-se-abre-em-rua-de-brusque-e-caminhao-da-coleta-de-lixo-fica-preso",
+    "title": "Acidente com caminhão deixa trabalhador ferido em Brusque e mobiliza equipes para reparos",
+    "guid": "scmulti:c92c170d5b3a991e4a87cd4cc75b0de17b8b931b",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_c92c170d5b3a991e4a87cd4cc75b0de17b8b931b/",
+    "usedAt": 1786222823221,
+    "usedAtIso": "2026-08-08T21:00:23.221Z"
   }
 }
