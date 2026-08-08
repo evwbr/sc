@@ -1,4 +1,20 @@
 {
+  "source:00c9d223b0b20726aa2cdcce9bb551570e75bcd8": {
+    "url": "https://visornoticias.com.br/conta-de-agua-de-r-24-milhoes-assusta-moradora-no-litoral-norte-de-sc",
+    "title": "Moradores de Vila Nova recebem cobranças milionárias equivocadas da Casan",
+    "guid": "scmulti:37be5f77bb30b39a6d30fd1eace7540280e4ba04",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_37be5f77bb30b39a6d30fd1eace7540280e4ba04/",
+    "usedAt": 1786136419743,
+    "usedAtIso": "2026-08-07T21:00:19.743Z"
+  },
+  "source:68fa694fe324e504297bbebdde7c984d7c1ac6f5": {
+    "url": "https://visornoticias.com.br/lei-maria-da-penha-completa-20-anos-e-reforca-alerta-contra-violencia-nos-condominios",
+    "title": "Lei Maria da Penha completa 20 anos e reforça papel dos condomínios no combate à violência contra a mulher",
+    "guid": "scmulti:0ed6fe78e34afd349d6b993f5f1ba098609b4d8a",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_0ed6fe78e34afd349d6b993f5f1ba098609b4d8a/",
+    "usedAt": 1786136419743,
+    "usedAtIso": "2026-08-07T21:00:19.743Z"
+  },
   "source:d5cc54ecae9609cfc4bb4972a44161f62e0e804f": {
     "url": "https://visornoticias.com.br/motociclista-morre-em-acidente-e-br-101-e-bloqueada-em-sao-jose",
     "title": "Motociclista morre em acidente na BR-101 em Balneário Camboriú e trânsito fica congestionado",
@@ -7167,20 +7183,12 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:00c9d223b0b20726aa2cdcce9bb551570e75bcd8": {
-    "url": "https://visornoticias.com.br/conta-de-agua-de-r-24-milhoes-assusta-moradora-no-litoral-norte-de-sc",
-    "title": "Moradores de Vila Nova recebem cobranças milionárias equivocadas da Casan",
-    "guid": "scmulti:37be5f77bb30b39a6d30fd1eace7540280e4ba04",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_37be5f77bb30b39a6d30fd1eace7540280e4ba04/",
-    "usedAt": 1786136419743,
-    "usedAtIso": "2026-08-07T21:00:19.743Z"
-  },
-  "source:68fa694fe324e504297bbebdde7c984d7c1ac6f5": {
-    "url": "https://visornoticias.com.br/lei-maria-da-penha-completa-20-anos-e-reforca-alerta-contra-violencia-nos-condominios",
-    "title": "Lei Maria da Penha completa 20 anos e reforça papel dos condomínios no combate à violência contra a mulher",
-    "guid": "scmulti:0ed6fe78e34afd349d6b993f5f1ba098609b4d8a",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_0ed6fe78e34afd349d6b993f5f1ba098609b4d8a/",
-    "usedAt": 1786136419743,
-    "usedAtIso": "2026-08-07T21:00:19.743Z"
+  "source:e10d63e61148b57ec078c9b7280dbf54e1cbc004": {
+    "url": "https://visornoticias.com.br/condutor-nao-consegue-frear-a-tempo-bate-contra-moto-e-deixa-tres-feridos-em-itapema",
+    "title": "Acidente entre motocicletas deixa uma pessoa gravemente ferida em rodovia de Santa Catarina",
+    "guid": "scmulti:71be624ce7be6b16008a19830045d85ff88a1c59",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_71be624ce7be6b16008a19830045d85ff88a1c59/",
+    "usedAt": 1786190419688,
+    "usedAtIso": "2026-08-08T12:00:19.688Z"
   }
 }
