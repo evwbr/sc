@@ -1,4 +1,12 @@
 {
+  "source:8c616dcd538c4b851542e0d6b84351b53df11635": {
+    "url": "https://visornoticias.com.br/defesa-civil-alerta-para-temporal-com-raios-e-rajadas-de-vento-em-balneario-camboriu",
+    "title": "Defesa Civil emite alerta para temporais com raios, granizo e alagamentos em Balneário Camboriú",
+    "guid": "scmulti:b26e8b50c0f8bb527202e5bc92e2cd0c6d7b9355",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_b26e8b50c0f8bb527202e5bc92e2cd0c6d7b9355/",
+    "usedAt": 1786201219774,
+    "usedAtIso": "2026-08-08T15:00:19.774Z"
+  },
   "source:ad7f31cccb7a1f3921fb71bec7d6e1a9b4ac29d5": {
     "url": "https://visornoticias.com.br/homem-e-encontrado-morto-a-tiros-durante-a-madrugada-em-itapema",
     "title": "Homem é encontrado morto com ferimentos por arma de fogo em Balneário Camboriú",
@@ -7231,12 +7239,12 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:8c616dcd538c4b851542e0d6b84351b53df11635": {
-    "url": "https://visornoticias.com.br/defesa-civil-alerta-para-temporal-com-raios-e-rajadas-de-vento-em-balneario-camboriu",
-    "title": "Defesa Civil emite alerta para temporais com raios, granizo e alagamentos em Balneário Camboriú",
-    "guid": "scmulti:b26e8b50c0f8bb527202e5bc92e2cd0c6d7b9355",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_b26e8b50c0f8bb527202e5bc92e2cd0c6d7b9355/",
-    "usedAt": 1786201219774,
-    "usedAtIso": "2026-08-08T15:00:19.774Z"
+  "source:41d2f718b16907f2c27b50aaae2b9c9b0c2754b9": {
+    "url": "https://visornoticias.com.br/operacao-contra-o-trafico-termina-com-dois-presos-e-mais-de-r-6-mil-apreendidos-no-vale-do-itajai",
+    "title": "Polícia apreende drogas, celulares e dinheiro em operação em Santa Catarina",
+    "guid": "scmulti:d270b11e3b2a0f7eff634920c420486934d45ed2",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_d270b11e3b2a0f7eff634920c420486934d45ed2/",
+    "usedAt": 1786208419525,
+    "usedAtIso": "2026-08-08T17:00:19.525Z"
   }
 }
