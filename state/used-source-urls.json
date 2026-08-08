@@ -1,4 +1,28 @@
 {
+  "source:ad7f31cccb7a1f3921fb71bec7d6e1a9b4ac29d5": {
+    "url": "https://visornoticias.com.br/homem-e-encontrado-morto-a-tiros-durante-a-madrugada-em-itapema",
+    "title": "Homem é encontrado morto com ferimentos por arma de fogo em Balneário Camboriú",
+    "guid": "scmulti:10f6b82d435a30aa5843b0b021a65b067f5fa0bb",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_10f6b82d435a30aa5843b0b021a65b067f5fa0bb/",
+    "usedAt": 1786197619629,
+    "usedAtIso": "2026-08-08T14:00:19.629Z"
+  },
+  "source:6cee2a5b595ef858f22b0c4044cb9e43b4ec55de": {
+    "url": "https://visornoticias.com.br/suspeito-de-furtar-hilux-morre-em-confronto-com-a-pm-no-norte-de-sc",
+    "title": "Polícia Militar recupera caminhonete furtada em Penha e suspeito morre em confronto em Araquari",
+    "guid": "scmulti:322ccdfc6349641c34dc5068e53d73ddc2c73fa8",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_322ccdfc6349641c34dc5068e53d73ddc2c73fa8/",
+    "usedAt": 1786197619629,
+    "usedAtIso": "2026-08-08T14:00:19.629Z"
+  },
+  "source:fb0e0adc38629e71900ec8d352d75a839bdab196": {
+    "url": "https://visornoticias.com.br/trafico-internacional-de-mulheres-paraguaias-para-prostituicao-e-alvo-de-operacao-no-norte-de-sc",
+    "title": "Polícia resgata mulher mantida contra vontade em estabelecimento de Itapoá durante operação contra exploração sexual",
+    "guid": "scmulti:87955cef54cd68607e6488ba5bceda8a70cb0e87",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_87955cef54cd68607e6488ba5bceda8a70cb0e87/",
+    "usedAt": 1786197619629,
+    "usedAtIso": "2026-08-08T14:00:19.629Z"
+  },
   "source:5f2abc5ef2f21f0149b99e7f161f1a09888923ad": {
     "url": "https://visornoticias.com.br/investigacao-aponta-emboscada-antes-de-homem-ser-encontrado-morto-no-rio-itajai-acu-em-sc",
     "title": "Polícia Civil investiga morte de homem afogado no Rio Itajaí-Açu com suspeita de ligação a desaparecimento de drogas",
@@ -7207,28 +7231,12 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:ad7f31cccb7a1f3921fb71bec7d6e1a9b4ac29d5": {
-    "url": "https://visornoticias.com.br/homem-e-encontrado-morto-a-tiros-durante-a-madrugada-em-itapema",
-    "title": "Homem é encontrado morto com ferimentos por arma de fogo em Balneário Camboriú",
-    "guid": "scmulti:10f6b82d435a30aa5843b0b021a65b067f5fa0bb",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_10f6b82d435a30aa5843b0b021a65b067f5fa0bb/",
-    "usedAt": 1786197619629,
-    "usedAtIso": "2026-08-08T14:00:19.629Z"
-  },
-  "source:6cee2a5b595ef858f22b0c4044cb9e43b4ec55de": {
-    "url": "https://visornoticias.com.br/suspeito-de-furtar-hilux-morre-em-confronto-com-a-pm-no-norte-de-sc",
-    "title": "Polícia Militar recupera caminhonete furtada em Penha e suspeito morre em confronto em Araquari",
-    "guid": "scmulti:322ccdfc6349641c34dc5068e53d73ddc2c73fa8",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_322ccdfc6349641c34dc5068e53d73ddc2c73fa8/",
-    "usedAt": 1786197619629,
-    "usedAtIso": "2026-08-08T14:00:19.629Z"
-  },
-  "source:fb0e0adc38629e71900ec8d352d75a839bdab196": {
-    "url": "https://visornoticias.com.br/trafico-internacional-de-mulheres-paraguaias-para-prostituicao-e-alvo-de-operacao-no-norte-de-sc",
-    "title": "Polícia resgata mulher mantida contra vontade em estabelecimento de Itapoá durante operação contra exploração sexual",
-    "guid": "scmulti:87955cef54cd68607e6488ba5bceda8a70cb0e87",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_87955cef54cd68607e6488ba5bceda8a70cb0e87/",
-    "usedAt": 1786197619629,
-    "usedAtIso": "2026-08-08T14:00:19.629Z"
+  "source:8c616dcd538c4b851542e0d6b84351b53df11635": {
+    "url": "https://visornoticias.com.br/defesa-civil-alerta-para-temporal-com-raios-e-rajadas-de-vento-em-balneario-camboriu",
+    "title": "Defesa Civil emite alerta para temporais com raios, granizo e alagamentos em Balneário Camboriú",
+    "guid": "scmulti:b26e8b50c0f8bb527202e5bc92e2cd0c6d7b9355",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_b26e8b50c0f8bb527202e5bc92e2cd0c6d7b9355/",
+    "usedAt": 1786201219774,
+    "usedAtIso": "2026-08-08T15:00:19.774Z"
   }
 }
