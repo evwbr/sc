@@ -1,4 +1,20 @@
 {
+  "source:5f2abc5ef2f21f0149b99e7f161f1a09888923ad": {
+    "url": "https://visornoticias.com.br/investigacao-aponta-emboscada-antes-de-homem-ser-encontrado-morto-no-rio-itajai-acu-em-sc",
+    "title": "Polícia Civil investiga morte de homem afogado no Rio Itajaí-Açu com suspeita de ligação a desaparecimento de drogas",
+    "guid": "scmulti:4f2903589c09f363e80f5db74841b0437231777d",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_4f2903589c09f363e80f5db74841b0437231777d/",
+    "usedAt": 1786194019472,
+    "usedAtIso": "2026-08-08T13:00:19.472Z"
+  },
+  "source:4ac2776b6953b51bf83263d18477540debc355b5": {
+    "url": "https://visornoticias.com.br/menino-de-3-anos-morre-afogado-em-piscina-nos-fundos-de-casa-em-sc",
+    "title": "Menino morre afogado em piscina na residência da família em São João Batista",
+    "guid": "scmulti:f1750f66a78f3eeb1a6003ce5bc2a2211b6f5bf2",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_f1750f66a78f3eeb1a6003ce5bc2a2211b6f5bf2/",
+    "usedAt": 1786194019472,
+    "usedAtIso": "2026-08-08T13:00:19.472Z"
+  },
   "source:e10d63e61148b57ec078c9b7280dbf54e1cbc004": {
     "url": "https://visornoticias.com.br/condutor-nao-consegue-frear-a-tempo-bate-contra-moto-e-deixa-tres-feridos-em-itapema",
     "title": "Acidente entre motocicletas deixa uma pessoa gravemente ferida em rodovia de Santa Catarina",
@@ -7191,20 +7207,28 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:5f2abc5ef2f21f0149b99e7f161f1a09888923ad": {
-    "url": "https://visornoticias.com.br/investigacao-aponta-emboscada-antes-de-homem-ser-encontrado-morto-no-rio-itajai-acu-em-sc",
-    "title": "Polícia Civil investiga morte de homem afogado no Rio Itajaí-Açu com suspeita de ligação a desaparecimento de drogas",
-    "guid": "scmulti:4f2903589c09f363e80f5db74841b0437231777d",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_4f2903589c09f363e80f5db74841b0437231777d/",
-    "usedAt": 1786194019472,
-    "usedAtIso": "2026-08-08T13:00:19.472Z"
+  "source:ad7f31cccb7a1f3921fb71bec7d6e1a9b4ac29d5": {
+    "url": "https://visornoticias.com.br/homem-e-encontrado-morto-a-tiros-durante-a-madrugada-em-itapema",
+    "title": "Homem é encontrado morto com ferimentos por arma de fogo em Balneário Camboriú",
+    "guid": "scmulti:10f6b82d435a30aa5843b0b021a65b067f5fa0bb",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_10f6b82d435a30aa5843b0b021a65b067f5fa0bb/",
+    "usedAt": 1786197619629,
+    "usedAtIso": "2026-08-08T14:00:19.629Z"
   },
-  "source:4ac2776b6953b51bf83263d18477540debc355b5": {
-    "url": "https://visornoticias.com.br/menino-de-3-anos-morre-afogado-em-piscina-nos-fundos-de-casa-em-sc",
-    "title": "Menino morre afogado em piscina na residência da família em São João Batista",
-    "guid": "scmulti:f1750f66a78f3eeb1a6003ce5bc2a2211b6f5bf2",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_f1750f66a78f3eeb1a6003ce5bc2a2211b6f5bf2/",
-    "usedAt": 1786194019472,
-    "usedAtIso": "2026-08-08T13:00:19.472Z"
+  "source:6cee2a5b595ef858f22b0c4044cb9e43b4ec55de": {
+    "url": "https://visornoticias.com.br/suspeito-de-furtar-hilux-morre-em-confronto-com-a-pm-no-norte-de-sc",
+    "title": "Polícia Militar recupera caminhonete furtada em Penha e suspeito morre em confronto em Araquari",
+    "guid": "scmulti:322ccdfc6349641c34dc5068e53d73ddc2c73fa8",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_322ccdfc6349641c34dc5068e53d73ddc2c73fa8/",
+    "usedAt": 1786197619629,
+    "usedAtIso": "2026-08-08T14:00:19.629Z"
+  },
+  "source:fb0e0adc38629e71900ec8d352d75a839bdab196": {
+    "url": "https://visornoticias.com.br/trafico-internacional-de-mulheres-paraguaias-para-prostituicao-e-alvo-de-operacao-no-norte-de-sc",
+    "title": "Polícia resgata mulher mantida contra vontade em estabelecimento de Itapoá durante operação contra exploração sexual",
+    "guid": "scmulti:87955cef54cd68607e6488ba5bceda8a70cb0e87",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_87955cef54cd68607e6488ba5bceda8a70cb0e87/",
+    "usedAt": 1786197619629,
+    "usedAtIso": "2026-08-08T14:00:19.629Z"
   }
 }
