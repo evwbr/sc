@@ -1,4 +1,12 @@
 {
+  "source:9866b3e08d4bfcb4a1f4f7f356513eb24a1bcc6e": {
+    "url": "https://visornoticias.com.br/ex-marido-e-preso-apos-agredir-mulher-que-foi-buscar-o-filho-em-bar-de-balneario-camboriu",
+    "title": "Homem é preso após agredir ex-companheira em bar de Balneário Camboriú",
+    "guid": "scmulti:f5318361640c436ab184156037161fd74393137b",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_f5318361640c436ab184156037161fd74393137b/",
+    "usedAt": 1786226419656,
+    "usedAtIso": "2026-08-08T22:00:19.656Z"
+  },
   "source:0832acf7dc0e8c35062ab14a08968cc7644bd70a": {
     "url": "https://visornoticias.com.br/justica-de-sc-autoriza-mulher-a-excluir-nome-do-pai-da-certidao-apos-condenacao-por-violencia-sexual",
     "title": "Justiça de Criciúma autoriza exclusão do nome do pai e mudança de prenome em certidão de nascimento",
@@ -7295,12 +7303,20 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:9866b3e08d4bfcb4a1f4f7f356513eb24a1bcc6e": {
-    "url": "https://visornoticias.com.br/ex-marido-e-preso-apos-agredir-mulher-que-foi-buscar-o-filho-em-bar-de-balneario-camboriu",
-    "title": "Homem é preso após agredir ex-companheira em bar de Balneário Camboriú",
-    "guid": "scmulti:f5318361640c436ab184156037161fd74393137b",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_f5318361640c436ab184156037161fd74393137b/",
-    "usedAt": 1786226419656,
-    "usedAtIso": "2026-08-08T22:00:19.656Z"
+  "source:37839fdef062dca0e9d4a203db1bbb2441aa2a0f": {
+    "url": "https://visornoticias.com.br/motociclista-de-47-anos-morre-em-acidente-com-carros-em-rodovia-de-sc",
+    "title": "Motociclista de 47 anos morre em acidente envolvendo três carros na Santa Catarina-350 em Rio do Sul",
+    "guid": "scmulti:6990054036f316e0cc0e1c1686d5e85b811576cc",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_6990054036f316e0cc0e1c1686d5e85b811576cc/",
+    "usedAt": 1786230019598,
+    "usedAtIso": "2026-08-08T23:00:19.598Z"
+  },
+  "source:debe532856d815a232b1f898acd739dab1d82eac": {
+    "url": "https://visornoticias.com.br/domingo-sera-de-chuva-temporais-isolados-e-mar-agitado-em-sc",
+    "title": "Santa Catarina enfrenta domingo com tempo instável e risco de temporais isolados",
+    "guid": "scmulti:032c575da93f61228c9ef0ef318ce91024ceef20",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_032c575da93f61228c9ef0ef318ce91024ceef20/",
+    "usedAt": 1786230019598,
+    "usedAtIso": "2026-08-08T23:00:19.598Z"
   }
 }
