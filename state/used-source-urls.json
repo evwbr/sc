@@ -1,4 +1,28 @@
 {
+  "source:7217c6c5d069f026c5b222af755e6e533ca8bf24": {
+    "url": "https://visornoticias.com.br/tornado-atinge-zona-rural-do-parana-e-deixa-rastro-de-destruicao",
+    "title": "Tornado provoca danos no Assentamento Santa Clara, em Candói",
+    "guid": "scmulti:8e0befc1794e995f96221e250b00197ffc07acc5",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_8e0befc1794e995f96221e250b00197ffc07acc5/",
+    "usedAt": 1786276819646,
+    "usedAtIso": "2026-08-09T12:00:19.646Z"
+  },
+  "source:f6609d359aab168c4f0c503e8ccf9fdbc9f90a91": {
+    "url": "https://visornoticias.com.br/incendio-atinge-casa-de-dois-pavimentos-e-deixa-homem-ferido-em-itapema",
+    "title": "Incêndio em residência mobiliza bombeiros e deixa homem ferido em Santa Catarina",
+    "guid": "scmulti:024c23cdf1b632fa14d287fe8c85153a68248c46",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_024c23cdf1b632fa14d287fe8c85153a68248c46/",
+    "usedAt": 1786276819646,
+    "usedAtIso": "2026-08-09T12:00:19.646Z"
+  },
+  "source:3893cbe6ed1b50beefd3c011a618085ed2d7647b": {
+    "url": "https://visornoticias.com.br/frente-fria-mantem-sc-sob-risco-de-temporais-granizo-e-alagamentos-costeiros",
+    "title": "Santa Catarina enfrenta risco de temporais e mar agitado com possibilidade de alagamentos costeiros",
+    "guid": "scmulti:14831f234a301f76d3b45bef46175bc3da904124",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_14831f234a301f76d3b45bef46175bc3da904124/",
+    "usedAt": 1786276819646,
+    "usedAtIso": "2026-08-09T12:00:19.646Z"
+  },
   "source:37839fdef062dca0e9d4a203db1bbb2441aa2a0f": {
     "url": "https://visornoticias.com.br/motociclista-de-47-anos-morre-em-acidente-com-carros-em-rodovia-de-sc",
     "title": "Motociclista de 47 anos morre em acidente envolvendo três carros na Santa Catarina-350 em Rio do Sul",
@@ -7319,28 +7343,12 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:7217c6c5d069f026c5b222af755e6e533ca8bf24": {
-    "url": "https://visornoticias.com.br/tornado-atinge-zona-rural-do-parana-e-deixa-rastro-de-destruicao",
-    "title": "Tornado provoca danos no Assentamento Santa Clara, em Candói",
-    "guid": "scmulti:8e0befc1794e995f96221e250b00197ffc07acc5",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_8e0befc1794e995f96221e250b00197ffc07acc5/",
-    "usedAt": 1786276819646,
-    "usedAtIso": "2026-08-09T12:00:19.646Z"
-  },
-  "source:f6609d359aab168c4f0c503e8ccf9fdbc9f90a91": {
-    "url": "https://visornoticias.com.br/incendio-atinge-casa-de-dois-pavimentos-e-deixa-homem-ferido-em-itapema",
-    "title": "Incêndio em residência mobiliza bombeiros e deixa homem ferido em Santa Catarina",
-    "guid": "scmulti:024c23cdf1b632fa14d287fe8c85153a68248c46",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_024c23cdf1b632fa14d287fe8c85153a68248c46/",
-    "usedAt": 1786276819646,
-    "usedAtIso": "2026-08-09T12:00:19.646Z"
-  },
-  "source:3893cbe6ed1b50beefd3c011a618085ed2d7647b": {
-    "url": "https://visornoticias.com.br/frente-fria-mantem-sc-sob-risco-de-temporais-granizo-e-alagamentos-costeiros",
-    "title": "Santa Catarina enfrenta risco de temporais e mar agitado com possibilidade de alagamentos costeiros",
-    "guid": "scmulti:14831f234a301f76d3b45bef46175bc3da904124",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_14831f234a301f76d3b45bef46175bc3da904124/",
-    "usedAt": 1786276819646,
-    "usedAtIso": "2026-08-09T12:00:19.646Z"
+  "source:851b2f72ba7ba94ccf19588e93d1d6eae543970c": {
+    "url": "https://visornoticias.com.br/adolescente-de-16-anos-morre-apos-grave-acidente-na-sc-410-em-canelinha",
+    "title": "Adolescente morre após colisão entre motocicleta e carro na Santa Catarina-410 em Santa Catarina",
+    "guid": "scmulti:ddad0024d5ec2f859856e98a77ace5b66018fb1f",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_ddad0024d5ec2f859856e98a77ace5b66018fb1f/",
+    "usedAt": 1786280419609,
+    "usedAtIso": "2026-08-09T13:00:19.609Z"
   }
 }
