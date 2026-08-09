@@ -1,4 +1,20 @@
 {
+  "source:bd5d671d8a31388139817126df45860c4a4f9254": {
+    "url": "https://visornoticias.com.br/tempestades-deixam-mais-de-26-mil-pessoas-fora-de-casa-no-rio-grande-do-sul",
+    "title": "Fortes tempestades deixam 686 desalojados e uma morte no Rio Grande do Sul",
+    "guid": "scmulti:82637e58bea51cb1c4d8ec2c300b9c252057a34c",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_82637e58bea51cb1c4d8ec2c300b9c252057a34c/",
+    "usedAt": 1786302019631,
+    "usedAtIso": "2026-08-09T19:00:19.631Z"
+  },
+  "source:90a58bcc336b616b30554a390415268c44c06f31": {
+    "url": "https://visornoticias.com.br/defesa-civil-emite-alerta-de-temporais-e-alagamentos-nas-proximas-horas-em-sc",
+    "title": "Defesa Civil alerta para temporais isolados em regiões de Santa Catarina",
+    "guid": "scmulti:6f0678030f980b473333e8460ebd7baf0e31b15b",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_6f0678030f980b473333e8460ebd7baf0e31b15b/",
+    "usedAt": 1786302019631,
+    "usedAtIso": "2026-08-09T19:00:19.631Z"
+  },
   "source:343e909a1cc3b5679b3cde6cf676438473b440d5": {
     "url": "https://visornoticias.com.br/catarinense-corre-866-km-em-sete-dias-e-quebra-recorde-mundial-em-florianopolis",
     "title": "Débora Simas bate recorde mundial feminino de corrida em esteira após 168 horas em Florianópolis",
@@ -7367,20 +7383,12 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:bd5d671d8a31388139817126df45860c4a4f9254": {
-    "url": "https://visornoticias.com.br/tempestades-deixam-mais-de-26-mil-pessoas-fora-de-casa-no-rio-grande-do-sul",
-    "title": "Fortes tempestades deixam 686 desalojados e uma morte no Rio Grande do Sul",
-    "guid": "scmulti:82637e58bea51cb1c4d8ec2c300b9c252057a34c",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_82637e58bea51cb1c4d8ec2c300b9c252057a34c/",
-    "usedAt": 1786302019631,
-    "usedAtIso": "2026-08-09T19:00:19.631Z"
-  },
-  "source:90a58bcc336b616b30554a390415268c44c06f31": {
-    "url": "https://visornoticias.com.br/defesa-civil-emite-alerta-de-temporais-e-alagamentos-nas-proximas-horas-em-sc",
-    "title": "Defesa Civil alerta para temporais isolados em regiões de Santa Catarina",
-    "guid": "scmulti:6f0678030f980b473333e8460ebd7baf0e31b15b",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_6f0678030f980b473333e8460ebd7baf0e31b15b/",
-    "usedAt": 1786302019631,
-    "usedAtIso": "2026-08-09T19:00:19.631Z"
+  "source:9ce9e5d86625a1ca5a5d4fcd0cec2d0e4944da39": {
+    "url": "https://visornoticias.com.br/frio-chuva-e-mar-agitado-marcam-a-segunda-feira-em-santa-catarina",
+    "title": "Defesa Civil alerta para temporais isolados e frio intenso em Santa Catarina",
+    "guid": "scmulti:6b56bdb1fb9a1cc9bc9353a8aea69e6344f6bb7b",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_6b56bdb1fb9a1cc9bc9353a8aea69e6344f6bb7b/",
+    "usedAt": 1786309219463,
+    "usedAtIso": "2026-08-09T21:00:19.463Z"
   }
 }
