@@ -1,4 +1,20 @@
 {
+  "source:37839fdef062dca0e9d4a203db1bbb2441aa2a0f": {
+    "url": "https://visornoticias.com.br/motociclista-de-47-anos-morre-em-acidente-com-carros-em-rodovia-de-sc",
+    "title": "Motociclista de 47 anos morre em acidente envolvendo três carros na Santa Catarina-350 em Rio do Sul",
+    "guid": "scmulti:6990054036f316e0cc0e1c1686d5e85b811576cc",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_6990054036f316e0cc0e1c1686d5e85b811576cc/",
+    "usedAt": 1786230019598,
+    "usedAtIso": "2026-08-08T23:00:19.598Z"
+  },
+  "source:debe532856d815a232b1f898acd739dab1d82eac": {
+    "url": "https://visornoticias.com.br/domingo-sera-de-chuva-temporais-isolados-e-mar-agitado-em-sc",
+    "title": "Santa Catarina enfrenta domingo com tempo instável e risco de temporais isolados",
+    "guid": "scmulti:032c575da93f61228c9ef0ef318ce91024ceef20",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_032c575da93f61228c9ef0ef318ce91024ceef20/",
+    "usedAt": 1786230019598,
+    "usedAtIso": "2026-08-08T23:00:19.598Z"
+  },
   "source:9866b3e08d4bfcb4a1f4f7f356513eb24a1bcc6e": {
     "url": "https://visornoticias.com.br/ex-marido-e-preso-apos-agredir-mulher-que-foi-buscar-o-filho-em-bar-de-balneario-camboriu",
     "title": "Homem é preso após agredir ex-companheira em bar de Balneário Camboriú",
@@ -7303,20 +7319,28 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:37839fdef062dca0e9d4a203db1bbb2441aa2a0f": {
-    "url": "https://visornoticias.com.br/motociclista-de-47-anos-morre-em-acidente-com-carros-em-rodovia-de-sc",
-    "title": "Motociclista de 47 anos morre em acidente envolvendo três carros na Santa Catarina-350 em Rio do Sul",
-    "guid": "scmulti:6990054036f316e0cc0e1c1686d5e85b811576cc",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_6990054036f316e0cc0e1c1686d5e85b811576cc/",
-    "usedAt": 1786230019598,
-    "usedAtIso": "2026-08-08T23:00:19.598Z"
+  "source:7217c6c5d069f026c5b222af755e6e533ca8bf24": {
+    "url": "https://visornoticias.com.br/tornado-atinge-zona-rural-do-parana-e-deixa-rastro-de-destruicao",
+    "title": "Tornado provoca danos no Assentamento Santa Clara, em Candói",
+    "guid": "scmulti:8e0befc1794e995f96221e250b00197ffc07acc5",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_8e0befc1794e995f96221e250b00197ffc07acc5/",
+    "usedAt": 1786276819646,
+    "usedAtIso": "2026-08-09T12:00:19.646Z"
   },
-  "source:debe532856d815a232b1f898acd739dab1d82eac": {
-    "url": "https://visornoticias.com.br/domingo-sera-de-chuva-temporais-isolados-e-mar-agitado-em-sc",
-    "title": "Santa Catarina enfrenta domingo com tempo instável e risco de temporais isolados",
-    "guid": "scmulti:032c575da93f61228c9ef0ef318ce91024ceef20",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_032c575da93f61228c9ef0ef318ce91024ceef20/",
-    "usedAt": 1786230019598,
-    "usedAtIso": "2026-08-08T23:00:19.598Z"
+  "source:f6609d359aab168c4f0c503e8ccf9fdbc9f90a91": {
+    "url": "https://visornoticias.com.br/incendio-atinge-casa-de-dois-pavimentos-e-deixa-homem-ferido-em-itapema",
+    "title": "Incêndio em residência mobiliza bombeiros e deixa homem ferido em Santa Catarina",
+    "guid": "scmulti:024c23cdf1b632fa14d287fe8c85153a68248c46",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_024c23cdf1b632fa14d287fe8c85153a68248c46/",
+    "usedAt": 1786276819646,
+    "usedAtIso": "2026-08-09T12:00:19.646Z"
+  },
+  "source:3893cbe6ed1b50beefd3c011a618085ed2d7647b": {
+    "url": "https://visornoticias.com.br/frente-fria-mantem-sc-sob-risco-de-temporais-granizo-e-alagamentos-costeiros",
+    "title": "Santa Catarina enfrenta risco de temporais e mar agitado com possibilidade de alagamentos costeiros",
+    "guid": "scmulti:14831f234a301f76d3b45bef46175bc3da904124",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_14831f234a301f76d3b45bef46175bc3da904124/",
+    "usedAt": 1786276819646,
+    "usedAtIso": "2026-08-09T12:00:19.646Z"
   }
 }
