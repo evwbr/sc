@@ -1,4 +1,12 @@
 {
+  "source:27859413c55daeffccc49dc04f3eceb1d2a9a98c": {
+    "url": "https://visornoticias.com.br/caminhao-com-mais-de-5-toneladas-de-camarao-escondidas-sob-palha-de-arroz-e-apreendido-em-sc",
+    "title": "Carga de 5,3 toneladas de camarão irregular é apreendida na BR-470 em Santa Catarina",
+    "guid": "scmulti:4b29934b451b9d8fefb151f2dfc1a0112825dc8e",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_4b29934b451b9d8fefb151f2dfc1a0112825dc8e/",
+    "usedAt": 1786287619369,
+    "usedAtIso": "2026-08-09T15:00:19.369Z"
+  },
   "source:851b2f72ba7ba94ccf19588e93d1d6eae543970c": {
     "url": "https://visornoticias.com.br/adolescente-de-16-anos-morre-apos-grave-acidente-na-sc-410-em-canelinha",
     "title": "Adolescente morre após colisão entre motocicleta e carro na Santa Catarina-410 em Santa Catarina",
@@ -7351,12 +7359,12 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:27859413c55daeffccc49dc04f3eceb1d2a9a98c": {
-    "url": "https://visornoticias.com.br/caminhao-com-mais-de-5-toneladas-de-camarao-escondidas-sob-palha-de-arroz-e-apreendido-em-sc",
-    "title": "Carga de 5,3 toneladas de camarão irregular é apreendida na BR-470 em Santa Catarina",
-    "guid": "scmulti:4b29934b451b9d8fefb151f2dfc1a0112825dc8e",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_4b29934b451b9d8fefb151f2dfc1a0112825dc8e/",
-    "usedAt": 1786287619369,
-    "usedAtIso": "2026-08-09T15:00:19.369Z"
+  "source:343e909a1cc3b5679b3cde6cf676438473b440d5": {
+    "url": "https://visornoticias.com.br/catarinense-corre-866-km-em-sete-dias-e-quebra-recorde-mundial-em-florianopolis",
+    "title": "Débora Simas bate recorde mundial feminino de corrida em esteira após 168 horas em Florianópolis",
+    "guid": "scmulti:63b21553d381824cb9b7a238f04a2a80fb06d6a4",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_63b21553d381824cb9b7a238f04a2a80fb06d6a4/",
+    "usedAt": 1786291219997,
+    "usedAtIso": "2026-08-09T16:00:19.997Z"
   }
 }
