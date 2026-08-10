@@ -1,4 +1,20 @@
 {
+  "source:8d40f7acada86080afc6251108cf1d217eb5e1fe": {
+    "url": "https://visornoticias.com.br/acidente-entre-carro-e-carreta-mata-bebe-de-seis-meses-na-br-470-em-sc",
+    "title": "Bebê é levado ao hospital após acidente envolvendo carro e carreta em Santa Catarina",
+    "guid": "scmulti:a8250a05e1194b27cde1866fea698b4b7e8b69d8",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_a8250a05e1194b27cde1866fea698b4b7e8b69d8/",
+    "usedAt": 1786370419842,
+    "usedAtIso": "2026-08-10T14:00:19.842Z"
+  },
+  "source:d1a1150766b7ab996026fb9de8b730cf77b3b90d": {
+    "url": "https://visornoticias.com.br/carro-fica-destruido-apos-batida-frontal-com-caminhao-na-br-282-em-sc",
+    "title": "Colisão frontal entre carro e caminhão deixa veículo destruído na BR-282 em Ponte Serrada",
+    "guid": "scmulti:6803ce47e76f75022af59a1b2749007838c6de66",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_6803ce47e76f75022af59a1b2749007838c6de66/",
+    "usedAt": 1786370419842,
+    "usedAtIso": "2026-08-10T14:00:19.842Z"
+  },
   "source:98cff182c837e06252e2b610d0e37de10905b89c": {
     "url": "https://visornoticias.com.br/homem-avanca-com-barra-de-ferro-contra-motorista-e-danifica-carro-em-itapema",
     "title": "Policial impede agressão e apreende barra de ferro em Balneário Camboriú",
@@ -7455,20 +7471,12 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:8d40f7acada86080afc6251108cf1d217eb5e1fe": {
-    "url": "https://visornoticias.com.br/acidente-entre-carro-e-carreta-mata-bebe-de-seis-meses-na-br-470-em-sc",
-    "title": "Bebê é levado ao hospital após acidente envolvendo carro e carreta em Santa Catarina",
-    "guid": "scmulti:a8250a05e1194b27cde1866fea698b4b7e8b69d8",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_a8250a05e1194b27cde1866fea698b4b7e8b69d8/",
-    "usedAt": 1786370419842,
-    "usedAtIso": "2026-08-10T14:00:19.842Z"
-  },
-  "source:d1a1150766b7ab996026fb9de8b730cf77b3b90d": {
-    "url": "https://visornoticias.com.br/carro-fica-destruido-apos-batida-frontal-com-caminhao-na-br-282-em-sc",
-    "title": "Colisão frontal entre carro e caminhão deixa veículo destruído na BR-282 em Ponte Serrada",
-    "guid": "scmulti:6803ce47e76f75022af59a1b2749007838c6de66",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_6803ce47e76f75022af59a1b2749007838c6de66/",
-    "usedAt": 1786370419842,
-    "usedAtIso": "2026-08-10T14:00:19.842Z"
+  "source:bdc59f367e7da6f894c1670d25760a22af84c1e1": {
+    "url": "https://visornoticias.com.br/fiscalizacao-apreende-sete-aves-silvestres-mantidas-irregularmente-e-responsavel-e-autuado-em-itapema",
+    "title": "Sete aves silvestres são apreendidas em fiscalização em Itapema",
+    "guid": "scmulti:6ef5ad0245bf2951b18e7a1946b0c61fa7a48ec0",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_6ef5ad0245bf2951b18e7a1946b0c61fa7a48ec0/",
+    "usedAt": 1786374019747,
+    "usedAtIso": "2026-08-10T15:00:19.747Z"
   }
 }
