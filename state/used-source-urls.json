@@ -1,4 +1,12 @@
 {
+  "source:fe84c584b5fe1966aeb1f5e43b85e2a8a56dadbf": {
+    "url": "https://visornoticias.com.br/bombeiros-ampliam-buscas-por-mulher-de-64-anos-desaparecida-em-tijucas",
+    "title": "Buscas por mulher desaparecida são ampliadas no Rio Tijucas em Santa Catarina",
+    "guid": "scmulti:974ca5327f7c6d9760306f98d82b01d33b4287a0",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_974ca5327f7c6d9760306f98d82b01d33b4287a0/",
+    "usedAt": 1786377619630,
+    "usedAtIso": "2026-08-10T16:00:19.630Z"
+  },
   "source:bdc59f367e7da6f894c1670d25760a22af84c1e1": {
     "url": "https://visornoticias.com.br/fiscalizacao-apreende-sete-aves-silvestres-mantidas-irregularmente-e-responsavel-e-autuado-em-itapema",
     "title": "Sete aves silvestres são apreendidas em fiscalização em Itapema",
@@ -7479,12 +7487,12 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:fe84c584b5fe1966aeb1f5e43b85e2a8a56dadbf": {
-    "url": "https://visornoticias.com.br/bombeiros-ampliam-buscas-por-mulher-de-64-anos-desaparecida-em-tijucas",
-    "title": "Buscas por mulher desaparecida são ampliadas no Rio Tijucas em Santa Catarina",
-    "guid": "scmulti:974ca5327f7c6d9760306f98d82b01d33b4287a0",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_974ca5327f7c6d9760306f98d82b01d33b4287a0/",
-    "usedAt": 1786377619630,
-    "usedAtIso": "2026-08-10T16:00:19.630Z"
+  "source:b71ce43ea09732e46c34aca626dd14a7d77a3422": {
+    "url": "https://visornoticias.com.br/carreta-tomba-na-br-101-em-navegantes-e-provoca-fila-no-sentido-sul",
+    "title": "Tombamento de carreta interdita faixa da BR-101 em Navegantes e causa fila de 1 km",
+    "guid": "scmulti:e2a33b79a511cbf8fe8429e9e477d3f49c000929",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_e2a33b79a511cbf8fe8429e9e477d3f49c000929/",
+    "usedAt": 1786384819756,
+    "usedAtIso": "2026-08-10T18:00:19.756Z"
   }
 }
