@@ -1,4 +1,20 @@
 {
+  "source:34dfec1422d4831c99ac2e44e430c034d93ec432": {
+    "url": "https://visornoticias.com.br/casa-que-servia-de-esconderijo-e-apoio-ao-trafico-e-descoberta-pela-policia-em-itajai",
+    "title": "Polícia apreende drogas e materiais de tráfico em residência monitorada em Santa Catarina",
+    "guid": "scmulti:d4d663b44a9b793b231c9f8d1a68b9ebdb848bf0",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_d4d663b44a9b793b231c9f8d1a68b9ebdb848bf0/",
+    "usedAt": 1786356020571,
+    "usedAtIso": "2026-08-10T10:00:20.571Z"
+  },
+  "source:ea37a62152f2ec3f392e6dce915a6a3ea745828d": {
+    "url": "https://visornoticias.com.br/temperaturas-despencam-e-nova-frente-fria-aumenta-risco-de-temporais-em-sc",
+    "title": "Santa Catarina enfrenta instabilidade com chuva e temporais previstos até sexta-feira",
+    "guid": "scmulti:e5f074c0727623ca72b0396c46844c792cb9e0eb",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_e5f074c0727623ca72b0396c46844c792cb9e0eb/",
+    "usedAt": 1786356020571,
+    "usedAtIso": "2026-08-10T10:00:20.571Z"
+  },
   "source:fa645d09005f319123fb6e8bd1e39a9dbbf66023": {
     "url": "https://visornoticias.com.br/cameras-mostram-discussao-e-troca-de-tiros-em-crime-que-terminou-em-morte-em-itapema",
     "title": "Imagens de câmeras ajudam a esclarecer homicídio em Itapema durante a madrugada",
@@ -7407,20 +7423,20 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:34dfec1422d4831c99ac2e44e430c034d93ec432": {
-    "url": "https://visornoticias.com.br/casa-que-servia-de-esconderijo-e-apoio-ao-trafico-e-descoberta-pela-policia-em-itajai",
-    "title": "Polícia apreende drogas e materiais de tráfico em residência monitorada em Santa Catarina",
-    "guid": "scmulti:d4d663b44a9b793b231c9f8d1a68b9ebdb848bf0",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_d4d663b44a9b793b231c9f8d1a68b9ebdb848bf0/",
-    "usedAt": 1786356020571,
-    "usedAtIso": "2026-08-10T10:00:20.571Z"
+  "source:7b481fa36febaef3c20b2efc7118042726b8bf55": {
+    "url": "https://visornoticias.com.br/motorista-foge-para-mata-apos-perseguicao-de-12-km-e-carro-com-306-kg-de-maconha-atolar-em-sc",
+    "title": "Motorista abandona carro com 306 quilos de maconha após perseguição em rodovia de Santa Catarina",
+    "guid": "scmulti:dff782daac068271de1b18bd15ae4351b6cd4643",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_dff782daac068271de1b18bd15ae4351b6cd4643/",
+    "usedAt": 1786359619628,
+    "usedAtIso": "2026-08-10T11:00:19.628Z"
   },
-  "source:ea37a62152f2ec3f392e6dce915a6a3ea745828d": {
-    "url": "https://visornoticias.com.br/temperaturas-despencam-e-nova-frente-fria-aumenta-risco-de-temporais-em-sc",
-    "title": "Santa Catarina enfrenta instabilidade com chuva e temporais previstos até sexta-feira",
-    "guid": "scmulti:e5f074c0727623ca72b0396c46844c792cb9e0eb",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_e5f074c0727623ca72b0396c46844c792cb9e0eb/",
-    "usedAt": 1786356020571,
-    "usedAtIso": "2026-08-10T10:00:20.571Z"
+  "source:05e980c950b168c5c9909525f520a5b209f44d70": {
+    "url": "https://visornoticias.com.br/prf-bloqueia-contorno-viario-na-grande-florianopolis-por-seis-horas",
+    "title": "Polícia Rodoviária Federal realiza treinamento com bloqueio no Contorno Viário em Balneário Camboriú",
+    "guid": "scmulti:cc48de7c9c61a27fe94303aa5f5434ae8e6ccaeb",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_cc48de7c9c61a27fe94303aa5f5434ae8e6ccaeb/",
+    "usedAt": 1786359619628,
+    "usedAtIso": "2026-08-10T11:00:19.628Z"
   }
 }
