@@ -1,4 +1,20 @@
 {
+  "source:7b481fa36febaef3c20b2efc7118042726b8bf55": {
+    "url": "https://visornoticias.com.br/motorista-foge-para-mata-apos-perseguicao-de-12-km-e-carro-com-306-kg-de-maconha-atolar-em-sc",
+    "title": "Motorista abandona carro com 306 quilos de maconha após perseguição em rodovia de Santa Catarina",
+    "guid": "scmulti:dff782daac068271de1b18bd15ae4351b6cd4643",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_dff782daac068271de1b18bd15ae4351b6cd4643/",
+    "usedAt": 1786359619628,
+    "usedAtIso": "2026-08-10T11:00:19.628Z"
+  },
+  "source:05e980c950b168c5c9909525f520a5b209f44d70": {
+    "url": "https://visornoticias.com.br/prf-bloqueia-contorno-viario-na-grande-florianopolis-por-seis-horas",
+    "title": "Polícia Rodoviária Federal realiza treinamento com bloqueio no Contorno Viário em Balneário Camboriú",
+    "guid": "scmulti:cc48de7c9c61a27fe94303aa5f5434ae8e6ccaeb",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_cc48de7c9c61a27fe94303aa5f5434ae8e6ccaeb/",
+    "usedAt": 1786359619628,
+    "usedAtIso": "2026-08-10T11:00:19.628Z"
+  },
   "source:34dfec1422d4831c99ac2e44e430c034d93ec432": {
     "url": "https://visornoticias.com.br/casa-que-servia-de-esconderijo-e-apoio-ao-trafico-e-descoberta-pela-policia-em-itajai",
     "title": "Polícia apreende drogas e materiais de tráfico em residência monitorada em Santa Catarina",
@@ -7423,20 +7439,12 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:7b481fa36febaef3c20b2efc7118042726b8bf55": {
-    "url": "https://visornoticias.com.br/motorista-foge-para-mata-apos-perseguicao-de-12-km-e-carro-com-306-kg-de-maconha-atolar-em-sc",
-    "title": "Motorista abandona carro com 306 quilos de maconha após perseguição em rodovia de Santa Catarina",
-    "guid": "scmulti:dff782daac068271de1b18bd15ae4351b6cd4643",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_dff782daac068271de1b18bd15ae4351b6cd4643/",
-    "usedAt": 1786359619628,
-    "usedAtIso": "2026-08-10T11:00:19.628Z"
-  },
-  "source:05e980c950b168c5c9909525f520a5b209f44d70": {
-    "url": "https://visornoticias.com.br/prf-bloqueia-contorno-viario-na-grande-florianopolis-por-seis-horas",
-    "title": "Polícia Rodoviária Federal realiza treinamento com bloqueio no Contorno Viário em Balneário Camboriú",
-    "guid": "scmulti:cc48de7c9c61a27fe94303aa5f5434ae8e6ccaeb",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_cc48de7c9c61a27fe94303aa5f5434ae8e6ccaeb/",
-    "usedAt": 1786359619628,
-    "usedAtIso": "2026-08-10T11:00:19.628Z"
+  "source:a96b35654dd5d337aad8371c26478ed14ae5ff80": {
+    "url": "https://visornoticias.com.br/transito-na-br-101-faz-motoristas-enfrentarem-ate-duas-horas-de-congestionamento-em-itajai",
+    "title": "Congestionamentos causam atrasos de até duas horas em Itajaí e cidades vizinhas",
+    "guid": "scmulti:86e76e6f206980d501228a4d44fc83950e7e469e",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_86e76e6f206980d501228a4d44fc83950e7e469e/",
+    "usedAt": 1786363219614,
+    "usedAtIso": "2026-08-10T12:00:19.614Z"
   }
 }
