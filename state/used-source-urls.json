@@ -1,4 +1,20 @@
 {
+  "source:fa645d09005f319123fb6e8bd1e39a9dbbf66023": {
+    "url": "https://visornoticias.com.br/cameras-mostram-discussao-e-troca-de-tiros-em-crime-que-terminou-em-morte-em-itapema",
+    "title": "Imagens de câmeras ajudam a esclarecer homicídio em Itapema durante a madrugada",
+    "guid": "scmulti:47b24b9693fdbde61ba355cfcb0bc6850d4183d3",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_47b24b9693fdbde61ba355cfcb0bc6850d4183d3/",
+    "usedAt": 1786352419939,
+    "usedAtIso": "2026-08-10T09:00:19.939Z"
+  },
+  "source:84179d44db97529474d9d3a2fb6cae409d6a7889": {
+    "url": "https://visornoticias.com.br/carro-que-atingiu-poste-em-itapema-estava-envolvido-em-perseguicao-a-mulher",
+    "title": "Homem colide carro contra poste após discussão com companheira em Itapema",
+    "guid": "scmulti:1e3d1f97317b18f211a234eb919ed28a2aaac601",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_1e3d1f97317b18f211a234eb919ed28a2aaac601/",
+    "usedAt": 1786352419939,
+    "usedAtIso": "2026-08-10T09:00:19.939Z"
+  },
   "source:9ce9e5d86625a1ca5a5d4fcd0cec2d0e4944da39": {
     "url": "https://visornoticias.com.br/frio-chuva-e-mar-agitado-marcam-a-segunda-feira-em-santa-catarina",
     "title": "Defesa Civil alerta para temporais isolados e frio intenso em Santa Catarina",
@@ -7391,20 +7407,20 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:fa645d09005f319123fb6e8bd1e39a9dbbf66023": {
-    "url": "https://visornoticias.com.br/cameras-mostram-discussao-e-troca-de-tiros-em-crime-que-terminou-em-morte-em-itapema",
-    "title": "Imagens de câmeras ajudam a esclarecer homicídio em Itapema durante a madrugada",
-    "guid": "scmulti:47b24b9693fdbde61ba355cfcb0bc6850d4183d3",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_47b24b9693fdbde61ba355cfcb0bc6850d4183d3/",
-    "usedAt": 1786352419939,
-    "usedAtIso": "2026-08-10T09:00:19.939Z"
+  "source:34dfec1422d4831c99ac2e44e430c034d93ec432": {
+    "url": "https://visornoticias.com.br/casa-que-servia-de-esconderijo-e-apoio-ao-trafico-e-descoberta-pela-policia-em-itajai",
+    "title": "Polícia apreende drogas e materiais de tráfico em residência monitorada em Santa Catarina",
+    "guid": "scmulti:d4d663b44a9b793b231c9f8d1a68b9ebdb848bf0",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_d4d663b44a9b793b231c9f8d1a68b9ebdb848bf0/",
+    "usedAt": 1786356020571,
+    "usedAtIso": "2026-08-10T10:00:20.571Z"
   },
-  "source:84179d44db97529474d9d3a2fb6cae409d6a7889": {
-    "url": "https://visornoticias.com.br/carro-que-atingiu-poste-em-itapema-estava-envolvido-em-perseguicao-a-mulher",
-    "title": "Homem colide carro contra poste após discussão com companheira em Itapema",
-    "guid": "scmulti:1e3d1f97317b18f211a234eb919ed28a2aaac601",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_1e3d1f97317b18f211a234eb919ed28a2aaac601/",
-    "usedAt": 1786352419939,
-    "usedAtIso": "2026-08-10T09:00:19.939Z"
+  "source:ea37a62152f2ec3f392e6dce915a6a3ea745828d": {
+    "url": "https://visornoticias.com.br/temperaturas-despencam-e-nova-frente-fria-aumenta-risco-de-temporais-em-sc",
+    "title": "Santa Catarina enfrenta instabilidade com chuva e temporais previstos até sexta-feira",
+    "guid": "scmulti:e5f074c0727623ca72b0396c46844c792cb9e0eb",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_e5f074c0727623ca72b0396c46844c792cb9e0eb/",
+    "usedAt": 1786356020571,
+    "usedAtIso": "2026-08-10T10:00:20.571Z"
   }
 }
