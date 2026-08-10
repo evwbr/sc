@@ -1,4 +1,12 @@
 {
+  "source:b71ce43ea09732e46c34aca626dd14a7d77a3422": {
+    "url": "https://visornoticias.com.br/carreta-tomba-na-br-101-em-navegantes-e-provoca-fila-no-sentido-sul",
+    "title": "Tombamento de carreta interdita faixa da BR-101 em Navegantes e causa fila de 1 km",
+    "guid": "scmulti:e2a33b79a511cbf8fe8429e9e477d3f49c000929",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_e2a33b79a511cbf8fe8429e9e477d3f49c000929/",
+    "usedAt": 1786384819756,
+    "usedAtIso": "2026-08-10T18:00:19.756Z"
+  },
   "source:fe84c584b5fe1966aeb1f5e43b85e2a8a56dadbf": {
     "url": "https://visornoticias.com.br/bombeiros-ampliam-buscas-por-mulher-de-64-anos-desaparecida-em-tijucas",
     "title": "Buscas por mulher desaparecida são ampliadas no Rio Tijucas em Santa Catarina",
@@ -7487,12 +7495,28 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:b71ce43ea09732e46c34aca626dd14a7d77a3422": {
-    "url": "https://visornoticias.com.br/carreta-tomba-na-br-101-em-navegantes-e-provoca-fila-no-sentido-sul",
-    "title": "Tombamento de carreta interdita faixa da BR-101 em Navegantes e causa fila de 1 km",
-    "guid": "scmulti:e2a33b79a511cbf8fe8429e9e477d3f49c000929",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_e2a33b79a511cbf8fe8429e9e477d3f49c000929/",
-    "usedAt": 1786384819756,
-    "usedAtIso": "2026-08-10T18:00:19.756Z"
+  "source:298504bf5b8855d49c54099313cd9500ab88a18c": {
+    "url": "https://visornoticias.com.br/trafico-ecstasy-itajai",
+    "title": "Fiscalização integrada fecha bar irregular e apreende cigarros contrabandeados em Balneário Camboriú",
+    "guid": "scmulti:089c015147b3a54132ea97d67df6966e2c0ec2b6",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_089c015147b3a54132ea97d67df6966e2c0ec2b6/",
+    "usedAt": 1786388419617,
+    "usedAtIso": "2026-08-10T19:00:19.617Z"
+  },
+  "source:95d7a14bdfc72a5987f7b8d6d92e3c819727aeb1": {
+    "url": "https://visornoticias.com.br/itajai-parajasc",
+    "title": "Itajaí finaliza preparação para Parajasc com delegação de 236 pessoas",
+    "guid": "scmulti:cce7d11b2557cc8ccca4aca0bcc792440e103fda",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_cce7d11b2557cc8ccca4aca0bcc792440e103fda/",
+    "usedAt": 1786388419617,
+    "usedAtIso": "2026-08-10T19:00:19.617Z"
+  },
+  "source:67b53b8422586947cd191761f3fbb06c20e01458": {
+    "url": "https://visornoticias.com.br/chapeco-na-olesc-2",
+    "title": "Chapecó conquista título geral na Etapa Regional Oeste da OLESC em Concórdia",
+    "guid": "scmulti:60ec06367e2b127847f74281a5ea4c69437d53ad",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_60ec06367e2b127847f74281a5ea4c69437d53ad/",
+    "usedAt": 1786388419617,
+    "usedAtIso": "2026-08-10T19:00:19.617Z"
   }
 }
