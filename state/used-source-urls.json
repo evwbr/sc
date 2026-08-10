@@ -1,4 +1,12 @@
 {
+  "source:9ce9e5d86625a1ca5a5d4fcd0cec2d0e4944da39": {
+    "url": "https://visornoticias.com.br/frio-chuva-e-mar-agitado-marcam-a-segunda-feira-em-santa-catarina",
+    "title": "Defesa Civil alerta para temporais isolados e frio intenso em Santa Catarina",
+    "guid": "scmulti:6b56bdb1fb9a1cc9bc9353a8aea69e6344f6bb7b",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_6b56bdb1fb9a1cc9bc9353a8aea69e6344f6bb7b/",
+    "usedAt": 1786309219463,
+    "usedAtIso": "2026-08-09T21:00:19.463Z"
+  },
   "source:bd5d671d8a31388139817126df45860c4a4f9254": {
     "url": "https://visornoticias.com.br/tempestades-deixam-mais-de-26-mil-pessoas-fora-de-casa-no-rio-grande-do-sul",
     "title": "Fortes tempestades deixam 686 desalojados e uma morte no Rio Grande do Sul",
@@ -7383,12 +7391,20 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:9ce9e5d86625a1ca5a5d4fcd0cec2d0e4944da39": {
-    "url": "https://visornoticias.com.br/frio-chuva-e-mar-agitado-marcam-a-segunda-feira-em-santa-catarina",
-    "title": "Defesa Civil alerta para temporais isolados e frio intenso em Santa Catarina",
-    "guid": "scmulti:6b56bdb1fb9a1cc9bc9353a8aea69e6344f6bb7b",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_6b56bdb1fb9a1cc9bc9353a8aea69e6344f6bb7b/",
-    "usedAt": 1786309219463,
-    "usedAtIso": "2026-08-09T21:00:19.463Z"
+  "source:fa645d09005f319123fb6e8bd1e39a9dbbf66023": {
+    "url": "https://visornoticias.com.br/cameras-mostram-discussao-e-troca-de-tiros-em-crime-que-terminou-em-morte-em-itapema",
+    "title": "Imagens de câmeras ajudam a esclarecer homicídio em Itapema durante a madrugada",
+    "guid": "scmulti:47b24b9693fdbde61ba355cfcb0bc6850d4183d3",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_47b24b9693fdbde61ba355cfcb0bc6850d4183d3/",
+    "usedAt": 1786352419939,
+    "usedAtIso": "2026-08-10T09:00:19.939Z"
+  },
+  "source:84179d44db97529474d9d3a2fb6cae409d6a7889": {
+    "url": "https://visornoticias.com.br/carro-que-atingiu-poste-em-itapema-estava-envolvido-em-perseguicao-a-mulher",
+    "title": "Homem colide carro contra poste após discussão com companheira em Itapema",
+    "guid": "scmulti:1e3d1f97317b18f211a234eb919ed28a2aaac601",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_1e3d1f97317b18f211a234eb919ed28a2aaac601/",
+    "usedAt": 1786352419939,
+    "usedAtIso": "2026-08-10T09:00:19.939Z"
   }
 }
