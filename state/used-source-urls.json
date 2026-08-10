@@ -1,4 +1,12 @@
 {
+  "source:bdc59f367e7da6f894c1670d25760a22af84c1e1": {
+    "url": "https://visornoticias.com.br/fiscalizacao-apreende-sete-aves-silvestres-mantidas-irregularmente-e-responsavel-e-autuado-em-itapema",
+    "title": "Sete aves silvestres são apreendidas em fiscalização em Itapema",
+    "guid": "scmulti:6ef5ad0245bf2951b18e7a1946b0c61fa7a48ec0",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_6ef5ad0245bf2951b18e7a1946b0c61fa7a48ec0/",
+    "usedAt": 1786374019747,
+    "usedAtIso": "2026-08-10T15:00:19.747Z"
+  },
   "source:8d40f7acada86080afc6251108cf1d217eb5e1fe": {
     "url": "https://visornoticias.com.br/acidente-entre-carro-e-carreta-mata-bebe-de-seis-meses-na-br-470-em-sc",
     "title": "Bebê é levado ao hospital após acidente envolvendo carro e carreta em Santa Catarina",
@@ -7471,12 +7479,12 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:bdc59f367e7da6f894c1670d25760a22af84c1e1": {
-    "url": "https://visornoticias.com.br/fiscalizacao-apreende-sete-aves-silvestres-mantidas-irregularmente-e-responsavel-e-autuado-em-itapema",
-    "title": "Sete aves silvestres são apreendidas em fiscalização em Itapema",
-    "guid": "scmulti:6ef5ad0245bf2951b18e7a1946b0c61fa7a48ec0",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_6ef5ad0245bf2951b18e7a1946b0c61fa7a48ec0/",
-    "usedAt": 1786374019747,
-    "usedAtIso": "2026-08-10T15:00:19.747Z"
+  "source:fe84c584b5fe1966aeb1f5e43b85e2a8a56dadbf": {
+    "url": "https://visornoticias.com.br/bombeiros-ampliam-buscas-por-mulher-de-64-anos-desaparecida-em-tijucas",
+    "title": "Buscas por mulher desaparecida são ampliadas no Rio Tijucas em Santa Catarina",
+    "guid": "scmulti:974ca5327f7c6d9760306f98d82b01d33b4287a0",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_974ca5327f7c6d9760306f98d82b01d33b4287a0/",
+    "usedAt": 1786377619630,
+    "usedAtIso": "2026-08-10T16:00:19.630Z"
   }
 }
