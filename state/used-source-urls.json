@@ -1,4 +1,12 @@
 {
+  "source:a96b35654dd5d337aad8371c26478ed14ae5ff80": {
+    "url": "https://visornoticias.com.br/transito-na-br-101-faz-motoristas-enfrentarem-ate-duas-horas-de-congestionamento-em-itajai",
+    "title": "Congestionamentos causam atrasos de até duas horas em Itajaí e cidades vizinhas",
+    "guid": "scmulti:86e76e6f206980d501228a4d44fc83950e7e469e",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_86e76e6f206980d501228a4d44fc83950e7e469e/",
+    "usedAt": 1786363219614,
+    "usedAtIso": "2026-08-10T12:00:19.614Z"
+  },
   "source:7b481fa36febaef3c20b2efc7118042726b8bf55": {
     "url": "https://visornoticias.com.br/motorista-foge-para-mata-apos-perseguicao-de-12-km-e-carro-com-306-kg-de-maconha-atolar-em-sc",
     "title": "Motorista abandona carro com 306 quilos de maconha após perseguição em rodovia de Santa Catarina",
@@ -7439,12 +7447,12 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:a96b35654dd5d337aad8371c26478ed14ae5ff80": {
-    "url": "https://visornoticias.com.br/transito-na-br-101-faz-motoristas-enfrentarem-ate-duas-horas-de-congestionamento-em-itajai",
-    "title": "Congestionamentos causam atrasos de até duas horas em Itajaí e cidades vizinhas",
-    "guid": "scmulti:86e76e6f206980d501228a4d44fc83950e7e469e",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_86e76e6f206980d501228a4d44fc83950e7e469e/",
-    "usedAt": 1786363219614,
-    "usedAtIso": "2026-08-10T12:00:19.614Z"
+  "source:98cff182c837e06252e2b610d0e37de10905b89c": {
+    "url": "https://visornoticias.com.br/homem-avanca-com-barra-de-ferro-contra-motorista-e-danifica-carro-em-itapema",
+    "title": "Policial impede agressão e apreende barra de ferro em Balneário Camboriú",
+    "guid": "scmulti:9418f3073832045978765ed1fbb7e7d50a009621",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_9418f3073832045978765ed1fbb7e7d50a009621/",
+    "usedAt": 1786366820159,
+    "usedAtIso": "2026-08-10T13:00:20.159Z"
   }
 }
