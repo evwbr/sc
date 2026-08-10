@@ -1,4 +1,12 @@
 {
+  "source:98cff182c837e06252e2b610d0e37de10905b89c": {
+    "url": "https://visornoticias.com.br/homem-avanca-com-barra-de-ferro-contra-motorista-e-danifica-carro-em-itapema",
+    "title": "Policial impede agressão e apreende barra de ferro em Balneário Camboriú",
+    "guid": "scmulti:9418f3073832045978765ed1fbb7e7d50a009621",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_9418f3073832045978765ed1fbb7e7d50a009621/",
+    "usedAt": 1786366820159,
+    "usedAtIso": "2026-08-10T13:00:20.159Z"
+  },
   "source:a96b35654dd5d337aad8371c26478ed14ae5ff80": {
     "url": "https://visornoticias.com.br/transito-na-br-101-faz-motoristas-enfrentarem-ate-duas-horas-de-congestionamento-em-itajai",
     "title": "Congestionamentos causam atrasos de até duas horas em Itajaí e cidades vizinhas",
@@ -7447,12 +7455,20 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:98cff182c837e06252e2b610d0e37de10905b89c": {
-    "url": "https://visornoticias.com.br/homem-avanca-com-barra-de-ferro-contra-motorista-e-danifica-carro-em-itapema",
-    "title": "Policial impede agressão e apreende barra de ferro em Balneário Camboriú",
-    "guid": "scmulti:9418f3073832045978765ed1fbb7e7d50a009621",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_9418f3073832045978765ed1fbb7e7d50a009621/",
-    "usedAt": 1786366820159,
-    "usedAtIso": "2026-08-10T13:00:20.159Z"
+  "source:8d40f7acada86080afc6251108cf1d217eb5e1fe": {
+    "url": "https://visornoticias.com.br/acidente-entre-carro-e-carreta-mata-bebe-de-seis-meses-na-br-470-em-sc",
+    "title": "Bebê é levado ao hospital após acidente envolvendo carro e carreta em Santa Catarina",
+    "guid": "scmulti:a8250a05e1194b27cde1866fea698b4b7e8b69d8",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_a8250a05e1194b27cde1866fea698b4b7e8b69d8/",
+    "usedAt": 1786370419842,
+    "usedAtIso": "2026-08-10T14:00:19.842Z"
+  },
+  "source:d1a1150766b7ab996026fb9de8b730cf77b3b90d": {
+    "url": "https://visornoticias.com.br/carro-fica-destruido-apos-batida-frontal-com-caminhao-na-br-282-em-sc",
+    "title": "Colisão frontal entre carro e caminhão deixa veículo destruído na BR-282 em Ponte Serrada",
+    "guid": "scmulti:6803ce47e76f75022af59a1b2749007838c6de66",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_6803ce47e76f75022af59a1b2749007838c6de66/",
+    "usedAt": 1786370419842,
+    "usedAtIso": "2026-08-10T14:00:19.842Z"
   }
 }
