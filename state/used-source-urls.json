@@ -1,4 +1,20 @@
 {
+  "source:04498677e73d23ca8b47ff35eb720b09a4133a63": {
+    "url": "https://visornoticias.com.br/concurso-da-celesc-oferece-salarios-de-ate-r-69-mil-em-santa-catarina",
+    "title": "Celesc abre concurso com vagas para níveis médio, técnico e superior em Santa Catarina",
+    "guid": "scmulti:761d58f480edbcb72bba92224f1cfe0eadea4a0d",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_761d58f480edbcb72bba92224f1cfe0eadea4a0d/",
+    "usedAt": 1786392019776,
+    "usedAtIso": "2026-08-10T20:00:19.776Z"
+  },
+  "source:50630bd77920ddd7abe82661b7eea84561791660": {
+    "url": "https://visornoticias.com.br/prevencao-enchentes-amfri-itajai",
+    "title": "AMFRI lança campanha regional para prevenção de enchentes em Itajaí e região",
+    "guid": "scmulti:39db6c8874fbccac23215ef3c73c204e1f96e0a3",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_39db6c8874fbccac23215ef3c73c204e1f96e0a3/",
+    "usedAt": 1786392019776,
+    "usedAtIso": "2026-08-10T20:00:19.776Z"
+  },
   "source:298504bf5b8855d49c54099313cd9500ab88a18c": {
     "url": "https://visornoticias.com.br/trafico-ecstasy-itajai",
     "title": "Fiscalização integrada fecha bar irregular e apreende cigarros contrabandeados em Balneário Camboriú",
@@ -7519,20 +7535,20 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:04498677e73d23ca8b47ff35eb720b09a4133a63": {
-    "url": "https://visornoticias.com.br/concurso-da-celesc-oferece-salarios-de-ate-r-69-mil-em-santa-catarina",
-    "title": "Celesc abre concurso com vagas para níveis médio, técnico e superior em Santa Catarina",
-    "guid": "scmulti:761d58f480edbcb72bba92224f1cfe0eadea4a0d",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_761d58f480edbcb72bba92224f1cfe0eadea4a0d/",
-    "usedAt": 1786392019776,
-    "usedAtIso": "2026-08-10T20:00:19.776Z"
+  "source:78ce589c89a7076d5ce1743f56097ccb1ae5c3d6": {
+    "url": "https://visornoticias.com.br/morador-transforma-garagem-em-lavanderia-e-justica-manda-retirar-equipamentos-em-balneario-camboriu",
+    "title": "Justiça determina remoção de lavanderia instalada em garagem de condomínio em Santa Catarina",
+    "guid": "scmulti:cbaa834e7165564b2284349e18d2b854d2df283d",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_cbaa834e7165564b2284349e18d2b854d2df283d/",
+    "usedAt": 1786406420925,
+    "usedAtIso": "2026-08-11T00:00:20.925Z"
   },
-  "source:50630bd77920ddd7abe82661b7eea84561791660": {
-    "url": "https://visornoticias.com.br/prevencao-enchentes-amfri-itajai",
-    "title": "AMFRI lança campanha regional para prevenção de enchentes em Itajaí e região",
-    "guid": "scmulti:39db6c8874fbccac23215ef3c73c204e1f96e0a3",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_39db6c8874fbccac23215ef3c73c204e1f96e0a3/",
-    "usedAt": 1786392019776,
-    "usedAtIso": "2026-08-10T20:00:19.776Z"
+  "source:ddbd28ad680dbe09676aa64b42bdd2e657643f01": {
+    "url": "https://visornoticias.com.br/apos-ciclone-novo-sistema-coloca-sul-em-alerta-para-chuva-forte-e-temporais",
+    "title": "Cavado em superfície provoca alerta de tempestades em Santa Catarina entre terça e quarta-feira",
+    "guid": "scmulti:da4e9524fdeeb2417d89d47b39d8c114a198add8",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_da4e9524fdeeb2417d89d47b39d8c114a198add8/",
+    "usedAt": 1786406420925,
+    "usedAtIso": "2026-08-11T00:00:20.925Z"
   }
 }
