@@ -1,4 +1,20 @@
 {
+  "source:78ce589c89a7076d5ce1743f56097ccb1ae5c3d6": {
+    "url": "https://visornoticias.com.br/morador-transforma-garagem-em-lavanderia-e-justica-manda-retirar-equipamentos-em-balneario-camboriu",
+    "title": "Justiça determina remoção de lavanderia instalada em garagem de condomínio em Santa Catarina",
+    "guid": "scmulti:cbaa834e7165564b2284349e18d2b854d2df283d",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_cbaa834e7165564b2284349e18d2b854d2df283d/",
+    "usedAt": 1786406420925,
+    "usedAtIso": "2026-08-11T00:00:20.925Z"
+  },
+  "source:ddbd28ad680dbe09676aa64b42bdd2e657643f01": {
+    "url": "https://visornoticias.com.br/apos-ciclone-novo-sistema-coloca-sul-em-alerta-para-chuva-forte-e-temporais",
+    "title": "Cavado em superfície provoca alerta de tempestades em Santa Catarina entre terça e quarta-feira",
+    "guid": "scmulti:da4e9524fdeeb2417d89d47b39d8c114a198add8",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_da4e9524fdeeb2417d89d47b39d8c114a198add8/",
+    "usedAt": 1786406420925,
+    "usedAtIso": "2026-08-11T00:00:20.925Z"
+  },
   "source:04498677e73d23ca8b47ff35eb720b09a4133a63": {
     "url": "https://visornoticias.com.br/concurso-da-celesc-oferece-salarios-de-ate-r-69-mil-em-santa-catarina",
     "title": "Celesc abre concurso com vagas para níveis médio, técnico e superior em Santa Catarina",
@@ -7535,20 +7551,44 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:78ce589c89a7076d5ce1743f56097ccb1ae5c3d6": {
-    "url": "https://visornoticias.com.br/morador-transforma-garagem-em-lavanderia-e-justica-manda-retirar-equipamentos-em-balneario-camboriu",
-    "title": "Justiça determina remoção de lavanderia instalada em garagem de condomínio em Santa Catarina",
-    "guid": "scmulti:cbaa834e7165564b2284349e18d2b854d2df283d",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_cbaa834e7165564b2284349e18d2b854d2df283d/",
-    "usedAt": 1786406420925,
-    "usedAtIso": "2026-08-11T00:00:20.925Z"
+  "source:0b7f25ec4153ead20f924cb5d3477b15b46936ad": {
+    "url": "https://visornoticias.com.br/terca-feira-tera-chuva-e-frio-em-todas-as-regioes-de-santa-catarina",
+    "title": "Santa Catarina enfrenta instabilidade com chuva e temperaturas baixas nesta terça-feira",
+    "guid": "scmulti:1ec5444d23ce1959267e0d6fc59f207528569b59",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_1ec5444d23ce1959267e0d6fc59f207528569b59/",
+    "usedAt": 1786410019925,
+    "usedAtIso": "2026-08-11T01:00:19.925Z"
   },
-  "source:ddbd28ad680dbe09676aa64b42bdd2e657643f01": {
-    "url": "https://visornoticias.com.br/apos-ciclone-novo-sistema-coloca-sul-em-alerta-para-chuva-forte-e-temporais",
-    "title": "Cavado em superfície provoca alerta de tempestades em Santa Catarina entre terça e quarta-feira",
-    "guid": "scmulti:da4e9524fdeeb2417d89d47b39d8c114a198add8",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_da4e9524fdeeb2417d89d47b39d8c114a198add8/",
-    "usedAt": 1786406420925,
-    "usedAtIso": "2026-08-11T00:00:20.925Z"
+  "source:f104c3d8ec50ce4a5e9173eae2df02f8c83575d8": {
+    "url": "https://visornoticias.com.br/mulher-consegue-excluir-pai-e-avos-paternos-da-certidao-apos-violencia-sexual-em-sc",
+    "title": "Justiça de Criciúma autoriza exclusão do nome do pai condenado da certidão de nascimento",
+    "guid": "scmulti:1a28d97ca5007ccd7712387332fe830674f76387",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_1a28d97ca5007ccd7712387332fe830674f76387/",
+    "usedAt": 1786410019925,
+    "usedAtIso": "2026-08-11T01:00:19.925Z"
+  },
+  "source:1289856e61b39567cab474ed90966177f6c5b788": {
+    "url": "https://visornoticias.com.br/uma-pessoa-morre-e-duas-ficam-feridas-em-grave-acidente-de-transito-na-br-280-em-sc",
+    "title": "Acidente na BR-280 em Porto União deixa uma pessoa morta e duas feridas",
+    "guid": "scmulti:ce06745005292a4d0ca68e6f66d4211f1084b470",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_ce06745005292a4d0ca68e6f66d4211f1084b470/",
+    "usedAt": 1786410019925,
+    "usedAtIso": "2026-08-11T01:00:19.925Z"
+  },
+  "source:a5e53adf2451bd421a60ec94503fe558cea222f3": {
+    "url": "https://visornoticias.com.br/futsal-masculino-lages-jasc",
+    "title": "Lages vence Santa Cecília e avança para fase regional dos Jogos Abertos de Santa Catarina no futsal masculino",
+    "guid": "scmulti:98f1d4122e4097b6d783ea1b0f3581ecaeea3cbf",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_98f1d4122e4097b6d783ea1b0f3581ecaeea3cbf/",
+    "usedAt": 1786410019925,
+    "usedAtIso": "2026-08-11T01:00:19.925Z"
+  },
+  "source:0595d832586240701b15f62fd6d12d91fc4d5445": {
+    "url": "https://visornoticias.com.br/servicos-publicos-lages-3",
+    "title": "Prefeitura de Lages intensifica serviços de manutenção urbana em diversos bairros e avenidas",
+    "guid": "scmulti:ee35a6a94a8530108cf8e604ce6f556ce316e084",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_ee35a6a94a8530108cf8e604ce6f556ce316e084/",
+    "usedAt": 1786410019925,
+    "usedAtIso": "2026-08-11T01:00:19.925Z"
   }
 }
