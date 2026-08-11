@@ -1,4 +1,12 @@
 {
+  "source:d57b1c99f6be96babe476ed4d4d478c7041212cd": {
+    "url": "https://visornoticias.com.br/mandado-por-homicidio-leva-policia-a-casa-com-mais-de-24-mil-comprimidos-de-ecstasy-em-blumenau",
+    "title": "Polícia Militar apreende mais de 24 mil comprimidos de ecstasy e arma em residência de Santa Catarina",
+    "guid": "scmulti:32d50177dbd6bd70e7908dc40058f4c476d85ef5",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_32d50177dbd6bd70e7908dc40058f4c476d85ef5/",
+    "usedAt": 1786453220101,
+    "usedAtIso": "2026-08-11T13:00:20.101Z"
+  },
   "source:bd3a69783b34d95ab4b74c694d97dca9a4eaaa63": {
     "url": "https://visornoticias.com.br/mandado-em-aberto-e-descoberto-apos-homem-mentir-o-nome-durante-abordagem-em-sc",
     "title": "Homem com mandado de prisão ativo é detido após tentar enganar policiais em Lages",
@@ -7663,12 +7671,28 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:d57b1c99f6be96babe476ed4d4d478c7041212cd": {
-    "url": "https://visornoticias.com.br/mandado-por-homicidio-leva-policia-a-casa-com-mais-de-24-mil-comprimidos-de-ecstasy-em-blumenau",
-    "title": "Polícia Militar apreende mais de 24 mil comprimidos de ecstasy e arma em residência de Santa Catarina",
-    "guid": "scmulti:32d50177dbd6bd70e7908dc40058f4c476d85ef5",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_32d50177dbd6bd70e7908dc40058f4c476d85ef5/",
-    "usedAt": 1786453220101,
-    "usedAtIso": "2026-08-11T13:00:20.101Z"
+  "source:ef102fb07d98cb67a3013ae15c581b0d2e8bf1be": {
+    "url": "https://visornoticias.com.br/fungo-que-transforma-formigas-em-zumbis-e-encontrado-em-musgos-da-floresta-amazonica",
+    "title": "Fungo Ophiocordyceps é encontrado em musgos na Reserva Florestal Adolpho Ducke, em Manaus",
+    "guid": "scmulti:f434cd8c143b2c9d5a66e05e70de035df7c85f96",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_f434cd8c143b2c9d5a66e05e70de035df7c85f96/",
+    "usedAt": 1786456819898,
+    "usedAtIso": "2026-08-11T14:00:19.898Z"
+  },
+  "source:397493cde1fa7fc9810d43dfa6e15fbb8cfbcc02": {
+    "url": "https://visornoticias.com.br/policia-intercepta-121-quilos-de-crack-em-operacao-contra-o-trafico-na-grande-florianopolis",
+    "title": "Polícia apreende mais de 121 quilos de crack em veículo próximo a loteamento em Santa Catarina",
+    "guid": "scmulti:0e1e40ed8d7b8bdac60f6ee9a966cd31b274ee0a",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_0e1e40ed8d7b8bdac60f6ee9a966cd31b274ee0a/",
+    "usedAt": 1786456819898,
+    "usedAtIso": "2026-08-11T14:00:19.898Z"
+  },
+  "source:22fb617231451212712cd8c75dbdb7e2acfa7cf9": {
+    "url": "https://visornoticias.com.br/chamas-consomem-oficina-mecanica-e-destroem-quatro-veiculos-em-florianopolis",
+    "title": "Incêndio destrói veículos e materiais em oficina de Santa Catarina",
+    "guid": "scmulti:d7cd8dcc63b09fe1e74df15254f850878ccdfa46",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_d7cd8dcc63b09fe1e74df15254f850878ccdfa46/",
+    "usedAt": 1786456819898,
+    "usedAtIso": "2026-08-11T14:00:19.898Z"
   }
 }
