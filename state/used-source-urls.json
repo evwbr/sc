@@ -1,4 +1,28 @@
 {
+  "source:051dfe29e56036b64ca9c9a7dc89e8730438fb43": {
+    "url": "https://visornoticias.com.br/mais-de-3-mil-pessoas-estao-desaparecidas-apos-terremoto-na-colombia",
+    "title": "Terremoto de magnitude 7,4 na Colômbia deixa mais de 3 mil desaparecidos e causa destruição em várias cidades",
+    "guid": "scmulti:85e4c9ce7b6dc41cdc671672bc9304f08e04cda1",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_85e4c9ce7b6dc41cdc671672bc9304f08e04cda1/",
+    "usedAt": 1786474819621,
+    "usedAtIso": "2026-08-11T19:00:19.621Z"
+  },
+  "source:a0a4592bcc2977c3c34573a8348eb695be339d63": {
+    "url": "https://visornoticias.com.br/baile-para-idosos-lages",
+    "title": "76 idosos de Lages participam do Baile da Melhor Idade em Painel",
+    "guid": "scmulti:cdafd6b5ed95e4258e491538a1a3b1d2abf879e6",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_cdafd6b5ed95e4258e491538a1a3b1d2abf879e6/",
+    "usedAt": 1786474819621,
+    "usedAtIso": "2026-08-11T19:00:19.621Z"
+  },
+  "source:31e649fdc31a582485ef2c22f35585f2d3b6dec5": {
+    "url": "https://visornoticias.com.br/parto-no-carro-em-itajai",
+    "title": "Parto realizado dentro de carro mobiliza equipe da UPA CIS em Itajaí",
+    "guid": "scmulti:d0c54a8061ddef229bdbe433ea38354892efc79b",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_d0c54a8061ddef229bdbe433ea38354892efc79b/",
+    "usedAt": 1786474819621,
+    "usedAtIso": "2026-08-11T19:00:19.621Z"
+  },
   "source:f2d7097d18f0367eb1c3bda094af8df2907a9fc3": {
     "url": "https://visornoticias.com.br/detran-abre-leilao-online-de-veiculos-em-24-cidades-de-santa-catarina",
     "title": "Detran-Santa Catarina realiza leilão público com veículos de 24 cidades a partir de agosto",
@@ -7775,28 +7799,28 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:051dfe29e56036b64ca9c9a7dc89e8730438fb43": {
-    "url": "https://visornoticias.com.br/mais-de-3-mil-pessoas-estao-desaparecidas-apos-terremoto-na-colombia",
-    "title": "Terremoto de magnitude 7,4 na Colômbia deixa mais de 3 mil desaparecidos e causa destruição em várias cidades",
-    "guid": "scmulti:85e4c9ce7b6dc41cdc671672bc9304f08e04cda1",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_85e4c9ce7b6dc41cdc671672bc9304f08e04cda1/",
-    "usedAt": 1786474819621,
-    "usedAtIso": "2026-08-11T19:00:19.621Z"
+  "source:647b25ee15c192869febfd03be2aac61c9e4511a": {
+    "url": "https://visornoticias.com.br/policia-aponta-anos-de-violencia-contra-criancas-e-indicia-pais-por-homicidio-e-tortura",
+    "title": "Mãe e pai são indiciados por violência contra crianças em Viamão após morte de menino",
+    "guid": "scmulti:f84dcc97d4c7bcf0a719c13ac99eb8bc2f947bf3",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_f84dcc97d4c7bcf0a719c13ac99eb8bc2f947bf3/",
+    "usedAt": 1786478419398,
+    "usedAtIso": "2026-08-11T20:00:19.398Z"
   },
-  "source:a0a4592bcc2977c3c34573a8348eb695be339d63": {
-    "url": "https://visornoticias.com.br/baile-para-idosos-lages",
-    "title": "76 idosos de Lages participam do Baile da Melhor Idade em Painel",
-    "guid": "scmulti:cdafd6b5ed95e4258e491538a1a3b1d2abf879e6",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_cdafd6b5ed95e4258e491538a1a3b1d2abf879e6/",
-    "usedAt": 1786474819621,
-    "usedAtIso": "2026-08-11T19:00:19.621Z"
+  "source:42dc54b374ac6083c8c19448ac2abad980199307": {
+    "url": "https://visornoticias.com.br/acidente-entre-carro-e-caminhao-trava-br-470-em-sc-e-deixa-transito-intenso",
+    "title": "Acidente bloqueia BR-470 em Apiúna e causa trânsito intenso mesmo após liberação",
+    "guid": "scmulti:bd1c7b826d58fa5f2fb87391f4deb659d096b239",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_bd1c7b826d58fa5f2fb87391f4deb659d096b239/",
+    "usedAt": 1786478419398,
+    "usedAtIso": "2026-08-11T20:00:19.398Z"
   },
-  "source:31e649fdc31a582485ef2c22f35585f2d3b6dec5": {
-    "url": "https://visornoticias.com.br/parto-no-carro-em-itajai",
-    "title": "Parto realizado dentro de carro mobiliza equipe da UPA CIS em Itajaí",
-    "guid": "scmulti:d0c54a8061ddef229bdbe433ea38354892efc79b",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_d0c54a8061ddef229bdbe433ea38354892efc79b/",
-    "usedAt": 1786474819621,
-    "usedAtIso": "2026-08-11T19:00:19.621Z"
+  "source:52ca18e2d9a8b9e5ce1468f4cc573637b3e6a31f": {
+    "url": "https://visornoticias.com.br/descubra-para-que-serve-um-hidrometro",
+    "title": "Hidrômetro é fundamental para controle do consumo e uso consciente da água em Camboriú",
+    "guid": "scmulti:5b9b26086d97c9e67e8bb2dc2a0f38fd8b01beb5",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_5b9b26086d97c9e67e8bb2dc2a0f38fd8b01beb5/",
+    "usedAt": 1786478419398,
+    "usedAtIso": "2026-08-11T20:00:19.398Z"
   }
 }
