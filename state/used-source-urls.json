@@ -1,4 +1,44 @@
 {
+  "source:f2d7097d18f0367eb1c3bda094af8df2907a9fc3": {
+    "url": "https://visornoticias.com.br/detran-abre-leilao-online-de-veiculos-em-24-cidades-de-santa-catarina",
+    "title": "Detran-Santa Catarina realiza leilão público com veículos de 24 cidades a partir de agosto",
+    "guid": "scmulti:48fde7f5e88c9182f217df1d0e1b676b8d289edc",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_48fde7f5e88c9182f217df1d0e1b676b8d289edc/",
+    "usedAt": 1786471219361,
+    "usedAtIso": "2026-08-11T18:00:19.361Z"
+  },
+  "source:c18f0d6685aee0bc1fc49529f649bf45714a5d8e": {
+    "url": "https://visornoticias.com.br/encontro-motos-tubarao-7-edicao",
+    "title": "Tubarão recebe sétima edição do Moto Raiz com entrada gratuita e programação diversificada",
+    "guid": "scmulti:0ba09f8248f8b56ae950a79811f7e515bd443069",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_0ba09f8248f8b56ae950a79811f7e515bd443069/",
+    "usedAt": 1786471219361,
+    "usedAtIso": "2026-08-11T18:00:19.361Z"
+  },
+  "source:efa4b7ba9cee64b8a63bd8703739714afad2b16b": {
+    "url": "https://visornoticias.com.br/ideb-em-tubarao",
+    "title": "Tubarão registra avanço no Ideb dos anos finais do Ensino Fundamental e mantém desempenho nos anos iniciais",
+    "guid": "scmulti:d0bf08a25bf70fb7329c10306464406368345c98",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_d0bf08a25bf70fb7329c10306464406368345c98/",
+    "usedAt": 1786471219361,
+    "usedAtIso": "2026-08-11T18:00:19.361Z"
+  },
+  "source:4922c60d891a4acc30737677c782648f9adcf20c": {
+    "url": "https://visornoticias.com.br/chuva-lages-6",
+    "title": "Defesa Civil mantém estado de atenção em Lages devido à previsão de chuvas intensas",
+    "guid": "scmulti:42d04d6f80123ce1ab539467147c0b21e872bbf6",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_42d04d6f80123ce1ab539467147c0b21e872bbf6/",
+    "usedAt": 1786471219361,
+    "usedAtIso": "2026-08-11T18:00:19.361Z"
+  },
+  "source:4ff766b30c816a081166e64dd4672a1abed21ac8": {
+    "url": "https://visornoticias.com.br/prefeitura-reconstroi-ponte-em-lages-coxilha-rica",
+    "title": "Prefeitura de Lages conclui reconstrução de ponte na Coxilha Rica após danos causados por chuvas",
+    "guid": "scmulti:476d5102ffc1288b4f170761e631b0d832859ce8",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_476d5102ffc1288b4f170761e631b0d832859ce8/",
+    "usedAt": 1786471219361,
+    "usedAtIso": "2026-08-11T18:00:19.361Z"
+  },
   "source:80fb35bcea110866d9d1f37574061192e0366b85": {
     "url": "https://visornoticias.com.br/doenca-transmitida-por-carrapatos-deixa-18-mortos-em-sao-paulo",
     "title": "Febre maculosa causa mortes em várias regiões e exige atenção para diagnóstico e prevenção",
@@ -7735,44 +7775,28 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:f2d7097d18f0367eb1c3bda094af8df2907a9fc3": {
-    "url": "https://visornoticias.com.br/detran-abre-leilao-online-de-veiculos-em-24-cidades-de-santa-catarina",
-    "title": "Detran-Santa Catarina realiza leilão público com veículos de 24 cidades a partir de agosto",
-    "guid": "scmulti:48fde7f5e88c9182f217df1d0e1b676b8d289edc",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_48fde7f5e88c9182f217df1d0e1b676b8d289edc/",
-    "usedAt": 1786471219361,
-    "usedAtIso": "2026-08-11T18:00:19.361Z"
+  "source:051dfe29e56036b64ca9c9a7dc89e8730438fb43": {
+    "url": "https://visornoticias.com.br/mais-de-3-mil-pessoas-estao-desaparecidas-apos-terremoto-na-colombia",
+    "title": "Terremoto de magnitude 7,4 na Colômbia deixa mais de 3 mil desaparecidos e causa destruição em várias cidades",
+    "guid": "scmulti:85e4c9ce7b6dc41cdc671672bc9304f08e04cda1",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_85e4c9ce7b6dc41cdc671672bc9304f08e04cda1/",
+    "usedAt": 1786474819621,
+    "usedAtIso": "2026-08-11T19:00:19.621Z"
   },
-  "source:c18f0d6685aee0bc1fc49529f649bf45714a5d8e": {
-    "url": "https://visornoticias.com.br/encontro-motos-tubarao-7-edicao",
-    "title": "Tubarão recebe sétima edição do Moto Raiz com entrada gratuita e programação diversificada",
-    "guid": "scmulti:0ba09f8248f8b56ae950a79811f7e515bd443069",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_0ba09f8248f8b56ae950a79811f7e515bd443069/",
-    "usedAt": 1786471219361,
-    "usedAtIso": "2026-08-11T18:00:19.361Z"
+  "source:a0a4592bcc2977c3c34573a8348eb695be339d63": {
+    "url": "https://visornoticias.com.br/baile-para-idosos-lages",
+    "title": "76 idosos de Lages participam do Baile da Melhor Idade em Painel",
+    "guid": "scmulti:cdafd6b5ed95e4258e491538a1a3b1d2abf879e6",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_cdafd6b5ed95e4258e491538a1a3b1d2abf879e6/",
+    "usedAt": 1786474819621,
+    "usedAtIso": "2026-08-11T19:00:19.621Z"
   },
-  "source:efa4b7ba9cee64b8a63bd8703739714afad2b16b": {
-    "url": "https://visornoticias.com.br/ideb-em-tubarao",
-    "title": "Tubarão registra avanço no Ideb dos anos finais do Ensino Fundamental e mantém desempenho nos anos iniciais",
-    "guid": "scmulti:d0bf08a25bf70fb7329c10306464406368345c98",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_d0bf08a25bf70fb7329c10306464406368345c98/",
-    "usedAt": 1786471219361,
-    "usedAtIso": "2026-08-11T18:00:19.361Z"
-  },
-  "source:4922c60d891a4acc30737677c782648f9adcf20c": {
-    "url": "https://visornoticias.com.br/chuva-lages-6",
-    "title": "Defesa Civil mantém estado de atenção em Lages devido à previsão de chuvas intensas",
-    "guid": "scmulti:42d04d6f80123ce1ab539467147c0b21e872bbf6",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_42d04d6f80123ce1ab539467147c0b21e872bbf6/",
-    "usedAt": 1786471219361,
-    "usedAtIso": "2026-08-11T18:00:19.361Z"
-  },
-  "source:4ff766b30c816a081166e64dd4672a1abed21ac8": {
-    "url": "https://visornoticias.com.br/prefeitura-reconstroi-ponte-em-lages-coxilha-rica",
-    "title": "Prefeitura de Lages conclui reconstrução de ponte na Coxilha Rica após danos causados por chuvas",
-    "guid": "scmulti:476d5102ffc1288b4f170761e631b0d832859ce8",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_476d5102ffc1288b4f170761e631b0d832859ce8/",
-    "usedAt": 1786471219361,
-    "usedAtIso": "2026-08-11T18:00:19.361Z"
+  "source:31e649fdc31a582485ef2c22f35585f2d3b6dec5": {
+    "url": "https://visornoticias.com.br/parto-no-carro-em-itajai",
+    "title": "Parto realizado dentro de carro mobiliza equipe da UPA CIS em Itajaí",
+    "guid": "scmulti:d0c54a8061ddef229bdbe433ea38354892efc79b",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_d0c54a8061ddef229bdbe433ea38354892efc79b/",
+    "usedAt": 1786474819621,
+    "usedAtIso": "2026-08-11T19:00:19.621Z"
   }
 }
