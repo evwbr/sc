@@ -1,4 +1,20 @@
 {
+  "source:0b7c52bb4cd9330d4b10b18b4b5a73d059e8f360": {
+    "url": "https://visornoticias.com.br/acidente-trava-trecho-da-br-101-e-deixa-transito-em-apenas-uma-faixa-em-itapema",
+    "title": "Acidente no km 149 da BR-101 causa lentidão e bloqueio parcial em Santa Catarina",
+    "guid": "scmulti:1cff4f412dd9cc4feeb48b4b027810af18cbe582",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_1cff4f412dd9cc4feeb48b4b027810af18cbe582/",
+    "usedAt": 1786550420886,
+    "usedAtIso": "2026-08-12T16:00:20.886Z"
+  },
+  "source:a8c34bcf17699d8ceb17852284bd89ec72926469": {
+    "url": "https://visornoticias.com.br/homem-sofre-fratura-exposta-e-traumatismo-craniano-em-acidente-com-guindaste-em-florianopolis",
+    "title": "Homem sofre fratura exposta e traumatismo craniano em acidente com munck em Santa Catarina",
+    "guid": "scmulti:9f25c62347286d9cc58d6d067943049c525c8057",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_9f25c62347286d9cc58d6d067943049c525c8057/",
+    "usedAt": 1786550420886,
+    "usedAtIso": "2026-08-12T16:00:20.886Z"
+  },
   "source:b68e86bbcb1e8334f4de8d0d2d93a8de012166e0": {
     "url": "https://visornoticias.com.br/itapema-entra-no-circuito-do-padel-com-tres-dias-de-torneio-entre-atletas-de-varias-categorias",
     "title": "Copa Embraed de Padel em Itapema oferece R$ 6 mil em prêmios e inscrições até 16 de agosto",
@@ -7935,20 +7951,20 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:0b7c52bb4cd9330d4b10b18b4b5a73d059e8f360": {
-    "url": "https://visornoticias.com.br/acidente-trava-trecho-da-br-101-e-deixa-transito-em-apenas-uma-faixa-em-itapema",
-    "title": "Acidente no km 149 da BR-101 causa lentidão e bloqueio parcial em Santa Catarina",
-    "guid": "scmulti:1cff4f412dd9cc4feeb48b4b027810af18cbe582",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_1cff4f412dd9cc4feeb48b4b027810af18cbe582/",
-    "usedAt": 1786550420886,
-    "usedAtIso": "2026-08-12T16:00:20.886Z"
+  "source:1dce86ae0b2adee5159644a2bf02735a2e0e0080": {
+    "url": "https://visornoticias.com.br/itapema-abre-inscricoes-para-90-casas-do-minha-casa-minha-vida-veja-como-participar",
+    "title": "Itapema abre inscrições para 90 casas populares com entrega prevista para 2027",
+    "guid": "scmulti:d9409de82703c0dfab11e45d6089e2671a7eaeab",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_d9409de82703c0dfab11e45d6089e2671a7eaeab/",
+    "usedAt": 1786554019719,
+    "usedAtIso": "2026-08-12T17:00:19.719Z"
   },
-  "source:a8c34bcf17699d8ceb17852284bd89ec72926469": {
-    "url": "https://visornoticias.com.br/homem-sofre-fratura-exposta-e-traumatismo-craniano-em-acidente-com-guindaste-em-florianopolis",
-    "title": "Homem sofre fratura exposta e traumatismo craniano em acidente com munck em Santa Catarina",
-    "guid": "scmulti:9f25c62347286d9cc58d6d067943049c525c8057",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_9f25c62347286d9cc58d6d067943049c525c8057/",
-    "usedAt": 1786550420886,
-    "usedAtIso": "2026-08-12T16:00:20.886Z"
+  "source:fe02d1224b22b93d964a34f99b0f2a6a6897aff2": {
+    "url": "https://visornoticias.com.br/morador-de-rua-ouve-gritos-e-impede-que-mulher-seja-morta-a-facadas-por-ex-companheiro-em-sc",
+    "title": "Morador em situação de rua impede tentativa de feminicídio em Penha",
+    "guid": "scmulti:e7e08287ea41966fc1b246570c70157ad33641c1",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_e7e08287ea41966fc1b246570c70157ad33641c1/",
+    "usedAt": 1786554019719,
+    "usedAtIso": "2026-08-12T17:00:19.719Z"
   }
 }
