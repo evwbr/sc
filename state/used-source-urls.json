@@ -1,4 +1,20 @@
 {
+  "source:1dce86ae0b2adee5159644a2bf02735a2e0e0080": {
+    "url": "https://visornoticias.com.br/itapema-abre-inscricoes-para-90-casas-do-minha-casa-minha-vida-veja-como-participar",
+    "title": "Itapema abre inscrições para 90 casas populares com entrega prevista para 2027",
+    "guid": "scmulti:d9409de82703c0dfab11e45d6089e2671a7eaeab",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_d9409de82703c0dfab11e45d6089e2671a7eaeab/",
+    "usedAt": 1786554019719,
+    "usedAtIso": "2026-08-12T17:00:19.719Z"
+  },
+  "source:fe02d1224b22b93d964a34f99b0f2a6a6897aff2": {
+    "url": "https://visornoticias.com.br/morador-de-rua-ouve-gritos-e-impede-que-mulher-seja-morta-a-facadas-por-ex-companheiro-em-sc",
+    "title": "Morador em situação de rua impede tentativa de feminicídio em Penha",
+    "guid": "scmulti:e7e08287ea41966fc1b246570c70157ad33641c1",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_e7e08287ea41966fc1b246570c70157ad33641c1/",
+    "usedAt": 1786554019719,
+    "usedAtIso": "2026-08-12T17:00:19.719Z"
+  },
   "source:0b7c52bb4cd9330d4b10b18b4b5a73d059e8f360": {
     "url": "https://visornoticias.com.br/acidente-trava-trecho-da-br-101-e-deixa-transito-em-apenas-uma-faixa-em-itapema",
     "title": "Acidente no km 149 da BR-101 causa lentidão e bloqueio parcial em Santa Catarina",
@@ -7951,20 +7967,12 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:1dce86ae0b2adee5159644a2bf02735a2e0e0080": {
-    "url": "https://visornoticias.com.br/itapema-abre-inscricoes-para-90-casas-do-minha-casa-minha-vida-veja-como-participar",
-    "title": "Itapema abre inscrições para 90 casas populares com entrega prevista para 2027",
-    "guid": "scmulti:d9409de82703c0dfab11e45d6089e2671a7eaeab",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_d9409de82703c0dfab11e45d6089e2671a7eaeab/",
-    "usedAt": 1786554019719,
-    "usedAtIso": "2026-08-12T17:00:19.719Z"
-  },
-  "source:fe02d1224b22b93d964a34f99b0f2a6a6897aff2": {
-    "url": "https://visornoticias.com.br/morador-de-rua-ouve-gritos-e-impede-que-mulher-seja-morta-a-facadas-por-ex-companheiro-em-sc",
-    "title": "Morador em situação de rua impede tentativa de feminicídio em Penha",
-    "guid": "scmulti:e7e08287ea41966fc1b246570c70157ad33641c1",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_e7e08287ea41966fc1b246570c70157ad33641c1/",
-    "usedAt": 1786554019719,
-    "usedAtIso": "2026-08-12T17:00:19.719Z"
+  "source:899395fe7c62d657b3858fcacbcf1414a1e11a15": {
+    "url": "https://visornoticias.com.br/falso-advogado-e-preso-em-sp-apos-aplicar-golpe-de-r-50-mil-em-morador-de-florianopolis",
+    "title": "Polícia Civil prende suspeito de golpe com falsa identidade de advogado em Florianópolis",
+    "guid": "scmulti:1813cdb49e28ce622f7039179b7cb25a89ba3bf5",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_1813cdb49e28ce622f7039179b7cb25a89ba3bf5/",
+    "usedAt": 1786557620362,
+    "usedAtIso": "2026-08-12T18:00:20.362Z"
   }
 }
