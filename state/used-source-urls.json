@@ -1,4 +1,12 @@
 {
+  "source:45a89cd90efc733a19b6574c67576e51ffa1809e": {
+    "url": "https://visornoticias.com.br/homem-ateia-fogo-em-carro-com-cachorro-dentro-apos-discussao-em-bar-no-sul-de-sc",
+    "title": "Incêndio criminoso em carro no bairro Pedro Zanivan mobiliza equipes de emergência em Balneário Camboriú",
+    "guid": "scmulti:6c0c39dc4f0ca5d7d2aa00592e285b65ed4e106b",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_6c0c39dc4f0ca5d7d2aa00592e285b65ed4e106b/",
+    "usedAt": 1786525219277,
+    "usedAtIso": "2026-08-12T09:00:19.277Z"
+  },
   "source:53f310425090adbfdc33dda598d9f859a8e6684a": {
     "url": "https://visornoticias.com.br/futsal-feminino-leoas-da-serra-estreia-copa-do-brasil-lages",
     "title": "Leoas da Serra iniciam quartas de final da Copa do Brasil de futsal feminino contra AACC/Copagril",
@@ -7863,12 +7871,28 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:45a89cd90efc733a19b6574c67576e51ffa1809e": {
-    "url": "https://visornoticias.com.br/homem-ateia-fogo-em-carro-com-cachorro-dentro-apos-discussao-em-bar-no-sul-de-sc",
-    "title": "Incêndio criminoso em carro no bairro Pedro Zanivan mobiliza equipes de emergência em Balneário Camboriú",
-    "guid": "scmulti:6c0c39dc4f0ca5d7d2aa00592e285b65ed4e106b",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_6c0c39dc4f0ca5d7d2aa00592e285b65ed4e106b/",
-    "usedAt": 1786525219277,
-    "usedAtIso": "2026-08-12T09:00:19.277Z"
+  "source:f0baece28b7f77b5c0de09173e7caea359a7721f": {
+    "url": "https://visornoticias.com.br/obras-fecham-retorno-da-br-470-nesta-quarta-feira-e-mudam-acesso-em-navegantes",
+    "title": "Retorno provisório entre ruas Romeu Inácio da Silva e Belmiro Santiago será fechado em Navegantes para avanço de obras",
+    "guid": "scmulti:c7652cf7489af734b0ee6f63abaca0849a0db0b2",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_c7652cf7489af734b0ee6f63abaca0849a0db0b2/",
+    "usedAt": 1786528819298,
+    "usedAtIso": "2026-08-12T10:00:19.298Z"
+  },
+  "source:e47abbfa953bea4bb4de0883218b83cf55ccaeab": {
+    "url": "https://visornoticias.com.br/santa-catarina-enfrenta-periodo-de-chuva-intensa-com-temporais-granizo-e-risco-de-tempestades-severas",
+    "title": "Defesa Civil alerta para temporais com chuva intensa, ventos fortes e granizo em Santa Catarina",
+    "guid": "scmulti:c15f392ba0a0c1437bd59d6b3b90303423763ba9",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_c15f392ba0a0c1437bd59d6b3b90303423763ba9/",
+    "usedAt": 1786528819298,
+    "usedAtIso": "2026-08-12T10:00:19.298Z"
+  },
+  "source:2d9ac6710a169dd9ad233268b70acee4790c2919": {
+    "url": "https://visornoticias.com.br/engavetamento-com-oito-veiculos-deixa-dois-feridos-e-exige-reforco-de-tres-cidades-na-br-163-em-sc",
+    "title": "Engavetamento envolvendo oito veículos mobiliza equipes de emergência na BR-163 em Guaraciaba",
+    "guid": "scmulti:61aab5b93b1d204b79247ff3f2cb80fb48a4dae3",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_61aab5b93b1d204b79247ff3f2cb80fb48a4dae3/",
+    "usedAt": 1786528819298,
+    "usedAtIso": "2026-08-12T10:00:19.298Z"
   }
 }
