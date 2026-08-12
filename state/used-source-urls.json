@@ -1,4 +1,20 @@
 {
+  "source:b68e86bbcb1e8334f4de8d0d2d93a8de012166e0": {
+    "url": "https://visornoticias.com.br/itapema-entra-no-circuito-do-padel-com-tres-dias-de-torneio-entre-atletas-de-varias-categorias",
+    "title": "Copa Embraed de Padel em Itapema oferece R$ 6 mil em prêmios e inscrições até 16 de agosto",
+    "guid": "scmulti:d38594638692b28fc9ecaec027db9b88e2849a0b",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_d38594638692b28fc9ecaec027db9b88e2849a0b/",
+    "usedAt": 1786539620916,
+    "usedAtIso": "2026-08-12T13:00:20.916Z"
+  },
+  "source:85048db4a5cc9aec9dde3f29c7e073342111e7a5": {
+    "url": "https://visornoticias.com.br/trafico-e-descoberto-apos-abordagem-e-policia-apreende-drogas-e-mais-de-r-37-mil-em-porto-belo",
+    "title": "Polícia Militar apreende drogas e mais de R$ 37 mil em operação em Santa Catarina",
+    "guid": "scmulti:7f27b3ddf2f79901af3fe50f8fb5782eeefb9fc4",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_7f27b3ddf2f79901af3fe50f8fb5782eeefb9fc4/",
+    "usedAt": 1786539620916,
+    "usedAtIso": "2026-08-12T13:00:20.916Z"
+  },
   "source:03ec3fa746c6d27ba68f3261de673c45d3ed9bea": {
     "url": "https://visornoticias.com.br/operacao-interestadual-mira-grupo-investigado-por-sequestro-extorsao-e-tortura-em-florianopolis",
     "title": "Operação Patrocínio Fiel mobiliza mais de 110 policiais contra facção criminosa em Santa Catarina e São Paulo",
@@ -7919,20 +7935,20 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:b68e86bbcb1e8334f4de8d0d2d93a8de012166e0": {
-    "url": "https://visornoticias.com.br/itapema-entra-no-circuito-do-padel-com-tres-dias-de-torneio-entre-atletas-de-varias-categorias",
-    "title": "Copa Embraed de Padel em Itapema oferece R$ 6 mil em prêmios e inscrições até 16 de agosto",
-    "guid": "scmulti:d38594638692b28fc9ecaec027db9b88e2849a0b",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_d38594638692b28fc9ecaec027db9b88e2849a0b/",
-    "usedAt": 1786539620916,
-    "usedAtIso": "2026-08-12T13:00:20.916Z"
+  "source:0b7c52bb4cd9330d4b10b18b4b5a73d059e8f360": {
+    "url": "https://visornoticias.com.br/acidente-trava-trecho-da-br-101-e-deixa-transito-em-apenas-uma-faixa-em-itapema",
+    "title": "Acidente no km 149 da BR-101 causa lentidão e bloqueio parcial em Santa Catarina",
+    "guid": "scmulti:1cff4f412dd9cc4feeb48b4b027810af18cbe582",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_1cff4f412dd9cc4feeb48b4b027810af18cbe582/",
+    "usedAt": 1786550420886,
+    "usedAtIso": "2026-08-12T16:00:20.886Z"
   },
-  "source:85048db4a5cc9aec9dde3f29c7e073342111e7a5": {
-    "url": "https://visornoticias.com.br/trafico-e-descoberto-apos-abordagem-e-policia-apreende-drogas-e-mais-de-r-37-mil-em-porto-belo",
-    "title": "Polícia Militar apreende drogas e mais de R$ 37 mil em operação em Santa Catarina",
-    "guid": "scmulti:7f27b3ddf2f79901af3fe50f8fb5782eeefb9fc4",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_7f27b3ddf2f79901af3fe50f8fb5782eeefb9fc4/",
-    "usedAt": 1786539620916,
-    "usedAtIso": "2026-08-12T13:00:20.916Z"
+  "source:a8c34bcf17699d8ceb17852284bd89ec72926469": {
+    "url": "https://visornoticias.com.br/homem-sofre-fratura-exposta-e-traumatismo-craniano-em-acidente-com-guindaste-em-florianopolis",
+    "title": "Homem sofre fratura exposta e traumatismo craniano em acidente com munck em Santa Catarina",
+    "guid": "scmulti:9f25c62347286d9cc58d6d067943049c525c8057",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_9f25c62347286d9cc58d6d067943049c525c8057/",
+    "usedAt": 1786550420886,
+    "usedAtIso": "2026-08-12T16:00:20.886Z"
   }
 }
