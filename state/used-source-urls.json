@@ -1,4 +1,20 @@
 {
+  "source:fedc49020163aa4abb4cfc96a87f2318265dd87e": {
+    "url": "https://visornoticias.com.br/queda-de-poste-deixa-mais-de-120-residencias-sem-energia-e-rua-totalmente-bloqueada-em-florianopolis",
+    "title": "Poste caído bloqueia rua e deixa mais de 120 unidades sem energia em Balneário Camboriú",
+    "guid": "scmulti:ae3c51568fe247d06dd38046fcd7b46b6442f1af",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_ae3c51568fe247d06dd38046fcd7b46b6442f1af/",
+    "usedAt": 1786532419298,
+    "usedAtIso": "2026-08-12T11:00:19.298Z"
+  },
+  "source:f078742af85e6861265a190c48b8d81e41683728": {
+    "url": "https://visornoticias.com.br/acidente-entre-carro-e-caminhao-deixa-idoso-ferido-na-br-470-em-sc",
+    "title": "Motorista de 73 anos é socorrido após sair de veículo em Trombudo Central",
+    "guid": "scmulti:6ef65347403320abcde6e133b577da978a2589c4",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_6ef65347403320abcde6e133b577da978a2589c4/",
+    "usedAt": 1786532419298,
+    "usedAtIso": "2026-08-12T11:00:19.298Z"
+  },
   "source:f0baece28b7f77b5c0de09173e7caea359a7721f": {
     "url": "https://visornoticias.com.br/obras-fecham-retorno-da-br-470-nesta-quarta-feira-e-mudam-acesso-em-navegantes",
     "title": "Retorno provisório entre ruas Romeu Inácio da Silva e Belmiro Santiago será fechado em Navegantes para avanço de obras",
@@ -7895,20 +7911,12 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:fedc49020163aa4abb4cfc96a87f2318265dd87e": {
-    "url": "https://visornoticias.com.br/queda-de-poste-deixa-mais-de-120-residencias-sem-energia-e-rua-totalmente-bloqueada-em-florianopolis",
-    "title": "Poste caído bloqueia rua e deixa mais de 120 unidades sem energia em Balneário Camboriú",
-    "guid": "scmulti:ae3c51568fe247d06dd38046fcd7b46b6442f1af",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_ae3c51568fe247d06dd38046fcd7b46b6442f1af/",
-    "usedAt": 1786532419298,
-    "usedAtIso": "2026-08-12T11:00:19.298Z"
-  },
-  "source:f078742af85e6861265a190c48b8d81e41683728": {
-    "url": "https://visornoticias.com.br/acidente-entre-carro-e-caminhao-deixa-idoso-ferido-na-br-470-em-sc",
-    "title": "Motorista de 73 anos é socorrido após sair de veículo em Trombudo Central",
-    "guid": "scmulti:6ef65347403320abcde6e133b577da978a2589c4",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_6ef65347403320abcde6e133b577da978a2589c4/",
-    "usedAt": 1786532419298,
-    "usedAtIso": "2026-08-12T11:00:19.298Z"
+  "source:03ec3fa746c6d27ba68f3261de673c45d3ed9bea": {
+    "url": "https://visornoticias.com.br/operacao-interestadual-mira-grupo-investigado-por-sequestro-extorsao-e-tortura-em-florianopolis",
+    "title": "Operação Patrocínio Fiel mobiliza mais de 110 policiais contra facção criminosa em Santa Catarina e São Paulo",
+    "guid": "scmulti:952fd16d44abc202906240be463b57e2e4d68fbb",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_952fd16d44abc202906240be463b57e2e4d68fbb/",
+    "usedAt": 1786536019288,
+    "usedAtIso": "2026-08-12T12:00:19.288Z"
   }
 }
