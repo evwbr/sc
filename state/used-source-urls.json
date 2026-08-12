@@ -1,4 +1,12 @@
 {
+  "source:057ae97dc87e82b9c8f694d5230404536d499fbd": {
+    "url": "https://visornoticias.com.br/cemiterio-da-penha-lages-obras",
+    "title": "Obra de R$ 350 mil melhora acesso e circulação no Cemitério da Penha em Florianópolis",
+    "guid": "scmulti:8c524a2be2b86675a173446979c14cbfc7b35f3b",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_8c524a2be2b86675a173446979c14cbfc7b35f3b/",
+    "usedAt": 1786568419629,
+    "usedAtIso": "2026-08-12T21:00:19.629Z"
+  },
   "source:2c86ee5cc06be522e085c42393d1cdb5289882b3": {
     "url": "https://cbntotal.com.br/noticias/el-nino-aumenta-atencao-sobre-as-chuvas-em-florianopolis-e-instabilidade-deve-ganhar-forca-nos-proximos-dias",
     "title": "Defesa Civil alerta para temporais e instabilidade em Santa Catarina nos próximos dias",
@@ -8023,12 +8031,20 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:057ae97dc87e82b9c8f694d5230404536d499fbd": {
-    "url": "https://visornoticias.com.br/cemiterio-da-penha-lages-obras",
-    "title": "Obra de R$ 350 mil melhora acesso e circulação no Cemitério da Penha em Florianópolis",
-    "guid": "scmulti:8c524a2be2b86675a173446979c14cbfc7b35f3b",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_8c524a2be2b86675a173446979c14cbfc7b35f3b/",
-    "usedAt": 1786568419629,
-    "usedAtIso": "2026-08-12T21:00:19.629Z"
+  "source:c208b99507398631cf100e083fd7544a549bd94d": {
+    "url": "https://visornoticias.com.br/temporais-ganham-forca-em-sc-com-risco-de-granizo-e-vento-forte-a-partir-desta-quinta-feira",
+    "title": "Defesa Civil alerta para tempestades severas em Santa Catarina até sábado",
+    "guid": "scmulti:82bd11594b56242881cf0db7a1a9992d8872acb2",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_82bd11594b56242881cf0db7a1a9992d8872acb2/",
+    "usedAt": 1786575619433,
+    "usedAtIso": "2026-08-12T23:00:19.433Z"
+  },
+  "source:84f4684e07d440e737331cb86759900609bfe62f": {
+    "url": "https://visornoticias.com.br/suspeitos-de-furtos-em-tijucas-sao-presos-com-objetos-recuperados-em-itapema",
+    "title": "Polícia prende dois homens em Itapema com objetos furtados de residências em Tijucas",
+    "guid": "scmulti:643ce6de24cb31b2122613d3baa0fd2591b8203d",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_643ce6de24cb31b2122613d3baa0fd2591b8203d/",
+    "usedAt": 1786575619433,
+    "usedAtIso": "2026-08-12T23:00:19.433Z"
   }
 }
