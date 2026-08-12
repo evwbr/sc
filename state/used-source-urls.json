@@ -1,4 +1,44 @@
 {
+  "source:835646b738f9c0cf7bc6b54398b2085fdbbf5b46": {
+    "url": "https://visornoticias.com.br/caminhao-perde-forca-na-subida-e-fica-por-um-triz-de-tombar-em-florianopolis",
+    "title": "Caminhão fica apoiado em poste após acidente em subida íngreme em Santa Catarina",
+    "guid": "scmulti:28c4546c99d201263b5449f353373440c273bead",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_28c4546c99d201263b5449f353373440c273bead/",
+    "usedAt": 1786561220019,
+    "usedAtIso": "2026-08-12T19:00:20.019Z"
+  },
+  "source:98172b6b542bbc41945516f41f11d46b11282dde": {
+    "url": "https://visornoticias.com.br/dengue-tubarao-4",
+    "title": "Tubarão registra oito casos autóctones de dengue e intensifica combate ao mosquito Aedes aegypti",
+    "guid": "scmulti:9b049cc3f024b166b9ca91a1fd27e9f6625aaf2b",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_9b049cc3f024b166b9ca91a1fd27e9f6625aaf2b/",
+    "usedAt": 1786561220019,
+    "usedAtIso": "2026-08-12T19:00:20.019Z"
+  },
+  "source:e88bccb5b0c89cbee8e8ec77fe38eb4c8ada61a5": {
+    "url": "https://visornoticias.com.br/casa-catarina-tubarao",
+    "title": "Programa habitacional Casa Catarina em Tubarão enfrenta dificuldades por falta de documentação dos candidatos",
+    "guid": "scmulti:cffbc11af78c2ec4debaf4182288849f294ec1ac",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_cffbc11af78c2ec4debaf4182288849f294ec1ac/",
+    "usedAt": 1786561220019,
+    "usedAtIso": "2026-08-12T19:00:20.019Z"
+  },
+  "source:9550e07114c29c56b76a21c592d562c6ebb38be9": {
+    "url": "https://visornoticias.com.br/chuva-lages-7",
+    "title": "Defesa Civil de Lages monitora possibilidade de tempestades severas nos próximos dias",
+    "guid": "scmulti:63090b3ffaa7403b69aed137a57daf0e98df7a6f",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_63090b3ffaa7403b69aed137a57daf0e98df7a6f/",
+    "usedAt": 1786561220019,
+    "usedAtIso": "2026-08-12T19:00:20.019Z"
+  },
+  "source:1e5b6e14fe2dc56f3795c12f6625af369297002d": {
+    "url": "https://visornoticias.com.br/temporais-sc-2",
+    "title": "Santa Catarina enfrenta risco alto de temporais entre quinta e sábado com possibilidade de danos e alagamentos",
+    "guid": "scmulti:dc978d189b0e247238ecaf3e445aa076797a4f27",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_dc978d189b0e247238ecaf3e445aa076797a4f27/",
+    "usedAt": 1786561220019,
+    "usedAtIso": "2026-08-12T19:00:20.019Z"
+  },
   "source:899395fe7c62d657b3858fcacbcf1414a1e11a15": {
     "url": "https://visornoticias.com.br/falso-advogado-e-preso-em-sp-apos-aplicar-golpe-de-r-50-mil-em-morador-de-florianopolis",
     "title": "Polícia Civil prende suspeito de golpe com falsa identidade de advogado em Florianópolis",
@@ -7975,44 +8015,12 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:835646b738f9c0cf7bc6b54398b2085fdbbf5b46": {
-    "url": "https://visornoticias.com.br/caminhao-perde-forca-na-subida-e-fica-por-um-triz-de-tombar-em-florianopolis",
-    "title": "Caminhão fica apoiado em poste após acidente em subida íngreme em Santa Catarina",
-    "guid": "scmulti:28c4546c99d201263b5449f353373440c273bead",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_28c4546c99d201263b5449f353373440c273bead/",
-    "usedAt": 1786561220019,
-    "usedAtIso": "2026-08-12T19:00:20.019Z"
-  },
-  "source:98172b6b542bbc41945516f41f11d46b11282dde": {
-    "url": "https://visornoticias.com.br/dengue-tubarao-4",
-    "title": "Tubarão registra oito casos autóctones de dengue e intensifica combate ao mosquito Aedes aegypti",
-    "guid": "scmulti:9b049cc3f024b166b9ca91a1fd27e9f6625aaf2b",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_9b049cc3f024b166b9ca91a1fd27e9f6625aaf2b/",
-    "usedAt": 1786561220019,
-    "usedAtIso": "2026-08-12T19:00:20.019Z"
-  },
-  "source:e88bccb5b0c89cbee8e8ec77fe38eb4c8ada61a5": {
-    "url": "https://visornoticias.com.br/casa-catarina-tubarao",
-    "title": "Programa habitacional Casa Catarina em Tubarão enfrenta dificuldades por falta de documentação dos candidatos",
-    "guid": "scmulti:cffbc11af78c2ec4debaf4182288849f294ec1ac",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_cffbc11af78c2ec4debaf4182288849f294ec1ac/",
-    "usedAt": 1786561220019,
-    "usedAtIso": "2026-08-12T19:00:20.019Z"
-  },
-  "source:9550e07114c29c56b76a21c592d562c6ebb38be9": {
-    "url": "https://visornoticias.com.br/chuva-lages-7",
-    "title": "Defesa Civil de Lages monitora possibilidade de tempestades severas nos próximos dias",
-    "guid": "scmulti:63090b3ffaa7403b69aed137a57daf0e98df7a6f",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_63090b3ffaa7403b69aed137a57daf0e98df7a6f/",
-    "usedAt": 1786561220019,
-    "usedAtIso": "2026-08-12T19:00:20.019Z"
-  },
-  "source:1e5b6e14fe2dc56f3795c12f6625af369297002d": {
-    "url": "https://visornoticias.com.br/temporais-sc-2",
-    "title": "Santa Catarina enfrenta risco alto de temporais entre quinta e sábado com possibilidade de danos e alagamentos",
-    "guid": "scmulti:dc978d189b0e247238ecaf3e445aa076797a4f27",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_dc978d189b0e247238ecaf3e445aa076797a4f27/",
-    "usedAt": 1786561220019,
-    "usedAtIso": "2026-08-12T19:00:20.019Z"
+  "source:2c86ee5cc06be522e085c42393d1cdb5289882b3": {
+    "url": "https://cbntotal.com.br/noticias/el-nino-aumenta-atencao-sobre-as-chuvas-em-florianopolis-e-instabilidade-deve-ganhar-forca-nos-proximos-dias",
+    "title": "Defesa Civil alerta para temporais e instabilidade em Santa Catarina nos próximos dias",
+    "guid": "scmulti:c89af289ea21a4e24a1836b8814b0e963b0f0460",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_c89af289ea21a4e24a1836b8814b0e963b0f0460/",
+    "usedAt": 1786564819348,
+    "usedAtIso": "2026-08-12T20:00:19.348Z"
   }
 }
