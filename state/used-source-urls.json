@@ -1,4 +1,12 @@
 {
+  "source:b7ad06ce752e2673a04bef9475618c3030fb03f0": {
+    "url": "https://visornoticias.com.br/temporais-com-granizo-e-risco-de-alagamentos-colocam-itapema-e-outras-20-cidades-em-alerta",
+    "title": "Alerta de tempestade com risco de raios e alagamentos atinge municípios do Vale do Itajaí e Litoral Norte de Santa Catarina",
+    "guid": "scmulti:07eb76979caabe87d7f88ada136eb311a6d1dbc6",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_07eb76979caabe87d7f88ada136eb311a6d1dbc6/",
+    "usedAt": 1786640419991,
+    "usedAtIso": "2026-08-13T17:00:19.991Z"
+  },
   "source:fe449ea47a943a1ae064244615e52377de39f0ec": {
     "url": "https://visornoticias.com.br/obra-de-r-315-milhoes-transforma-praia-do-gravata-e-amplia-faixa-de-areia-em-navegantes",
     "title": "Praia de Balneário Camboriú é reaberta após obras de alargamento e vistoria do Corpo de Bombeiros",
@@ -8151,12 +8159,44 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:b7ad06ce752e2673a04bef9475618c3030fb03f0": {
-    "url": "https://visornoticias.com.br/temporais-com-granizo-e-risco-de-alagamentos-colocam-itapema-e-outras-20-cidades-em-alerta",
-    "title": "Alerta de tempestade com risco de raios e alagamentos atinge municípios do Vale do Itajaí e Litoral Norte de Santa Catarina",
-    "guid": "scmulti:07eb76979caabe87d7f88ada136eb311a6d1dbc6",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_07eb76979caabe87d7f88ada136eb311a6d1dbc6/",
-    "usedAt": 1786640419991,
-    "usedAtIso": "2026-08-13T17:00:19.991Z"
+  "source:428d0f69f74b428392f105950f768bd33da76f3a": {
+    "url": "https://visornoticias.com.br/bebe-de-45-dias-morre-apos-atendimento-em-camboriu-e-saude-apura-possivel-erro-na-medicacao",
+    "title": "Secretaria de Saúde de Camboriú investiga administração de medicamento em bebê após reação alérgica",
+    "guid": "scmulti:8df203859cfdd41a63c9f8756e3ab06c4b238e52",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_8df203859cfdd41a63c9f8756e3ab06c4b238e52/",
+    "usedAt": 1786644019523,
+    "usedAtIso": "2026-08-13T18:00:19.523Z"
+  },
+  "source:79861597c87d98a92bea4ed96e6dc78bf885f41e": {
+    "url": "https://visornoticias.com.br/chuva-em-lages-8",
+    "title": "Chuva intensa em Lages provoca 29 ocorrências e afeta 116 pessoas em 19 bairros",
+    "guid": "scmulti:bf583c8f03e1803791d3da78150c251cf2acbfca",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_bf583c8f03e1803791d3da78150c251cf2acbfca/",
+    "usedAt": 1786644019523,
+    "usedAtIso": "2026-08-13T18:00:19.523Z"
+  },
+  "source:4984e3a1d437cf08f8b7086899df4a608f083341": {
+    "url": "https://visornoticias.com.br/chuvas-lages-8",
+    "title": "Defesa Civil alerta para temporais e orienta população de Lages a adotar medidas de segurança",
+    "guid": "scmulti:83c2b1c55a7af81e1587a3f1ecf8b759960f1ac9",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_83c2b1c55a7af81e1587a3f1ecf8b759960f1ac9/",
+    "usedAt": 1786644019523,
+    "usedAtIso": "2026-08-13T18:00:19.523Z"
+  },
+  "source:dc6da96cbfb5a1698ad1cde2cc76635a986dfb57": {
+    "url": "https://visornoticias.com.br/campeonato-catarinense-escolar",
+    "title": "Colégio Santa Rosa de Lima representa Lages no Campeonato catarinense Escolar de Futebol",
+    "guid": "scmulti:6853e29cc24c689f42b46d7ca9722e25423a69d8",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_6853e29cc24c689f42b46d7ca9722e25423a69d8/",
+    "usedAt": 1786644019523,
+    "usedAtIso": "2026-08-13T18:00:19.523Z"
+  },
+  "source:1b892556ae2fcd803cbd31e1420a83389b7766f2": {
+    "url": "https://visornoticias.com.br/el-nino-sc-3",
+    "title": "El Niño em Santa Catarina se intensifica e pode ser o mais forte desde 1950, alerta NOAA",
+    "guid": "scmulti:50df1ed0a3eef50dabdd8b45433d779bf340425e",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_50df1ed0a3eef50dabdd8b45433d779bf340425e/",
+    "usedAt": 1786644019523,
+    "usedAtIso": "2026-08-13T18:00:19.523Z"
   }
 }
