@@ -1,4 +1,12 @@
 {
+  "source:eca5d11e19c4fa63da92b966f865fd8206cfe70b": {
+    "url": "https://visornoticias.com.br/limpeza-urbana-lages-14",
+    "title": "Prefeitura de Lages intensifica limpeza urbana para manter cidade organizada e prevenir alagamentos",
+    "guid": "scmulti:645e22acaba5ba6eb6690e2f3c556dc7ff673a74",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_645e22acaba5ba6eb6690e2f3c556dc7ff673a74/",
+    "usedAt": 1786658420378,
+    "usedAtIso": "2026-08-13T22:00:20.378Z"
+  },
   "source:43f72d227eae488407e1df9c97fffadca63ea04b": {
     "url": "https://visornoticias.com.br/famoso-cacador-de-tornados-coloca-santa-catarina-na-rota-de-expedicao-pelo-sul-do-brasil",
     "title": "Meteorologista norte-americano planeja expedição para monitorar tornados no Sul do Brasil",
@@ -8255,12 +8263,36 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:eca5d11e19c4fa63da92b966f865fd8206cfe70b": {
-    "url": "https://visornoticias.com.br/limpeza-urbana-lages-14",
-    "title": "Prefeitura de Lages intensifica limpeza urbana para manter cidade organizada e prevenir alagamentos",
-    "guid": "scmulti:645e22acaba5ba6eb6690e2f3c556dc7ff673a74",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_645e22acaba5ba6eb6690e2f3c556dc7ff673a74/",
-    "usedAt": 1786658420378,
-    "usedAtIso": "2026-08-13T22:00:20.378Z"
+  "source:897c20e712f2f90d070bbbda6504e761590d0f97": {
+    "url": "https://visornoticias.com.br/onda-de-tempestades-pode-deixar-ate-200-mm-de-chuva-em-sc-e-pr",
+    "title": "Santa Catarina e Paraná enfrentam chuvas intensas com acumulados de até 200 mm entre sexta e sábado",
+    "guid": "scmulti:713506042c9b2465caa1cc70234f3a384446d4e5",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_713506042c9b2465caa1cc70234f3a384446d4e5/",
+    "usedAt": 1786662020147,
+    "usedAtIso": "2026-08-13T23:00:20.147Z"
+  },
+  "source:70f8338ae0adac2a0bec8067445071ef1ec42e1e": {
+    "url": "https://visornoticias.com.br/homem-e-preso-suspeito-de-tentar-matar-companheira-e-tres-filhas-ao-jogar-carro-contra-poste-em-sc",
+    "title": "Homem é preso preventivamente após tentar atropelar companheira e filhas em Santa Catarina",
+    "guid": "scmulti:2f21fb9041498641f3c0ca6eaf06dfd889a3f9dc",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_2f21fb9041498641f3c0ca6eaf06dfd889a3f9dc/",
+    "usedAt": 1786662020147,
+    "usedAtIso": "2026-08-13T23:00:20.147Z"
+  },
+  "source:4f94ae6304db48348bd979ce4835c732ecac6377": {
+    "url": "https://visornoticias.com.br/acidente-com-duas-motos-interdita-faixa-da-via-expressa-em-florianopolis",
+    "title": "Acidente na saída da Ponte Hercílio Luz causa lentidão na Via Expressa em Florianópolis",
+    "guid": "scmulti:940c1bd71798e282f90132603001502514a0d614",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_940c1bd71798e282f90132603001502514a0d614/",
+    "usedAt": 1786662020147,
+    "usedAtIso": "2026-08-13T23:00:20.147Z"
+  },
+  "source:49b7e2848a8ca4fe795b9bc0f3210fbb43f8bc43": {
+    "url": "https://visornoticias.com.br/navio-de-347-metros-atraca-em-itajai-e-marca-operacao-recorde-no-porto",
+    "title": "Navio APL Salalah realiza operação recorde de movimentação de contêineres no Porto de Itajaí",
+    "guid": "scmulti:d239ff1d844effbe4e775a2dcea7c05d55a36067",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_d239ff1d844effbe4e775a2dcea7c05d55a36067/",
+    "usedAt": 1786662020147,
+    "usedAtIso": "2026-08-13T23:00:20.147Z"
   }
 }
