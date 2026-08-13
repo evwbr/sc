@@ -1,4 +1,20 @@
 {
+  "source:c208b99507398631cf100e083fd7544a549bd94d": {
+    "url": "https://visornoticias.com.br/temporais-ganham-forca-em-sc-com-risco-de-granizo-e-vento-forte-a-partir-desta-quinta-feira",
+    "title": "Defesa Civil alerta para tempestades severas em Santa Catarina até sábado",
+    "guid": "scmulti:82bd11594b56242881cf0db7a1a9992d8872acb2",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_82bd11594b56242881cf0db7a1a9992d8872acb2/",
+    "usedAt": 1786575619433,
+    "usedAtIso": "2026-08-12T23:00:19.433Z"
+  },
+  "source:84f4684e07d440e737331cb86759900609bfe62f": {
+    "url": "https://visornoticias.com.br/suspeitos-de-furtos-em-tijucas-sao-presos-com-objetos-recuperados-em-itapema",
+    "title": "Polícia prende dois homens em Itapema com objetos furtados de residências em Tijucas",
+    "guid": "scmulti:643ce6de24cb31b2122613d3baa0fd2591b8203d",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_643ce6de24cb31b2122613d3baa0fd2591b8203d/",
+    "usedAt": 1786575619433,
+    "usedAtIso": "2026-08-12T23:00:19.433Z"
+  },
   "source:057ae97dc87e82b9c8f694d5230404536d499fbd": {
     "url": "https://visornoticias.com.br/cemiterio-da-penha-lages-obras",
     "title": "Obra de R$ 350 mil melhora acesso e circulação no Cemitério da Penha em Florianópolis",
@@ -8031,20 +8047,12 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:c208b99507398631cf100e083fd7544a549bd94d": {
-    "url": "https://visornoticias.com.br/temporais-ganham-forca-em-sc-com-risco-de-granizo-e-vento-forte-a-partir-desta-quinta-feira",
-    "title": "Defesa Civil alerta para tempestades severas em Santa Catarina até sábado",
-    "guid": "scmulti:82bd11594b56242881cf0db7a1a9992d8872acb2",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_82bd11594b56242881cf0db7a1a9992d8872acb2/",
-    "usedAt": 1786575619433,
-    "usedAtIso": "2026-08-12T23:00:19.433Z"
-  },
-  "source:84f4684e07d440e737331cb86759900609bfe62f": {
-    "url": "https://visornoticias.com.br/suspeitos-de-furtos-em-tijucas-sao-presos-com-objetos-recuperados-em-itapema",
-    "title": "Polícia prende dois homens em Itapema com objetos furtados de residências em Tijucas",
-    "guid": "scmulti:643ce6de24cb31b2122613d3baa0fd2591b8203d",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_643ce6de24cb31b2122613d3baa0fd2591b8203d/",
-    "usedAt": 1786575619433,
-    "usedAtIso": "2026-08-12T23:00:19.433Z"
+  "source:c4e563272a7019e3c9a7c5a06e93da5416860c35": {
+    "url": "https://visornoticias.com.br/megaoperacao-contra-anabolizantes-adulterados-prende-suspeito-em-sc",
+    "title": "Polícia Civil de Santa Catarina participa de operação nacional contra fabricação clandestina de anabolizantes",
+    "guid": "scmulti:2399fb1af4d41cf85e633122e10d06b3dddb098d",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_2399fb1af4d41cf85e633122e10d06b3dddb098d/",
+    "usedAt": 1786582818980,
+    "usedAtIso": "2026-08-13T01:00:18.980Z"
   }
 }
