@@ -1,4 +1,28 @@
 {
+  "source:878796941b953a25bfe542d47f5d87ce94d9bd80": {
+    "url": "https://visornoticias.com.br/risco-de-enchentes-aumenta-em-sc-e-blumenau-monitora-nivel-do-itajai-acu",
+    "title": "Defesa Civil alerta para risco de enchentes no Alto Vale do Itajaí neste fim de semana",
+    "guid": "scmulti:69eda89dcc2bcb387d4273e3c1392f93f68f1c0b",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_69eda89dcc2bcb387d4273e3c1392f93f68f1c0b/",
+    "usedAt": 1786647621379,
+    "usedAtIso": "2026-08-13T19:00:21.379Z"
+  },
+  "source:c632e1cbbcc476248a4cb689c5c802abb54904a6": {
+    "url": "https://visornoticias.com.br/motorista-morre-apos-acidente-entre-dois-carros-na-br-282-na-grande-florianopolis",
+    "title": "Motorista morre em acidente na BR-282 em Santa Catarina; mulher é hospitalizada",
+    "guid": "scmulti:d730fd2e9a3ccb90c216fd944c7a602e65b4198a",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_d730fd2e9a3ccb90c216fd944c7a602e65b4198a/",
+    "usedAt": 1786647621379,
+    "usedAtIso": "2026-08-13T19:00:21.379Z"
+  },
+  "source:5c5991e6b57c2138edbb43519b33fb963b9a27d8": {
+    "url": "https://visornoticias.com.br/camara-lages-aprova-mocao-agilizar-cirurgias",
+    "title": "Câmara de Lages propõe realização de pequenas cirurgias em clínicas para agilizar atendimento",
+    "guid": "scmulti:667ad79420bbb0a84349c30ddc3dc0db7b31bd81",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_667ad79420bbb0a84349c30ddc3dc0db7b31bd81/",
+    "usedAt": 1786647621379,
+    "usedAtIso": "2026-08-13T19:00:21.379Z"
+  },
   "source:428d0f69f74b428392f105950f768bd33da76f3a": {
     "url": "https://visornoticias.com.br/bebe-de-45-dias-morre-apos-atendimento-em-camboriu-e-saude-apura-possivel-erro-na-medicacao",
     "title": "Secretaria de Saúde de Camboriú investiga administração de medicamento em bebê após reação alérgica",
@@ -8199,28 +8223,12 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:878796941b953a25bfe542d47f5d87ce94d9bd80": {
-    "url": "https://visornoticias.com.br/risco-de-enchentes-aumenta-em-sc-e-blumenau-monitora-nivel-do-itajai-acu",
-    "title": "Defesa Civil alerta para risco de enchentes no Alto Vale do Itajaí neste fim de semana",
-    "guid": "scmulti:69eda89dcc2bcb387d4273e3c1392f93f68f1c0b",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_69eda89dcc2bcb387d4273e3c1392f93f68f1c0b/",
-    "usedAt": 1786647621379,
-    "usedAtIso": "2026-08-13T19:00:21.379Z"
-  },
-  "source:c632e1cbbcc476248a4cb689c5c802abb54904a6": {
-    "url": "https://visornoticias.com.br/motorista-morre-apos-acidente-entre-dois-carros-na-br-282-na-grande-florianopolis",
-    "title": "Motorista morre em acidente na BR-282 em Santa Catarina; mulher é hospitalizada",
-    "guid": "scmulti:d730fd2e9a3ccb90c216fd944c7a602e65b4198a",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_d730fd2e9a3ccb90c216fd944c7a602e65b4198a/",
-    "usedAt": 1786647621379,
-    "usedAtIso": "2026-08-13T19:00:21.379Z"
-  },
-  "source:5c5991e6b57c2138edbb43519b33fb963b9a27d8": {
-    "url": "https://visornoticias.com.br/camara-lages-aprova-mocao-agilizar-cirurgias",
-    "title": "Câmara de Lages propõe realização de pequenas cirurgias em clínicas para agilizar atendimento",
-    "guid": "scmulti:667ad79420bbb0a84349c30ddc3dc0db7b31bd81",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_667ad79420bbb0a84349c30ddc3dc0db7b31bd81/",
-    "usedAt": 1786647621379,
-    "usedAtIso": "2026-08-13T19:00:21.379Z"
+  "source:ab32609d0fc416aeb00187e0feaf8fdb7303491f": {
+    "url": "https://visornoticias.com.br/aguas-de-camboriu-explica-por-que-o-prazo-entre-as-leituras-do-hidrometro-pode-variar",
+    "title": "Variação no período de leitura do hidrômetro pode ocorrer devido a fatores operacionais em Camboriú",
+    "guid": "scmulti:ec6f38e7e5642b36a778a1b21d4192bee3feb567",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_ec6f38e7e5642b36a778a1b21d4192bee3feb567/",
+    "usedAt": 1786651219829,
+    "usedAtIso": "2026-08-13T20:00:19.829Z"
   }
 }
