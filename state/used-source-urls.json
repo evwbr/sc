@@ -1,4 +1,20 @@
 {
+  "source:361c8e8f5e820b43258d6bb64d3b57665ebaadc4": {
+    "url": "https://visornoticias.com.br/sc-tera-sequencia-de-temporais-com-granizo-chuva-intensa-e-rajadas-de-vento",
+    "title": "Santa Catarina enfrenta temporais e risco de tempestades severas até o fim de semana",
+    "guid": "scmulti:10cea1a372ca238739075ee543bfc9581a73a558",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_10cea1a372ca238739075ee543bfc9581a73a558/",
+    "usedAt": 1786615219644,
+    "usedAtIso": "2026-08-13T10:00:19.644Z"
+  },
+  "source:0314660bb057779ce0d5712830691e7e17d69632": {
+    "url": "https://cbntotal.com.br/cotidiano/marina-beira-mar-norte-avanca-e-promete-impulsionar-cadeia-nautica-que-ja-faz-de-sc-referencia-nacional",
+    "title": "Parque Urbano e Marina Beira-Mar Norte em Florianópolis terá complexo comercial e capacidade para 600 embarcações",
+    "guid": "scmulti:3b11c0d7f5ddf61fbfc21ebf133d76bb4b0a81ad",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_3b11c0d7f5ddf61fbfc21ebf133d76bb4b0a81ad/",
+    "usedAt": 1786615219644,
+    "usedAtIso": "2026-08-13T10:00:19.644Z"
+  },
   "source:110b33acad92b3d6f6a3ab7541b92024ac980c38": {
     "url": "https://visornoticias.com.br/homem-morre-em-confronto-com-policiais-durante-operacao-contra-o-trafico-em-sc",
     "title": "Polícia Militar apreende quase 800 gramas de maconha e arma em residência usada para tráfico em Santa Catarina",
@@ -8071,20 +8087,28 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:361c8e8f5e820b43258d6bb64d3b57665ebaadc4": {
-    "url": "https://visornoticias.com.br/sc-tera-sequencia-de-temporais-com-granizo-chuva-intensa-e-rajadas-de-vento",
-    "title": "Santa Catarina enfrenta temporais e risco de tempestades severas até o fim de semana",
-    "guid": "scmulti:10cea1a372ca238739075ee543bfc9581a73a558",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_10cea1a372ca238739075ee543bfc9581a73a558/",
-    "usedAt": 1786615219644,
-    "usedAtIso": "2026-08-13T10:00:19.644Z"
+  "source:f564e4f635726c29c341c021474af739c6518e77": {
+    "url": "https://visornoticias.com.br/megaoperacao-contra-anabolizantes-adulterados-prende-homem-em-sc-e-bloqueia-r-32-milhoes",
+    "title": "Operação conjunta combate produção clandestina de anabolizantes com 45 prisões no país",
+    "guid": "scmulti:12b91a91b90b5d15f9446ec0e765d97e8a742be9",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_12b91a91b90b5d15f9446ec0e765d97e8a742be9/",
+    "usedAt": 1786618820169,
+    "usedAtIso": "2026-08-13T11:00:20.169Z"
   },
-  "source:0314660bb057779ce0d5712830691e7e17d69632": {
-    "url": "https://cbntotal.com.br/cotidiano/marina-beira-mar-norte-avanca-e-promete-impulsionar-cadeia-nautica-que-ja-faz-de-sc-referencia-nacional",
-    "title": "Parque Urbano e Marina Beira-Mar Norte em Florianópolis terá complexo comercial e capacidade para 600 embarcações",
-    "guid": "scmulti:3b11c0d7f5ddf61fbfc21ebf133d76bb4b0a81ad",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_3b11c0d7f5ddf61fbfc21ebf133d76bb4b0a81ad/",
-    "usedAt": 1786615219644,
-    "usedAtIso": "2026-08-13T10:00:19.644Z"
+  "source:d89fc743ab6a030efbf0ed34d26ee3ad6093aa1a": {
+    "url": "https://visornoticias.com.br/homem-e-arremessado-para-fora-de-carro-e-morre-em-acidente-com-caminhao-na-br-163-em-sc",
+    "title": "Motorista de caminhão é socorrido após acidente em São Miguel do Oeste",
+    "guid": "scmulti:2626be64c76a4efb5bf453c71deff188746065d3",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_2626be64c76a4efb5bf453c71deff188746065d3/",
+    "usedAt": 1786618820169,
+    "usedAtIso": "2026-08-13T11:00:20.169Z"
+  },
+  "source:49434d129708d513589fc61750b9c1aeb7f6318e": {
+    "url": "https://visornoticias.com.br/cobranca-de-divida-salta-de-r-15-mil-para-r-36-mil-e-termina-em-caso-de-extorsao-em-itapema",
+    "title": "Polícia aborda homens que cobravam dívida de R$ 36 mil em Morretes, Balneário Camboriú",
+    "guid": "scmulti:6802d870f26a2c16801ff7a53edff58cc2681415",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_6802d870f26a2c16801ff7a53edff58cc2681415/",
+    "usedAt": 1786618820169,
+    "usedAtIso": "2026-08-13T11:00:20.169Z"
   }
 }
