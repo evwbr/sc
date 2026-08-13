@@ -1,4 +1,12 @@
 {
+  "source:fe449ea47a943a1ae064244615e52377de39f0ec": {
+    "url": "https://visornoticias.com.br/obra-de-r-315-milhoes-transforma-praia-do-gravata-e-amplia-faixa-de-areia-em-navegantes",
+    "title": "Praia de Balneário Camboriú é reaberta após obras de alargamento e vistoria do Corpo de Bombeiros",
+    "guid": "scmulti:0e0ef3d8623ae4876e932dc7782ca6f04e6e5b77",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_0e0ef3d8623ae4876e932dc7782ca6f04e6e5b77/",
+    "usedAt": 1786636819886,
+    "usedAtIso": "2026-08-13T16:00:19.886Z"
+  },
   "source:0fea38bf3746111acc1bc3b150ed2ce3a6203bc8": {
     "url": "https://visornoticias.com.br/acidente-entre-carro-e-caminhao-mata-duas-pessoas-interdita-totalmente-a-br-470-e-provoca-filas-em-pouso-redondo",
     "title": "Acidente entre caminhão e carro na BR-470 deixa duas mortes e uma pessoa gravemente ferida",
@@ -8143,12 +8151,12 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:fe449ea47a943a1ae064244615e52377de39f0ec": {
-    "url": "https://visornoticias.com.br/obra-de-r-315-milhoes-transforma-praia-do-gravata-e-amplia-faixa-de-areia-em-navegantes",
-    "title": "Praia de Balneário Camboriú é reaberta após obras de alargamento e vistoria do Corpo de Bombeiros",
-    "guid": "scmulti:0e0ef3d8623ae4876e932dc7782ca6f04e6e5b77",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_0e0ef3d8623ae4876e932dc7782ca6f04e6e5b77/",
-    "usedAt": 1786636819886,
-    "usedAtIso": "2026-08-13T16:00:19.886Z"
+  "source:b7ad06ce752e2673a04bef9475618c3030fb03f0": {
+    "url": "https://visornoticias.com.br/temporais-com-granizo-e-risco-de-alagamentos-colocam-itapema-e-outras-20-cidades-em-alerta",
+    "title": "Alerta de tempestade com risco de raios e alagamentos atinge municípios do Vale do Itajaí e Litoral Norte de Santa Catarina",
+    "guid": "scmulti:07eb76979caabe87d7f88ada136eb311a6d1dbc6",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_07eb76979caabe87d7f88ada136eb311a6d1dbc6/",
+    "usedAt": 1786640419991,
+    "usedAtIso": "2026-08-13T17:00:19.991Z"
   }
 }
