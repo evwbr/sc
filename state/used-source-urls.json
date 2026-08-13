@@ -1,4 +1,20 @@
 {
+  "source:110b33acad92b3d6f6a3ab7541b92024ac980c38": {
+    "url": "https://visornoticias.com.br/homem-morre-em-confronto-com-policiais-durante-operacao-contra-o-trafico-em-sc",
+    "title": "Polícia Militar apreende quase 800 gramas de maconha e arma em residência usada para tráfico em Santa Catarina",
+    "guid": "scmulti:8aa3f21458b333e05caebfe9c6aee235bc1344d9",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_8aa3f21458b333e05caebfe9c6aee235bc1344d9/",
+    "usedAt": 1786611619937,
+    "usedAtIso": "2026-08-13T09:00:19.937Z"
+  },
+  "source:8d1d920eda6dceeab1c209a94747d0cb8ba3aeb3": {
+    "url": "https://visornoticias.com.br/elevador-despenca-cerca-de-8-metros-em-obra-e-mata-trabalhador-em-camboriu",
+    "title": "Trabalhador morre após queda de elevador de carga em obra de Camboriú",
+    "guid": "scmulti:9df8592bf1982d0c1f1f2e62e474e3256bf9beb6",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_9df8592bf1982d0c1f1f2e62e474e3256bf9beb6/",
+    "usedAt": 1786611619937,
+    "usedAtIso": "2026-08-13T09:00:19.937Z"
+  },
   "source:c4e563272a7019e3c9a7c5a06e93da5416860c35": {
     "url": "https://visornoticias.com.br/megaoperacao-contra-anabolizantes-adulterados-prende-suspeito-em-sc",
     "title": "Polícia Civil de Santa Catarina participa de operação nacional contra fabricação clandestina de anabolizantes",
@@ -8055,20 +8071,20 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:110b33acad92b3d6f6a3ab7541b92024ac980c38": {
-    "url": "https://visornoticias.com.br/homem-morre-em-confronto-com-policiais-durante-operacao-contra-o-trafico-em-sc",
-    "title": "Polícia Militar apreende quase 800 gramas de maconha e arma em residência usada para tráfico em Santa Catarina",
-    "guid": "scmulti:8aa3f21458b333e05caebfe9c6aee235bc1344d9",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_8aa3f21458b333e05caebfe9c6aee235bc1344d9/",
-    "usedAt": 1786611619937,
-    "usedAtIso": "2026-08-13T09:00:19.937Z"
+  "source:361c8e8f5e820b43258d6bb64d3b57665ebaadc4": {
+    "url": "https://visornoticias.com.br/sc-tera-sequencia-de-temporais-com-granizo-chuva-intensa-e-rajadas-de-vento",
+    "title": "Santa Catarina enfrenta temporais e risco de tempestades severas até o fim de semana",
+    "guid": "scmulti:10cea1a372ca238739075ee543bfc9581a73a558",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_10cea1a372ca238739075ee543bfc9581a73a558/",
+    "usedAt": 1786615219644,
+    "usedAtIso": "2026-08-13T10:00:19.644Z"
   },
-  "source:8d1d920eda6dceeab1c209a94747d0cb8ba3aeb3": {
-    "url": "https://visornoticias.com.br/elevador-despenca-cerca-de-8-metros-em-obra-e-mata-trabalhador-em-camboriu",
-    "title": "Trabalhador morre após queda de elevador de carga em obra de Camboriú",
-    "guid": "scmulti:9df8592bf1982d0c1f1f2e62e474e3256bf9beb6",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_9df8592bf1982d0c1f1f2e62e474e3256bf9beb6/",
-    "usedAt": 1786611619937,
-    "usedAtIso": "2026-08-13T09:00:19.937Z"
+  "source:0314660bb057779ce0d5712830691e7e17d69632": {
+    "url": "https://cbntotal.com.br/cotidiano/marina-beira-mar-norte-avanca-e-promete-impulsionar-cadeia-nautica-que-ja-faz-de-sc-referencia-nacional",
+    "title": "Parque Urbano e Marina Beira-Mar Norte em Florianópolis terá complexo comercial e capacidade para 600 embarcações",
+    "guid": "scmulti:3b11c0d7f5ddf61fbfc21ebf133d76bb4b0a81ad",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_3b11c0d7f5ddf61fbfc21ebf133d76bb4b0a81ad/",
+    "usedAt": 1786615219644,
+    "usedAtIso": "2026-08-13T10:00:19.644Z"
   }
 }
