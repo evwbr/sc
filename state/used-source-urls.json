@@ -1,4 +1,20 @@
 {
+  "source:0fea38bf3746111acc1bc3b150ed2ce3a6203bc8": {
+    "url": "https://visornoticias.com.br/acidente-entre-carro-e-caminhao-mata-duas-pessoas-interdita-totalmente-a-br-470-e-provoca-filas-em-pouso-redondo",
+    "title": "Acidente entre caminhão e carro na BR-470 deixa duas mortes e uma pessoa gravemente ferida",
+    "guid": "scmulti:6db13ab15ab8bc5918e159992dff6d5472719b7c",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_6db13ab15ab8bc5918e159992dff6d5472719b7c/",
+    "usedAt": 1786629619825,
+    "usedAtIso": "2026-08-13T14:00:19.825Z"
+  },
+  "source:407813ec2a9ee4c00c069063496cc9cce2e66ea1": {
+    "url": "https://cbntotal.com.br/cotidiano/policia-civil-deflagra-operacao-contra-trafico-de-drogas-na-grande-florianopolis",
+    "title": "Polícia cumpre nove mandados contra grupo suspeito de tráfico de drogas em Santa Catarina",
+    "guid": "scmulti:d94253dc099d336655340ec2817f9481f8e7f291",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_d94253dc099d336655340ec2817f9481f8e7f291/",
+    "usedAt": 1786629619825,
+    "usedAtIso": "2026-08-13T14:00:19.825Z"
+  },
   "source:f5c65a521bb3e6245e8e5da4602366ea8a8377a1": {
     "url": "https://visornoticias.com.br/vacina-dengue-sao-jose-segunda-dose",
     "title": "São José registra baixa adesão à segunda dose da vacina contra a dengue em adolescentes",
@@ -8127,20 +8143,12 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:0fea38bf3746111acc1bc3b150ed2ce3a6203bc8": {
-    "url": "https://visornoticias.com.br/acidente-entre-carro-e-caminhao-mata-duas-pessoas-interdita-totalmente-a-br-470-e-provoca-filas-em-pouso-redondo",
-    "title": "Acidente entre caminhão e carro na BR-470 deixa duas mortes e uma pessoa gravemente ferida",
-    "guid": "scmulti:6db13ab15ab8bc5918e159992dff6d5472719b7c",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_6db13ab15ab8bc5918e159992dff6d5472719b7c/",
-    "usedAt": 1786629619825,
-    "usedAtIso": "2026-08-13T14:00:19.825Z"
-  },
-  "source:407813ec2a9ee4c00c069063496cc9cce2e66ea1": {
-    "url": "https://cbntotal.com.br/cotidiano/policia-civil-deflagra-operacao-contra-trafico-de-drogas-na-grande-florianopolis",
-    "title": "Polícia cumpre nove mandados contra grupo suspeito de tráfico de drogas em Santa Catarina",
-    "guid": "scmulti:d94253dc099d336655340ec2817f9481f8e7f291",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_d94253dc099d336655340ec2817f9481f8e7f291/",
-    "usedAt": 1786629619825,
-    "usedAtIso": "2026-08-13T14:00:19.825Z"
+  "source:fe449ea47a943a1ae064244615e52377de39f0ec": {
+    "url": "https://visornoticias.com.br/obra-de-r-315-milhoes-transforma-praia-do-gravata-e-amplia-faixa-de-areia-em-navegantes",
+    "title": "Praia de Balneário Camboriú é reaberta após obras de alargamento e vistoria do Corpo de Bombeiros",
+    "guid": "scmulti:0e0ef3d8623ae4876e932dc7782ca6f04e6e5b77",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_0e0ef3d8623ae4876e932dc7782ca6f04e6e5b77/",
+    "usedAt": 1786636819886,
+    "usedAtIso": "2026-08-13T16:00:19.886Z"
   }
 }
