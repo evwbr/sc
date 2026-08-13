@@ -1,4 +1,12 @@
 {
+  "source:ab32609d0fc416aeb00187e0feaf8fdb7303491f": {
+    "url": "https://visornoticias.com.br/aguas-de-camboriu-explica-por-que-o-prazo-entre-as-leituras-do-hidrometro-pode-variar",
+    "title": "Variação no período de leitura do hidrômetro pode ocorrer devido a fatores operacionais em Camboriú",
+    "guid": "scmulti:ec6f38e7e5642b36a778a1b21d4192bee3feb567",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_ec6f38e7e5642b36a778a1b21d4192bee3feb567/",
+    "usedAt": 1786651219829,
+    "usedAtIso": "2026-08-13T20:00:19.829Z"
+  },
   "source:878796941b953a25bfe542d47f5d87ce94d9bd80": {
     "url": "https://visornoticias.com.br/risco-de-enchentes-aumenta-em-sc-e-blumenau-monitora-nivel-do-itajai-acu",
     "title": "Defesa Civil alerta para risco de enchentes no Alto Vale do Itajaí neste fim de semana",
@@ -8223,12 +8231,28 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:ab32609d0fc416aeb00187e0feaf8fdb7303491f": {
-    "url": "https://visornoticias.com.br/aguas-de-camboriu-explica-por-que-o-prazo-entre-as-leituras-do-hidrometro-pode-variar",
-    "title": "Variação no período de leitura do hidrômetro pode ocorrer devido a fatores operacionais em Camboriú",
-    "guid": "scmulti:ec6f38e7e5642b36a778a1b21d4192bee3feb567",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_ec6f38e7e5642b36a778a1b21d4192bee3feb567/",
-    "usedAt": 1786651219829,
-    "usedAtIso": "2026-08-13T20:00:19.829Z"
+  "source:43f72d227eae488407e1df9c97fffadca63ea04b": {
+    "url": "https://visornoticias.com.br/famoso-cacador-de-tornados-coloca-santa-catarina-na-rota-de-expedicao-pelo-sul-do-brasil",
+    "title": "Meteorologista norte-americano planeja expedição para monitorar tornados no Sul do Brasil",
+    "guid": "scmulti:3de012b6bda51522939f343f10b09eccb138dcf2",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_3de012b6bda51522939f343f10b09eccb138dcf2/",
+    "usedAt": 1786654819430,
+    "usedAtIso": "2026-08-13T21:00:19.430Z"
+  },
+  "source:97aef286c5d9dc58df9eb4c7bcdeb0ffbcd60246": {
+    "url": "https://visornoticias.com.br/acidente-entre-dois-carros-e-duas-motos-interdita-faixa-da-via-expressa-em-florianopolis",
+    "title": "Acidente com quatro veículos causa lentidão na BR-282 em Balneário Camboriú",
+    "guid": "scmulti:38421dc31ee7de49f26e8178591ea9697aee85c4",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_38421dc31ee7de49f26e8178591ea9697aee85c4/",
+    "usedAt": 1786654819430,
+    "usedAtIso": "2026-08-13T21:00:19.430Z"
+  },
+  "source:38d92c2f1aaeaeecd0831ecfd321d2460d1948fb": {
+    "url": "https://visornoticias.com.br/prf-apreende-28-mil-cigarros-eletronicos-contrabandeados-na-br-470-em-blumenau",
+    "title": "Polícia Rodoviária Federal apreende cerca de 2,8 mil cigarros eletrônicos em Blumenau",
+    "guid": "scmulti:b87f2fdd7b0c62c7e0d6dd58d3536a2345bb6be4",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_b87f2fdd7b0c62c7e0d6dd58d3536a2345bb6be4/",
+    "usedAt": 1786654819430,
+    "usedAtIso": "2026-08-13T21:00:19.430Z"
   }
 }
