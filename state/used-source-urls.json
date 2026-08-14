@@ -1,4 +1,20 @@
 {
+  "source:2ab129c1ff1a69ef9ec1a52b2508422f65305b73": {
+    "url": "https://cbntotal.com.br/cotidiano/carro-capota-na-sc-401-e-deixa-duas-faixas-interditadas-em-florianopolis",
+    "title": "Acidente próximo ao elevado da Seta bloqueia duas faixas na pista sentido Aeroporto Hercílio Luz",
+    "guid": "scmulti:4c19cc91ff0f97a5faa6a7d25c44d3e221f07458",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_4c19cc91ff0f97a5faa6a7d25c44d3e221f07458/",
+    "usedAt": 1786712420280,
+    "usedAtIso": "2026-08-14T13:00:20.280Z"
+  },
+  "source:02f6510a224a84c03a0e809b91a2ed5bb3afb0d2": {
+    "url": "https://visornoticias.com.br/itapema-amplia-frentes-de-obras-com-pavimentacao-drenagem-e-novas-calcadas-em-quatro-bairros",
+    "title": "Prefeitura de Itapema avança com obras de pavimentação e melhorias em vias e calçadas",
+    "guid": "scmulti:2c8940ea4f96b2227f6532b2b8e2ba34ff816fd2",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_2c8940ea4f96b2227f6532b2b8e2ba34ff816fd2/",
+    "usedAt": 1786712420280,
+    "usedAtIso": "2026-08-14T13:00:20.280Z"
+  },
   "source:96d14aebc4dde1faaecb9a655149033d726a0bdc": {
     "url": "https://cbntotal.com.br/cotidiano/chuva-provoca-alagamento-gera-filas-e-alerta-de-temporais-segue-ativo-em-florianopolis",
     "title": "Chuva intensa causa alagamentos e lentidão no trânsito em Florianópolis",
@@ -8399,20 +8415,36 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:2ab129c1ff1a69ef9ec1a52b2508422f65305b73": {
-    "url": "https://cbntotal.com.br/cotidiano/carro-capota-na-sc-401-e-deixa-duas-faixas-interditadas-em-florianopolis",
-    "title": "Acidente próximo ao elevado da Seta bloqueia duas faixas na pista sentido Aeroporto Hercílio Luz",
-    "guid": "scmulti:4c19cc91ff0f97a5faa6a7d25c44d3e221f07458",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_4c19cc91ff0f97a5faa6a7d25c44d3e221f07458/",
-    "usedAt": 1786712420280,
-    "usedAtIso": "2026-08-14T13:00:20.280Z"
+  "source:9ab74e6fcb8d95cd202b2373c95561bbbcf3fb5e": {
+    "url": "https://visornoticias.com.br/equoterapia-em-itajai",
+    "title": "Projeto de equoterapia em Itajaí atende crianças e adolescentes com necessidades especiais",
+    "guid": "scmulti:0d3b122efa45217cc526abad52a1fd77f812c9df",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_0d3b122efa45217cc526abad52a1fd77f812c9df/",
+    "usedAt": 1786716019872,
+    "usedAtIso": "2026-08-14T14:00:19.872Z"
   },
-  "source:02f6510a224a84c03a0e809b91a2ed5bb3afb0d2": {
-    "url": "https://visornoticias.com.br/itapema-amplia-frentes-de-obras-com-pavimentacao-drenagem-e-novas-calcadas-em-quatro-bairros",
-    "title": "Prefeitura de Itapema avança com obras de pavimentação e melhorias em vias e calçadas",
-    "guid": "scmulti:2c8940ea4f96b2227f6532b2b8e2ba34ff816fd2",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_2c8940ea4f96b2227f6532b2b8e2ba34ff816fd2/",
-    "usedAt": 1786712420280,
-    "usedAtIso": "2026-08-14T13:00:20.280Z"
+  "source:14dce811e58b4bd85658ef7ff5f672c647b43d0c": {
+    "url": "https://visornoticias.com.br/mulher-cai-do-quarto-andar-apos-escorregar-em-sacada-molhada-em-florianopolis",
+    "title": "Mulher cai em terreno ao lado de edifício em São José após piso molhado por chuvas",
+    "guid": "scmulti:4a961bdc2205c5203d99fc4d3efbe1e9346030af",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_4a961bdc2205c5203d99fc4d3efbe1e9346030af/",
+    "usedAt": 1786716019872,
+    "usedAtIso": "2026-08-14T14:00:19.872Z"
+  },
+  "source:49c9408640c219c8c132f18afca4b81a4cbb5735": {
+    "url": "https://cbntotal.com.br/cotidiano/pm-recupera-carga-furtada-avaliada-em-r-400-mil-e-encontra-jet-ski-roubado-e-prende-dois-suspeitos-em-palhoca",
+    "title": "Dois homens são presos em flagrante com carga furtada avaliada em R$ 400 mil em Palhoça",
+    "guid": "scmulti:f378122437548f1934360ccfa2ebafb5be963c65",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_f378122437548f1934360ccfa2ebafb5be963c65/",
+    "usedAt": 1786716019872,
+    "usedAtIso": "2026-08-14T14:00:19.872Z"
+  },
+  "source:896aad519e49355e83fce0a3c797fc04112cd264": {
+    "url": "https://visornoticias.com.br/carro-com-pneus-desgastados-capota-na-via-expressa-e-trava-transito-em-florianopolis",
+    "title": "Capotamento na Via Expressa Sul causa lentidão e mobiliza Guarda Municipal em Florianópolis",
+    "guid": "scmulti:4707ecea52ef78501cf2efd8023b077c1d7136d3",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_4707ecea52ef78501cf2efd8023b077c1d7136d3/",
+    "usedAt": 1786716019872,
+    "usedAtIso": "2026-08-14T14:00:19.872Z"
   }
 }
