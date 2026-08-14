@@ -1,4 +1,12 @@
 {
+  "source:08ae215982aa074388a14f6de6d43ff8ded81142": {
+    "url": "https://visornoticias.com.br/identificadas-mae-e-filha-que-morreram-em-acidente-na-br-470-elas-eram-moradoras-do-litoral-norte-de-sc",
+    "title": "Duas mulheres morrem e homem fica gravemente ferido em colisão na BR-470 em Santa Catarina",
+    "guid": "scmulti:315771d34b31af1a87960c963915f48e66bac247",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_315771d34b31af1a87960c963915f48e66bac247/",
+    "usedAt": 1786734020304,
+    "usedAtIso": "2026-08-14T19:00:20.304Z"
+  },
   "source:8b60d481a3da1f5737dc0ce4f0bd09e95081b464": {
     "url": "https://visornoticias.com.br/inmet-mantem-sc-sob-alerta-para-tempestades-severas-e-ventos-de-ate-100-km-h-nesta-sexta-feira",
     "title": "Santa Catarina mantém alertas de temporais com risco de novos estragos até sexta-feira à noite",
@@ -8479,12 +8487,20 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:08ae215982aa074388a14f6de6d43ff8ded81142": {
-    "url": "https://visornoticias.com.br/identificadas-mae-e-filha-que-morreram-em-acidente-na-br-470-elas-eram-moradoras-do-litoral-norte-de-sc",
-    "title": "Duas mulheres morrem e homem fica gravemente ferido em colisão na BR-470 em Santa Catarina",
-    "guid": "scmulti:315771d34b31af1a87960c963915f48e66bac247",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_315771d34b31af1a87960c963915f48e66bac247/",
-    "usedAt": 1786734020304,
-    "usedAtIso": "2026-08-14T19:00:20.304Z"
+  "source:8c3ac560e51efe30adff2b1c2a4023daf1caea81": {
+    "url": "https://visornoticias.com.br/corpo-encontrado-em-tijucas-era-de-mulher-desaparecida",
+    "title": "Corpo de mulher é encontrado em área de difícil acesso na Praia Pontal Norte, em Balneário Camboriú",
+    "guid": "scmulti:823b4f4dea0ac1256620b4664718789348f3b087",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_823b4f4dea0ac1256620b4664718789348f3b087/",
+    "usedAt": 1786737619871,
+    "usedAtIso": "2026-08-14T20:00:19.871Z"
+  },
+  "source:13d8fa534d9f0152bad5aaa7940653167123bed1": {
+    "url": "https://visornoticias.com.br/prf-e-policia-civil-apreendem-15-tonelada-de-maconha-no-oeste-de-sc",
+    "title": "Polícia apreende 1,45 tonelada de maconha e prende dois homens em Xanxerê",
+    "guid": "scmulti:9d0881e1a318b2dfd534e3a9742f74d4f818692b",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_9d0881e1a318b2dfd534e3a9742f74d4f818692b/",
+    "usedAt": 1786737619871,
+    "usedAtIso": "2026-08-14T20:00:19.871Z"
   }
 }
