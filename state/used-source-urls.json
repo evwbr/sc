@@ -1,4 +1,12 @@
 {
+  "source:c41d50bdb3f35e37771074a7ecbc5ab7c2a0325a": {
+    "url": "https://visornoticias.com.br/acidente-provoca-7-km-de-transito-e-interdita-faixa-na-via-expressa-em-florianopolis",
+    "title": "Acidente causa lentidão e bloqueio parcial na Via Expressa em Santa Catarina",
+    "guid": "scmulti:ee0ac2ef0dcd4fa0661c585d406fee9ba24e029e",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_ee0ac2ef0dcd4fa0661c585d406fee9ba24e029e/",
+    "usedAt": 1786705222294,
+    "usedAtIso": "2026-08-14T11:00:22.294Z"
+  },
   "source:94a0ae79b8b9f0c1f43390438e83370add10402e": {
     "url": "https://visornoticias.com.br/fiacao-pega-fogo-e-interdita-transito-em-balneario-camboriu",
     "title": "Trânsito é bloqueado por uma hora em Balneário Camboriú para reparo em fios danificados",
@@ -8375,12 +8383,20 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:c41d50bdb3f35e37771074a7ecbc5ab7c2a0325a": {
-    "url": "https://visornoticias.com.br/acidente-provoca-7-km-de-transito-e-interdita-faixa-na-via-expressa-em-florianopolis",
-    "title": "Acidente causa lentidão e bloqueio parcial na Via Expressa em Santa Catarina",
-    "guid": "scmulti:ee0ac2ef0dcd4fa0661c585d406fee9ba24e029e",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_ee0ac2ef0dcd4fa0661c585d406fee9ba24e029e/",
-    "usedAt": 1786705222294,
-    "usedAtIso": "2026-08-14T11:00:22.294Z"
+  "source:96d14aebc4dde1faaecb9a655149033d726a0bdc": {
+    "url": "https://cbntotal.com.br/cotidiano/chuva-provoca-alagamento-gera-filas-e-alerta-de-temporais-segue-ativo-em-florianopolis",
+    "title": "Chuva intensa causa alagamentos e lentidão no trânsito em Florianópolis",
+    "guid": "scmulti:bb4857414811f6c5042c06ded74c5feb11ff03ea",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_bb4857414811f6c5042c06ded74c5feb11ff03ea/",
+    "usedAt": 1786708819855,
+    "usedAtIso": "2026-08-14T12:00:19.855Z"
+  },
+  "source:2a81b0ee725b8cc4eea96fb1d8302373cda618af": {
+    "url": "https://visornoticias.com.br/acumulo-de-agua-fecha-duas-faixas-e-provoca-lentidao-na-saida-da-ilha-em-florianopolis",
+    "title": "Alagamento na Avenida Gustavo Richard complica trânsito na saída da Ilha em Florianópolis",
+    "guid": "scmulti:fe4233d7664d5017ad2d142806bdde86bed69ce4",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_fe4233d7664d5017ad2d142806bdde86bed69ce4/",
+    "usedAt": 1786708819855,
+    "usedAtIso": "2026-08-14T12:00:19.855Z"
   }
 }
