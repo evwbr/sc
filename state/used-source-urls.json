@@ -1,4 +1,20 @@
 {
+  "source:8c3ac560e51efe30adff2b1c2a4023daf1caea81": {
+    "url": "https://visornoticias.com.br/corpo-encontrado-em-tijucas-era-de-mulher-desaparecida",
+    "title": "Corpo de mulher é encontrado em área de difícil acesso na Praia Pontal Norte, em Balneário Camboriú",
+    "guid": "scmulti:823b4f4dea0ac1256620b4664718789348f3b087",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_823b4f4dea0ac1256620b4664718789348f3b087/",
+    "usedAt": 1786737619871,
+    "usedAtIso": "2026-08-14T20:00:19.871Z"
+  },
+  "source:13d8fa534d9f0152bad5aaa7940653167123bed1": {
+    "url": "https://visornoticias.com.br/prf-e-policia-civil-apreendem-15-tonelada-de-maconha-no-oeste-de-sc",
+    "title": "Polícia apreende 1,45 tonelada de maconha e prende dois homens em Xanxerê",
+    "guid": "scmulti:9d0881e1a318b2dfd534e3a9742f74d4f818692b",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_9d0881e1a318b2dfd534e3a9742f74d4f818692b/",
+    "usedAt": 1786737619871,
+    "usedAtIso": "2026-08-14T20:00:19.871Z"
+  },
   "source:08ae215982aa074388a14f6de6d43ff8ded81142": {
     "url": "https://visornoticias.com.br/identificadas-mae-e-filha-que-morreram-em-acidente-na-br-470-elas-eram-moradoras-do-litoral-norte-de-sc",
     "title": "Duas mulheres morrem e homem fica gravemente ferido em colisão na BR-470 em Santa Catarina",
@@ -8487,20 +8503,44 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:8c3ac560e51efe30adff2b1c2a4023daf1caea81": {
-    "url": "https://visornoticias.com.br/corpo-encontrado-em-tijucas-era-de-mulher-desaparecida",
-    "title": "Corpo de mulher é encontrado em área de difícil acesso na Praia Pontal Norte, em Balneário Camboriú",
-    "guid": "scmulti:823b4f4dea0ac1256620b4664718789348f3b087",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_823b4f4dea0ac1256620b4664718789348f3b087/",
-    "usedAt": 1786737619871,
-    "usedAtIso": "2026-08-14T20:00:19.871Z"
+  "source:4a49dd301263b595dfac8fc462de41261a981165": {
+    "url": "https://visornoticias.com.br/guarda-municipal-de-itapema-forma-nova-turma-de-motopatrulhamento-nesta-segunda-feira",
+    "title": "Guarda Municipal de Itapema conclui curso intensivo de motopatrulhamento com cerimônia aberta à população",
+    "guid": "scmulti:1449eb0699b798cd14c2ccea4e746abd8b32456f",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_1449eb0699b798cd14c2ccea4e746abd8b32456f/",
+    "usedAt": 1786741220357,
+    "usedAtIso": "2026-08-14T21:00:20.357Z"
   },
-  "source:13d8fa534d9f0152bad5aaa7940653167123bed1": {
-    "url": "https://visornoticias.com.br/prf-e-policia-civil-apreendem-15-tonelada-de-maconha-no-oeste-de-sc",
-    "title": "Polícia apreende 1,45 tonelada de maconha e prende dois homens em Xanxerê",
-    "guid": "scmulti:9d0881e1a318b2dfd534e3a9742f74d4f818692b",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_9d0881e1a318b2dfd534e3a9742f74d4f818692b/",
-    "usedAt": 1786737619871,
-    "usedAtIso": "2026-08-14T20:00:19.871Z"
+  "source:6efeab47ed29b6f4e46fc8f67a0383723b5a551c": {
+    "url": "https://visornoticias.com.br/autismo-tubarao",
+    "title": "Programa TEA inicia 5º ciclo com atendimento a 20 crianças e adolescentes com autismo em Tubarão",
+    "guid": "scmulti:2f17e6926a59ac568b9d46aae534f506868ecbd1",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_2f17e6926a59ac568b9d46aae534f506868ecbd1/",
+    "usedAt": 1786741220357,
+    "usedAtIso": "2026-08-14T21:00:20.357Z"
+  },
+  "source:25ae9865d32c44a0db944bbdba3789fa2a7f603a": {
+    "url": "https://visornoticias.com.br/tempo-tubarao",
+    "title": "Defesa Civil alerta para temporais intensos e risco de deslizamentos em Tubarão",
+    "guid": "scmulti:fe1e3247e322f07c4def44e7b0352d3766d0dcdf",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_fe1e3247e322f07c4def44e7b0352d3766d0dcdf/",
+    "usedAt": 1786741220357,
+    "usedAtIso": "2026-08-14T21:00:20.357Z"
+  },
+  "source:097bd73731b4b2529a1dabc49603ff3f5bb119a8": {
+    "url": "https://visornoticias.com.br/coleta-seletiva-lages-3",
+    "title": "Lages amplia frota de coleta seletiva com investimento de mais de R$ 800 mil",
+    "guid": "scmulti:62c8e1cd65391c414566159c0737953bbcc22da6",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_62c8e1cd65391c414566159c0737953bbcc22da6/",
+    "usedAt": 1786741220357,
+    "usedAtIso": "2026-08-14T21:00:20.357Z"
+  },
+  "source:ff0ab2a0fbf5834213d166b057ff17ad74fe4301": {
+    "url": "https://visornoticias.com.br/chuva-sc-4",
+    "title": "Chuvas intensas causam danos em 14 municípios de Santa Catarina e levam a decreto de emergência em Papanduva",
+    "guid": "scmulti:3ffd59588ddc3cca53aeddd51cb2b16f10b36456",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_3ffd59588ddc3cca53aeddd51cb2b16f10b36456/",
+    "usedAt": 1786741220357,
+    "usedAtIso": "2026-08-14T21:00:20.357Z"
   }
 }
