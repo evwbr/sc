@@ -1,4 +1,20 @@
 {
+  "source:96d14aebc4dde1faaecb9a655149033d726a0bdc": {
+    "url": "https://cbntotal.com.br/cotidiano/chuva-provoca-alagamento-gera-filas-e-alerta-de-temporais-segue-ativo-em-florianopolis",
+    "title": "Chuva intensa causa alagamentos e lentidão no trânsito em Florianópolis",
+    "guid": "scmulti:bb4857414811f6c5042c06ded74c5feb11ff03ea",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_bb4857414811f6c5042c06ded74c5feb11ff03ea/",
+    "usedAt": 1786708819855,
+    "usedAtIso": "2026-08-14T12:00:19.855Z"
+  },
+  "source:2a81b0ee725b8cc4eea96fb1d8302373cda618af": {
+    "url": "https://visornoticias.com.br/acumulo-de-agua-fecha-duas-faixas-e-provoca-lentidao-na-saida-da-ilha-em-florianopolis",
+    "title": "Alagamento na Avenida Gustavo Richard complica trânsito na saída da Ilha em Florianópolis",
+    "guid": "scmulti:fe4233d7664d5017ad2d142806bdde86bed69ce4",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_fe4233d7664d5017ad2d142806bdde86bed69ce4/",
+    "usedAt": 1786708819855,
+    "usedAtIso": "2026-08-14T12:00:19.855Z"
+  },
   "source:c41d50bdb3f35e37771074a7ecbc5ab7c2a0325a": {
     "url": "https://visornoticias.com.br/acidente-provoca-7-km-de-transito-e-interdita-faixa-na-via-expressa-em-florianopolis",
     "title": "Acidente causa lentidão e bloqueio parcial na Via Expressa em Santa Catarina",
@@ -8383,20 +8399,20 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:96d14aebc4dde1faaecb9a655149033d726a0bdc": {
-    "url": "https://cbntotal.com.br/cotidiano/chuva-provoca-alagamento-gera-filas-e-alerta-de-temporais-segue-ativo-em-florianopolis",
-    "title": "Chuva intensa causa alagamentos e lentidão no trânsito em Florianópolis",
-    "guid": "scmulti:bb4857414811f6c5042c06ded74c5feb11ff03ea",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_bb4857414811f6c5042c06ded74c5feb11ff03ea/",
-    "usedAt": 1786708819855,
-    "usedAtIso": "2026-08-14T12:00:19.855Z"
+  "source:2ab129c1ff1a69ef9ec1a52b2508422f65305b73": {
+    "url": "https://cbntotal.com.br/cotidiano/carro-capota-na-sc-401-e-deixa-duas-faixas-interditadas-em-florianopolis",
+    "title": "Acidente próximo ao elevado da Seta bloqueia duas faixas na pista sentido Aeroporto Hercílio Luz",
+    "guid": "scmulti:4c19cc91ff0f97a5faa6a7d25c44d3e221f07458",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_4c19cc91ff0f97a5faa6a7d25c44d3e221f07458/",
+    "usedAt": 1786712420280,
+    "usedAtIso": "2026-08-14T13:00:20.280Z"
   },
-  "source:2a81b0ee725b8cc4eea96fb1d8302373cda618af": {
-    "url": "https://visornoticias.com.br/acumulo-de-agua-fecha-duas-faixas-e-provoca-lentidao-na-saida-da-ilha-em-florianopolis",
-    "title": "Alagamento na Avenida Gustavo Richard complica trânsito na saída da Ilha em Florianópolis",
-    "guid": "scmulti:fe4233d7664d5017ad2d142806bdde86bed69ce4",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_fe4233d7664d5017ad2d142806bdde86bed69ce4/",
-    "usedAt": 1786708819855,
-    "usedAtIso": "2026-08-14T12:00:19.855Z"
+  "source:02f6510a224a84c03a0e809b91a2ed5bb3afb0d2": {
+    "url": "https://visornoticias.com.br/itapema-amplia-frentes-de-obras-com-pavimentacao-drenagem-e-novas-calcadas-em-quatro-bairros",
+    "title": "Prefeitura de Itapema avança com obras de pavimentação e melhorias em vias e calçadas",
+    "guid": "scmulti:2c8940ea4f96b2227f6532b2b8e2ba34ff816fd2",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_2c8940ea4f96b2227f6532b2b8e2ba34ff816fd2/",
+    "usedAt": 1786712420280,
+    "usedAtIso": "2026-08-14T13:00:20.280Z"
   }
 }
