@@ -1,4 +1,12 @@
 {
+  "source:b637008c5e43e612efba2a3fb488fcd69418bc1b": {
+    "url": "https://visornoticias.com.br/corpo-encontrado-por-drone-pode-ser-de-mulher-desaparecida-em-tijucas",
+    "title": "Corpo encontrado no Rio Tijucas pode ser de mulher desaparecida em Balneário Camboriú",
+    "guid": "scmulti:437a9eaf376e85fe24ae7245be1d0e7ba4fe9048",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_437a9eaf376e85fe24ae7245be1d0e7ba4fe9048/",
+    "usedAt": 1786726821116,
+    "usedAtIso": "2026-08-14T17:00:21.116Z"
+  },
   "source:5dd9a99b4bec3686e07e9934ce6d69dfdaad026a": {
     "url": "https://visornoticias.com.br/cheiro-forte-de-maconha-entrega-quase-meia-tonelada-da-droga-escondida-em-carro-sobre-guincho-em-porto-belo",
     "title": "Polícia Federal apreende veículo com drogas em Palhoça durante transporte de guincho",
@@ -8455,12 +8463,20 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:b637008c5e43e612efba2a3fb488fcd69418bc1b": {
-    "url": "https://visornoticias.com.br/corpo-encontrado-por-drone-pode-ser-de-mulher-desaparecida-em-tijucas",
-    "title": "Corpo encontrado no Rio Tijucas pode ser de mulher desaparecida em Balneário Camboriú",
-    "guid": "scmulti:437a9eaf376e85fe24ae7245be1d0e7ba4fe9048",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_437a9eaf376e85fe24ae7245be1d0e7ba4fe9048/",
-    "usedAt": 1786726821116,
-    "usedAtIso": "2026-08-14T17:00:21.116Z"
+  "source:8b60d481a3da1f5737dc0ce4f0bd09e95081b464": {
+    "url": "https://visornoticias.com.br/inmet-mantem-sc-sob-alerta-para-tempestades-severas-e-ventos-de-ate-100-km-h-nesta-sexta-feira",
+    "title": "Santa Catarina mantém alertas de temporais com risco de novos estragos até sexta-feira à noite",
+    "guid": "scmulti:58e74a2f856a584593d9de5f1db6264615141f9d",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_58e74a2f856a584593d9de5f1db6264615141f9d/",
+    "usedAt": 1786730422776,
+    "usedAtIso": "2026-08-14T18:00:22.776Z"
+  },
+  "source:3239612ef4f296b1c3b303a7017041348047289c": {
+    "url": "https://visornoticias.com.br/feira-de-adocao-reune-animais-resgatados-a-espera-de-um-novo-lar-em-balneario-camboriu",
+    "title": "Feira de adoção de animais acontece no Balneário Shopping com apoio da ONG Peludinhos Balneário Camboriú",
+    "guid": "scmulti:5bb851f28f78885fd4638347bcb2660da416a377",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_5bb851f28f78885fd4638347bcb2660da416a377/",
+    "usedAt": 1786730422776,
+    "usedAtIso": "2026-08-14T18:00:22.776Z"
   }
 }
