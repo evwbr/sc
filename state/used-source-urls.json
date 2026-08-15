@@ -1,4 +1,12 @@
 {
+  "source:0fe184006a29d4ece4fd862d6fd743be028dca97": {
+    "url": "https://visornoticias.com.br/suspeito-e-preso-apos-jogar-carro-contra-poste-com-companheira-e-tres-filhas-dentro-em-sc",
+    "title": "Homem é preso em Laguna suspeito de tentativa de feminicídio após colisão em Maracajá",
+    "guid": "scmulti:77c8de490af8616db08d449bae33fbe1d0a6c4d5",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_77c8de490af8616db08d449bae33fbe1d0a6c4d5/",
+    "usedAt": 1786827619419,
+    "usedAtIso": "2026-08-15T21:00:19.419Z"
+  },
   "source:81a84158cfc447c965c1c9b0b4185e4789ce03e7": {
     "url": "https://visornoticias.com.br/pedras-de-granizo-do-tamanho-de-bolas-de-tenis-atingem-cidades-no-parana-e-danificam-milhares-de-casas",
     "title": "Temporal com granizo causa danos em milhares de residências na região central do Paraná",
@@ -8599,12 +8607,12 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:0fe184006a29d4ece4fd862d6fd743be028dca97": {
-    "url": "https://visornoticias.com.br/suspeito-e-preso-apos-jogar-carro-contra-poste-com-companheira-e-tres-filhas-dentro-em-sc",
-    "title": "Homem é preso em Laguna suspeito de tentativa de feminicídio após colisão em Maracajá",
-    "guid": "scmulti:77c8de490af8616db08d449bae33fbe1d0a6c4d5",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_77c8de490af8616db08d449bae33fbe1d0a6c4d5/",
-    "usedAt": 1786827619419,
-    "usedAtIso": "2026-08-15T21:00:19.419Z"
+  "source:2baa18a07ed5bc6d37c9311766f01db5dfcaeac2": {
+    "url": "https://visornoticias.com.br/defesa-civil-alerta-para-temporais-com-granizo-em-sc-neste-sabado-antes-de-domingo-mais-estavel",
+    "title": "Defesa Civil alerta para temporais com raios e granizo em Santa Catarina neste sábado",
+    "guid": "scmulti:6549e9d59e176b05b7773715532b8897c3443056",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_6549e9d59e176b05b7773715532b8897c3443056/",
+    "usedAt": 1786834819762,
+    "usedAtIso": "2026-08-15T23:00:19.762Z"
   }
 }
