@@ -1,4 +1,20 @@
 {
+  "source:81a84158cfc447c965c1c9b0b4185e4789ce03e7": {
+    "url": "https://visornoticias.com.br/pedras-de-granizo-do-tamanho-de-bolas-de-tenis-atingem-cidades-no-parana-e-danificam-milhares-de-casas",
+    "title": "Temporal com granizo causa danos em milhares de residências na região central do Paraná",
+    "guid": "scmulti:e684af0d4b0d61d2de27446277de8029e50d2a53",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_e684af0d4b0d61d2de27446277de8029e50d2a53/",
+    "usedAt": 1786824019901,
+    "usedAtIso": "2026-08-15T20:00:19.901Z"
+  },
+  "source:5123573842b705bfea085099e1972530afc82a44": {
+    "url": "https://visornoticias.com.br/engavetamento-com-quatro-carros-termina-com-veiculo-capotado-e-interdicao-na-br-101-em-sc",
+    "title": "Acidente com capotamento causa congestionamento de três quilômetros em Biguaçu",
+    "guid": "scmulti:9050fa9b4ccea8c85879e36db55ca053ce18ce9d",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_9050fa9b4ccea8c85879e36db55ca053ce18ce9d/",
+    "usedAt": 1786824019901,
+    "usedAtIso": "2026-08-15T20:00:19.901Z"
+  },
   "source:4877e2e1ac80030dcf62460615553162ca6e3520": {
     "url": "https://visornoticias.com.br/agente-de-saneamento-profissionais-que-trabalham-todos-os-dias-pela-saude-da-populacao-2",
     "title": "Agentes de saneamento da Águas de Camboriú garantem saúde e qualidade de vida à população",
@@ -8583,20 +8599,12 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:81a84158cfc447c965c1c9b0b4185e4789ce03e7": {
-    "url": "https://visornoticias.com.br/pedras-de-granizo-do-tamanho-de-bolas-de-tenis-atingem-cidades-no-parana-e-danificam-milhares-de-casas",
-    "title": "Temporal com granizo causa danos em milhares de residências na região central do Paraná",
-    "guid": "scmulti:e684af0d4b0d61d2de27446277de8029e50d2a53",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_e684af0d4b0d61d2de27446277de8029e50d2a53/",
-    "usedAt": 1786824019901,
-    "usedAtIso": "2026-08-15T20:00:19.901Z"
-  },
-  "source:5123573842b705bfea085099e1972530afc82a44": {
-    "url": "https://visornoticias.com.br/engavetamento-com-quatro-carros-termina-com-veiculo-capotado-e-interdicao-na-br-101-em-sc",
-    "title": "Acidente com capotamento causa congestionamento de três quilômetros em Biguaçu",
-    "guid": "scmulti:9050fa9b4ccea8c85879e36db55ca053ce18ce9d",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_9050fa9b4ccea8c85879e36db55ca053ce18ce9d/",
-    "usedAt": 1786824019901,
-    "usedAtIso": "2026-08-15T20:00:19.901Z"
+  "source:0fe184006a29d4ece4fd862d6fd743be028dca97": {
+    "url": "https://visornoticias.com.br/suspeito-e-preso-apos-jogar-carro-contra-poste-com-companheira-e-tres-filhas-dentro-em-sc",
+    "title": "Homem é preso em Laguna suspeito de tentativa de feminicídio após colisão em Maracajá",
+    "guid": "scmulti:77c8de490af8616db08d449bae33fbe1d0a6c4d5",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_77c8de490af8616db08d449bae33fbe1d0a6c4d5/",
+    "usedAt": 1786827619419,
+    "usedAtIso": "2026-08-15T21:00:19.419Z"
   }
 }
