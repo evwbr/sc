@@ -1,4 +1,12 @@
 {
+  "source:ed52d597db8218665d2f874cab2b6dac6593146a": {
+    "url": "https://visornoticias.com.br/parajasc-2026-delegacao-itajai",
+    "title": "Itajaí envia 236 integrantes para o 19º Parajasc em Chapecó, maior evento paradesportivo de Santa Catarina",
+    "guid": "scmulti:5ea3d02792dd8329075fa81e100f9ceb2d800adb",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_5ea3d02792dd8329075fa81e100f9ceb2d800adb/",
+    "usedAt": 1786744821322,
+    "usedAtIso": "2026-08-14T22:00:21.322Z"
+  },
   "source:4a49dd301263b595dfac8fc462de41261a981165": {
     "url": "https://visornoticias.com.br/guarda-municipal-de-itapema-forma-nova-turma-de-motopatrulhamento-nesta-segunda-feira",
     "title": "Guarda Municipal de Itapema conclui curso intensivo de motopatrulhamento com cerimônia aberta à população",
@@ -8543,12 +8551,12 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:ed52d597db8218665d2f874cab2b6dac6593146a": {
-    "url": "https://visornoticias.com.br/parajasc-2026-delegacao-itajai",
-    "title": "Itajaí envia 236 integrantes para o 19º Parajasc em Chapecó, maior evento paradesportivo de Santa Catarina",
-    "guid": "scmulti:5ea3d02792dd8329075fa81e100f9ceb2d800adb",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_5ea3d02792dd8329075fa81e100f9ceb2d800adb/",
-    "usedAt": 1786744821322,
-    "usedAtIso": "2026-08-14T22:00:21.322Z"
+  "source:6e8fd179bba12db4fbdeb87faf5d3fb164dba857": {
+    "url": "https://visornoticias.com.br/em-delirio-homem-acredita-que-casa-esta-sendo-invadida-e-dispara-mais-de-30-tiros-contra-a-pm-em-itajai",
+    "title": "Homem armado dispara contra policiais durante negociação em Itajaí",
+    "guid": "scmulti:57c1d004e5b5aa90d70178163d2a13d97600a220",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_57c1d004e5b5aa90d70178163d2a13d97600a220/",
+    "usedAt": 1786816819946,
+    "usedAtIso": "2026-08-15T18:00:19.946Z"
   }
 }
