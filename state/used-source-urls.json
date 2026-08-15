@@ -1,4 +1,12 @@
 {
+  "source:6e8fd179bba12db4fbdeb87faf5d3fb164dba857": {
+    "url": "https://visornoticias.com.br/em-delirio-homem-acredita-que-casa-esta-sendo-invadida-e-dispara-mais-de-30-tiros-contra-a-pm-em-itajai",
+    "title": "Homem armado dispara contra policiais durante negociação em Itajaí",
+    "guid": "scmulti:57c1d004e5b5aa90d70178163d2a13d97600a220",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_57c1d004e5b5aa90d70178163d2a13d97600a220/",
+    "usedAt": 1786816819946,
+    "usedAtIso": "2026-08-15T18:00:19.946Z"
+  },
   "source:ed52d597db8218665d2f874cab2b6dac6593146a": {
     "url": "https://visornoticias.com.br/parajasc-2026-delegacao-itajai",
     "title": "Itajaí envia 236 integrantes para o 19º Parajasc em Chapecó, maior evento paradesportivo de Santa Catarina",
@@ -8551,12 +8559,28 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:6e8fd179bba12db4fbdeb87faf5d3fb164dba857": {
-    "url": "https://visornoticias.com.br/em-delirio-homem-acredita-que-casa-esta-sendo-invadida-e-dispara-mais-de-30-tiros-contra-a-pm-em-itajai",
-    "title": "Homem armado dispara contra policiais durante negociação em Itajaí",
-    "guid": "scmulti:57c1d004e5b5aa90d70178163d2a13d97600a220",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_57c1d004e5b5aa90d70178163d2a13d97600a220/",
-    "usedAt": 1786816819946,
-    "usedAtIso": "2026-08-15T18:00:19.946Z"
+  "source:4877e2e1ac80030dcf62460615553162ca6e3520": {
+    "url": "https://visornoticias.com.br/agente-de-saneamento-profissionais-que-trabalham-todos-os-dias-pela-saude-da-populacao-2",
+    "title": "Agentes de saneamento da Águas de Camboriú garantem saúde e qualidade de vida à população",
+    "guid": "scmulti:41a67eca30a82e8f97ab74c68f9b17db869be840",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_41a67eca30a82e8f97ab74c68f9b17db869be840/",
+    "usedAt": 1786820419476,
+    "usedAtIso": "2026-08-15T19:00:19.476Z"
+  },
+  "source:03d5b239ede971074ec881d0fe002e85c296194c": {
+    "url": "https://visornoticias.com.br/enfermeiro-e-preso-suspeito-de-facilitar-entrada-de-drogas-e-celulares-em-presidio-de-chapeco",
+    "title": "Enfermeiro é preso em Chapecó por suspeita de facilitar entrada de celulares e drogas em presídio",
+    "guid": "scmulti:5f05a7f4247b497af39fd5e1b0243818a47d534c",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_5f05a7f4247b497af39fd5e1b0243818a47d534c/",
+    "usedAt": 1786820419476,
+    "usedAtIso": "2026-08-15T19:00:19.476Z"
+  },
+  "source:a549554e56fe25ce368200465c2f92231ea8f8f4": {
+    "url": "https://visornoticias.com.br/homem-e-preso-apos-tentar-estuprar-mulher-e-arrasta-la-para-carro-em-tijucas",
+    "title": "Homem é preso após tentativa de fuga pulando muro de cemitério em Tijucas",
+    "guid": "scmulti:0f5a9d86225059af98fa84c1126882d6907da5aa",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_0f5a9d86225059af98fa84c1126882d6907da5aa/",
+    "usedAt": 1786820419476,
+    "usedAtIso": "2026-08-15T19:00:19.476Z"
   }
 }
