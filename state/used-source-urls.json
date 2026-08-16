@@ -1,4 +1,20 @@
 {
+  "source:f046f3099419cd9027ccc6e5916e497de05e08e2": {
+    "url": "https://visornoticias.com.br/acidente-grave-entre-dois-carros-deixa-seis-feridos-em-sc",
+    "title": "Colisão frontal na Santa Catarina-355 deixa seis feridos e interdita rodovia em Santa Catarina",
+    "guid": "scmulti:5d43f533a9ec35dfe36e9b852e69ecbb03002a2a",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_5d43f533a9ec35dfe36e9b852e69ecbb03002a2a/",
+    "usedAt": 1786892419614,
+    "usedAtIso": "2026-08-16T15:00:19.614Z"
+  },
+  "source:c046110065357ed603dfb5c7bdf15678939a5ebb": {
+    "url": "https://visornoticias.com.br/terremoto-de-77-deixa-53-mortos-e-cerca-de-5-mil-desabrigados-na-indonesia",
+    "title": "Terremoto de magnitude 7,7 na Indonésia deixa 53 mortos e milhares desabrigados",
+    "guid": "scmulti:1337b601bd8fcc8cd18d22584335763519b4a1e4",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_1337b601bd8fcc8cd18d22584335763519b4a1e4/",
+    "usedAt": 1786892419614,
+    "usedAtIso": "2026-08-16T15:00:19.614Z"
+  },
   "source:52a8b174b104763970d174cb097bd048b7f4eb70": {
     "url": "https://visornoticias.com.br/homem-fica-9-horas-preso-apos-retroescavadeira-ceder-em-ribanceira-na-grande-florianopolis",
     "title": "Operação de nove horas resgata homem preso em retroescavadeira em Santa Catarina",
@@ -8663,20 +8679,12 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:f046f3099419cd9027ccc6e5916e497de05e08e2": {
-    "url": "https://visornoticias.com.br/acidente-grave-entre-dois-carros-deixa-seis-feridos-em-sc",
-    "title": "Colisão frontal na Santa Catarina-355 deixa seis feridos e interdita rodovia em Santa Catarina",
-    "guid": "scmulti:5d43f533a9ec35dfe36e9b852e69ecbb03002a2a",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_5d43f533a9ec35dfe36e9b852e69ecbb03002a2a/",
-    "usedAt": 1786892419614,
-    "usedAtIso": "2026-08-16T15:00:19.614Z"
-  },
-  "source:c046110065357ed603dfb5c7bdf15678939a5ebb": {
-    "url": "https://visornoticias.com.br/terremoto-de-77-deixa-53-mortos-e-cerca-de-5-mil-desabrigados-na-indonesia",
-    "title": "Terremoto de magnitude 7,7 na Indonésia deixa 53 mortos e milhares desabrigados",
-    "guid": "scmulti:1337b601bd8fcc8cd18d22584335763519b4a1e4",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_1337b601bd8fcc8cd18d22584335763519b4a1e4/",
-    "usedAt": 1786892419614,
-    "usedAtIso": "2026-08-16T15:00:19.614Z"
+  "source:9e7407170507f8d7e7836f133f23b3cbfca39188": {
+    "url": "https://visornoticias.com.br/onibus-com-destino-ao-rio-tomba-e-deixa-nove-mortos-e-varios-feridos",
+    "title": "Acidente com ônibus na BR-040 deixa nove mortos e dezenas de feridos em Duque de Caxias",
+    "guid": "scmulti:11525b36383018841cd03aca62eddd0b4dff93bd",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_11525b36383018841cd03aca62eddd0b4dff93bd/",
+    "usedAt": 1786899619835,
+    "usedAtIso": "2026-08-16T17:00:19.835Z"
   }
 }
