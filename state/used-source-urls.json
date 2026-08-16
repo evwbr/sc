@@ -1,4 +1,12 @@
 {
+  "source:fd484df621b534f6ecbc57a4e89b11afabde7009": {
+    "url": "https://visornoticias.com.br/instabilidades-perdem-forca-em-sc-mas-chuva-ainda-atinge-o-litoral-neste-domingo",
+    "title": "Santa Catarina terá sol entre nuvens e temperaturas acima de 30°C no Grande Oeste neste domingo",
+    "guid": "scmulti:f72c76023d2d5dd22d8c7f1eaa3423fa4c5ab1b6",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_f72c76023d2d5dd22d8c7f1eaa3423fa4c5ab1b6/",
+    "usedAt": 1786885219483,
+    "usedAtIso": "2026-08-16T13:00:19.483Z"
+  },
   "source:b84665637d789a6e80d03853b52fb884d9f352c7": {
     "url": "https://visornoticias.com.br/menina-de-10-anos-sofre-parada-cardiaca-apos-deslizamento-atingir-casa-em-sc",
     "title": "Deslizamento atinge residência em Santa Catarina e deixa criança em parada cardiorrespiratória",
@@ -8639,12 +8647,20 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:fd484df621b534f6ecbc57a4e89b11afabde7009": {
-    "url": "https://visornoticias.com.br/instabilidades-perdem-forca-em-sc-mas-chuva-ainda-atinge-o-litoral-neste-domingo",
-    "title": "Santa Catarina terá sol entre nuvens e temperaturas acima de 30°C no Grande Oeste neste domingo",
-    "guid": "scmulti:f72c76023d2d5dd22d8c7f1eaa3423fa4c5ab1b6",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_f72c76023d2d5dd22d8c7f1eaa3423fa4c5ab1b6/",
-    "usedAt": 1786885219483,
-    "usedAtIso": "2026-08-16T13:00:19.483Z"
+  "source:52a8b174b104763970d174cb097bd048b7f4eb70": {
+    "url": "https://visornoticias.com.br/homem-fica-9-horas-preso-apos-retroescavadeira-ceder-em-ribanceira-na-grande-florianopolis",
+    "title": "Operação de nove horas resgata homem preso em retroescavadeira em Santa Catarina",
+    "guid": "scmulti:74a82ded9d3e7b6aa2fe2a5d445a726ca3803a2e",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_74a82ded9d3e7b6aa2fe2a5d445a726ca3803a2e/",
+    "usedAt": 1786888819609,
+    "usedAtIso": "2026-08-16T14:00:19.609Z"
+  },
+  "source:3d737cabf680b416f717bb5c9eb5ecd2248e77c4": {
+    "url": "https://visornoticias.com.br/justica-marca-audiencia-de-mulher-de-38-anos-que-fingia-ter-12-em-sc",
+    "title": "Audiência presencial define próximos passos de caso de mulher presa por falsa identidade em Joinville",
+    "guid": "scmulti:b62c656c0e42716479a269babecca40c7d29c4ce",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_b62c656c0e42716479a269babecca40c7d29c4ce/",
+    "usedAt": 1786888819609,
+    "usedAtIso": "2026-08-16T14:00:19.609Z"
   }
 }
