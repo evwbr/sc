@@ -1,4 +1,12 @@
 {
+  "source:0ee88615e5597c52ada986259f08700c368d5e79": {
+    "url": "https://visornoticias.com.br/mulher-encontrada-morta-com-cabo-de-celular-e-identificada-em-sc",
+    "title": "Mulher é encontrada morta com sinais de estrangulamento em residência de Santa Catarina",
+    "guid": "scmulti:f8dbebef137d2e9a7717d521443c9a8e6a9ed6ea",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_f8dbebef137d2e9a7717d521443c9a8e6a9ed6ea/",
+    "usedAt": 1786910419607,
+    "usedAtIso": "2026-08-16T20:00:19.607Z"
+  },
   "source:0db58f66e528b7390224e760d4988dae9aa891fe": {
     "url": "https://visornoticias.com.br/conveniencia-e-fechada-apos-reclamacoes-de-barulho-no-centro-de-bc",
     "title": "Estabelecimento é interditado em Balneário Camboriú por perturbação do sossego",
@@ -8695,12 +8703,12 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:0ee88615e5597c52ada986259f08700c368d5e79": {
-    "url": "https://visornoticias.com.br/mulher-encontrada-morta-com-cabo-de-celular-e-identificada-em-sc",
-    "title": "Mulher é encontrada morta com sinais de estrangulamento em residência de Santa Catarina",
-    "guid": "scmulti:f8dbebef137d2e9a7717d521443c9a8e6a9ed6ea",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_f8dbebef137d2e9a7717d521443c9a8e6a9ed6ea/",
-    "usedAt": 1786910419607,
-    "usedAtIso": "2026-08-16T20:00:19.607Z"
+  "source:193e54198bf49e1d8f9e506e6c1e25f6b4a3aa38": {
+    "url": "https://visornoticias.com.br/casa-e-soterrada-por-deslizamento-mulher-morre-e-filha-de-10-anos-fica-na-uti-na-grande-florianopolis",
+    "title": "Deslizamento de terra atinge casa em Santa Catarina e deixa mãe e filha feridas",
+    "guid": "scmulti:e055ffa52cfe4d1feba43afe8021abf609846b9f",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_e055ffa52cfe4d1feba43afe8021abf609846b9f/",
+    "usedAt": 1786914019232,
+    "usedAtIso": "2026-08-16T21:00:19.232Z"
   }
 }
