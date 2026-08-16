@@ -1,4 +1,12 @@
 {
+  "source:9e7407170507f8d7e7836f133f23b3cbfca39188": {
+    "url": "https://visornoticias.com.br/onibus-com-destino-ao-rio-tomba-e-deixa-nove-mortos-e-varios-feridos",
+    "title": "Acidente com ônibus na BR-040 deixa nove mortos e dezenas de feridos em Duque de Caxias",
+    "guid": "scmulti:11525b36383018841cd03aca62eddd0b4dff93bd",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_11525b36383018841cd03aca62eddd0b4dff93bd/",
+    "usedAt": 1786899619835,
+    "usedAtIso": "2026-08-16T17:00:19.835Z"
+  },
   "source:f046f3099419cd9027ccc6e5916e497de05e08e2": {
     "url": "https://visornoticias.com.br/acidente-grave-entre-dois-carros-deixa-seis-feridos-em-sc",
     "title": "Colisão frontal na Santa Catarina-355 deixa seis feridos e interdita rodovia em Santa Catarina",
@@ -8679,12 +8687,12 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:9e7407170507f8d7e7836f133f23b3cbfca39188": {
-    "url": "https://visornoticias.com.br/onibus-com-destino-ao-rio-tomba-e-deixa-nove-mortos-e-varios-feridos",
-    "title": "Acidente com ônibus na BR-040 deixa nove mortos e dezenas de feridos em Duque de Caxias",
-    "guid": "scmulti:11525b36383018841cd03aca62eddd0b4dff93bd",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_11525b36383018841cd03aca62eddd0b4dff93bd/",
-    "usedAt": 1786899619835,
-    "usedAtIso": "2026-08-16T17:00:19.835Z"
+  "source:0db58f66e528b7390224e760d4988dae9aa891fe": {
+    "url": "https://visornoticias.com.br/conveniencia-e-fechada-apos-reclamacoes-de-barulho-no-centro-de-bc",
+    "title": "Estabelecimento é interditado em Balneário Camboriú por perturbação do sossego",
+    "guid": "scmulti:ddac9116ca483ca4e299388e67e1230f1e0b5fd4",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_ddac9116ca483ca4e299388e67e1230f1e0b5fd4/",
+    "usedAt": 1786903219619,
+    "usedAtIso": "2026-08-16T18:00:19.619Z"
   }
 }
