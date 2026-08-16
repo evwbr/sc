@@ -1,4 +1,20 @@
 {
+  "source:52a8b174b104763970d174cb097bd048b7f4eb70": {
+    "url": "https://visornoticias.com.br/homem-fica-9-horas-preso-apos-retroescavadeira-ceder-em-ribanceira-na-grande-florianopolis",
+    "title": "Operação de nove horas resgata homem preso em retroescavadeira em Santa Catarina",
+    "guid": "scmulti:74a82ded9d3e7b6aa2fe2a5d445a726ca3803a2e",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_74a82ded9d3e7b6aa2fe2a5d445a726ca3803a2e/",
+    "usedAt": 1786888819609,
+    "usedAtIso": "2026-08-16T14:00:19.609Z"
+  },
+  "source:3d737cabf680b416f717bb5c9eb5ecd2248e77c4": {
+    "url": "https://visornoticias.com.br/justica-marca-audiencia-de-mulher-de-38-anos-que-fingia-ter-12-em-sc",
+    "title": "Audiência presencial define próximos passos de caso de mulher presa por falsa identidade em Joinville",
+    "guid": "scmulti:b62c656c0e42716479a269babecca40c7d29c4ce",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_b62c656c0e42716479a269babecca40c7d29c4ce/",
+    "usedAt": 1786888819609,
+    "usedAtIso": "2026-08-16T14:00:19.609Z"
+  },
   "source:fd484df621b534f6ecbc57a4e89b11afabde7009": {
     "url": "https://visornoticias.com.br/instabilidades-perdem-forca-em-sc-mas-chuva-ainda-atinge-o-litoral-neste-domingo",
     "title": "Santa Catarina terá sol entre nuvens e temperaturas acima de 30°C no Grande Oeste neste domingo",
@@ -8647,20 +8663,20 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:52a8b174b104763970d174cb097bd048b7f4eb70": {
-    "url": "https://visornoticias.com.br/homem-fica-9-horas-preso-apos-retroescavadeira-ceder-em-ribanceira-na-grande-florianopolis",
-    "title": "Operação de nove horas resgata homem preso em retroescavadeira em Santa Catarina",
-    "guid": "scmulti:74a82ded9d3e7b6aa2fe2a5d445a726ca3803a2e",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_74a82ded9d3e7b6aa2fe2a5d445a726ca3803a2e/",
-    "usedAt": 1786888819609,
-    "usedAtIso": "2026-08-16T14:00:19.609Z"
+  "source:f046f3099419cd9027ccc6e5916e497de05e08e2": {
+    "url": "https://visornoticias.com.br/acidente-grave-entre-dois-carros-deixa-seis-feridos-em-sc",
+    "title": "Colisão frontal na Santa Catarina-355 deixa seis feridos e interdita rodovia em Santa Catarina",
+    "guid": "scmulti:5d43f533a9ec35dfe36e9b852e69ecbb03002a2a",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_5d43f533a9ec35dfe36e9b852e69ecbb03002a2a/",
+    "usedAt": 1786892419614,
+    "usedAtIso": "2026-08-16T15:00:19.614Z"
   },
-  "source:3d737cabf680b416f717bb5c9eb5ecd2248e77c4": {
-    "url": "https://visornoticias.com.br/justica-marca-audiencia-de-mulher-de-38-anos-que-fingia-ter-12-em-sc",
-    "title": "Audiência presencial define próximos passos de caso de mulher presa por falsa identidade em Joinville",
-    "guid": "scmulti:b62c656c0e42716479a269babecca40c7d29c4ce",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_b62c656c0e42716479a269babecca40c7d29c4ce/",
-    "usedAt": 1786888819609,
-    "usedAtIso": "2026-08-16T14:00:19.609Z"
+  "source:c046110065357ed603dfb5c7bdf15678939a5ebb": {
+    "url": "https://visornoticias.com.br/terremoto-de-77-deixa-53-mortos-e-cerca-de-5-mil-desabrigados-na-indonesia",
+    "title": "Terremoto de magnitude 7,7 na Indonésia deixa 53 mortos e milhares desabrigados",
+    "guid": "scmulti:1337b601bd8fcc8cd18d22584335763519b4a1e4",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_1337b601bd8fcc8cd18d22584335763519b4a1e4/",
+    "usedAt": 1786892419614,
+    "usedAtIso": "2026-08-16T15:00:19.614Z"
   }
 }
