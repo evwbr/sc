@@ -1,4 +1,12 @@
 {
+  "source:2baa18a07ed5bc6d37c9311766f01db5dfcaeac2": {
+    "url": "https://visornoticias.com.br/defesa-civil-alerta-para-temporais-com-granizo-em-sc-neste-sabado-antes-de-domingo-mais-estavel",
+    "title": "Defesa Civil alerta para temporais com raios e granizo em Santa Catarina neste sábado",
+    "guid": "scmulti:6549e9d59e176b05b7773715532b8897c3443056",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_6549e9d59e176b05b7773715532b8897c3443056/",
+    "usedAt": 1786834819762,
+    "usedAtIso": "2026-08-15T23:00:19.762Z"
+  },
   "source:0fe184006a29d4ece4fd862d6fd743be028dca97": {
     "url": "https://visornoticias.com.br/suspeito-e-preso-apos-jogar-carro-contra-poste-com-companheira-e-tres-filhas-dentro-em-sc",
     "title": "Homem é preso em Laguna suspeito de tentativa de feminicídio após colisão em Maracajá",
@@ -8607,12 +8615,12 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:2baa18a07ed5bc6d37c9311766f01db5dfcaeac2": {
-    "url": "https://visornoticias.com.br/defesa-civil-alerta-para-temporais-com-granizo-em-sc-neste-sabado-antes-de-domingo-mais-estavel",
-    "title": "Defesa Civil alerta para temporais com raios e granizo em Santa Catarina neste sábado",
-    "guid": "scmulti:6549e9d59e176b05b7773715532b8897c3443056",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_6549e9d59e176b05b7773715532b8897c3443056/",
-    "usedAt": 1786834819762,
-    "usedAtIso": "2026-08-15T23:00:19.762Z"
+  "source:98b5d7a6206a42edc20df5b679c6913bdb39ea73": {
+    "url": "https://visornoticias.com.br/carro-bate-em-poste-de-energia-eletrica-e-motorista-sofre-suspeita-de-traumatismo-craniano-em-sc",
+    "title": "Motorista é socorrido após acidente em Rio Negrinho e levado ao hospital",
+    "guid": "scmulti:59141351581eba95a9c30c68aaf78075dbbc3f7e",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_59141351581eba95a9c30c68aaf78075dbbc3f7e/",
+    "usedAt": 1786838419496,
+    "usedAtIso": "2026-08-16T00:00:19.496Z"
   }
 }
