@@ -1,4 +1,12 @@
 {
+  "source:98b5d7a6206a42edc20df5b679c6913bdb39ea73": {
+    "url": "https://visornoticias.com.br/carro-bate-em-poste-de-energia-eletrica-e-motorista-sofre-suspeita-de-traumatismo-craniano-em-sc",
+    "title": "Motorista é socorrido após acidente em Rio Negrinho e levado ao hospital",
+    "guid": "scmulti:59141351581eba95a9c30c68aaf78075dbbc3f7e",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_59141351581eba95a9c30c68aaf78075dbbc3f7e/",
+    "usedAt": 1786838419496,
+    "usedAtIso": "2026-08-16T00:00:19.496Z"
+  },
   "source:2baa18a07ed5bc6d37c9311766f01db5dfcaeac2": {
     "url": "https://visornoticias.com.br/defesa-civil-alerta-para-temporais-com-granizo-em-sc-neste-sabado-antes-de-domingo-mais-estavel",
     "title": "Defesa Civil alerta para temporais com raios e granizo em Santa Catarina neste sábado",
@@ -8615,12 +8623,20 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:98b5d7a6206a42edc20df5b679c6913bdb39ea73": {
-    "url": "https://visornoticias.com.br/carro-bate-em-poste-de-energia-eletrica-e-motorista-sofre-suspeita-de-traumatismo-craniano-em-sc",
-    "title": "Motorista é socorrido após acidente em Rio Negrinho e levado ao hospital",
-    "guid": "scmulti:59141351581eba95a9c30c68aaf78075dbbc3f7e",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_59141351581eba95a9c30c68aaf78075dbbc3f7e/",
-    "usedAt": 1786838419496,
-    "usedAtIso": "2026-08-16T00:00:19.496Z"
+  "source:b84665637d789a6e80d03853b52fb884d9f352c7": {
+    "url": "https://visornoticias.com.br/menina-de-10-anos-sofre-parada-cardiaca-apos-deslizamento-atingir-casa-em-sc",
+    "title": "Deslizamento atinge residência em Santa Catarina e deixa criança em parada cardiorrespiratória",
+    "guid": "scmulti:7d3d1f002c73c8438616190e911f1aa41df7e9eb",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_7d3d1f002c73c8438616190e911f1aa41df7e9eb/",
+    "usedAt": 1786881620961,
+    "usedAtIso": "2026-08-16T12:00:20.961Z"
+  },
+  "source:09cace69c85f383ebd57ef7c9855aeac98179c12": {
+    "url": "https://visornoticias.com.br/guarda-municipal-recupera-carro-furtado-no-centro-de-itapema",
+    "title": "Guarda Municipal de Itapema recupera veículo furtado com auxílio de sistema de leitura de placas",
+    "guid": "scmulti:1e5f4689bf68ad1e683f6563633a32397cd73dd2",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_1e5f4689bf68ad1e683f6563633a32397cd73dd2/",
+    "usedAt": 1786881620961,
+    "usedAtIso": "2026-08-16T12:00:20.961Z"
   }
 }
