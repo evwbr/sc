@@ -1,4 +1,20 @@
 {
+  "source:b84665637d789a6e80d03853b52fb884d9f352c7": {
+    "url": "https://visornoticias.com.br/menina-de-10-anos-sofre-parada-cardiaca-apos-deslizamento-atingir-casa-em-sc",
+    "title": "Deslizamento atinge residência em Santa Catarina e deixa criança em parada cardiorrespiratória",
+    "guid": "scmulti:7d3d1f002c73c8438616190e911f1aa41df7e9eb",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_7d3d1f002c73c8438616190e911f1aa41df7e9eb/",
+    "usedAt": 1786881620961,
+    "usedAtIso": "2026-08-16T12:00:20.961Z"
+  },
+  "source:09cace69c85f383ebd57ef7c9855aeac98179c12": {
+    "url": "https://visornoticias.com.br/guarda-municipal-recupera-carro-furtado-no-centro-de-itapema",
+    "title": "Guarda Municipal de Itapema recupera veículo furtado com auxílio de sistema de leitura de placas",
+    "guid": "scmulti:1e5f4689bf68ad1e683f6563633a32397cd73dd2",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_1e5f4689bf68ad1e683f6563633a32397cd73dd2/",
+    "usedAt": 1786881620961,
+    "usedAtIso": "2026-08-16T12:00:20.961Z"
+  },
   "source:98b5d7a6206a42edc20df5b679c6913bdb39ea73": {
     "url": "https://visornoticias.com.br/carro-bate-em-poste-de-energia-eletrica-e-motorista-sofre-suspeita-de-traumatismo-craniano-em-sc",
     "title": "Motorista é socorrido após acidente em Rio Negrinho e levado ao hospital",
@@ -8623,20 +8639,12 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:b84665637d789a6e80d03853b52fb884d9f352c7": {
-    "url": "https://visornoticias.com.br/menina-de-10-anos-sofre-parada-cardiaca-apos-deslizamento-atingir-casa-em-sc",
-    "title": "Deslizamento atinge residência em Santa Catarina e deixa criança em parada cardiorrespiratória",
-    "guid": "scmulti:7d3d1f002c73c8438616190e911f1aa41df7e9eb",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_7d3d1f002c73c8438616190e911f1aa41df7e9eb/",
-    "usedAt": 1786881620961,
-    "usedAtIso": "2026-08-16T12:00:20.961Z"
-  },
-  "source:09cace69c85f383ebd57ef7c9855aeac98179c12": {
-    "url": "https://visornoticias.com.br/guarda-municipal-recupera-carro-furtado-no-centro-de-itapema",
-    "title": "Guarda Municipal de Itapema recupera veículo furtado com auxílio de sistema de leitura de placas",
-    "guid": "scmulti:1e5f4689bf68ad1e683f6563633a32397cd73dd2",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_1e5f4689bf68ad1e683f6563633a32397cd73dd2/",
-    "usedAt": 1786881620961,
-    "usedAtIso": "2026-08-16T12:00:20.961Z"
+  "source:fd484df621b534f6ecbc57a4e89b11afabde7009": {
+    "url": "https://visornoticias.com.br/instabilidades-perdem-forca-em-sc-mas-chuva-ainda-atinge-o-litoral-neste-domingo",
+    "title": "Santa Catarina terá sol entre nuvens e temperaturas acima de 30°C no Grande Oeste neste domingo",
+    "guid": "scmulti:f72c76023d2d5dd22d8c7f1eaa3423fa4c5ab1b6",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_f72c76023d2d5dd22d8c7f1eaa3423fa4c5ab1b6/",
+    "usedAt": 1786885219483,
+    "usedAtIso": "2026-08-16T13:00:19.483Z"
   }
 }
