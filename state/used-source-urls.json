@@ -1,4 +1,12 @@
 {
+  "source:0db58f66e528b7390224e760d4988dae9aa891fe": {
+    "url": "https://visornoticias.com.br/conveniencia-e-fechada-apos-reclamacoes-de-barulho-no-centro-de-bc",
+    "title": "Estabelecimento é interditado em Balneário Camboriú por perturbação do sossego",
+    "guid": "scmulti:ddac9116ca483ca4e299388e67e1230f1e0b5fd4",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_ddac9116ca483ca4e299388e67e1230f1e0b5fd4/",
+    "usedAt": 1786903219619,
+    "usedAtIso": "2026-08-16T18:00:19.619Z"
+  },
   "source:9e7407170507f8d7e7836f133f23b3cbfca39188": {
     "url": "https://visornoticias.com.br/onibus-com-destino-ao-rio-tomba-e-deixa-nove-mortos-e-varios-feridos",
     "title": "Acidente com ônibus na BR-040 deixa nove mortos e dezenas de feridos em Duque de Caxias",
@@ -8687,12 +8695,12 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:0db58f66e528b7390224e760d4988dae9aa891fe": {
-    "url": "https://visornoticias.com.br/conveniencia-e-fechada-apos-reclamacoes-de-barulho-no-centro-de-bc",
-    "title": "Estabelecimento é interditado em Balneário Camboriú por perturbação do sossego",
-    "guid": "scmulti:ddac9116ca483ca4e299388e67e1230f1e0b5fd4",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_ddac9116ca483ca4e299388e67e1230f1e0b5fd4/",
-    "usedAt": 1786903219619,
-    "usedAtIso": "2026-08-16T18:00:19.619Z"
+  "source:0ee88615e5597c52ada986259f08700c368d5e79": {
+    "url": "https://visornoticias.com.br/mulher-encontrada-morta-com-cabo-de-celular-e-identificada-em-sc",
+    "title": "Mulher é encontrada morta com sinais de estrangulamento em residência de Santa Catarina",
+    "guid": "scmulti:f8dbebef137d2e9a7717d521443c9a8e6a9ed6ea",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_f8dbebef137d2e9a7717d521443c9a8e6a9ed6ea/",
+    "usedAt": 1786910419607,
+    "usedAtIso": "2026-08-16T20:00:19.607Z"
   }
 }
