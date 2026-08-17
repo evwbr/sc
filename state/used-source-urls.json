@@ -1,4 +1,20 @@
 {
+  "source:efd5e6e9fdf3e41b31357395f3722df6446d4c1e": {
+    "url": "https://visornoticias.com.br/obras-de-gas-natural-deixam-avenida-atlantica-em-meia-pista-e-exigem-atencao-dos-motoristas",
+    "title": "Trecho da Avenida Atlântica em Balneário Camboriú terá meia pista para obras de expansão da rede de gás",
+    "guid": "scmulti:1d06d6d1c9e7b01fd9680a6ca2326655a4b647c3",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_1d06d6d1c9e7b01fd9680a6ca2326655a4b647c3/",
+    "usedAt": 1786982420140,
+    "usedAtIso": "2026-08-17T16:00:20.140Z"
+  },
+  "source:536e17fcad4241a6cf9557a33c48583453ffd696": {
+    "url": "https://visornoticias.com.br/drone-da-prf-flagra-criancas-sendo-transportadas-sem-cadeirinha-e-sem-cinto-na-via-expressa-em-florianopolis",
+    "title": "PRF flagra transporte irregular de crianças em veículos na Via Expressa com uso de drone",
+    "guid": "scmulti:c2153bfc5b99056a78f2fbbed032c28088af00cd",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_c2153bfc5b99056a78f2fbbed032c28088af00cd/",
+    "usedAt": 1786982420140,
+    "usedAtIso": "2026-08-17T16:00:20.140Z"
+  },
   "source:023a5fef20ad324887341e363e2a8f452e2f250f": {
     "url": "https://visornoticias.com.br/obra-de-r-265-milhoes-fecha-trecho-e-muda-transito-em-florianopolis-a-partir-desta-segunda-feira",
     "title": "Rua Professor Lauro Caldeira de Andrada é interditada para obras de novo elevado em Florianópolis",
@@ -8759,20 +8775,12 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:efd5e6e9fdf3e41b31357395f3722df6446d4c1e": {
-    "url": "https://visornoticias.com.br/obras-de-gas-natural-deixam-avenida-atlantica-em-meia-pista-e-exigem-atencao-dos-motoristas",
-    "title": "Trecho da Avenida Atlântica em Balneário Camboriú terá meia pista para obras de expansão da rede de gás",
-    "guid": "scmulti:1d06d6d1c9e7b01fd9680a6ca2326655a4b647c3",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_1d06d6d1c9e7b01fd9680a6ca2326655a4b647c3/",
-    "usedAt": 1786982420140,
-    "usedAtIso": "2026-08-17T16:00:20.140Z"
-  },
-  "source:536e17fcad4241a6cf9557a33c48583453ffd696": {
-    "url": "https://visornoticias.com.br/drone-da-prf-flagra-criancas-sendo-transportadas-sem-cadeirinha-e-sem-cinto-na-via-expressa-em-florianopolis",
-    "title": "PRF flagra transporte irregular de crianças em veículos na Via Expressa com uso de drone",
-    "guid": "scmulti:c2153bfc5b99056a78f2fbbed032c28088af00cd",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_c2153bfc5b99056a78f2fbbed032c28088af00cd/",
-    "usedAt": 1786982420140,
-    "usedAtIso": "2026-08-17T16:00:20.140Z"
+  "source:9d215b8bce2c79e353527aeaf4727d5381d4754d": {
+    "url": "https://visornoticias.com.br/carro-despenca-de-ponte-durante-a-madrugada-e-motorista-morre-dentro-de-rio-em-joinville",
+    "title": "Motorista morre após carro cair de ponte em Santa Catarina; resgate foi dificultado pela correnteza",
+    "guid": "scmulti:61ec7ca5927b1f4d1ad91338efd9697804ff4c92",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_61ec7ca5927b1f4d1ad91338efd9697804ff4c92/",
+    "usedAt": 1786986019624,
+    "usedAtIso": "2026-08-17T17:00:19.624Z"
   }
 }
