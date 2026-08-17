@@ -1,4 +1,20 @@
 {
+  "source:bda40fe83768acd39e4353c39c9f7be8fc111015": {
+    "url": "https://visornoticias.com.br/tempo-em-itajai-tera-calor-e-queda-brusca-no-fim-da-semana",
+    "title": "Itajaí terá calor até quarta-feira e queda brusca de temperatura a partir de sexta-feira com avanço de massa polar",
+    "guid": "scmulti:f6d5ce363dec9dcd1773419055ca9e672f3a8d96",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_f6d5ce363dec9dcd1773419055ca9e672f3a8d96/",
+    "usedAt": 1786993220391,
+    "usedAtIso": "2026-08-17T19:00:20.391Z"
+  },
+  "source:79643fbc4ef6525ddda1bea4cb3527ef0a32827f": {
+    "url": "https://visornoticias.com.br/menino-de-6-anos-some-em-rio-apos-tentar-salvar-cachorro-na-grande-florianopolis",
+    "title": "Menino de 6 anos desaparece ao tentar salvar cachorro em rio de Santa Catarina",
+    "guid": "scmulti:9398d77373996c66295013750b32b0932cb97d18",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_9398d77373996c66295013750b32b0932cb97d18/",
+    "usedAt": 1786993220391,
+    "usedAtIso": "2026-08-17T19:00:20.391Z"
+  },
   "source:9d215b8bce2c79e353527aeaf4727d5381d4754d": {
     "url": "https://visornoticias.com.br/carro-despenca-de-ponte-durante-a-madrugada-e-motorista-morre-dentro-de-rio-em-joinville",
     "title": "Motorista morre após carro cair de ponte em Santa Catarina; resgate foi dificultado pela correnteza",
@@ -8783,20 +8799,12 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:bda40fe83768acd39e4353c39c9f7be8fc111015": {
-    "url": "https://visornoticias.com.br/tempo-em-itajai-tera-calor-e-queda-brusca-no-fim-da-semana",
-    "title": "Itajaí terá calor até quarta-feira e queda brusca de temperatura a partir de sexta-feira com avanço de massa polar",
-    "guid": "scmulti:f6d5ce363dec9dcd1773419055ca9e672f3a8d96",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_f6d5ce363dec9dcd1773419055ca9e672f3a8d96/",
-    "usedAt": 1786993220391,
-    "usedAtIso": "2026-08-17T19:00:20.391Z"
-  },
-  "source:79643fbc4ef6525ddda1bea4cb3527ef0a32827f": {
-    "url": "https://visornoticias.com.br/menino-de-6-anos-some-em-rio-apos-tentar-salvar-cachorro-na-grande-florianopolis",
-    "title": "Menino de 6 anos desaparece ao tentar salvar cachorro em rio de Santa Catarina",
-    "guid": "scmulti:9398d77373996c66295013750b32b0932cb97d18",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_9398d77373996c66295013750b32b0932cb97d18/",
-    "usedAt": 1786993220391,
-    "usedAtIso": "2026-08-17T19:00:20.391Z"
+  "source:e7a2a58dba351ea033e1b4627afe24bcf97c1ad0": {
+    "url": "https://visornoticias.com.br/treinamento-intenso-forma-12-motopatrulheiros-em-itapema",
+    "title": "Guarda Municipal de Itapema forma profissionais em curso especializado de motopatrulhamento com participantes do Brasil e Argentina",
+    "guid": "scmulti:d118b22083ba71cf214fd0a4af5f93552d87ecd9",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_d118b22083ba71cf214fd0a4af5f93552d87ecd9/",
+    "usedAt": 1786996819707,
+    "usedAtIso": "2026-08-17T20:00:19.707Z"
   }
 }
