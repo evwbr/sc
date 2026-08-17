@@ -1,4 +1,20 @@
 {
+  "source:0b5cab145901d552c8ce30a220768d66f5b193e2": {
+    "url": "https://visornoticias.com.br/acidente-com-tres-carros-mata-um-motorista-preso-as-ferragens-e-deixa-cinco-vitimas-feridas-em-sc",
+    "title": "Acidente envolvendo três veículos em Criciúma deixa motorista de 62 anos morto",
+    "guid": "scmulti:aff4735fe59332da91cbb279834bc49e1d43f521",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_aff4735fe59332da91cbb279834bc49e1d43f521/",
+    "usedAt": 1786957219532,
+    "usedAtIso": "2026-08-17T09:00:19.532Z"
+  },
+  "source:568e56bda986f4c3a765546837a3ca2e8960c0e7": {
+    "url": "https://visornoticias.com.br/medica-se-envolve-em-acidente-apos-carro-trafegar-na-contramao-invadir-calcada-e-destruir-estrutura-em-sc",
+    "title": "Carro invade calçada e atinge estrutura metálica em acidente no centro de Blumenau",
+    "guid": "scmulti:67f539e636596794881e27768760b20b900a09a0",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_67f539e636596794881e27768760b20b900a09a0/",
+    "usedAt": 1786957219532,
+    "usedAtIso": "2026-08-17T09:00:19.532Z"
+  },
   "source:193e54198bf49e1d8f9e506e6c1e25f6b4a3aa38": {
     "url": "https://visornoticias.com.br/casa-e-soterrada-por-deslizamento-mulher-morre-e-filha-de-10-anos-fica-na-uti-na-grande-florianopolis",
     "title": "Deslizamento de terra atinge casa em Santa Catarina e deixa mãe e filha feridas",
@@ -8711,20 +8727,12 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:0b5cab145901d552c8ce30a220768d66f5b193e2": {
-    "url": "https://visornoticias.com.br/acidente-com-tres-carros-mata-um-motorista-preso-as-ferragens-e-deixa-cinco-vitimas-feridas-em-sc",
-    "title": "Acidente envolvendo três veículos em Criciúma deixa motorista de 62 anos morto",
-    "guid": "scmulti:aff4735fe59332da91cbb279834bc49e1d43f521",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_aff4735fe59332da91cbb279834bc49e1d43f521/",
-    "usedAt": 1786957219532,
-    "usedAtIso": "2026-08-17T09:00:19.532Z"
-  },
-  "source:568e56bda986f4c3a765546837a3ca2e8960c0e7": {
-    "url": "https://visornoticias.com.br/medica-se-envolve-em-acidente-apos-carro-trafegar-na-contramao-invadir-calcada-e-destruir-estrutura-em-sc",
-    "title": "Carro invade calçada e atinge estrutura metálica em acidente no centro de Blumenau",
-    "guid": "scmulti:67f539e636596794881e27768760b20b900a09a0",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_67f539e636596794881e27768760b20b900a09a0/",
-    "usedAt": 1786957219532,
-    "usedAtIso": "2026-08-17T09:00:19.532Z"
+  "source:2daa04762ed2759f4abb316805da6c7c184e4268": {
+    "url": "https://visornoticias.com.br/calor-dispara-em-santa-catarina-e-termometros-podem-passar-dos-32c-antes-de-temporais",
+    "title": "Calor intenso e mar agitado marcam o tempo em Santa Catarina com risco moderado para atividades marítimas",
+    "guid": "scmulti:df168d04e45836e6384a5a6c34bdf056855c1f96",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_df168d04e45836e6384a5a6c34bdf056855c1f96/",
+    "usedAt": 1786960819539,
+    "usedAtIso": "2026-08-17T10:00:19.539Z"
   }
 }
