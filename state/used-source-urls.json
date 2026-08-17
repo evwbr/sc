@@ -1,4 +1,20 @@
 {
+  "source:023a5fef20ad324887341e363e2a8f452e2f250f": {
+    "url": "https://visornoticias.com.br/obra-de-r-265-milhoes-fecha-trecho-e-muda-transito-em-florianopolis-a-partir-desta-segunda-feira",
+    "title": "Rua Professor Lauro Caldeira de Andrada é interditada para obras de novo elevado em Florianópolis",
+    "guid": "scmulti:aff7156776bfdf737332e6d703662c4c11fd3bd6",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_aff7156776bfdf737332e6d703662c4c11fd3bd6/",
+    "usedAt": 1786971619301,
+    "usedAtIso": "2026-08-17T13:00:19.301Z"
+  },
+  "source:6c7d5e022c224773247ca53319c41d304b936430": {
+    "url": "https://visornoticias.com.br/homem-sofre-golpe-de-foice-na-cabeca-e-e-socorrido-com-sangramento-intenso-em-sc",
+    "title": "Homem sofre ferimento na cabeça após agressão com foice em Rio Negrinho",
+    "guid": "scmulti:335ac768541d23ae561fe96e63984711184dd651",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_335ac768541d23ae561fe96e63984711184dd651/",
+    "usedAt": 1786971619301,
+    "usedAtIso": "2026-08-17T13:00:19.301Z"
+  },
   "source:7841a79100b4ecc79e291bfc7caaffd4f8d2a12c": {
     "url": "https://visornoticias.com.br/policia-militar-prende-cinco-pessoas-e-recupera-r-70-mil-em-objetos-furtados-em-itajai",
     "title": "Polícia prende cinco pessoas por receptação após rastreamento de notebook furtado em Balneário Camboriú",
@@ -8743,20 +8759,20 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:023a5fef20ad324887341e363e2a8f452e2f250f": {
-    "url": "https://visornoticias.com.br/obra-de-r-265-milhoes-fecha-trecho-e-muda-transito-em-florianopolis-a-partir-desta-segunda-feira",
-    "title": "Rua Professor Lauro Caldeira de Andrada é interditada para obras de novo elevado em Florianópolis",
-    "guid": "scmulti:aff7156776bfdf737332e6d703662c4c11fd3bd6",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_aff7156776bfdf737332e6d703662c4c11fd3bd6/",
-    "usedAt": 1786971619301,
-    "usedAtIso": "2026-08-17T13:00:19.301Z"
+  "source:efd5e6e9fdf3e41b31357395f3722df6446d4c1e": {
+    "url": "https://visornoticias.com.br/obras-de-gas-natural-deixam-avenida-atlantica-em-meia-pista-e-exigem-atencao-dos-motoristas",
+    "title": "Trecho da Avenida Atlântica em Balneário Camboriú terá meia pista para obras de expansão da rede de gás",
+    "guid": "scmulti:1d06d6d1c9e7b01fd9680a6ca2326655a4b647c3",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_1d06d6d1c9e7b01fd9680a6ca2326655a4b647c3/",
+    "usedAt": 1786982420140,
+    "usedAtIso": "2026-08-17T16:00:20.140Z"
   },
-  "source:6c7d5e022c224773247ca53319c41d304b936430": {
-    "url": "https://visornoticias.com.br/homem-sofre-golpe-de-foice-na-cabeca-e-e-socorrido-com-sangramento-intenso-em-sc",
-    "title": "Homem sofre ferimento na cabeça após agressão com foice em Rio Negrinho",
-    "guid": "scmulti:335ac768541d23ae561fe96e63984711184dd651",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_335ac768541d23ae561fe96e63984711184dd651/",
-    "usedAt": 1786971619301,
-    "usedAtIso": "2026-08-17T13:00:19.301Z"
+  "source:536e17fcad4241a6cf9557a33c48583453ffd696": {
+    "url": "https://visornoticias.com.br/drone-da-prf-flagra-criancas-sendo-transportadas-sem-cadeirinha-e-sem-cinto-na-via-expressa-em-florianopolis",
+    "title": "PRF flagra transporte irregular de crianças em veículos na Via Expressa com uso de drone",
+    "guid": "scmulti:c2153bfc5b99056a78f2fbbed032c28088af00cd",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_c2153bfc5b99056a78f2fbbed032c28088af00cd/",
+    "usedAt": 1786982420140,
+    "usedAtIso": "2026-08-17T16:00:20.140Z"
   }
 }
