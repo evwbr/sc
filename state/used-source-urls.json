@@ -1,4 +1,12 @@
 {
+  "source:7841a79100b4ecc79e291bfc7caaffd4f8d2a12c": {
+    "url": "https://visornoticias.com.br/policia-militar-prende-cinco-pessoas-e-recupera-r-70-mil-em-objetos-furtados-em-itajai",
+    "title": "Polícia prende cinco pessoas por receptação após rastreamento de notebook furtado em Balneário Camboriú",
+    "guid": "scmulti:941d118154e76db3980c65073066d2f94efe2145",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_941d118154e76db3980c65073066d2f94efe2145/",
+    "usedAt": 1786964419568,
+    "usedAtIso": "2026-08-17T11:00:19.568Z"
+  },
   "source:2daa04762ed2759f4abb316805da6c7c184e4268": {
     "url": "https://visornoticias.com.br/calor-dispara-em-santa-catarina-e-termometros-podem-passar-dos-32c-antes-de-temporais",
     "title": "Calor intenso e mar agitado marcam o tempo em Santa Catarina com risco moderado para atividades marítimas",
@@ -8735,12 +8743,20 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:7841a79100b4ecc79e291bfc7caaffd4f8d2a12c": {
-    "url": "https://visornoticias.com.br/policia-militar-prende-cinco-pessoas-e-recupera-r-70-mil-em-objetos-furtados-em-itajai",
-    "title": "Polícia prende cinco pessoas por receptação após rastreamento de notebook furtado em Balneário Camboriú",
-    "guid": "scmulti:941d118154e76db3980c65073066d2f94efe2145",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_941d118154e76db3980c65073066d2f94efe2145/",
-    "usedAt": 1786964419568,
-    "usedAtIso": "2026-08-17T11:00:19.568Z"
+  "source:023a5fef20ad324887341e363e2a8f452e2f250f": {
+    "url": "https://visornoticias.com.br/obra-de-r-265-milhoes-fecha-trecho-e-muda-transito-em-florianopolis-a-partir-desta-segunda-feira",
+    "title": "Rua Professor Lauro Caldeira de Andrada é interditada para obras de novo elevado em Florianópolis",
+    "guid": "scmulti:aff7156776bfdf737332e6d703662c4c11fd3bd6",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_aff7156776bfdf737332e6d703662c4c11fd3bd6/",
+    "usedAt": 1786971619301,
+    "usedAtIso": "2026-08-17T13:00:19.301Z"
+  },
+  "source:6c7d5e022c224773247ca53319c41d304b936430": {
+    "url": "https://visornoticias.com.br/homem-sofre-golpe-de-foice-na-cabeca-e-e-socorrido-com-sangramento-intenso-em-sc",
+    "title": "Homem sofre ferimento na cabeça após agressão com foice em Rio Negrinho",
+    "guid": "scmulti:335ac768541d23ae561fe96e63984711184dd651",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_335ac768541d23ae561fe96e63984711184dd651/",
+    "usedAt": 1786971619301,
+    "usedAtIso": "2026-08-17T13:00:19.301Z"
   }
 }
