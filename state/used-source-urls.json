@@ -1,4 +1,12 @@
 {
+  "source:2daa04762ed2759f4abb316805da6c7c184e4268": {
+    "url": "https://visornoticias.com.br/calor-dispara-em-santa-catarina-e-termometros-podem-passar-dos-32c-antes-de-temporais",
+    "title": "Calor intenso e mar agitado marcam o tempo em Santa Catarina com risco moderado para atividades marítimas",
+    "guid": "scmulti:df168d04e45836e6384a5a6c34bdf056855c1f96",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_df168d04e45836e6384a5a6c34bdf056855c1f96/",
+    "usedAt": 1786960819539,
+    "usedAtIso": "2026-08-17T10:00:19.539Z"
+  },
   "source:0b5cab145901d552c8ce30a220768d66f5b193e2": {
     "url": "https://visornoticias.com.br/acidente-com-tres-carros-mata-um-motorista-preso-as-ferragens-e-deixa-cinco-vitimas-feridas-em-sc",
     "title": "Acidente envolvendo três veículos em Criciúma deixa motorista de 62 anos morto",
@@ -8727,12 +8735,12 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:2daa04762ed2759f4abb316805da6c7c184e4268": {
-    "url": "https://visornoticias.com.br/calor-dispara-em-santa-catarina-e-termometros-podem-passar-dos-32c-antes-de-temporais",
-    "title": "Calor intenso e mar agitado marcam o tempo em Santa Catarina com risco moderado para atividades marítimas",
-    "guid": "scmulti:df168d04e45836e6384a5a6c34bdf056855c1f96",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_df168d04e45836e6384a5a6c34bdf056855c1f96/",
-    "usedAt": 1786960819539,
-    "usedAtIso": "2026-08-17T10:00:19.539Z"
+  "source:7841a79100b4ecc79e291bfc7caaffd4f8d2a12c": {
+    "url": "https://visornoticias.com.br/policia-militar-prende-cinco-pessoas-e-recupera-r-70-mil-em-objetos-furtados-em-itajai",
+    "title": "Polícia prende cinco pessoas por receptação após rastreamento de notebook furtado em Balneário Camboriú",
+    "guid": "scmulti:941d118154e76db3980c65073066d2f94efe2145",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_941d118154e76db3980c65073066d2f94efe2145/",
+    "usedAt": 1786964419568,
+    "usedAtIso": "2026-08-17T11:00:19.568Z"
   }
 }
