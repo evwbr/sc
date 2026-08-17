@@ -1,4 +1,12 @@
 {
+  "source:9d215b8bce2c79e353527aeaf4727d5381d4754d": {
+    "url": "https://visornoticias.com.br/carro-despenca-de-ponte-durante-a-madrugada-e-motorista-morre-dentro-de-rio-em-joinville",
+    "title": "Motorista morre após carro cair de ponte em Santa Catarina; resgate foi dificultado pela correnteza",
+    "guid": "scmulti:61ec7ca5927b1f4d1ad91338efd9697804ff4c92",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_61ec7ca5927b1f4d1ad91338efd9697804ff4c92/",
+    "usedAt": 1786986019624,
+    "usedAtIso": "2026-08-17T17:00:19.624Z"
+  },
   "source:efd5e6e9fdf3e41b31357395f3722df6446d4c1e": {
     "url": "https://visornoticias.com.br/obras-de-gas-natural-deixam-avenida-atlantica-em-meia-pista-e-exigem-atencao-dos-motoristas",
     "title": "Trecho da Avenida Atlântica em Balneário Camboriú terá meia pista para obras de expansão da rede de gás",
@@ -8775,12 +8783,20 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:9d215b8bce2c79e353527aeaf4727d5381d4754d": {
-    "url": "https://visornoticias.com.br/carro-despenca-de-ponte-durante-a-madrugada-e-motorista-morre-dentro-de-rio-em-joinville",
-    "title": "Motorista morre após carro cair de ponte em Santa Catarina; resgate foi dificultado pela correnteza",
-    "guid": "scmulti:61ec7ca5927b1f4d1ad91338efd9697804ff4c92",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_61ec7ca5927b1f4d1ad91338efd9697804ff4c92/",
-    "usedAt": 1786986019624,
-    "usedAtIso": "2026-08-17T17:00:19.624Z"
+  "source:bda40fe83768acd39e4353c39c9f7be8fc111015": {
+    "url": "https://visornoticias.com.br/tempo-em-itajai-tera-calor-e-queda-brusca-no-fim-da-semana",
+    "title": "Itajaí terá calor até quarta-feira e queda brusca de temperatura a partir de sexta-feira com avanço de massa polar",
+    "guid": "scmulti:f6d5ce363dec9dcd1773419055ca9e672f3a8d96",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_f6d5ce363dec9dcd1773419055ca9e672f3a8d96/",
+    "usedAt": 1786993220391,
+    "usedAtIso": "2026-08-17T19:00:20.391Z"
+  },
+  "source:79643fbc4ef6525ddda1bea4cb3527ef0a32827f": {
+    "url": "https://visornoticias.com.br/menino-de-6-anos-some-em-rio-apos-tentar-salvar-cachorro-na-grande-florianopolis",
+    "title": "Menino de 6 anos desaparece ao tentar salvar cachorro em rio de Santa Catarina",
+    "guid": "scmulti:9398d77373996c66295013750b32b0932cb97d18",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_9398d77373996c66295013750b32b0932cb97d18/",
+    "usedAt": 1786993220391,
+    "usedAtIso": "2026-08-17T19:00:20.391Z"
   }
 }
