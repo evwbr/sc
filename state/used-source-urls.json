@@ -1,4 +1,12 @@
 {
+  "source:52d62756b2acc20263cddeeabb3d89b06a0368b2": {
+    "url": "https://visornoticias.com.br/calor-perde-forca-em-sc-com-avanco-de-frente-fria-e-minimas-abaixo-dos-10c",
+    "title": "Santa Catarina enfrenta calor intenso e se prepara para queda brusca de temperatura com chegada de frente fria",
+    "guid": "scmulti:4b451d739779f6667b175c0d250532590fb72e42",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_4b451d739779f6667b175c0d250532590fb72e42/",
+    "usedAt": 1787047219409,
+    "usedAtIso": "2026-08-18T10:00:19.409Z"
+  },
   "source:93db72a71419ee294809b90e9e0524af7de23a1e": {
     "url": "https://visornoticias.com.br/terca-feira-tera-calor-acima-de-32c-e-sol-em-santa-catarina",
     "title": "Calor intenso retorna ao Litoral Norte, Baixo Vale do Itajaí e Grande Florianópolis com temperaturas acima de 32°C",
@@ -8855,12 +8863,12 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:52d62756b2acc20263cddeeabb3d89b06a0368b2": {
-    "url": "https://visornoticias.com.br/calor-perde-forca-em-sc-com-avanco-de-frente-fria-e-minimas-abaixo-dos-10c",
-    "title": "Santa Catarina enfrenta calor intenso e se prepara para queda brusca de temperatura com chegada de frente fria",
-    "guid": "scmulti:4b451d739779f6667b175c0d250532590fb72e42",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_4b451d739779f6667b175c0d250532590fb72e42/",
-    "usedAt": 1787047219409,
-    "usedAtIso": "2026-08-18T10:00:19.409Z"
+  "source:4e5ae9b40b1e98cbbe6f5906f1b74eee9aed2caa": {
+    "url": "https://visornoticias.com.br/suspeito-de-estuprar-adolescente-morre-apos-confronto-com-a-pm-em-blumenau",
+    "title": "Polícia Militar captura homem armado após denúncia de adolescente em Santa Catarina",
+    "guid": "scmulti:de97d67361867c168bd4f6bfeb3ed1091325206d",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_de97d67361867c168bd4f6bfeb3ed1091325206d/",
+    "usedAt": 1787054420302,
+    "usedAtIso": "2026-08-18T12:00:20.302Z"
   }
 }
