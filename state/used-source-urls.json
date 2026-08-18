@@ -1,4 +1,12 @@
 {
+  "source:4e5ae9b40b1e98cbbe6f5906f1b74eee9aed2caa": {
+    "url": "https://visornoticias.com.br/suspeito-de-estuprar-adolescente-morre-apos-confronto-com-a-pm-em-blumenau",
+    "title": "Polícia Militar captura homem armado após denúncia de adolescente em Santa Catarina",
+    "guid": "scmulti:de97d67361867c168bd4f6bfeb3ed1091325206d",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_de97d67361867c168bd4f6bfeb3ed1091325206d/",
+    "usedAt": 1787054420302,
+    "usedAtIso": "2026-08-18T12:00:20.302Z"
+  },
   "source:52d62756b2acc20263cddeeabb3d89b06a0368b2": {
     "url": "https://visornoticias.com.br/calor-perde-forca-em-sc-com-avanco-de-frente-fria-e-minimas-abaixo-dos-10c",
     "title": "Santa Catarina enfrenta calor intenso e se prepara para queda brusca de temperatura com chegada de frente fria",
@@ -8863,12 +8871,12 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:4e5ae9b40b1e98cbbe6f5906f1b74eee9aed2caa": {
-    "url": "https://visornoticias.com.br/suspeito-de-estuprar-adolescente-morre-apos-confronto-com-a-pm-em-blumenau",
-    "title": "Polícia Militar captura homem armado após denúncia de adolescente em Santa Catarina",
-    "guid": "scmulti:de97d67361867c168bd4f6bfeb3ed1091325206d",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_de97d67361867c168bd4f6bfeb3ed1091325206d/",
-    "usedAt": 1787054420302,
-    "usedAtIso": "2026-08-18T12:00:20.302Z"
+  "source:8b6b420ed9235c0b77756a5a4773a775edb403ff": {
+    "url": "https://visornoticias.com.br/acidente-entre-dois-carros-e-uma-moto-mata-uma-pessoa-e-deixa-duas-feridas-na-br-282-na-grande-florianopolis",
+    "title": "Acidente na BR-282 deixa uma pessoa morta e duas feridas em Santa Catarina",
+    "guid": "scmulti:91719079065bb7f72f9d8f33d9a28e2f29196be3",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_91719079065bb7f72f9d8f33d9a28e2f29196be3/",
+    "usedAt": 1787058019448,
+    "usedAtIso": "2026-08-18T13:00:19.448Z"
   }
 }
