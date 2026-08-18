@@ -1,4 +1,12 @@
 {
+  "source:93db72a71419ee294809b90e9e0524af7de23a1e": {
+    "url": "https://visornoticias.com.br/terca-feira-tera-calor-acima-de-32c-e-sol-em-santa-catarina",
+    "title": "Calor intenso retorna ao Litoral Norte, Baixo Vale do Itajaí e Grande Florianópolis com temperaturas acima de 32°C",
+    "guid": "scmulti:16aa4be9201eaee6a5a08e237e0488181d38eef1",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_16aa4be9201eaee6a5a08e237e0488181d38eef1/",
+    "usedAt": 1787014819894,
+    "usedAtIso": "2026-08-18T01:00:19.894Z"
+  },
   "source:2ec4d5e9eb8e319e2bdfff61717f6986360a45a8": {
     "url": "https://visornoticias.com.br/motociclista-de-32-anos-morre-apos-acidente-em-estrada-de-chao-em-sc",
     "title": "Motociclista morre em acidente com múltiplas lesões em Santa Catarina",
@@ -8847,12 +8855,12 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:93db72a71419ee294809b90e9e0524af7de23a1e": {
-    "url": "https://visornoticias.com.br/terca-feira-tera-calor-acima-de-32c-e-sol-em-santa-catarina",
-    "title": "Calor intenso retorna ao Litoral Norte, Baixo Vale do Itajaí e Grande Florianópolis com temperaturas acima de 32°C",
-    "guid": "scmulti:16aa4be9201eaee6a5a08e237e0488181d38eef1",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_16aa4be9201eaee6a5a08e237e0488181d38eef1/",
-    "usedAt": 1787014819894,
-    "usedAtIso": "2026-08-18T01:00:19.894Z"
+  "source:52d62756b2acc20263cddeeabb3d89b06a0368b2": {
+    "url": "https://visornoticias.com.br/calor-perde-forca-em-sc-com-avanco-de-frente-fria-e-minimas-abaixo-dos-10c",
+    "title": "Santa Catarina enfrenta calor intenso e se prepara para queda brusca de temperatura com chegada de frente fria",
+    "guid": "scmulti:4b451d739779f6667b175c0d250532590fb72e42",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_4b451d739779f6667b175c0d250532590fb72e42/",
+    "usedAt": 1787047219409,
+    "usedAtIso": "2026-08-18T10:00:19.409Z"
   }
 }
