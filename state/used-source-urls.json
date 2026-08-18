@@ -1,4 +1,12 @@
 {
+  "source:8b6b420ed9235c0b77756a5a4773a775edb403ff": {
+    "url": "https://visornoticias.com.br/acidente-entre-dois-carros-e-uma-moto-mata-uma-pessoa-e-deixa-duas-feridas-na-br-282-na-grande-florianopolis",
+    "title": "Acidente na BR-282 deixa uma pessoa morta e duas feridas em Santa Catarina",
+    "guid": "scmulti:91719079065bb7f72f9d8f33d9a28e2f29196be3",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_91719079065bb7f72f9d8f33d9a28e2f29196be3/",
+    "usedAt": 1787058019448,
+    "usedAtIso": "2026-08-18T13:00:19.448Z"
+  },
   "source:4e5ae9b40b1e98cbbe6f5906f1b74eee9aed2caa": {
     "url": "https://visornoticias.com.br/suspeito-de-estuprar-adolescente-morre-apos-confronto-com-a-pm-em-blumenau",
     "title": "Polícia Militar captura homem armado após denúncia de adolescente em Santa Catarina",
@@ -8871,12 +8879,20 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:8b6b420ed9235c0b77756a5a4773a775edb403ff": {
-    "url": "https://visornoticias.com.br/acidente-entre-dois-carros-e-uma-moto-mata-uma-pessoa-e-deixa-duas-feridas-na-br-282-na-grande-florianopolis",
-    "title": "Acidente na BR-282 deixa uma pessoa morta e duas feridas em Santa Catarina",
-    "guid": "scmulti:91719079065bb7f72f9d8f33d9a28e2f29196be3",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_91719079065bb7f72f9d8f33d9a28e2f29196be3/",
-    "usedAt": 1787058019448,
-    "usedAtIso": "2026-08-18T13:00:19.448Z"
+  "source:5f9ef8468e1f544ecdf2b2b24ad28c3981e26e67": {
+    "url": "https://visornoticias.com.br/operacao-contra-importacao-ilegal-com-nucleo-em-sc-bloqueia-r-378-milhoes",
+    "title": "Operação desarticula esquema de importação ilegal de cosméticos e medicamentos em Santa Catarina e bloqueia R$ 37,8 milhões",
+    "guid": "scmulti:e3379ffa9dbcf7f2d328266626a1e1b0c8c4537b",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_e3379ffa9dbcf7f2d328266626a1e1b0c8c4537b/",
+    "usedAt": 1787065219322,
+    "usedAtIso": "2026-08-18T15:00:19.322Z"
+  },
+  "source:b0a67c466da9a4852599a54cf12885088042d12b": {
+    "url": "https://visornoticias.com.br/homem-corre-entre-carros-e-tenta-subir-em-caminhoes-na-br-101",
+    "title": "Homem é contido por motoristas após correr entre veículos em rodovia de Santa Catarina",
+    "guid": "scmulti:4839aacfd350e9fdc94b088b42fcc3bffaae9d9c",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_4839aacfd350e9fdc94b088b42fcc3bffaae9d9c/",
+    "usedAt": 1787065219322,
+    "usedAtIso": "2026-08-18T15:00:19.322Z"
   }
 }
