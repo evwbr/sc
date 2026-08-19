@@ -1,4 +1,20 @@
 {
+  "source:d46f1cae2d536173ce284449c4ae2a6aaaafd6e9": {
+    "url": "https://visornoticias.com.br/homem-baleado-em-lages-apos-perseguir-criancas",
+    "title": "Homem é baleado após perseguir crianças em Lages e intervenção de policiais de folga",
+    "guid": "scmulti:d6d30b2d0b44593395cf4eecc446efaa7a415f79",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_d6d30b2d0b44593395cf4eecc446efaa7a415f79/",
+    "usedAt": 1787151620481,
+    "usedAtIso": "2026-08-19T15:00:20.481Z"
+  },
+  "source:486da674d4677a45900d2c67eb75e552cfaa4e1d": {
+    "url": "https://visornoticias.com.br/acidente-na-br-373-micro-onibus-tinha-27-pessoas",
+    "title": "Acidente na BR-373 em Ipiranga deixa 22 mortos e cinco feridos em micro-ônibus da Secretaria de Saúde de Imbituva",
+    "guid": "scmulti:aeefa8a2f962375fbc1b0fb8c0a23dc719ae0c27",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_aeefa8a2f962375fbc1b0fb8c0a23dc719ae0c27/",
+    "usedAt": 1787151620481,
+    "usedAtIso": "2026-08-19T15:00:20.481Z"
+  },
   "source:2b68fd4f02d3114150abcb0cdbf9d780d2a97a20": {
     "url": "https://visornoticias.com.br/garoto-de-12-anos-socorre-irmao-engasgado-em-balneario-picarras",
     "title": "Garoto de 10 anos salva irmão engasgado em Balneário Piçarras com técnica de primeiros socorros",
@@ -9055,20 +9071,12 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:d46f1cae2d536173ce284449c4ae2a6aaaafd6e9": {
-    "url": "https://visornoticias.com.br/homem-baleado-em-lages-apos-perseguir-criancas",
-    "title": "Homem é baleado após perseguir crianças em Lages e intervenção de policiais de folga",
-    "guid": "scmulti:d6d30b2d0b44593395cf4eecc446efaa7a415f79",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_d6d30b2d0b44593395cf4eecc446efaa7a415f79/",
-    "usedAt": 1787151620481,
-    "usedAtIso": "2026-08-19T15:00:20.481Z"
-  },
-  "source:486da674d4677a45900d2c67eb75e552cfaa4e1d": {
-    "url": "https://visornoticias.com.br/acidente-na-br-373-micro-onibus-tinha-27-pessoas",
-    "title": "Acidente na BR-373 em Ipiranga deixa 22 mortos e cinco feridos em micro-ônibus da Secretaria de Saúde de Imbituva",
-    "guid": "scmulti:aeefa8a2f962375fbc1b0fb8c0a23dc719ae0c27",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_aeefa8a2f962375fbc1b0fb8c0a23dc719ae0c27/",
-    "usedAt": 1787151620481,
-    "usedAtIso": "2026-08-19T15:00:20.481Z"
+  "source:86e659b12c51c4c98488eb3b01563d11b5ed4e66": {
+    "url": "https://visornoticias.com.br/univali-e-tijucas-atualizam-proposta-da-educacao-infantil-com-foco-em-equidade-e-tecnologia",
+    "title": "Itajaí inicia atualização do currículo da Educação Infantil com foco em equidade, diversidade e tecnologia",
+    "guid": "scmulti:aba9d826d59ccf3f591a3c068e55c9327e5ad31f",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_aba9d826d59ccf3f591a3c068e55c9327e5ad31f/",
+    "usedAt": 1787155219966,
+    "usedAtIso": "2026-08-19T16:00:19.966Z"
   }
 }
