@@ -1,4 +1,12 @@
 {
+  "source:134e5c745cfc3c5ee9cdd348017af1a110ed88f0": {
+    "url": "https://visornoticias.com.br/torneio-feminino-de-padel-abre-inscricoes-e-deve-reunir-quase-500-mulheres-em-camboriu",
+    "title": "Torneio de Padel Feminino em Camboriú espera reunir quase 500 atletas na décima edição",
+    "guid": "scmulti:33bdc4606f3e0a0ac30e685cc957f6b4f1bffeb0",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_33bdc4606f3e0a0ac30e685cc957f6b4f1bffeb0/",
+    "usedAt": 1787162419471,
+    "usedAtIso": "2026-08-19T18:00:19.471Z"
+  },
   "source:f2eeeb09b59dfab1e3ee819f036825fad351b2b2": {
     "url": "https://visornoticias.com.br/menina-de-10-anos-morre-apos-passar-tres-dias-internada-depois-de-deslizamento-que-matou-a-mae-em-sc",
     "title": "Menina morre após deslizamento de terra em residência na Grande Florianópolis",
@@ -9111,12 +9119,20 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:134e5c745cfc3c5ee9cdd348017af1a110ed88f0": {
-    "url": "https://visornoticias.com.br/torneio-feminino-de-padel-abre-inscricoes-e-deve-reunir-quase-500-mulheres-em-camboriu",
-    "title": "Torneio de Padel Feminino em Camboriú espera reunir quase 500 atletas na décima edição",
-    "guid": "scmulti:33bdc4606f3e0a0ac30e685cc957f6b4f1bffeb0",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_33bdc4606f3e0a0ac30e685cc957f6b4f1bffeb0/",
-    "usedAt": 1787162419471,
-    "usedAtIso": "2026-08-19T18:00:19.471Z"
+  "source:b9c0239b5d0cd53e62198fedb0f7acac9b462bbc": {
+    "url": "https://visornoticias.com.br/vitimas-do-acidente-na-br-373-policia-identifica-cinco",
+    "title": "Acidente na BR-373 em Ipiranga deixa 23 mortos e cinco feridos em colisão entre micro-ônibus e carreta",
+    "guid": "scmulti:fb1e2dbfca7e4368663dfa6e1b0e9b4bb5abf79d",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_fb1e2dbfca7e4368663dfa6e1b0e9b4bb5abf79d/",
+    "usedAt": 1787166020405,
+    "usedAtIso": "2026-08-19T19:00:20.405Z"
+  },
+  "source:cb57f0fca430cada84823d388585bb70764ec102": {
+    "url": "https://visornoticias.com.br/mpsc-denuncia-tutora-por-maus-tratos-apos-cadela-ingerir-55-pedras-de-crack-em-joinville",
+    "title": "Tutora é processada por maus-tratos e tráfico após cadela ingerir drogas em Santa Catarina",
+    "guid": "scmulti:41beb4c7ea9b5e547435bd86ca5efbb677902eb5",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_41beb4c7ea9b5e547435bd86ca5efbb677902eb5/",
+    "usedAt": 1787166020405,
+    "usedAtIso": "2026-08-19T19:00:20.405Z"
   }
 }
