@@ -1,4 +1,12 @@
 {
+  "source:03c733afd83159a774d9cd030e328c10fa042f6d": {
+    "url": "https://visornoticias.com.br/temporais-com-granizo-e-vento-forte-antecedem-avanco-do-frio-e-minimas-de-4c-em-santa-catarina",
+    "title": "Santa Catarina enfrenta temporais e queda acentuada de temperatura com avanço de frente fria e massa de ar frio",
+    "guid": "scmulti:6508db36aa54b8fd514907e58189728cf7210695",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_6508db36aa54b8fd514907e58189728cf7210695/",
+    "usedAt": 1787133620745,
+    "usedAtIso": "2026-08-19T10:00:20.745Z"
+  },
   "source:3cddedb69608279db6d125e5a6482e361909ec99": {
     "url": "https://visornoticias.com.br/homem-em-liberdade-condicional-e-preso-apos-fugir-com-carro-roubado-e-atropelar-pedestre-em-balneario-camboriu",
     "title": "Fuga de suspeitos em Balneário Camboriú termina com atropelamento e prisão de um homem",
@@ -9015,12 +9023,12 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:03c733afd83159a774d9cd030e328c10fa042f6d": {
-    "url": "https://visornoticias.com.br/temporais-com-granizo-e-vento-forte-antecedem-avanco-do-frio-e-minimas-de-4c-em-santa-catarina",
-    "title": "Santa Catarina enfrenta temporais e queda acentuada de temperatura com avanço de frente fria e massa de ar frio",
-    "guid": "scmulti:6508db36aa54b8fd514907e58189728cf7210695",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_6508db36aa54b8fd514907e58189728cf7210695/",
-    "usedAt": 1787133620745,
-    "usedAtIso": "2026-08-19T10:00:20.745Z"
+  "source:9493a8d0558386942dc7248ebd70978c4037e7de": {
+    "url": "https://visornoticias.com.br/fuga-durante-abordagem-termina-com-trio-preso-drogas-apreendidas-e-r-826-em-dinheiro-em-itajai",
+    "title": "Três homens são presos em Santa Catarina com grande quantidade de drogas",
+    "guid": "scmulti:b3f5221e44ba52b5241fc2137315bd69ab0984f1",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_b3f5221e44ba52b5241fc2137315bd69ab0984f1/",
+    "usedAt": 1787140820116,
+    "usedAtIso": "2026-08-19T12:00:20.116Z"
   }
 }
