@@ -1,4 +1,12 @@
 {
+  "source:86e659b12c51c4c98488eb3b01563d11b5ed4e66": {
+    "url": "https://visornoticias.com.br/univali-e-tijucas-atualizam-proposta-da-educacao-infantil-com-foco-em-equidade-e-tecnologia",
+    "title": "Itajaí inicia atualização do currículo da Educação Infantil com foco em equidade, diversidade e tecnologia",
+    "guid": "scmulti:aba9d826d59ccf3f591a3c068e55c9327e5ad31f",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_aba9d826d59ccf3f591a3c068e55c9327e5ad31f/",
+    "usedAt": 1787155219966,
+    "usedAtIso": "2026-08-19T16:00:19.966Z"
+  },
   "source:d46f1cae2d536173ce284449c4ae2a6aaaafd6e9": {
     "url": "https://visornoticias.com.br/homem-baleado-em-lages-apos-perseguir-criancas",
     "title": "Homem é baleado após perseguir crianças em Lages e intervenção de policiais de folga",
@@ -9071,12 +9079,36 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:86e659b12c51c4c98488eb3b01563d11b5ed4e66": {
-    "url": "https://visornoticias.com.br/univali-e-tijucas-atualizam-proposta-da-educacao-infantil-com-foco-em-equidade-e-tecnologia",
-    "title": "Itajaí inicia atualização do currículo da Educação Infantil com foco em equidade, diversidade e tecnologia",
-    "guid": "scmulti:aba9d826d59ccf3f591a3c068e55c9327e5ad31f",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_aba9d826d59ccf3f591a3c068e55c9327e5ad31f/",
-    "usedAt": 1787155219966,
-    "usedAtIso": "2026-08-19T16:00:19.966Z"
+  "source:f2eeeb09b59dfab1e3ee819f036825fad351b2b2": {
+    "url": "https://visornoticias.com.br/menina-de-10-anos-morre-apos-passar-tres-dias-internada-depois-de-deslizamento-que-matou-a-mae-em-sc",
+    "title": "Menina morre após deslizamento de terra em residência na Grande Florianópolis",
+    "guid": "scmulti:677e065a8ac53e5a256a0bea0c43e7ee6e421e3d",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_677e065a8ac53e5a256a0bea0c43e7ee6e421e3d/",
+    "usedAt": 1787158819521,
+    "usedAtIso": "2026-08-19T17:00:19.521Z"
+  },
+  "source:ec8ca8805a028ed09b2d0e8988220e2805e76217": {
+    "url": "https://visornoticias.com.br/dengue-em-tubarao-3",
+    "title": "Tubarão registra 666 focos de Aedes aegypti e intensifica combate à dengue",
+    "guid": "scmulti:689220bf31c9b95afbdd221d06fef85409da4476",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_689220bf31c9b95afbdd221d06fef85409da4476/",
+    "usedAt": 1787158819521,
+    "usedAtIso": "2026-08-19T17:00:19.521Z"
+  },
+  "source:4dd549b0e39495870cb64f6c19adaaafed70a7a9": {
+    "url": "https://cbntotal.com.br/esportes/avai-x-sport-onde-assistir-horario-escalacoes-e-vote-no-vencedor",
+    "title": "Avaí recebe o Sport na Ressacada pela 23ª rodada da Série B com chances de sair do Z-4",
+    "guid": "scmulti:ff6c2305751da5acf569c071b7dc9ba9f0079fca",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_ff6c2305751da5acf569c071b7dc9ba9f0079fca/",
+    "usedAt": 1787158819521,
+    "usedAtIso": "2026-08-19T17:00:19.521Z"
+  },
+  "source:88d335d8fb207778c4d1af1d3a046f75d4f80f79": {
+    "url": "https://visornoticias.com.br/seguranca-pedestres-lages",
+    "title": "Canteiro central é removido em cruzamento de Lages para aumentar segurança de pedestres",
+    "guid": "scmulti:abcfe8177db574885111d14fd23471867b9888e4",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_abcfe8177db574885111d14fd23471867b9888e4/",
+    "usedAt": 1787158819521,
+    "usedAtIso": "2026-08-19T17:00:19.521Z"
   }
 }
