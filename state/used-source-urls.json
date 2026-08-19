@@ -1,4 +1,20 @@
 {
+  "source:3579cc2e0f8b3923c6c60a81a7bbdd7d3acd6670": {
+    "url": "https://visornoticias.com.br/prevencao-enchentes-palhoca-9",
+    "title": "Prefeitura de Palhoça intensifica ações de prevenção de enchentes na Ponte do Imaruim",
+    "guid": "scmulti:a14de3113da4ddd3aa038a9cebf02b2328f1e0da",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_a14de3113da4ddd3aa038a9cebf02b2328f1e0da/",
+    "usedAt": 1787101219912,
+    "usedAtIso": "2026-08-19T01:00:19.912Z"
+  },
+  "source:7d7099c2a35f911ff458b3ab6a0ddd02f2408a9b": {
+    "url": "https://visornoticias.com.br/transferencia-escolar-palhoca-3",
+    "title": "Prazo para solicitação de transferência escolar na rede municipal de Palhoça termina nesta terça-feira",
+    "guid": "scmulti:98fb3763d3f66a71e9bfacae7f08d57d74958374",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_98fb3763d3f66a71e9bfacae7f08d57d74958374/",
+    "usedAt": 1787101219912,
+    "usedAtIso": "2026-08-19T01:00:19.912Z"
+  },
   "source:3ba3baf35050b35a42abf29244b23ddb736768c3": {
     "url": "https://visornoticias.com.br/portonave-volta-a-receber-dois-navios-simultaneos-apos-avanco-de-obra-no-cais",
     "title": "Portonave amplia cais e aumenta capacidade operacional com investimentos bilionários",
@@ -8991,20 +9007,12 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:3579cc2e0f8b3923c6c60a81a7bbdd7d3acd6670": {
-    "url": "https://visornoticias.com.br/prevencao-enchentes-palhoca-9",
-    "title": "Prefeitura de Palhoça intensifica ações de prevenção de enchentes na Ponte do Imaruim",
-    "guid": "scmulti:a14de3113da4ddd3aa038a9cebf02b2328f1e0da",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_a14de3113da4ddd3aa038a9cebf02b2328f1e0da/",
-    "usedAt": 1787101219912,
-    "usedAtIso": "2026-08-19T01:00:19.912Z"
-  },
-  "source:7d7099c2a35f911ff458b3ab6a0ddd02f2408a9b": {
-    "url": "https://visornoticias.com.br/transferencia-escolar-palhoca-3",
-    "title": "Prazo para solicitação de transferência escolar na rede municipal de Palhoça termina nesta terça-feira",
-    "guid": "scmulti:98fb3763d3f66a71e9bfacae7f08d57d74958374",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_98fb3763d3f66a71e9bfacae7f08d57d74958374/",
-    "usedAt": 1787101219912,
-    "usedAtIso": "2026-08-19T01:00:19.912Z"
+  "source:3cddedb69608279db6d125e5a6482e361909ec99": {
+    "url": "https://visornoticias.com.br/homem-em-liberdade-condicional-e-preso-apos-fugir-com-carro-roubado-e-atropelar-pedestre-em-balneario-camboriu",
+    "title": "Fuga de suspeitos em Balneário Camboriú termina com atropelamento e prisão de um homem",
+    "guid": "scmulti:6ce2f121c0ce026739e4ab35f76f084bd4ebb0f6",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_6ce2f121c0ce026739e4ab35f76f084bd4ebb0f6/",
+    "usedAt": 1787130019498,
+    "usedAtIso": "2026-08-19T09:00:19.498Z"
   }
 }
