@@ -1,4 +1,36 @@
 {
+  "source:3ba3baf35050b35a42abf29244b23ddb736768c3": {
+    "url": "https://visornoticias.com.br/portonave-volta-a-receber-dois-navios-simultaneos-apos-avanco-de-obra-no-cais",
+    "title": "Portonave amplia cais e aumenta capacidade operacional com investimentos bilionários",
+    "guid": "scmulti:09f3633ef02c3bfe9b3e6b16cbdda692950f58e9",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_09f3633ef02c3bfe9b3e6b16cbdda692950f58e9/",
+    "usedAt": 1787094019783,
+    "usedAtIso": "2026-08-18T23:00:19.783Z"
+  },
+  "source:760b6ba9994720638c4c637e6726e49981910187": {
+    "url": "https://visornoticias.com.br/joguinhos-abertos-sc-tubarao-atletas-recebidos",
+    "title": "Atletas de Tubarão conquistam 42 medalhas nos Joguinhos Abertos Santa Catarina e se destacam no Jasti",
+    "guid": "scmulti:5e4409a44e0951053a4f2b75e86f71c33ba04dba",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_5e4409a44e0951053a4f2b75e86f71c33ba04dba/",
+    "usedAt": 1787094019783,
+    "usedAtIso": "2026-08-18T23:00:19.783Z"
+  },
+  "source:f5fca31bb3ba26279cbb8f86e96a0c3858a0f514": {
+    "url": "https://visornoticias.com.br/asfalto-em-lages-bairro-bates",
+    "title": "Prefeitura de Lages inicia recapeamento asfáltico no bairro Bates com investimento estadual",
+    "guid": "scmulti:d62f6fc77d05f5f63b00747b384846e94e8b7e1f",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_d62f6fc77d05f5f63b00747b384846e94e8b7e1f/",
+    "usedAt": 1787094019783,
+    "usedAtIso": "2026-08-18T23:00:19.783Z"
+  },
+  "source:990a751dd28d7deb06390f5150dab1bfe5da1179": {
+    "url": "https://visornoticias.com.br/festival-de-itajai",
+    "title": "Festival de Itajaí homenageia quatro ícones da música local em 2026",
+    "guid": "scmulti:f3d1eff78f61f62a9597d18062cf7d71e2db6cc3",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_f3d1eff78f61f62a9597d18062cf7d71e2db6cc3/",
+    "usedAt": 1787094019783,
+    "usedAtIso": "2026-08-18T23:00:19.783Z"
+  },
   "source:540ae58d01de4ceec7e95f32cec80d065ea5167f": {
     "url": "https://visornoticias.com.br/copa-amazonia-internacional",
     "title": "Nadador de Lages conquista cinco ouros e bate recordes nacionais na Copa Amazônia Internacional",
@@ -8959,36 +8991,20 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:3ba3baf35050b35a42abf29244b23ddb736768c3": {
-    "url": "https://visornoticias.com.br/portonave-volta-a-receber-dois-navios-simultaneos-apos-avanco-de-obra-no-cais",
-    "title": "Portonave amplia cais e aumenta capacidade operacional com investimentos bilionários",
-    "guid": "scmulti:09f3633ef02c3bfe9b3e6b16cbdda692950f58e9",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_09f3633ef02c3bfe9b3e6b16cbdda692950f58e9/",
-    "usedAt": 1787094019783,
-    "usedAtIso": "2026-08-18T23:00:19.783Z"
+  "source:3579cc2e0f8b3923c6c60a81a7bbdd7d3acd6670": {
+    "url": "https://visornoticias.com.br/prevencao-enchentes-palhoca-9",
+    "title": "Prefeitura de Palhoça intensifica ações de prevenção de enchentes na Ponte do Imaruim",
+    "guid": "scmulti:a14de3113da4ddd3aa038a9cebf02b2328f1e0da",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_a14de3113da4ddd3aa038a9cebf02b2328f1e0da/",
+    "usedAt": 1787101219912,
+    "usedAtIso": "2026-08-19T01:00:19.912Z"
   },
-  "source:760b6ba9994720638c4c637e6726e49981910187": {
-    "url": "https://visornoticias.com.br/joguinhos-abertos-sc-tubarao-atletas-recebidos",
-    "title": "Atletas de Tubarão conquistam 42 medalhas nos Joguinhos Abertos Santa Catarina e se destacam no Jasti",
-    "guid": "scmulti:5e4409a44e0951053a4f2b75e86f71c33ba04dba",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_5e4409a44e0951053a4f2b75e86f71c33ba04dba/",
-    "usedAt": 1787094019783,
-    "usedAtIso": "2026-08-18T23:00:19.783Z"
-  },
-  "source:f5fca31bb3ba26279cbb8f86e96a0c3858a0f514": {
-    "url": "https://visornoticias.com.br/asfalto-em-lages-bairro-bates",
-    "title": "Prefeitura de Lages inicia recapeamento asfáltico no bairro Bates com investimento estadual",
-    "guid": "scmulti:d62f6fc77d05f5f63b00747b384846e94e8b7e1f",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_d62f6fc77d05f5f63b00747b384846e94e8b7e1f/",
-    "usedAt": 1787094019783,
-    "usedAtIso": "2026-08-18T23:00:19.783Z"
-  },
-  "source:990a751dd28d7deb06390f5150dab1bfe5da1179": {
-    "url": "https://visornoticias.com.br/festival-de-itajai",
-    "title": "Festival de Itajaí homenageia quatro ícones da música local em 2026",
-    "guid": "scmulti:f3d1eff78f61f62a9597d18062cf7d71e2db6cc3",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_f3d1eff78f61f62a9597d18062cf7d71e2db6cc3/",
-    "usedAt": 1787094019783,
-    "usedAtIso": "2026-08-18T23:00:19.783Z"
+  "source:7d7099c2a35f911ff458b3ab6a0ddd02f2408a9b": {
+    "url": "https://visornoticias.com.br/transferencia-escolar-palhoca-3",
+    "title": "Prazo para solicitação de transferência escolar na rede municipal de Palhoça termina nesta terça-feira",
+    "guid": "scmulti:98fb3763d3f66a71e9bfacae7f08d57d74958374",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_98fb3763d3f66a71e9bfacae7f08d57d74958374/",
+    "usedAt": 1787101219912,
+    "usedAtIso": "2026-08-19T01:00:19.912Z"
   }
 }
