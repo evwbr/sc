@@ -1,4 +1,20 @@
 {
+  "source:72f7639efae56f2c3c703205fcc6a2878330ba59": {
+    "url": "https://cbntotal.com.br/cotidiano/adolescente-que-estava-desaparecido-em-sao-jose-e-encontrado-em-casa-abandonada-apos-um-dia-de-buscas",
+    "title": "Adolescente é encontrado em residência abandonada após buscas da comunidade",
+    "guid": "scmulti:a5f7bff11a664c82db24e688d918ca3749eb3749",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_a5f7bff11a664c82db24e688d918ca3749eb3749/",
+    "usedAt": 1787169619802,
+    "usedAtIso": "2026-08-19T20:00:19.802Z"
+  },
+  "source:8ce5f9c1baaa5eefa70eee3fcb2f0a717b77c774": {
+    "url": "https://visornoticias.com.br/vazamentos-internos-um-problema-que-pesa-no-bolso",
+    "title": "Vazamentos internos são principais causas do desperdício de água em imóveis de Camboriú",
+    "guid": "scmulti:d729af9d774a4f672f7f1c6b0a95e85e5d54f07e",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_d729af9d774a4f672f7f1c6b0a95e85e5d54f07e/",
+    "usedAt": 1787169619802,
+    "usedAtIso": "2026-08-19T20:00:19.802Z"
+  },
   "source:b9c0239b5d0cd53e62198fedb0f7acac9b462bbc": {
     "url": "https://visornoticias.com.br/vitimas-do-acidente-na-br-373-policia-identifica-cinco",
     "title": "Acidente na BR-373 em Ipiranga deixa 23 mortos e cinco feridos em colisão entre micro-ônibus e carreta",
@@ -9135,20 +9151,12 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:72f7639efae56f2c3c703205fcc6a2878330ba59": {
-    "url": "https://cbntotal.com.br/cotidiano/adolescente-que-estava-desaparecido-em-sao-jose-e-encontrado-em-casa-abandonada-apos-um-dia-de-buscas",
-    "title": "Adolescente é encontrado em residência abandonada após buscas da comunidade",
-    "guid": "scmulti:a5f7bff11a664c82db24e688d918ca3749eb3749",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_a5f7bff11a664c82db24e688d918ca3749eb3749/",
-    "usedAt": 1787169619802,
-    "usedAtIso": "2026-08-19T20:00:19.802Z"
-  },
-  "source:8ce5f9c1baaa5eefa70eee3fcb2f0a717b77c774": {
-    "url": "https://visornoticias.com.br/vazamentos-internos-um-problema-que-pesa-no-bolso",
-    "title": "Vazamentos internos são principais causas do desperdício de água em imóveis de Camboriú",
-    "guid": "scmulti:d729af9d774a4f672f7f1c6b0a95e85e5d54f07e",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_d729af9d774a4f672f7f1c6b0a95e85e5d54f07e/",
-    "usedAt": 1787169619802,
-    "usedAtIso": "2026-08-19T20:00:19.802Z"
+  "source:a19f12ed9e29dbcdad2bbc8a773a6229272ed004": {
+    "url": "https://visornoticias.com.br/pitbull-avanca-contra-policial-e-e-morto-com-tiro-durante-ocorrencia-em-itajai",
+    "title": "Policial dispara contra pitbull durante abordagem em Santa Catarina e animal morre no local",
+    "guid": "scmulti:122154e76c265b95f52b1a2124f0a8f2ce423d0f",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_122154e76c265b95f52b1a2124f0a8f2ce423d0f/",
+    "usedAt": 1787173220888,
+    "usedAtIso": "2026-08-19T21:00:20.888Z"
   }
 }
