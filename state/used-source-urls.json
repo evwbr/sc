@@ -1,4 +1,12 @@
 {
+  "source:9493a8d0558386942dc7248ebd70978c4037e7de": {
+    "url": "https://visornoticias.com.br/fuga-durante-abordagem-termina-com-trio-preso-drogas-apreendidas-e-r-826-em-dinheiro-em-itajai",
+    "title": "Três homens são presos em Santa Catarina com grande quantidade de drogas",
+    "guid": "scmulti:b3f5221e44ba52b5241fc2137315bd69ab0984f1",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_b3f5221e44ba52b5241fc2137315bd69ab0984f1/",
+    "usedAt": 1787140820116,
+    "usedAtIso": "2026-08-19T12:00:20.116Z"
+  },
   "source:03c733afd83159a774d9cd030e328c10fa042f6d": {
     "url": "https://visornoticias.com.br/temporais-com-granizo-e-vento-forte-antecedem-avanco-do-frio-e-minimas-de-4c-em-santa-catarina",
     "title": "Santa Catarina enfrenta temporais e queda acentuada de temperatura com avanço de frente fria e massa de ar frio",
@@ -9023,12 +9031,28 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:9493a8d0558386942dc7248ebd70978c4037e7de": {
-    "url": "https://visornoticias.com.br/fuga-durante-abordagem-termina-com-trio-preso-drogas-apreendidas-e-r-826-em-dinheiro-em-itajai",
-    "title": "Três homens são presos em Santa Catarina com grande quantidade de drogas",
-    "guid": "scmulti:b3f5221e44ba52b5241fc2137315bd69ab0984f1",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_b3f5221e44ba52b5241fc2137315bd69ab0984f1/",
-    "usedAt": 1787140820116,
-    "usedAtIso": "2026-08-19T12:00:20.116Z"
+  "source:2b68fd4f02d3114150abcb0cdbf9d780d2a97a20": {
+    "url": "https://visornoticias.com.br/garoto-de-12-anos-socorre-irmao-engasgado-em-balneario-picarras",
+    "title": "Garoto de 10 anos salva irmão engasgado em Balneário Piçarras com técnica de primeiros socorros",
+    "guid": "scmulti:997f37e93ac10bb2204a245c8b1b230913c1f196",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_997f37e93ac10bb2204a245c8b1b230913c1f196/",
+    "usedAt": 1787144420017,
+    "usedAtIso": "2026-08-19T13:00:20.017Z"
+  },
+  "source:b0e5d798a6ce2f342aa7f669e6b64fc928c0e018": {
+    "url": "https://visornoticias.com.br/bombeiros-combatem-incendio-em-estabelecimento-comercial-durante-a-madrugada-em-bombinhas",
+    "title": "Bombeiros combatem incêndio em geladeira expositora na recepção de estabelecimento",
+    "guid": "scmulti:80de593054cb67f8569ba19143877240b8f52648",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_80de593054cb67f8569ba19143877240b8f52648/",
+    "usedAt": 1787144420017,
+    "usedAtIso": "2026-08-19T13:00:20.017Z"
+  },
+  "source:37dbb75fb72f9134ca581a53ef97bfedfaf0b78a": {
+    "url": "https://visornoticias.com.br/avenida-nereu-ramos-tera-bloqueio-parcial-para-obra-de-esgoto-em-itapema-durante-o-fim-de-semana",
+    "title": "Avenida Nereu Ramos em Itapema terá interdição parcial para obra de esgoto neste fim de semana",
+    "guid": "scmulti:3e96e835a15be8fa58551416308d3a859c89fcf5",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_3e96e835a15be8fa58551416308d3a859c89fcf5/",
+    "usedAt": 1787144420017,
+    "usedAtIso": "2026-08-19T13:00:20.017Z"
   }
 }
