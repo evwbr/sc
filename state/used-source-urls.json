@@ -1,4 +1,12 @@
 {
+  "source:46102356b3cf6e0dc4fd1ce47b640f584bce2774": {
+    "url": "https://visornoticias.com.br/homem-e-encontrado-em-mata-com-80-do-corpo-queimado-e-morre-no-hospital-em-florianopolis",
+    "title": "Homem é encontrado com queimaduras graves em área de mata no bairro Coqueiros, em Florianópolis",
+    "guid": "scmulti:a80d5e7a7ac108ccf87ab2d0922325b7446363bb",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_a80d5e7a7ac108ccf87ab2d0922325b7446363bb/",
+    "usedAt": 1787216419627,
+    "usedAtIso": "2026-08-20T09:00:19.627Z"
+  },
   "source:576f29010eb733dd97c9f077b8286cac5f50bb7d": {
     "url": "https://visornoticias.com.br/frente-fria-avanca-por-sc-e-traz-risco-de-temporais-e-granizo-nesta-quinta-feira",
     "title": "Santa Catarina enfrenta temporais com raios, ventos fortes e risco de granizo nesta quinta-feira",
@@ -9239,12 +9247,28 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:46102356b3cf6e0dc4fd1ce47b640f584bce2774": {
-    "url": "https://visornoticias.com.br/homem-e-encontrado-em-mata-com-80-do-corpo-queimado-e-morre-no-hospital-em-florianopolis",
-    "title": "Homem é encontrado com queimaduras graves em área de mata no bairro Coqueiros, em Florianópolis",
-    "guid": "scmulti:a80d5e7a7ac108ccf87ab2d0922325b7446363bb",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_a80d5e7a7ac108ccf87ab2d0922325b7446363bb/",
-    "usedAt": 1787216419627,
-    "usedAtIso": "2026-08-20T09:00:19.627Z"
+  "source:c27a43ec275a51d3aeca104e05fa0766736e584f": {
+    "url": "https://visornoticias.com.br/rastro-digital-leva-investigacao-a-suspeita-de-armazenamento-de-material-de-abuso-sexual-infantil-em-sc",
+    "title": "Mandado de busca apreende dispositivos digitais em investigação sobre arquivos ilícitos em Concórdia",
+    "guid": "scmulti:14ee82155fb29437ba96d8e14ee1d26a38a8ae8c",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_14ee82155fb29437ba96d8e14ee1d26a38a8ae8c/",
+    "usedAt": 1787220019596,
+    "usedAtIso": "2026-08-20T10:00:19.596Z"
+  },
+  "source:106f79c80809548294afff834a52933497eb8f0d": {
+    "url": "https://visornoticias.com.br/virada-no-tempo-traz-tempestades-vento-forte-e-frio-de-ate-3c-para-santa-catarina",
+    "title": "Defesa Civil alerta para temporais e queda de temperatura em Santa Catarina nos próximos dias",
+    "guid": "scmulti:12108589ccf76f1a6778084bd58f440786a23389",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_12108589ccf76f1a6778084bd58f440786a23389/",
+    "usedAt": 1787220019596,
+    "usedAtIso": "2026-08-20T10:00:19.596Z"
+  },
+  "source:c4628d8c61b5e244d2136d033d2a6367f3da0eec": {
+    "url": "https://visornoticias.com.br/adolescente-e-alvo-de-operacao-apos-ameacar-massacre-em-tres-creches-de-santa-catarina",
+    "title": "Adolescente é investigado por ameaças contra creches em Piratuba",
+    "guid": "scmulti:dd2267b5cfa115938b965bd0ad3945e4ef461cb9",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_dd2267b5cfa115938b965bd0ad3945e4ef461cb9/",
+    "usedAt": 1787220019596,
+    "usedAtIso": "2026-08-20T10:00:19.596Z"
   }
 }
