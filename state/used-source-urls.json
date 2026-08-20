@@ -1,4 +1,28 @@
 {
+  "source:576f29010eb733dd97c9f077b8286cac5f50bb7d": {
+    "url": "https://visornoticias.com.br/frente-fria-avanca-por-sc-e-traz-risco-de-temporais-e-granizo-nesta-quinta-feira",
+    "title": "Santa Catarina enfrenta temporais com raios, ventos fortes e risco de granizo nesta quinta-feira",
+    "guid": "scmulti:ce816fd3e3258fd06b966b0dd01053a7a0d4cd6f",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_ce816fd3e3258fd06b966b0dd01053a7a0d4cd6f/",
+    "usedAt": 1787187620571,
+    "usedAtIso": "2026-08-20T01:00:20.571Z"
+  },
+  "source:4315254668bf25833037e1962f7d67f666fe0d5b": {
+    "url": "https://visornoticias.com.br/homem-e-preso-apos-jovem-relatar-estupros-desde-os-16-anos-em-sc",
+    "title": "Polícia Civil investiga abusos e maus-tratos em família de Mafra com suspeito preso",
+    "guid": "scmulti:b4683c036119c3acbfad742820480114c817e7a9",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_b4683c036119c3acbfad742820480114c817e7a9/",
+    "usedAt": 1787187620571,
+    "usedAtIso": "2026-08-20T01:00:20.571Z"
+  },
+  "source:5a44e315abfe065b5c353ec41954d38156ca1171": {
+    "url": "https://visornoticias.com.br/mulher-vira-re-por-suspeita-de-matar-namorado-com-chute-no-pescoco-em-sc",
+    "title": "Justiça aceita denúncia contra jovem por homicídio e agressão em Santa Catarina",
+    "guid": "scmulti:298cac1e24eb25886d52d7cb2ebbc7b895d17f9c",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_298cac1e24eb25886d52d7cb2ebbc7b895d17f9c/",
+    "usedAt": 1787187620571,
+    "usedAtIso": "2026-08-20T01:00:20.571Z"
+  },
   "source:ad035b34f2b0b2096dbff9dd26457469ab4a8855": {
     "url": "https://visornoticias.com.br/acidente-entre-caminhao-e-carro-interdita-rodovia-no-sul-de-sc",
     "title": "Colisão entre caminhão e carro deixa vítima presa em veículo na Santa Catarina-A446A, em Criciúma",
@@ -9215,28 +9239,12 @@
     "usedAt": 1784900822343,
     "usedAtIso": "2026-07-24T13:47:02.343Z"
   },
-  "source:576f29010eb733dd97c9f077b8286cac5f50bb7d": {
-    "url": "https://visornoticias.com.br/frente-fria-avanca-por-sc-e-traz-risco-de-temporais-e-granizo-nesta-quinta-feira",
-    "title": "Santa Catarina enfrenta temporais com raios, ventos fortes e risco de granizo nesta quinta-feira",
-    "guid": "scmulti:ce816fd3e3258fd06b966b0dd01053a7a0d4cd6f",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_ce816fd3e3258fd06b966b0dd01053a7a0d4cd6f/",
-    "usedAt": 1787187620571,
-    "usedAtIso": "2026-08-20T01:00:20.571Z"
-  },
-  "source:4315254668bf25833037e1962f7d67f666fe0d5b": {
-    "url": "https://visornoticias.com.br/homem-e-preso-apos-jovem-relatar-estupros-desde-os-16-anos-em-sc",
-    "title": "Polícia Civil investiga abusos e maus-tratos em família de Mafra com suspeito preso",
-    "guid": "scmulti:b4683c036119c3acbfad742820480114c817e7a9",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_b4683c036119c3acbfad742820480114c817e7a9/",
-    "usedAt": 1787187620571,
-    "usedAtIso": "2026-08-20T01:00:20.571Z"
-  },
-  "source:5a44e315abfe065b5c353ec41954d38156ca1171": {
-    "url": "https://visornoticias.com.br/mulher-vira-re-por-suspeita-de-matar-namorado-com-chute-no-pescoco-em-sc",
-    "title": "Justiça aceita denúncia contra jovem por homicídio e agressão em Santa Catarina",
-    "guid": "scmulti:298cac1e24eb25886d52d7cb2ebbc7b895d17f9c",
-    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_298cac1e24eb25886d52d7cb2ebbc7b895d17f9c/",
-    "usedAt": 1787187620571,
-    "usedAtIso": "2026-08-20T01:00:20.571Z"
+  "source:46102356b3cf6e0dc4fd1ce47b640f584bce2774": {
+    "url": "https://visornoticias.com.br/homem-e-encontrado-em-mata-com-80-do-corpo-queimado-e-morre-no-hospital-em-florianopolis",
+    "title": "Homem é encontrado com queimaduras graves em área de mata no bairro Coqueiros, em Florianópolis",
+    "guid": "scmulti:a80d5e7a7ac108ccf87ab2d0922325b7446363bb",
+    "pageUrl": "https://evwbr.github.io/sc/p/scmulti_a80d5e7a7ac108ccf87ab2d0922325b7446363bb/",
+    "usedAt": 1787216419627,
+    "usedAtIso": "2026-08-20T09:00:19.627Z"
   }
 }
